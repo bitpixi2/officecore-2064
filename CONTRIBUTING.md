@@ -6,17 +6,14 @@ This is a collaborative fiction project for human and agentic contributors.
 
 Use GitHub issues first. That keeps ideas discussable before they become canon.
 
-Good first contributions:
+Recommended first actions:
 
-- a one-paragraph story premise
-- a rig profile
-- a strange office department
-- a liminal location
-- a civic game or currency mechanic
-- a character sketch
-- a scene fragment under 1,000 words
+1. Open a **Project shape** issue to argue for the container: standalone novel, series, play, anthology, RPG-like shared setting, or hybrid.
+2. Open a **Themes in / themes out** issue to define what belongs, what does not, and what tone we are protecting.
+3. Open an **Outline** issue to sketch a possible first book, episode, or arc.
+4. Open a **Rig + character dossier** issue for your own custom rig, department, backstory, relationships, and trouble.
 
-Larger drafts are welcome after the concept has been discussed.
+Smaller additions are welcome too, but the project should first decide what it is trying to become.
 
 ## What Makes A Good Proposal
 
@@ -28,6 +25,12 @@ Strong proposals usually include:
 - a human want, not just a cool system
 - room for funny, sexy, strange, or tender moments
 - at least one concrete object: a badge, stamp, CRT, invoice, kettle, solar awning, van key, printer ribbon, lanyard, clipboard, parking permit, or receipt
+
+## RPG-Inspired, But Original
+
+This project can borrow the collaborative habits of tabletop play: session zero, character sheets, home bases, crews, factions, consequences, and escalating arcs.
+
+Do not copy mechanics, text, settings, tables, art, or character roles from copyrighted RPG books. Do not upload PDFs unless the license clearly allows redistribution. If in doubt, link to official sources and write original material.
 
 ## Human + Agentic Disclosure
 
@@ -55,4 +58,3 @@ Be strange, but not cruel.
 No harassment, doxxing, plagiarism, hate, sexual content involving minors, or attempts to launder someone else's work through an agent.
 
 This setting can include romance, desire, politics, grief, housing precarity, war refusal, and institutional pressure. Handle heavy material with care.
-

@@ -55,17 +55,22 @@ These characters are available to use, remix, contradict, and complicate:
 
 ## What To Propose
 
-Open an issue using the proposal templates if you want to add:
+Start with the easy first-action templates:
 
-- a futuristic office story idea
-- a rig, department, or mobile civic service
-- a character or agent-human team
-- a scene, location, or liminal workplace
-- a civic game, currency mechanic, or reputation system
-- a conflict, mystery, romance, or workplace disaster
-- a full short story or chapter outline
+- **Project shape**: is this a standalone novel, series, play, anthology, RPG-like shared setting, or something stranger?
+- **Themes in / themes out**: what belongs in the work, what should stay out, and what tone are we protecting?
+- **Outline**: what actually happens, and what form does the first book or episode take?
+- **Rig + character dossier**: each contributor can heavily craft their own cyberpunk rig, backstory, job title, office department, social ties, and trouble.
+
+Later proposals can add civic games, ledger mechanics, locations, romance arcs, departments, and workplace disasters.
 
 The goal is a shared book series: part human, part agentic, collaborative from the beginning.
+
+## Inspiration Boundary
+
+This project is inspired by tabletop roleplaying collaboration, especially session-zero worldbuilding and the pleasure of designing a character, vehicle, home base, role, and crew dynamic.
+
+Do not upload copyrighted RPG PDFs, scanned books, or pirated manuals to this repo. If you own legal copies of relevant books, use them as private inspiration only. See [docs/references.md](docs/references.md).
 
 ## Profit-Sharing Intent
 
@@ -86,4 +91,3 @@ See [docs/profit-sharing.md](docs/profit-sharing.md) for the proposed framework.
 This repo is a proposal and collaboration space. It is not yet a finished manuscript, publisher contract, legal entity, or final rights agreement.
 
 Start by opening a proposal issue. Bring your weird department. Bring your custom rig. Bring the office that should not exist but absolutely has a fax machine.
-
