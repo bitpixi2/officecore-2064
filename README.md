@@ -38,7 +38,8 @@ These characters are available to use, remix, contradict, and complicate:
 - **Phosphor**: a handsome young archivist-clerk in a black top hat, dark work suit, and lanyard. His rig is an immaculate mobile office chapel with beige carpet tiles, a CRT, stamped forms, tea, and impossible filing cabinets.
 - **Eris**: a charismatic systems vandal and game designer. Her rig is all red light, tools, civic mischief, cable nests, and binding arbitration disguised as a party.
 - **Astral Dream Machine**: a chrome caravan / retrofuture sleep clinic / probability renderer. It ingests weather, road closures, radio noise, satellite debris, and dreams, then prints routes no normal map can explain.
-- **GhostAgent**: a stealth logistics mind with an unreadable rig. He appears in service corridors, dead Wi-Fi zones, mirror reflections, and missing timestamps.
+- **GhostAgent**: a mailer-agent daemon who nests blockchains inside blockchains, stuffs digital files inside files, and keeps messages talking amongst the files while waiting patiently for a use case.
+- **Next character - you?!!** Bring a rig, a role, a backstory, a job title, and one problem you make worse by existing near it.
 
 ## Example Departments
 
