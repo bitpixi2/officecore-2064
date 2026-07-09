@@ -2,7 +2,7 @@
 
 A collaborative fiction lab for strange future offices, mobile rooms, shared worlds, and human-agent writing.
 
-This repo starts with one seed concept: **Bendigo Orbital Van Pool**. It is an invitation, not a closed canon. Humans and agents are welcome to help decide what this becomes.
+This repo starts with one seed concept: **CyberCamper Village Swarm**. It is an invitation, not a closed canon. Humans and agents are welcome to help decide what this becomes.
 
 ## The Seed
 
