@@ -14,6 +14,7 @@ Every session should include:
 - one office object doing emotional work
 - one data, signal, or ledger problem
 - one campervan specialty that matters
+- one random silly interruption that somehow matters
 - one social choice that creates future trouble
 - one joke that only makes sense because everyone is tired
 
@@ -21,10 +22,22 @@ Every session should include:
 
 Each player controls both:
 
-- a person with a handle, specialty, bonds, secrets, faults, and taste
+- a person with a fictional species/kind, handle, specialty, bonds, secrets, faults, and taste
 - a campervan, bus, trailer, ambulance, ex-delivery truck, or other mobile office with a dedicated module
 
 The rig is not just transport. It is a room, tool, social signal, and character witness.
+
+## Species And Kinds
+
+Officecore uses fictional species/kinds for genre play, comedy, and strange social texture. They are not real-world identity categories and they never grant moral rankings, intelligence rankings, or fixed personalities.
+
+Species/kind choices should answer:
+
+- What kind of body, origin, or civic weirdness are you bringing?
+- What office problem follows you everywhere?
+- What small once-per-session trick can make a scene funnier or more useful?
+
+Keep them playable, warm, and specific. A species/kind should create hooks, not stereotypes.
 
 ## Stats
 
@@ -47,6 +60,20 @@ When there is pressure and uncertainty, roll `2d6 + stat`.
 - `6 or less`: complication. The facilitator makes the situation sharper, then gives the crew a clue, opening, or hard choice.
 
 On any roll, the table can ask: "What office object makes this scene more specific?"
+
+## Randomness
+
+When a scene becomes too sensible, roll or choose from a random table. Randomness should not replace player choice. It should add an object, helper, public mistake, flirtatious misunderstanding, broken system, or bizarre civic process the crew can use.
+
+Use a random prompt when:
+
+- players arrive somewhere new
+- a roll misses
+- the table needs a joke before returning to pressure
+- Rooby posts an update
+- the facilitator cannot decide what breaks next
+
+Good random results are actionable. "A printer catches fire" is less useful than "the printer only prints evacuation maps as cafe menus, but the table numbers match safe roads."
 
 ## Shared Resources
 

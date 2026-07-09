@@ -6,10 +6,71 @@ Make one person and one rig. They are separate enough to argue with each other i
 
 Choose:
 
+- `Species / kind`: your fictional body, origin, or civic lifeform.
 - `Handle`: what the convoy calls you.
 - `Pronouns`: optional, changeable, and table-respected.
 - `Presentation`: two or three visual cues.
 - `Office tell`: the object that gives you away.
+
+Species/kind is genre flavour plus a once-per-session trick. It is not a real-world identity category, does not change your stat spread, and should never be used to rank people.
+
+Playable species/kinds:
+
+### Human Local
+
+Someone recognisably human in a world that keeps trying to make ordinary life impossible.
+
+Once per session, when everyone is overcomplicating a problem, ask: "What would a normal local do first?" The answer is practical and slightly embarrassing.
+
+Office problem: people assume you are in charge because you brought a clipboard.
+
+### Roo-Kin
+
+Tall, spring-loaded, convoy-born people with too much leg, too many pockets, and a cultural suspicion of low desks.
+
+Once per session, appear in a scene through a route nobody else noticed: over a fence, across a drainage dip, through a service hatch, or from the wrong side of a queue.
+
+Office problem: every chair is either too small or politically insulting.
+
+### Brush-Tail Night Clerk
+
+Nocturnal, bright-eyed, sugar-motivated problem solvers who do their best work after everyone else has declared the meeting over.
+
+Once per session, reveal that you were awake for the conversation everyone thought was private. Ask one follow-up question and take `+1` when acting on the answer.
+
+Office problem: daylight forms are clearly designed by your enemies.
+
+### Magpie Protocol
+
+Sharp-dressed social mimics, half person and half reputation engine, with an eye for shiny objects and sharper contradictions.
+
+Once per session, copy a tone, badge, procedure, or tiny authority signal well enough to get the crew through one social barrier.
+
+Office problem: you collect lanyards, grudges, and compliments with equal intensity.
+
+### Civic Daemon
+
+An agentic process with a body, rented shell, projection rig, or suspiciously helpful badge printer.
+
+Once per session, declare you already filed a tiny background process earlier. It cannot solve the whole problem, but it can produce a clue, receipt, reminder, or awkward timestamp.
+
+Office problem: people keep asking whether you count as staff.
+
+### Myco-Union Rep
+
+A distributed spore-network person who treats every room as a potential committee and every damp wall as a group chat.
+
+Once per session, ask the environment what it has absorbed recently: a smell, leak, rumour, chemical trace, or old argument.
+
+Office problem: your minutes are technically alive.
+
+### Receipt Revenant
+
+A soft-glitch person made of unfinished transactions, warranty disputes, lost purchase orders, and one very intense unfinished feeling.
+
+Once per session, produce a receipt, docket, claim number, or proof-of-waiting that makes a gatekeeper take you seriously for one scene.
+
+Office problem: every scanner recognises you, but none agree why.
 
 Examples of office tells:
 
@@ -212,6 +273,7 @@ Use this plain-text sheet.
 
 ```text
 Handle:
+Species / kind:
 Pronouns:
 Presentation:
 Office tell:

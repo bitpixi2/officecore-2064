@@ -9,8 +9,8 @@ The game borrows broad tabletop habits like character sheets, lifepath questions
 ## What Is Included
 
 - [docs/story-kit.md](docs/story-kit.md): the core tone, table flow, rules, resources, and facilitator guidance.
-- [docs/character-creation.md](docs/character-creation.md): campervan/character creation, stats, specialties, bonds, secrets, and faults.
-- [docs/encounters/001-bushfire-edge-cache.md](docs/encounters/001-bushfire-edge-cache.md): the starter encounter about a bushfire, an edge data centre, and a crew that cannot stay parked.
+- [docs/character-creation.md](docs/character-creation.md): campervan/character creation, species/kind options, stats, specialties, bonds, secrets, and faults.
+- [docs/encounters/001-bushfire-edge-cache.md](docs/encounters/001-bushfire-edge-cache.md): the starter encounter about a bushfire, an edge data centre, random weirdos, and a crew that cannot stay parked.
 - [data/officecore-kit.schema.json](data/officecore-kit.schema.json): a future-friendly schema for characters, encounters, and crew state.
 
 ## Default Tone
@@ -22,6 +22,8 @@ Keep the focus on:
 - mobile offices and improvised civic life
 - data centres, mesh networks, weird paperwork, and care ledgers
 - campervans with personality and specialty areas
+- fictional species/kinds with office problems, not real-world identity mechanics
+- random tables that make every crisis more specific and silly
 - banter, chemistry, and consent-forward social play
 - practical crises solved by odd people being competent together
 
@@ -35,7 +37,7 @@ Keep out:
 
 ## Quick Start
 
-1. Each player makes one person plus one campervan using the character guide.
+1. Each player makes one playable species/kind, one person, and one campervan using the character guide.
 2. The table chooses a shared rig town or convoy name.
 3. Set shared resources to:
    - `Charge 3`

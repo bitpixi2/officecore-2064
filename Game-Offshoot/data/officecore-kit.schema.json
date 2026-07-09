@@ -85,6 +85,18 @@
         "officeTell": {
           "type": "string"
         },
+        "speciesKind": {
+          "type": "string",
+          "enum": [
+            "Human Local",
+            "Roo-Kin",
+            "Brush-Tail Night Clerk",
+            "Magpie Protocol",
+            "Civic Daemon",
+            "Myco-Union Rep",
+            "Receipt Revenant"
+          ]
+        },
         "vanName": {
           "type": "string",
           "minLength": 1
@@ -154,6 +166,7 @@
       "required": [
         "id",
         "handle",
+        "speciesKind",
         "vanName",
         "camperShell",
         "dedicatedModule",
@@ -258,6 +271,12 @@
           "items": {
             "type": "string"
           }
+        },
+        "randomTables": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/randomTable"
+          }
         }
       },
       "required": [
@@ -267,6 +286,32 @@
         "locations",
         "factions",
         "challenges"
+      ]
+    },
+    "randomTable": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "die": {
+          "type": "string",
+          "pattern": "^1d[0-9]+$"
+        },
+        "entries": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1
+        }
+      },
+      "required": [
+        "name",
+        "die",
+        "entries"
       ]
     }
   }
