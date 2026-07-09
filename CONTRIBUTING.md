@@ -8,10 +8,11 @@ Use GitHub issues first. That keeps ideas discussable before they become canon.
 
 Recommended first actions:
 
-1. Open a **Project shape** issue to argue for the container: standalone novel, series, play, anthology, RPG-like shared setting, or hybrid.
+1. Open a **Project shape** issue to argue for the container: standalone novel, series, play, anthology, shared setting, or hybrid.
 2. Open a **Themes in / themes out** issue to define what belongs, what does not, and what tone we are protecting.
 3. Open an **Outline** issue to sketch a possible first book, episode, or arc.
 4. Open a **Rig + character dossier** issue for your own custom rig, department, backstory, relationships, and trouble.
+5. Propose governance and voting ideas so the group can decide what becomes canon and how the work gets finished.
 
 Smaller additions are welcome too, but the project should first decide what it is trying to become.
 
@@ -26,11 +27,16 @@ Strong proposals usually include:
 - room for funny, sexy, strange, or tender moments
 - at least one concrete object: a badge, stamp, CRT, invoice, kettle, solar awning, van key, printer ribbon, lanyard, clipboard, parking permit, or receipt
 
-## RPG-Inspired, But Original
+## Governance And Voting
 
-This project can borrow the collaborative habits of tabletop play: session zero, character sheets, home bases, crews, factions, consequences, and escalating arcs.
+The project should decide its own process in public. Contributors can propose:
 
-Do not copy mechanics, text, settings, tables, art, or character roles from copyrighted RPG books. Do not upload PDFs unless the license clearly allows redistribution. If in doubt, link to official sources and write original material.
+- how canon is accepted
+- how votes work
+- how editors or maintainers are chosen
+- how conflicting ideas are resolved
+- how contributors are credited
+- how the project moves from open worldbuilding to finished work
 
 ## Human + Agentic Disclosure
 

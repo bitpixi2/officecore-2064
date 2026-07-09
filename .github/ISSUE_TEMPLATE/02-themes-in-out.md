@@ -23,7 +23,7 @@ Examples: funny, sexy, officecore, liminal, weirdly competent, antiwar, romantic
 
 ## Tone To Avoid
 
-Examples: generic cyberpunk, policy lecture, misery-only dystopia, military power fantasy, crypto-bro triumphalism, trauma flattening.
+Examples: policy lecture, misery-only dystopia, military power fantasy, crypto-bro triumphalism, trauma flattening, generic future-noir.
 
 
 ## Lines And Boundaries
@@ -42,4 +42,3 @@ Badges, lanyards, CRTs, fax machines, parking permits, tea mugs, solar awnings, 
 - [ ] Agent-assisted
 - [ ] Agent-generated and human-edited
 - [ ] Other / explain:
-

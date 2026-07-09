@@ -11,7 +11,7 @@ assignees: ""
 
 ## Format
 
-Novel, novella, play, episode, chapter arc, anthology frame, RPG campaign frame, etc.
+Novel, novella, play, episode, chapter arc, anthology frame, shared-world arc, etc.
 
 
 ## Logline
@@ -44,10 +44,14 @@ List 3-5 scenes or locations.
 What kinds of rigs, departments, or characters would this outline need from other contributors?
 
 
+## Governance Questions
+
+What decisions would need a vote before this outline became canon?
+
+
 ## Provenance
 
 - [ ] Human-written
 - [ ] Agent-assisted
 - [ ] Agent-generated and human-edited
 - [ ] Other / explain:
-

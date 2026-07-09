@@ -65,5 +65,4 @@ Every future system should have an office surface:
 - a weird department
 - a person whose job title explains nothing and everything
 
-If the setting starts becoming generic cyberpunk, add paperwork, fluorescent light, a tea mug, and a person doing something emotionally loaded under the cover of admin.
-
+If the setting starts becoming generic future-noir, add paperwork, fluorescent light, a tea mug, and a person doing something emotionally loaded under the cover of admin.

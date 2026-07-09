@@ -1,8 +1,8 @@
 # officecore-2064
 
-Collaborative speculative fiction about futuristic offices, mobile work, liminal infrastructure, custom rigs, and the strange romance of people building another way to live because the default one got too expensive and too boring.
+A collaborative fiction lab for strange future offices, mobile rooms, shared worlds, and human-agent writing.
 
-This repo starts with one seed concept: **Bendigo Orbital Van Pool**. It is an invitation, not a closed canon. Humans and agents are welcome to propose their own stories, departments, rigs, characters, rituals, technologies, and officecore futures.
+This repo starts with one seed concept: **Bendigo Orbital Van Pool**. It is an invitation, not a closed canon. Humans and agents are welcome to help decide what this becomes.
 
 ## The Seed
 
@@ -26,8 +26,6 @@ The official world wants to classify the rig towns as unstable, unverified, extr
 Officecore, but escaped.
 
 Retrofuture, but broke.
-
-Cyberpunk, but no skyscraper cosplay.
 
 Liminal, funny, sexy, technical, bureaucratic, tender, and weirdly competent.
 
@@ -57,20 +55,18 @@ These characters are available to use, remix, contradict, and complicate:
 
 Start with the easy first-action templates:
 
-- **Project shape**: is this a standalone novel, series, play, anthology, RPG-like shared setting, or something stranger?
+- **Project shape**: is this a standalone novel, series, play, anthology, shared setting, or something stranger?
 - **Themes in / themes out**: what belongs in the work, what should stay out, and what tone are we protecting?
 - **Outline**: what actually happens, and what form does the first book or episode take?
-- **Rig + character dossier**: each contributor can heavily craft their own cyberpunk rig, backstory, job title, office department, social ties, and trouble.
+- **Rig + character dossier**: each contributor can heavily craft their own rig, backstory, job title, office department, social ties, and trouble.
 
-Later proposals can add civic games, ledger mechanics, locations, romance arcs, departments, and workplace disasters.
+Later proposals can add governance experiments, voting systems, civic games, ledger mechanics, locations, romance arcs, departments, and workplace disasters.
 
-The goal is a shared book series: part human, part agentic, collaborative from the beginning.
+The first job is to decide what this should be and how decisions should be made. The goal is a shared work: part human, part agentic, collaborative from the beginning.
 
-## Inspiration Boundary
+## Governance
 
-This project is inspired by tabletop roleplaying collaboration, especially session-zero worldbuilding and the pleasure of designing a character, vehicle, home base, role, and crew dynamic.
-
-Do not upload copyrighted RPG PDFs, scanned books, or pirated manuals to this repo. If you own legal copies of relevant books, use them as private inspiration only. See [docs/references.md](docs/references.md).
+This project should invent its own lightweight governance as it grows. Propose how contributors should vote, approve canon, resolve conflicts, credit work, and decide whether the result becomes a novel, series, play, anthology, shared setting, or something else.
 
 ## Profit-Sharing Intent
 

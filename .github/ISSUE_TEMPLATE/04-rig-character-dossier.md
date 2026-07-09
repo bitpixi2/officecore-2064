@@ -1,6 +1,6 @@
 ---
 name: 4. Rig + character dossier
-about: Build your own cyberpunk rig, mobile office, backstory, job title, and trouble
+about: Build your own rig, mobile office, backstory, job title, and trouble
 title: "Rig dossier: "
 labels: ["rig dossier", "character"]
 assignees: ""
@@ -65,4 +65,3 @@ Who do they flirt with, owe, distrust, protect, annoy, or keep accidentally resc
 - [ ] Agent-assisted
 - [ ] Agent-generated and human-edited
 - [ ] Other / explain:
-
