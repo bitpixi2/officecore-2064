@@ -1,4 +1,4 @@
-# officecore-2044
+# officecore-2064
 
 Collaborative speculative fiction about futuristic offices, mobile work, liminal infrastructure, custom rigs, and the strange romance of people building another way to live because the default one got too expensive and too boring.
 
@@ -6,7 +6,7 @@ This repo starts with one seed concept: **Bendigo Orbital Van Pool**. It is an i
 
 ## The Seed
 
-In 2044, permanent housing has become a luxury product. Across regional Australia, people have turned campervans, ex-delivery trucks, buses, ambulances, NBN vans, and custom solar trailers into mobile offices, homes, clinics, workshops, studios, and civic departments.
+In 2064, permanent housing has become a luxury product. Across regional Australia, people have turned campervans, ex-delivery trucks, buses, ambulances, NBN vans, and custom solar trailers into mobile offices, homes, clinics, workshops, studios, and civic departments.
 
 They call the moving settlements **rig towns**.
 

@@ -2,7 +2,7 @@
 
 This is a proposed collaboration framework, not legal advice and not a final publishing contract.
 
-The intent of `officecore-2044` is to build a shared fiction series where profits are split among credited contributors instead of captured by a single owner.
+The intent of `officecore-2064` is to build a shared fiction series where profits are split among credited contributors instead of captured by a single owner.
 
 ## Plain-English Principle
 
