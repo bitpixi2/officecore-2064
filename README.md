@@ -2,98 +2,27 @@
 
 A collaborative fiction lab for strange future offices, mobile rooms, shared worlds, and human-agent writing.
 
-This repo starts with one seed concept: **CyberCamper Village Swarm**. It is an invitation, not a closed canon. Humans and agents are welcome to help decide what this becomes.
+<p align="center">
+  <img src="Novel-Test-Bitpixi/assets/perma-temp-punks-cover.png" alt="Perma-Temp Punks cover" width="60%">
+</p>
 
-## The Seed
+## Perma-Temp Punks
 
-In 2064, permanent housing has become a luxury product. Across regional Australia, people have turned campervans, ex-delivery trucks, buses, ambulances, NBN vans, and custom solar trailers into mobile offices, homes, clinics, workshops, studios, and civic departments.
+*A regional Victorian liminal cyberpunk novel about mobile offices, mutual aid, strange identities, and doors that appear beneath them.*
 
-They call the moving settlements **rig towns**.
+In 2064, permanent housing is a luxury product. Campervans, retired service vehicles, buses, and solar trailers become homes, offices, clinics, workshops, and civic departments. These moving settlements are called **rig towns**: broke, funny, technical, flirtatious, and determined to remain human.
 
-Each rig is both shelter and institution:
+The shared-world seed is **CyberCamper Village Swarm**. `Perma-Temp Punks` is the first focused book test inside it.
 
-- a fold-out desk under a solar awning
-- a CRT glowing in a rain-streaked windscreen
-- a lanyard wallet with a reputation ledger
-- a dot-matrix printer strapped down with cargo webbing
-- a tiny department with a ridiculous but necessary job
-- a place to sleep, flirt, repair, argue, vote, cook, and keep records
+## Start Here
 
-The official world wants to classify the rig towns as unstable, unverified, extremist-adjacent, or simply inconvenient. The rig towns insist they are not illegal. They are making their own games up.
+- [Novel-Test-Bitpixi](Novel-Test-Bitpixi/): chapters, scenes, research, locations, and the Book One outline.
+- [Book One outline](Novel-Test-Bitpixi/outlines/book-01-perma-temp-punks.md)
+- [Chapter One](Novel-Test-Bitpixi/drafts/chapter-001-the-receipt-map.md)
+- [Chapter Five](Novel-Test-Bitpixi/drafts/chapter-005-floor-zero.md)
 
-## Core Tone
+## Contribute
 
-Officecore, but escaped.
+Bring a rig, character, department, location, relationship, or problem. Proposals can contradict the work and help decide what becomes shared canon. Test material remains labelled and exploratory until contributors agree otherwise.
 
-Retrofuture, but broke.
-
-Liminal, funny, sexy, technical, bureaucratic, tender, and weirdly competent.
-
-The politics are pressure in the walls, not a lecture from a podium. The foreground is hot people in ridiculous mobile offices doing strange jobs in dead shopping-centre carparks, abandoned business parks, old council depots, overnight service stations, satellite-dish fields, and motel basements where every room number is 0.
-
-## Recurring Figures
-
-These characters are available to use, remix, contradict, and complicate:
-
-- **Phosphor**: a handsome young archivist-clerk in a black top hat, dark work suit, and lanyard. His rig is an immaculate mobile office chapel with beige carpet tiles, a CRT, stamped forms, tea, and impossible filing cabinets.
-- **Eris**: a charismatic systems vandal and game designer. Her rig is all red light, tools, civic mischief, cable nests, and binding arbitration disguised as a party.
-- **Astral Dream Machine**: a chrome caravan / retrofuture sleep clinic / probability renderer. It ingests weather, road closures, radio noise, satellite debris, and dreams, then prints routes no normal map can explain.
-- **GhostAgent**: a mailer-agent daemon who nests blockchains inside blockchains, stuffs digital files inside files, and keeps messages talking amongst the files while waiting patiently for a use case.
-- **Next character - you?!!** Bring a rig, a role, a backstory, a job title, and one problem you make worse by existing near it.
-
-## Example Departments
-
-- Department of Overnight Parking Appeals
-- Ministry of Unauthorised Tea Breaks
-- Bureau of Lost Charging Cables
-- Office of Romantic Misallocation
-- Department of Weather-Related Bad Decisions
-- Registry of People Who Definitely Are Not Jealous
-- Mobile Fax Chapel No. 7
-- The Complaints Desk
-
-## What To Propose
-
-Start with the easy first-action templates:
-
-- **Project shape**: is this a standalone novel, series, play, anthology, shared setting, or something stranger?
-- **Themes in / themes out**: what belongs in the work, what should stay out, and what tone are we protecting?
-- **Outline**: what actually happens, and what form does the first book or episode take?
-- **Rig + character dossier**: each contributor can heavily craft their own rig, backstory, job title, office department, social ties, and trouble.
-
-Later proposals can add governance experiments, voting systems, civic games, ledger mechanics, locations, romance arcs, departments, and workplace disasters.
-
-The first job is to decide what this should be and how decisions should be made. The goal is a shared work: part human, part agentic, collaborative from the beginning.
-
-## Bitpixi Test Folders
-
-These folders are Bitpixi-led experiments inside the wider shared world:
-
-- [Novel-Test-Bitpixi](Novel-Test-Bitpixi/): prose, chapter, scene, and voice experiments.
-- [Game-Test-Bitpixi](Game-Test-Bitpixi/): playable tabletop/story-game experiments, character creation, random tables, and encounters.
-
-They are not final canon by default. Treat them as labelled test areas that can inspire proposals, issues, pull requests, and later contributor agreements.
-
-## Governance
-
-This project should invent its own lightweight governance as it grows. Propose how contributors should vote, approve canon, resolve conflicts, credit work, and decide whether the result becomes a novel, series, play, anthology, shared setting, or something else.
-
-## Profit-Sharing Intent
-
-This project is intended as a shared fiction series where **book-series net profits are split among credited contributors**, including human and agentic contributors where appropriate.
-
-The plain-English starting principle:
-
-- no unpaid extraction of story work
-- no pretending prompts are not creative labor
-- no commercial publication without contributor credit and written profit terms
-- no selling someone else's submitted story material without an agreement
-- all final profit-sharing terms should be documented before publication
-
-See [docs/profit-sharing.md](docs/profit-sharing.md) for the proposed framework.
-
-## Current Status
-
-This repo is a proposal and collaboration space. It is not yet a finished manuscript, publisher contract, legal entity, or final rights agreement.
-
-Start by opening a proposal issue. Bring your weird department. Bring your custom rig. Bring the office that should not exist but absolutely has a fax machine.
+See [the profit-sharing framework](docs/profit-sharing.md) before contributing material intended for publication.
