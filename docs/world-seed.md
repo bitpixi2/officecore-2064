@@ -40,6 +40,32 @@ A person's value is not reduced to creditworthiness. It is recorded through rela
 
 The badge soul-map, or **lanyard wallet**, is part credential, part wallet, part social memory.
 
+### Rig Livelihoods
+
+Most rigs survive on several small income streams rather than one employer. A crew might invoice a council for restoring a smoke-damaged public map, keep a standing contract to maintain a clinic's Skystitch link, recover a small business's locked records, tune a community mesh relay, run an accessible booking desk, teach a repair class, or provide overnight data-centre field support. This is the setting's version of netrunning: practical, negotiated network work performed from a vehicle that is also somebody's kitchen and bedroom.
+
+Payment can arrive as ordinary money, a cooperative ledger transfer, a repaired part, a legal berth with shore power, a bulk water refill, storage space, or a reciprocal service. Crews argue about rates, scope creep, late invoices, who pays for data caps, and whether an emergency job was actually a favour. They also take work without charge when a local need is urgent. A favour is not automatically debt; the lanyard wallet records consent, terms, and expiry as carefully as it records labour.
+
+The work is never only on a screen. A Signal Runner might be on a ladder reseating a relay seal while someone else talks a frightened librarian through a password reset. A data-centre job can mean swapping a heat-warped cable gland, documenting a cooling fault, or translating an operator's jargon for the people whose medications, maps, and payments depend on the rack staying alive. Network scenes should remain ensemble scenes.
+
+### Small Homes, Constant Maintenance
+
+A rig has no unused square metre. In daylight it may be a counter, server nook, clinic, studio, workshop, or meeting room. At night, the counter folds flat, the files latch into a ceiling rail, a passenger seat becomes a step, and a couch, drawer, or false wall becomes a bed. Every reconfiguration has a ritual and a failure point: somebody must move the kettle before the desk comes down; somebody must remember not to trap the charger under the mattress.
+
+Routine maintenance is domestic and dramatic in equal measure: clearing ash from solar hinges, sealing a roof vent before rain, replacing a noisy water pump, tightening a grey-water hose, patching a fridge gasket, checking tyre pressure, cleaning a stove jet, rotating battery load, and finding where the coolant has gone. A broken pump turns a shower into a negotiation. A dead inverter turns paid remote work into a job that must be carried to the nearest powered table.
+
+### House Keys And Food Circuits
+
+By 2064, participating neighbourhood houses, community halls, libraries, repair sheds, and similar local institutions may offer a fictional `House Key` agreement: a booked shower or laundry slot, a water refill, desk space, device charging, a cool room, a postal address for a week, or simply a place to sit without buying anything. These arrangements are local, voluntary, and capacity-limited; no house is assumed to have the same facilities, and no rig town treats access as automatic.
+
+When a rig's water system fails, its crew might help stack chairs, repair a noticeboard, or share technical skills because they are part of the place, but never as a condition for a meal, shower, or emergency support. Food moves through community pantries, food-rescue kitchens, social cafes, shared gardens, and regional food hubs. People volunteer, pack, cook, or transport because mutual aid needs hands; food remains available by need and choice, not as wages for unpaid labour.
+
+### Refuse, Reuse, And Proof Of Life
+
+Rubbish is a civic system, not a visual inconvenience. Rig crews separate reusable parts, repair stock, e-waste, organics, ordinary landfill, sharps, and contaminated material because an overloaded bin, a blocked drain, or a failed collection route can turn a hot week into a sanitation emergency. They do this in public and with mild embarrassment: there is no clean way to live lightly in a small vehicle, only honest systems for handling what remains.
+
+Waste also leaves a trace. A discarded package can show that a person passed through, what they could afford, what they needed, which supplies were running out, and which service still reached them. This makes it useful evidence and dangerous data. The rig towns' rule is that a person's trash may be a proof of life, but never a free licence to profile, punish, or sell them.
+
 ## Background Pressure
 
 After geopolitical upheaval, Australia is formally more independent and materially more entangled with allied military infrastructure. Data centres, drone corridors, sensor grids, test ranges, and satellite systems reshape the inland.

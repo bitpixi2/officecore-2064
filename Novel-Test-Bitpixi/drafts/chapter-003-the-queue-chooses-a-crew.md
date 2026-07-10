@@ -26,7 +26,7 @@ Phosphor looked at her. The edge of his hat was still singed, which he had decid
 
 "Coward."
 
-Kasey was standing in the shade of The Cubicle's open passenger door, holding the Barkers Creek token in one hand and the cooling cable case in the other. The door had remained open since Phosphor found its duty-of-care contradiction. Its little blue status lamp watched her from the frame. Smoke had softened the van's patchwork paint to dull cream, slate, and old blue, but the cable drums on its roof still caught the light like fat coins. He could feel the vehicle listening anyway.
+Kasey was standing in the shade of The Cubicle's open passenger door, holding the Barkers Creek token in one hand and the cooling cable case in the other. The door had remained open since Phosphor found its duty-of-care contradiction. Its little blue status lamp watched her from the frame. Smoke had softened the van's patchwork paint to dull cream, slate, and old blue, but the cable drums on its roof still caught the light like fat coins. A pale wetness darkened the dust below the rear wheel: the water-pump hose had begun its slow, expensive drip into the cable drawer. Kasey had tucked a tea towel under it and was ignoring it with the concentration of someone postponing an argument with tomorrow. He could feel the vehicle listening anyway.
 
 "Eris is on the list," Kasey said.
 
@@ -82,7 +82,11 @@ The red incident file had acquired a little gold corner icon.
 
 Kim looked at the list. Then she looked beyond it, across Murravale's ash-grey forecourt. People were still sorting themselves into lifts, water runs, medication checks, pet carriers, and things that needed charging. The queue had not disappeared when the notice arrived. It had simply become more honest about what everyone was afraid of.
 
-The servo's old gold-and-red fascia was barely visible beneath the ash. Beyond it, the road ran past a low line of tailings and vanished toward Castlemaine in a wall of brown-orange smoke. Solar panels folded over camper roofs like dark wings. The chrome caravan at the lot's edge had woken beneath its foil tarp; a string of blue route-lights pulsed slowly around its windscreen, as if it were dreaming in public.
+The servo's old gold-and-red fascia was barely visible beneath the ash. Beyond it, the road ran past a low line of tailings and vanished toward Castlemaine in a wall of brown-orange smoke. Solar panels folded over camper roofs like dark wings. Some of those roofs held paid work that could not be allowed to fail: clinic fridges, an evacuation spreadsheet, a repair invoice waiting for signal, a child's bedtime light. By dusk, the same roofs would have to power fans, kettles, and beds. The chrome caravan at the lot's edge had woken beneath its foil tarp; a string of blue route-lights pulsed slowly around its windscreen, as if it were dreaming in public.
+
+At the far end of the forecourt, Kasey had made a third queue with three battered tubs and a cardboard sign rescued from the sausage-roll cabinet: `REUSE / HAZARD / BIN`. It was not an inspiring command post, but people used it. Talia brought over two dead torch cells. Darren asked whether a cracked phone case counted as repair stock. Kim, who had spent the morning routing human panic, stood beside the tubs and began issuing instructions about food scraps with the solemnity of a minister opening parliament.
+
+Phosphor understood why Kasey had done it. The convoy did not become a town because it had matching lanyards. It became one because someone remembered that the future contained other people, other taps, other drains, and another morning.
 
 "What does the roster do?" she asked.
 
@@ -158,7 +162,7 @@ The road-truther had been standing close enough to listen. He raised one hand, t
 
 Darren looked surprised. Then he gave Phosphor his surname, his time, and the exact colour the fire had been when it crossed the ridge. Phosphor wrote all of it down.
 
-By the time the first water crate was empty, the roster had become a small crowd around the fold-out desk. Chapel Seven's black flank reflected them in warped fragments: Kim's ash-streaked polo, Talia's yellow raincoat, Darren's high-vis vest, Kasey's pale rolled sleeves, Eris's red-lit hair. Beyond the reflections, the chapel's brass rails and old velvet tracks made the cramped office look half like a funeral parlour and half like a very serious travelling circus.
+By the time the first water crate was empty, the roster had become a small crowd around the fold-out desk. Chapel Seven's black flank reflected them in warped fragments: Kim's ash-streaked polo, Talia's yellow raincoat, Darren's high-vis vest, Kasey's pale rolled sleeves, Eris's red-lit hair. Beneath the desk, Phosphor could see the equipment that would have to disappear before he slept: the tea tray strapped into its crash cradle, the printer ribbon case, the water filter, the bunk latch. Beyond the reflections, the chapel's brass rails and old velvet tracks made the cramped office look half like a funeral parlour and half like a very serious travelling circus.
 
 Nobody was volunteering for Barkers Creek exactly. They were giving the crew pieces of the right to go.
 

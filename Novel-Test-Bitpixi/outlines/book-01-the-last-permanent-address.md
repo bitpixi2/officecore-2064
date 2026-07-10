@@ -80,6 +80,20 @@ That is also why Continuity Australia wants their data.
 
 The crew relies on Skystitch for Rooby's comms, maps, local caches, event feeds, and messages that deserve to have been drafts. Smoke, weather, heat, power, orbital congestion, access tiers, and damaged gold contact mesh can all degrade it. A stitch dish is infrastructure, but it is also an office object with a serial number, maintenance ledger, unpaid invoice history, and a political argument attached.
 
+### Rig Livelihoods
+
+The crew's netrunning is practical mobile network labour: paid incident response, record recovery, mesh and Skystitch maintenance, accessible civic systems, sensor work, and field support for people who cannot wait for a fixed office. Income arrives through contracts, cooperative credits, repair parts, access to berths or tools, and carefully scoped favours. The novel treats payment as a recurring pressure: who can afford to keep a relay alive, who has been asked to work for exposure, and who gets to call an emergency response a public service instead of a debt.
+
+Each van is also a small home that must be reset after work. Counters fold into beds, cables move before the kettle boils, batteries compete with fridges and laptops, and a broken water pump can alter the whole route. Maintenance is character work: ash in a solar hinge, coolant on a sleeve, a wet towel catching a leak, somebody holding a light while another person tries not to swear.
+
+Refuse is part of the same story. The crew sorts reusable parts, e-waste, organics, contaminated material, and landfill because sanitation is emergency infrastructure. Kasey's rule is that trash is proof of life: it can tell rescuers what people needed and where they made it to, but it must never become a licence to profile them.
+
+### House Keys And Food Circuits
+
+`House Key` is a fictional 2064 local agreement used by some neighbourhood houses, libraries, halls, and repair sheds. Depending on local capacity, a crew may book a shower, laundry, water refill, mail drop, cool room, desk, charging point, or a real table. It is not a universal entitlement and it is never a claim about every present-day Victorian site.
+
+Food moves through community pantries, food-rescue kitchens, social cafes, gardens, and regional hubs. Crew members volunteer and contribute skills because the work matters, but food and emergency support remain need-based, not payment for labour. This is an ethical contrast with Continuity's attempt to turn every act of care into billable capacity.
+
 ## Original Embodied Kinds
 
 These are working concepts, not fixed biological castes.
@@ -129,6 +143,7 @@ Kinds do not determine personality, morality, profession, or allegiance. Mixed o
 - Kind: baseline
 - Rig: `The Cubicle`, an ex-NBN survey van with a fold-out counter, mobile printer, cable drums, and a passenger door that opens only when addressed as Acting Deputy Door
 - Skill: compliance, negotiation, reading systems for the human assumption they forgot to encode
+- Livelihood: paid civic-data repair, route-permission audits, and short emergency contracts; keeps meticulous rates because she knows how easily "help" becomes unpaid expectation
 - Public want: invalidate the national eviction notice and recover her legal identity
 - Private want: a permanent room with a lock nobody can revoke
 - Fault: treats vulnerability as a request that should be submitted later
@@ -140,6 +155,7 @@ Kinds do not determine personality, morality, profession, or allegiance. Mixed o
 - Kind: Afterimage
 - Rig: `Red Flag`, a red-lit ex-library van with cable nests, civic-game equipment, tool drawers, and a dance floor exactly one person wide
 - Skill: systems vandalism, social engineering, turning rules into games people can contest
+- Livelihood: mesh maintenance, privacy and accessibility audits, and difficult vendor remediation; gives away more technical help than her invoices admit
 - Want: free the work twins and expose Continuity's theft without handing private community data to the public
 - Fault: tests affection as if it were a security boundary
 - History with Kasey: one intense hackathon weekend, one almost-relationship, then Kasey took a Continuity job and stopped replying
@@ -150,6 +166,8 @@ Kinds do not determine personality, morality, profession, or allegiance. Mixed o
 - Kind: Receipt Revenant
 - Rig: `Chapel Seven`, an immaculate black camper with beige carpet tiles, tea, a CRT, a dot-matrix printer, and filing cabinets deeper than the vehicle
 - Skill: archival authentication and impossible chains of custody
+- Livelihood: reconstructs records, confirms chains of custody, and settles disputed maintenance histories; after work, his desk folds over the cab and a narrow bunk releases from the filing wall
+- Field history: carries fragmentary but vivid memories of a global systems expedition through windcatcher courtyards, wetlands, fire labs, alpine camps, and water infrastructure; answers emotional questions with thermal or maintenance analogies until stopped
 - Want: learn whether he had a life before the records that reconstructed him
 - Fault: lets documents overrule people when frightened
 - Ability in the adventure: can prove an abandoned office once belonged to someone, making its doors briefly remember where they led
@@ -247,6 +265,10 @@ Part turn: the fire forces evacuation before the crew can reopen Floor Zero. The
 The crew leaves with evacuees, three data-centre workers, and one snack table everyone treats as an elected body. A mobile meeting exposes competing goals: rescue Nell, clear Kasey, destroy the model, or use it to protect the next town.
 
 Kasey and Eris agree to work together under a written rule: no projection into the other's private devices. Their old chemistry returns through aggressively professional radio etiquette.
+
+The first night is spent in the car park of a participating neighbourhood house, after Kasey's water pump leaks into The Cubicle's cable drawer. The House Key board offers limited showers, laundry, a refill tap, a cool room, and two wall sockets; the crew has to convert vans from emergency offices into beds before a morning class takes the hall back. A local food-rescue kitchen feeds everyone by need while volunteers sort produce nearby, making the contrast between mutual aid and Continuity's future subscription model visible.
+
+While they sort the convoy's refuse, Phosphor asks why Kasey treats disposal like a compliance hearing. Kasey explains that trash is proof of life: it shows where people were, what they needed, and whether public systems reached them. She makes the case that failing sanitation degrades trust and raises disease risk, especially in hot, displaced communities. Phosphor connects this to his field memories of windcatchers, wetlands, and thermal systems: comfort and public health come from many unglamorous systems cooperating, not from one heroic device.
 
 ### 8. The Road Closure Lottery
 
@@ -437,6 +459,14 @@ Each interlude must change the reader's understanding or the plot. None should e
 - The crew's strange abilities are as useful in a meeting or relationship as in a dangerous corridor.
 - The climax is a rescue, audit, cooling operation, governance act, and relationship test at once.
 - The victory produces more administration because shared freedom requires ongoing work.
+
+## Prose Constraints
+
+- Let regional Victoria exert pressure: ash on heritage streets, dry water races, tailings, council halls, food hubs, weather, and distance must change what people can do, not merely decorate the scene.
+- Every technical marvel needs a material cost: a battery, seal, water tank, shade source, maintenance log, access slot, invoice, or person who understands its failure mode.
+- Make the liminal strange through work: a wrong room should carry an old maintenance duty, an obsolete job title, or a service relationship that still expects completion.
+- Keep comedy close to care. The absurdity of a form or a van should relieve pressure without making displacement, fire, illness, disability, or mutual aid into a joke.
+- Treat every document, receipt, cable, tray of food, and rubbish bin as an opportunity for a person to be recognised, excluded, or unexpectedly protected.
 
 ## Decisions For Bitpixi Before Drafting
 
