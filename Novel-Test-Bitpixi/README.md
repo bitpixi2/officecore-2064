@@ -16,6 +16,7 @@ The first research and outlining pass is now available:
 - [Award-shaped outline schema](docs/award-shaped-outline-schema.md): a reusable structure for an ambitious, propulsive Officecore novel.
 - [Book One: The Last Permanent Address](outlines/book-01-the-last-permanent-address.md): a complete original novel outline built around rig towns, divided digital identity, the Unallocated Floor, strange embodied kinds, magic-tech, data centres, adventure, comedy, and flirtation.
 - [Chapter One: The Receipt Map](drafts/chapter-001-the-receipt-map.md): a Phosphor-led prose test with the bushfire servo opening, dialogue, Rooby, and Hackeroos support on comms.
+- [Chapter Two: Acting Deputy Door](drafts/chapter-002-acting-deputy-door.md): Phosphor authenticates Juno's impossible notice while the convoy loses its legal address and Nell sends a warning from the edge cache.
 - [Central Victorian Goldfields](locations/central-victorian-goldfields.md): regional Victorian anchors, historical care notes, Miner's Rights, panning, and the fictional Southern Skystitch satellite mesh.
 
 Possible next files include:
