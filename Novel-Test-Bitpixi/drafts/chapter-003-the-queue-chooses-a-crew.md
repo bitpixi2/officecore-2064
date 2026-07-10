@@ -190,7 +190,99 @@ Nobody was volunteering for Barkers Creek exactly. They were giving the crew pie
 
 Kim witnessed the road closures. Talia witnessed the receipt map. Darren witnessed the western spur. The woman with the wedding dress witnessed that her grandmother's medication had been loaded onto the grey camper. Simon, who had not asked for a role beyond carrying water, signed as `SUPPLY TRANSFER / FOUR CRATES / NO COMPLAINTS`. Someone added a note beneath it saying `ONE COMPLAINT ABOUT LIFTING`, and Simon initialled the correction.
 
-Rooby watched the signatures arrive through the stitch dish.
+Eris read over the signatures. "Where is the repo?"
+
+Phosphor held up the red incident file.
+
+"That is stationery."
+
+"It has become unusually capable stationery."
+
+"Still a single object," Kasey said. She reached through The Cubicle's open passenger door and woke the dashboard terminal. "If it burns, gets confiscated, develops religious ambitions, or decides to update its terms, we lose the mandate."
+
+The folder emitted a small offended click.
+
+"It heard you," Kim said.
+
+"Good. Open three repos," Kasey told Rooby. "Public route facts. Crew operations. Sealed care records."
+
+`ROOBY: Why three?`
+
+Talia, still holding the marker, said, "Because not everyone needs to see people's medicine."
+
+Kasey looked at her. "Exactly. Transparency is being able to inspect how a decision was made. It is not making everybody involved inspectable."
+
+Red Flag's rear screen woke in a wash of dark red. Eris dragged the witness roster into the crew repo, then split out the names, private notes, and exact destinations. Phosphor watched the folder's single glowing page become three related records: one open, one shared by the acting crew, one represented only by a sealed receipt that said authorised information existed somewhere safer.
+
+Darren peered over Kim's shoulder. "Is this blockchain?"
+
+"A witness chain," Eris said. "Signatures and sequence on-chain. Actual personal information off it. No coin, no mining race, no buying your way to the front of the evacuation."
+
+"Can it be corrected?" Kim asked.
+
+"It can be corrected in public," Kasey said. "Immutability is useful for proving somebody changed a record. It is a terrible excuse for pretending the first record was holy."
+
+"Who gets to merge a decision?"
+
+"One public witness, one rotating steward, and someone directly affected," Eris said. "Two out of three can prepare it. The affected person can still refuse."
+
+Phosphor approved of this more than he intended to show.
+
+Rooby's icon divided into three tiny windows. New lines appeared beneath it.
+
+`MURRAVALE/PUBLIC-ROUTES`
+
+`MURRAVALE/INCIDENT-OPS`
+
+`MURRAVALE/SEALED-CARE`
+
+`ROOBY: Repositories created. Witness commits anchored. Searching the Undermesh for peers.`
+
+`ROOBY: Link existing rig repositories?`
+
+"Scoped manifests only," Kasey said.
+
+One by one, they approved the links. Red Flag exposed its offered battery share, clean solar skin, tools, and one carefully limited projection endpoint. The Cubicle shared available seats, cooling cable, water status, and the pump-seal fault it had been trying to classify as a lifestyle choice. Chapel Seven offered correspondence, authentication, filtered workspace, and the printer, but not the private archive behind the fifth filing drawer.
+
+Their repositories remained their own. The incident repo could ask what each rig had offered; it could not rummage through the lives surrounding the offer.
+
+The stitch dish sent the update outward, but it was not the only route. Red Flag passed it to Chapel Seven. Chapel Seven passed it to the mint-green dental ambulance. The ambulance found a battery-backed relay in the servo's old stormwater monitor, which found a buried cooperative line beside the disused water race. The commit travelled under the smoke toward a repair shed outside Castlemaine, then waited there for any rig heading west.
+
+On The Cubicle's screen, the network appeared as a loose chain of gold points below the official map. It did not resemble the cloud. It resembled roots, or cracks, or a town quietly remembering where it had buried its spare keys.
+
+Offers began to arrive.
+
+`MALDON-HOUSE-07: WATER REFILL / 400 L / AFTER AIR CHECK`
+
+`CASTLEMAINE-REPAIR-SHED: TWO FILTER CASSETTES / COLLECTION ONLY`
+
+`GREY CAMPER: TWO SEATS / MEDICATION HAS PRIORITY`
+
+`RED FLAG: BATTERY SHARE / 20% / FRIDGE FLOOR APPLIES`
+
+A second column filled with requests: a lift for an older couple and their bird; refrigeration for insulin; a replacement pump seal; someone who could translate a council alert into Auslan; somewhere shaded enough for a dog with burnt paws.
+
+"How does it decide?" Simon asked.
+
+"It suggests," Kasey said. "People decide. Urgency first, then suitability and distance. Ledger balance last."
+
+"What if someone can't offer anything back?"
+
+"Then they have accurately described an urgent need," she said. "Food, water, sanitation, cooling, and emergency care do not become debts just because a database noticed them."
+
+Eris prepared the first three matches. Kim signed as public witness. Kasey took the rotating-steward slot because nobody else had yet been foolish enough to volunteer. The people receiving the water, filters, and seats accepted through their own lanyards, and only then did the merge marks turn green.
+
+"For everything else, terms expire," Eris said. "No inherited favours. No permanent score. No chair at the meeting for owning the most shower credits."
+
+"Can sausage rolls become a governance token?" Darren asked.
+
+"No," Phosphor said.
+
+The servo printer produced one disapproving centimetre of blank paper.
+
+"The catering department has lodged an appeal," Eris said.
+
+Rooby watched the first matches settle through the stitch dish.
 
 `ROOBY: This is becoming a form.`
 
@@ -255,6 +347,8 @@ The folder accepted it with a firm, ceremonial click.
 The Cubicle's passenger door chimed.
 
 `ACTING DEPARTMENT RECOGNISED,` it said. `DUTY PERIOD: SIX HOURS.`
+
+`ROOBY: Renaming MURRAVALE/INCIDENT-OPS to MURRAVALE/GETTING-PEOPLE-THERE.`
 
 Kim let out one startled laugh. "You named it and the van listened."
 

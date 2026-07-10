@@ -29,6 +29,20 @@ The crew uses several forms of value at once:
 
 No one form is morally cleaner than the others. The lanyard wallet records the agreement, whether it was freely offered, and whether it has been settled. This protects a crew from both corporate non-payment and the social pressure to call every emergency response a favour forever.
 
+### Repositories, Witness Chains, And Barter
+
+The convoy maintains local-first repositories rather than one master database. A typical incident has three:
+
+- a public repo for road conditions, meeting decisions, available facilities, and corrections
+- a crew repo for power budgets, maintenance tasks, inventory, roles, and scoped agreements
+- sealed care records shared only with the person concerned and whoever they authorise
+
+People use familiar collaborative actions: open an issue, propose a patch, review a change, sign a commit, fork a harmful rule, or merge a decision. Rigs expose narrow manifests for resources they are willing to offer; sharing a power budget never grants access to private messages, location history, or the rest of a vehicle's systems. A cooperative witness chain anchors the order and signatures of important commits without publishing private content. A normal governance merge needs a public witness, a rotating steward, and somebody directly affected. It is blockchain governance stripped of speculative tokens, paid priority, permanent reputation scores, and the fiction that an irreversible record can never be wrong. Corrections remain visible and first-class.
+
+Repos synchronise through the fictional `Undermesh`: short-range links between vans, community Wi-Fi, buried cooperative fibre, old utility ducts, repair-shed nodes, and physical store-and-forward drives. A commit might travel from one van to another, through a relay under a former rail yard, then reach the next town when a courier rig arrives. Skystitch accelerates the system but does not own it.
+
+The barter allocator reads offers and needs, not personal value. Water, power, cooling, food, transport, parts, labour, showers, storage, and safe berths can be offered with quantity, location, conditions, and expiry. Urgent needs can outrank ledger balance. Receiving food, water, sanitation, or emergency care never creates compulsory debt.
+
 ## A Van Is A Tiny House With A Shift Change
 
 Write the rigs as a place that changes configuration around the people inside them.

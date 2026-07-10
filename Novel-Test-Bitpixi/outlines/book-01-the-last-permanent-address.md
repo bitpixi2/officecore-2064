@@ -90,6 +90,12 @@ Thermal comfort comes from systems working together: insulation, seals, external
 
 Refuse is part of the same story. The crew sorts reusable parts, e-waste, organics, contaminated material, and landfill because sanitation is emergency infrastructure. Kasey's rule is that trash is proof of life: it can tell rescuers what people needed and where they made it to, but it must never become a licence to profile them.
 
+### Commons Repositories And The Undermesh
+
+The crew logs routes, resources, maintenance, agreements, and decisions in local-first shared repositories. Public information, crew operations, and sealed care records remain separate. Each van links a scoped resource manifest rather than exposing its whole home system. Important commits are anchored to a cooperative witness chain that proves order, signatures, consent, and corrections without putting private material on-chain. A standard merge needs a public witness, a rotating steward, and somebody directly affected. It has no speculative token or permanent social score.
+
+The repos synchronise through the `Undermesh`: van-to-van links, community Wi-Fi, buried cooperative fibre, old utility ducts, repair-shed relays, and drives physically carried between towns. The barter allocator matches expiring offers and needs for power, water, cooling, food, transport, parts, work, storage, showers, and safe berths. Urgency and consent outrank ledger balance; essential support never creates compulsory debt.
+
 ### House Keys And Food Circuits
 
 `House Key` is a fictional 2064 local agreement used by some neighbourhood houses, libraries, halls, and repair sheds. Depending on local capacity, a crew may book a shower, laundry, water refill, mail drop, cool room, desk, charging point, or a real table. It is not a universal entitlement and it is never a claim about every present-day Victorian site.
@@ -239,6 +245,8 @@ Phosphor authenticates the notice as genuinely derived from Kasey's former Conti
 Locals assume anyone standing behind Kasey's fold-out counter is an official. The resulting queue becomes a public witness body, giving the crew a narrow emergency mandate to reach the data centre.
 
 Eris joins because the notice contains a work-twin signature. Phosphor joins because its chain of custody begins before his recorded birth. GhostAgent hides the mandate inside a catering invoice so it can cross the corporate firewall.
+
+Before sending it, the crew divides the incident into a public route repo, an operational repo, and sealed care records. Rooby anchors the witness signatures to the cooperative chain and pushes the commits into the Undermesh. Water, power, transport, parts, and technical help begin appearing as expiring offers around the region; urgent needs receive matches without becoming debts. The first department is created as much by repository governance as by the smart folder.
 
 ### 4. Access Requires A Fixed Address
 

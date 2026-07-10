@@ -124,7 +124,39 @@ She had a signal cable in one hand and a packet of salt-and-vinegar chips in the
 
 Kasey set the paper down beside Phosphor's CRT. "The west highway is closed at the creek. The east highway is open according to the road authority, closed according to the fire service, and haunted according to three people in the queue."
 
-"Formerly open," Phosphor said.
+She stopped. Her attention had found the thermos lid.
+
+"Is that Magic?"
+
+Phosphor looked at the words `KISS ME, I'M A FIRE WARDEN`, then at the small steel cup beside them. "It is coffee."
+
+"That was not the question."
+
+Eris leaned down from the roof. "Magic is not a blend. It is a Melbourne constitutional crisis involving a double ristretto and less milk than a flat white."
+
+"The bag says `Magic Blend Number Seven`," Phosphor said.
+
+"The bag is marketing."
+
+Kasey lifted the cup, smelled it, and took one careful mouthful before he could decide whether permission had been requested. "The bag is correct enough. They roast it to survive the order."
+
+"In Melbourne," Eris said, "that sentence would get you removed from a tram."
+
+"In Melbourne, asking what a Magic is gets you six answers and a lease application," Kasey said.
+
+Phosphor retrieved a second cup from beneath the tea tray. "For the record, the roaster describes it as chocolate, dried cherry, and administrative overreach."
+
+"Now that," Eris said, climbing down, "is a blend."
+
+He poured. The coffee came out the colour of polished jarrah, with a thin cap of milk that trembled when the generator coughed. Kasey kept his cup. Eris accepted the second, blew across it, and regarded Phosphor over the rim.
+
+"You carry Melbourne coffee through the Goldfields in a funeral van," she said. "That is either devotion or evidence."
+
+"Those categories overlap," Phosphor said.
+
+Kasey passed the cup back with the faint print of her mouth on the steel. "Good. We may need both."
+
+Phosphor set it beside the thermos lid. "Formerly open," he said.
 
 Kasey looked at him. "I love you when you are useful."
 

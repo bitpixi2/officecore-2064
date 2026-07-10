@@ -40,6 +40,18 @@ A person's value is not reduced to creditworthiness. It is recorded through rela
 
 The badge soul-map, or **lanyard wallet**, is part credential, part wallet, part social memory.
 
+### Commons Repositories And The Undermesh
+
+Rig towns keep local-first shared repositories for routes, maintenance, available resources, requests, decisions, and agreements. They borrow the language of software because it is useful: people open issues, propose changes, review terms, sign commits, fork bad governance, and merge only after the people affected have had a chance to object.
+
+The repository is not automatically public. Route conditions and community decisions may be open; personal care needs, exact locations, identities, and access credentials remain sealed or selectively shared. Each rig links only scoped manifests such as available power, tools, seats, or water, never its whole home system. Transparency means being able to inspect how a decision was made, not exposing everybody the decision concerns.
+
+Important changes are anchored to a cooperative witness chain: a lightweight blockchain that records signatures, sequence, consent, and later corrections without placing the underlying private data on-chain. A normal merge needs a public witness, a rotating steward, and somebody directly affected by the decision. It has no speculative coin, mining race, permanent reputation score, or purchasable priority. A need does not become debt. An offer does not make its giver more entitled to govern.
+
+When commercial networks fail or become hostile, repositories synchronise through the `Undermesh`: van-to-van radio, local Wi-Fi, buried community fibre, old utility ducts, repair-shed relays, and store-and-forward devices carried between towns. Southern Skystitch helps bridge long gaps, but the network can keep moving locally without one satellite company or data centre approving it.
+
+The barter layer matches declared needs and offers: water, power, food, cooling, transport, technical work, parts, storage, showers, teaching, or a safe berth. Allocation considers urgency, suitability, distance, consent, and expiry before ledger balance. The system exists to coordinate resources, not calculate human worth.
+
 ### Rig Livelihoods
 
 Most rigs survive on several small income streams rather than one employer. A crew might invoice a council for restoring a smoke-damaged public map, keep a standing contract to maintain a clinic's Skystitch link, recover a small business's locked records, tune a community mesh relay, run an accessible booking desk, teach a repair class, or provide overnight data-centre field support. This is the setting's version of netrunning: practical, negotiated network work performed from a vehicle that is also somebody's kitchen and bedroom.
