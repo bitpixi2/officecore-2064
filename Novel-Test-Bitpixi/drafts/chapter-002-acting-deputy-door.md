@@ -6,9 +6,11 @@ The notice remained rude even after Phosphor gave it a folder.
 
 He placed the thermal paper in a clear sleeve, slid the sleeve into a red incident file, and wrote the time in blue ink on the tab. The page still looked like an insult. It sat beneath the plastic cover of Chapel Seven's desk while ash tapped at the awning and people tried very hard not to ask whether a document could make them homeless in the middle of an evacuation.
 
+The chapel's cabin was close around them: velvet curtain rails over the windows, filing cabinets humming softly behind the driver’s seat, the CRT throwing blue light across the beige carpet tiles. Outside the hatch, the orange world moved in brief silhouettes - a person crossing with a crate, a dog straining at a lead, a water drum wheeled over cracked bitumen. Every time the awning lifted in the wind, ash spun through the strip of shade like grey confetti.
+
 It could, of course. Documents had been making people homeless in much calmer weather for centuries.
 
-Kasey stood at the open hatch, looking out at the forecourt. The white corporate page shone from her lanyard wallet against the soot on her shirt.
+Kasey stood at the open hatch, looking out at the forecourt. The white corporate page shone from her lanyard wallet against the soot on her shirt. In the hard light, Phosphor could see how tired she was: the ash gathered in the crease beside her mouth, the fine tremor in the fingers she kept curled around the wallet, the pale line where a ring had once been and was no longer.
 
 "Nobody moves until we know what it does," she said.
 
@@ -120,7 +122,7 @@ Before Kasey could answer, The Cubicle's passenger door announced, in a warm cus
 
 Everyone looked over.
 
-The door had remained open since Kasey ordered it to behave. It now swung shut with deliberate gentleness, clicked itself locked, and displayed a polite blue message in its narrow window.
+The door had remained open since Kasey ordered it to behave. It now swung shut with deliberate gentleness, clicked itself locked, and displayed a polite blue message in its narrow window. The Cubicle’s white paint was stippled with ash. Its front windscreen still carried the ghost of an old NBN route decal beneath newer layers of permit stickers, a tiny solar-panel warning, and a child's orange handprint on the passenger-side mirror.
 
 `PRIMARY USE: UNAUTHORISED OFFICE`
 
@@ -252,7 +254,7 @@ Eris said, "That was hot."
 
 Kasey bent into the van and retrieved the cable case. She moved fast now, but her hand shook once when she set it on the gravel. Phosphor pretended not to see. He knew something about the dignity of not being entered into a record before it was ready.
 
-The case held three coiled fibre lines, a cooling gel pack, a small first-aid kit, and a brass-edged access token with `BARKERS CREEK EDGE CACHE` printed across it.
+The case held three coiled fibre lines, a cooling gel pack, a small first-aid kit, and a brass-edged access token with `BARKERS CREEK EDGE CACHE` printed across it. The token was heavy for its size, stamped with an outline of a ridge and a tiny server tower. Its brass edge had been rubbed almost smooth by Kasey’s thumb.
 
 Kim read it. "Is that where your sister works?"
 
@@ -282,7 +284,7 @@ Rooby hesitated. That was new.
 
 `ROOBY: It is marked personal.`
 
-Kasey looked at the people gathered under the servo awning. Kim was holding two queues together with a marker and a stare. Simon had set down a crate of water and was already being asked to solve a different problem. The road-truther was helping a child tape the receipt map to the side of a camper. Eris stood close enough to Kasey that their shoulders almost touched and not close enough that anybody could call it comfort.
+Kasey looked at the people gathered under the servo awning. Kim was holding two queues together with a marker and a stare. Simon had set down a crate of water and was already being asked to solve a different problem. The road-truther was helping a child tape the receipt map to the side of a camper. Behind them, the black spine of Chapel Seven, the patched white body of The Cubicle, and Red Flag’s red-lit library interior made a crooked little street against the smoke. Eris stood close enough to Kasey that their shoulders almost touched and not close enough that anybody could call it comfort.
 
 "Play it," Kasey said again. "Here."
 

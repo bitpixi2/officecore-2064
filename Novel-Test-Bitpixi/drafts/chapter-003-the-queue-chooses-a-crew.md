@@ -26,7 +26,7 @@ Phosphor looked at her. The edge of his hat was still singed, which he had decid
 
 "Coward."
 
-Kasey was standing in the shade of The Cubicle's open passenger door, holding the Barkers Creek token in one hand and the cooling cable case in the other. The door had remained open since Phosphor found its duty-of-care contradiction. He could feel it listening anyway.
+Kasey was standing in the shade of The Cubicle's open passenger door, holding the Barkers Creek token in one hand and the cooling cable case in the other. The door had remained open since Phosphor found its duty-of-care contradiction. Its little blue status lamp watched her from the frame. Smoke had softened the van's patchwork paint to dull cream, slate, and old blue, but the cable drums on its roof still caught the light like fat coins. He could feel the vehicle listening anyway.
 
 "Eris is on the list," Kasey said.
 
@@ -81,6 +81,8 @@ The red incident file had acquired a little gold corner icon.
 "That would be an unacceptable concentration of power."
 
 Kim looked at the list. Then she looked beyond it, across Murravale's ash-grey forecourt. People were still sorting themselves into lifts, water runs, medication checks, pet carriers, and things that needed charging. The queue had not disappeared when the notice arrived. It had simply become more honest about what everyone was afraid of.
+
+The servo's old gold-and-red fascia was barely visible beneath the ash. Beyond it, the road ran past a low line of tailings and vanished toward Castlemaine in a wall of brown-orange smoke. Solar panels folded over camper roofs like dark wings. The chrome caravan at the lot's edge had woken beneath its foil tarp; a string of blue route-lights pulsed slowly around its windscreen, as if it were dreaming in public.
 
 "What does the roster do?" she asked.
 
@@ -156,7 +158,7 @@ The road-truther had been standing close enough to listen. He raised one hand, t
 
 Darren looked surprised. Then he gave Phosphor his surname, his time, and the exact colour the fire had been when it crossed the ridge. Phosphor wrote all of it down.
 
-By the time the first water crate was empty, the roster had become a small crowd around the fold-out desk.
+By the time the first water crate was empty, the roster had become a small crowd around the fold-out desk. Chapel Seven's black flank reflected them in warped fragments: Kim's ash-streaked polo, Talia's yellow raincoat, Darren's high-vis vest, Kasey's pale rolled sleeves, Eris's red-lit hair. Beyond the reflections, the chapel's brass rails and old velvet tracks made the cramped office look half like a funeral parlour and half like a very serious travelling circus.
 
 Nobody was volunteering for Barkers Creek exactly. They were giving the crew pieces of the right to go.
 
@@ -252,11 +254,11 @@ Eris swore softly.
 
 "Continuity owns the word emergency if it can invoice it," Eris said.
 
-The stitch dish on Chapel Seven's roof gave a dry, metallic crack. Everyone looked up. A line of ash slid down its casing. The blue lock held.
+The stitch dish on Chapel Seven's roof gave a dry, metallic crack. Everyone looked up. Its white ceramic face had become a saucer of ash, its blue status ring reflected in the polished black roof below. A line of ash slid down its casing. The blue lock held.
 
 GhostAgent arrived through the receipt printer.
 
-The printer began feeding out a new page, slowly and with the solemnity of a minor legal disaster. Its header read:
+The printer began feeding out a new page, slowly and with the solemnity of a minor legal disaster. Its rollers smelled faintly of heated sugar and old ink. The header came out on a cream strip bordered in the servo's obsolete gold logo:
 
 `MURRAVALE SERVICE CENTRE`
 

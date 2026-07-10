@@ -14,9 +14,15 @@ The woman had ash in the folds of her polo shirt and a council lanyard tucked in
 
 Outside Murravale Service Centre, a mostly shuttered servo on the road between Castlemaine and Maldon, the sky had been reduced to a metallic orange lid. Ash collected in the gutters, on the windscreen wipers, in the seams of the road, and in the teeth of a plastic koala strapped to the servo sign. The sign promised HOT FOOD, COLD DRINKS, CLEAN TOILETS.
 
+Beyond the forecourt, the central Goldfields had gone almost flat. The low ridges toward Maldon were swallowed behind smoke; old tailings mounds, normally the colour of biscuit crumbs, had turned the colour of wet iron. Grey box and stringybark stood in the paddocks with their leaves turned pale-side out against the heat. Somewhere past the roadworks, an abandoned water race ran beside the highway like a second, narrower road, its stonework half-hidden by dry grass and solar cable.
+
 Only one of those claims was still true.
 
-Chapel Seven stood beside the diesel bowsers in its black, immaculate disapproval. On its roof, the Southern Skystitch terminal held a thin blue lock through the smoke: a compact Australian-built low-orbit dish everyone called a stitch dish, assembled in some retooled workshop up Bendigo way and repaired by whoever could still read a maintenance ledger. Its solar awning was down. Its side hatch had been opened to reveal the fold-out desk, the CRT, the tea tray, the stamp pad, and the first four drawers of filing cabinets that went farther into the camper than any sensible architecture allowed. A row of wet shoes had appeared on the beige carpet tiles. Phosphor had allowed this because the alternative was leaving people in the smoke.
+Chapel Seven stood beside the diesel bowsers in its black, immaculate disapproval. It had once been a compact funeral coach, judging from the long silver rails beneath its windows and the improbable amount of suspension. Somebody had turned it into a mobile office chapel without removing the velvet curtain tracks, the brass handrails, or the small enamel lamp above the driver’s seat. Matte-black panels hid the solar cells. Its wheels were dusted red from the Goldfields tracks; its chrome grille had been polished anyway.
+
+On its roof, the Southern Skystitch terminal held a thin blue lock through the smoke: a compact Australian-built low-orbit dish everyone called a stitch dish, assembled in some retooled workshop up Bendigo way and repaired by whoever could still read a maintenance ledger. Its solar awning was down. Its side hatch had been opened to reveal the fold-out desk, the CRT, the tea tray, the stamp pad, and the first four drawers of filing cabinets that went farther into the camper than any sensible architecture allowed. The interior smelled of old carpet, hot printer ribbon, lemon furniture polish, and the ghost of every tea Phosphor had ever made there. A row of wet shoes had appeared on the beige carpet tiles. Phosphor had allowed this because the alternative was leaving people in the smoke.
+
+He stood behind the desk in his dark work suit, a white shirt buttoned neatly at the throat despite the heat, and a black top hat with a satin band. The hat gave strangers the impression that he had arrived from a much more orderly century. The lanyard at his waist, the ash on his cuffs, and the unsettling youth of his face corrected that impression on closer inspection.
 
 He had not allowed the thermos lid with the words KISS ME, I'M A FIRE WARDEN.
 
@@ -33,6 +39,8 @@ It had appeared beside his stamp pad anyway.
 "The left queue says people who need transport. The right queue says people who know a better route."
 
 Phosphor looked through the side window. She was correct. The people who needed transport stood near the battered camp chairs and the water crates. They held dogs, duffel bags, children, medication, a wedding dress in a dry-cleaning sleeve, and one desktop printer that had been carefully buckled into the front seat of a hatchback.
+
+Their vehicles made a temporary town around the bowsers: a sun-bleached Winnebago with an air-conditioning unit tied on by ratchet straps; a former ambulance painted mint green and converted into a mobile dental clinic; a grey camper with a double bench seat and a roof garden of dead herbs; three utes covered in prospecting permits and weatherproof tools. At the edge of the lot, a chrome caravan slept under a tarp of reflective foil, its curved roof catching the orange sky. Its windscreen showed no driver, only a slow pulse of stars.
 
 The people who knew a better route had arranged themselves in a loose semicircle around a man wearing a high-vis vest marked `INDEPENDENT ROAD TRUTHER`.
 
@@ -94,13 +102,17 @@ The man considered this. "That sounds worse."
 
 Behind him, somebody laughed despite themselves. The sound was small, but it loosened the crowd by half a degree.
 
-Kasey Wren arrived from the other side of the bowsers with an armful of paper and an expression that meant a system had disappointed her personally. She was dressed for smoke and work: cargo trousers, a pale shirt with the sleeves rolled to the elbow, ash mask hanging under her chin. Her lanyard wallet knocked against her hip. Behind her, The Cubicle, her ex-NBN survey van, had its side panel open to form a counter. The passenger door was stubbornly shut.
+Kasey Wren arrived from the other side of the bowsers with an armful of paper and an expression that meant a system had disappointed her personally. She was dressed for smoke and work: cargo trousers tucked into scuffed steel-capped boots, a pale shirt with the sleeves rolled to the elbow, ash mask hanging under her chin. Her dark hair had been pinned up in a way that had lost the argument with the wind. A narrow scar crossed one knuckle on the hand carrying the maps. Her lanyard wallet knocked against her hip, black and practical except for the small brass key clipped to its back.
+
+Behind her, The Cubicle, her ex-NBN survey van, had its side panel open to form a counter. It had been white once, but a decade of weather, smoke, and badly matched repairs had left it the colour of old paper. The faded corporate stripe on its flank had been painted over with squares of council beige, emergency orange, and one panel of bright domestic blue. Cable drums rode on the roof rack beside a folded solar mat. The passenger door was stubbornly shut.
 
 "Acting Deputy Door," Kasey called to it as she passed. "Open."
 
 The door clicked open with offended dignity.
 
-Eris was perched on the Cubicle's roof with one boot hooked under the roof rack. Red Flag, her old ex-library van, sat nearby in a spill of red interior light. She had a signal cable in one hand and a packet of salt-and-vinegar chips in the other. Her dark hair had been tied up with what appeared to be a printer cable.
+Eris was perched on the Cubicle's roof with one boot hooked under the roof rack. Red Flag, her old ex-library van, sat nearby in a spill of red interior light. The van's book-return slot had been welded shut and repurposed as a charging port. Faded silhouettes of reading children still ran along its lower panels beneath layers of stickers, arbitration notices, and a hand-painted red flag that had been touched up so often it looked alive. Through the rear doors, Phosphor could see tool drawers, old library shelving full of cables and zines, a velvet couch bolted to the floor, and the narrow strip of polished lino Eris insisted was a dance floor.
+
+She had a signal cable in one hand and a packet of salt-and-vinegar chips in the other. Her dark hair had been tied up with what appeared to be a printer cable. A silver ring flashed through one eyebrow when she grinned.
 
 "Good news," Eris said. "The road authority map is lying in three different fonts."
 
@@ -198,7 +210,7 @@ Rooby's icon bounced on the CRT.
 
 `ROOBY: I am learning boundaries.`
 
-The first convoy left in a cough of diesel and ash. Kasey stood at the road edge with the receipt map held up in both hands. Eris dropped from Red Flag's roof, landing with a soft crunch of gravel, and took the other side of the paper without being asked.
+The first convoy left in a cough of diesel and ash. It moved past the servo sign in an untidy procession of solar awnings, patched windscreens, old fleet markings, child seats, water drums, and roof-mounted gardens. Kasey stood at the road edge with the receipt map held up in both hands. Eris dropped from Red Flag's roof, landing with a soft crunch of gravel, and took the other side of the paper without being asked.
 
 For one second, the two of them looked almost calm.
 
