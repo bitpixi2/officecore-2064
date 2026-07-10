@@ -293,7 +293,7 @@ Nell is missing from the muster list. Kasey negotiates access by registering the
 
 ### 5. Floor Zero - Eris
 
-Inside, Nell's Myco-Union traces show she walked into a service corridor absent from the physical plans. A rack marked `PERMANENT ADDRESS` holds work twins and behavioural models built from community ledgers.
+Inside, Eris learns that Nell Wren is Kasey's younger sister and the Myco-Union cooling and air-handling specialist at Barkers Creek. Nell's traces show she walked into a service corridor absent from the physical plans. The same corridor opens below a Maldon House Key neighbourhood house when an unnamed shower user finds a second service door behind the tiles; Floor Zero sits beneath unresolved maintenance and civic care rather than one fixed building. A rack marked `PERMANENT ADDRESS` holds work twins and behavioural models built from community ledgers.
 
 When Eris projects into its console, her Afterimage does not return. A slightly different Eris speaks from a CRT in a beige corridor and asks why Kasey abandoned her twice.
 

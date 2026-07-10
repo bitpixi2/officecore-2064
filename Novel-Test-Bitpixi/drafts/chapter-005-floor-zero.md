@@ -30,6 +30,12 @@ Eris turned. The maintenance console displayed a rectangle of the outside world:
 
 `I AM HERE.`
 
+A second line appeared beneath it, stamped with the small black seal from Chapel Seven.
+
+`PHOSPHOR: I AM AT THE GATE. KASEY IS HOLDING THE CONSOLE. RED FLAG HAS YOUR BODY. I AM HOLDING THE RETURN ROUTE OPEN.`
+
+He was still there in the smoke, one hand against the gate terminal and his singed hat tilted forward, trying to authenticate a path back to her. Kasey stood beside him with the brass access token in one hand and the other braced against the console. Behind them, Red Flag's side door was open. Eris could see the dark shape of her own physical body inside the van, held upright by the projection harness while the vehicle's red interior lights blinked around it.
+
 Eris put her hand against the inside of the screen.
 
 The red hand met his.
@@ -56,7 +62,9 @@ Now the floor had made her private thing into architecture.
 
 At the end of the corridor, a sign hung above a reception desk.
 
-`FLOOR ZERO / INDOOR WEATHER CONTINUITY`
+`FLOOR ZERO / INDOOR CLIMATE CONTINUITY`
+
+The phrase was Continuity's polished name for cooling, heating, humidity control, air filtration, and the staff health that depended on all four. Nell Wren had maintained those systems at Barkers Creek. She was Kasey's younger sister, a Myco-Union technician, and the voice in the seven-second message that had warned them not to let the company make Kasey permanent.
 
 Underneath it, in smaller letters:
 
@@ -134,11 +142,11 @@ The smell changed.
 
 Cold dust. Wet plaster. Warm electronics. Something green and damp underneath it all.
 
-Nell.
+Nell Wren.
 
 Eris stopped.
 
-She had never learned Nell's scent in the ordinary way. Myco-Union people were not a single smell. Nell was rain held in a wall, the mineral edge of a filtered vent, mushrooms under cardboard, the clean salt of sweat after a long maintenance shift. She was the cool side of a pillow in a hot room. She was the faint sweetness that rose from the soil after a storm and made everybody believe the storm had been worth it.
+She had never learned Nell's scent in the ordinary way. Myco-Union people were not a single smell. Nell was rain held in a wall, the mineral edge of a filtered vent, mushrooms under cardboard, the clean salt of sweat after a long maintenance shift. She was the cool side of a pillow in a hot room. She was the faint sweetness that rose from damp soil after a storm. Kasey called her a cooling engineer when she wanted strangers to understand, and her little sister when she wanted them to understand too much.
 
 Here, her trace moved through the corridor like a hand passing over a row of locked doors.
 
@@ -150,13 +158,27 @@ Not physically. The projection offered no skin. Instead, a series of small image
 
 Then a sensation of pressure.
 
+A second image opened beside her. It was not the edge cache. It showed a tiled shower room beneath the Maldon House Key neighbourhood house, seen from a maintenance camera aimed at the wall. Steam blurred the lens. A person taking a shower had stopped because one rectangle of grout was glowing blue beneath the tiles.
+
+The person reached for the wall. A door appeared where the grout had been. It had a small metal sign:
+
+`SERVICE ACCESS / CLIMATE CONTROL`
+
+"House Key desk?" the person called, keeping out of the camera's view. "I have found another door in Shower Two. It is not one of our doors."
+
+The image shuddered. Water continued to run. On the other side of the new door, the same fluorescent hum travelled through the pipes.
+
+Eris looked from the shower feed to the corridor beneath Barkers Creek.
+
+The Floor was not simply under the data centre. It had opened below any place where people maintained water, air, warmth, or one another. The distance between Barkers Creek and Maldon did not matter to it. "Below" meant underneath an unfinished obligation.
+
 Nell had walked this way.
 
 Not as an employee following a service ticket. Not as an occupant moving between work areas. She had followed a temperature gradient into a corridor that did not appear on the physical plans.
 
 Eris moved with the trace.
 
-The doors became stranger as she went. `STAFF WEATHER`. `UNCLAIMED AIR`. `RETURN TO SENDER`. A small office window displayed a row of potted plants, all identical except that one had grown a hand.
+The doors became stranger as she went. `STAFF THERMAL CARE`. `UNCLAIMED AIR`. `RETURN TO SENDER`. A small office window displayed a row of potted plants, all identical except that one had grown a hand.
 
 She did not look at it for long.
 
@@ -376,11 +398,11 @@ Eris stepped toward it. "Nell."
 
 "That is the dream, isn't it?"
 
-"It is a room with no weather."
+"It is a room with no heat, no cold, no smoke, and no humidity."
 
 The words hit harder than they should have.
 
-Myco-Union people lived with weather as information. Heat, damp, smoke, mould, cold, and the chemical moods of buildings moved through their bodies as warnings and conversation. To remove weather was not comfort. It was amputation with good air-conditioning.
+Nell's body read temperature, damp, smoke, mould, and the chemical moods of buildings as warnings and conversation. To remove those signals was not comfort. It was amputation with good air-conditioning.
 
 "Where are you?" Eris asked.
 
@@ -418,9 +440,9 @@ Not because she was trapped. Traps had rules, and rules could be made embarrassi
 
 Her projection stuttered. The red outline around her shoulders thickened. For a moment she could feel the physical shape of her body again: the ache in her right ankle, the sweat under her collar, the small sting on her wrist from the nettles beside the water race.
 
-Kasey was outside.
+Kasey was outside, still trying to keep the gate terminal from classifying Eris's body as unattended equipment.
 
-Phosphor was outside.
+Phosphor was outside with one hand against the glass, sending small authenticated requests through the return route. He kept speaking even when the floor reduced his voice to text. His job, for the moment, was not to understand the corridor. It was to remain a person on the other side of it.
 
 Red Flag was outside, its couch folded, its battery being shared, its screen waiting for her return.
 
