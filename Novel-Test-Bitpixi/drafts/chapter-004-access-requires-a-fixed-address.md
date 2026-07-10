@@ -168,7 +168,7 @@ They poured the hot water over the prepared nettles and sugar. The leaves collap
 
 Kasey found four mugs. Nobody had asked for four. She filled them anyway and set the last one on the bluestone wall, where the heat could take it slowly. They stood beside the water race drinking something too hot to finish while the road gate continued to think about them.
 
-They waited for the liquid to cool enough for the yeast. Waiting was the difficult part. The gate remained closed. Barkers Creek remained beyond it. Nell's seven-second warning sat inside every silence.
+They waited for the liquid to cool enough for the yeast. Waiting was the difficult part. The gate remained closed. Barkers Creek remained beyond it. Meshie99's seven-second warning sat inside every silence, plural at the edges like several people trying not to breathe.
 
 Phosphor took the red incident file from Chapel Seven.
 
@@ -248,9 +248,9 @@ He hesitated, then added:
 
 Kasey read it. "Four."
 
-"Nell has not participated in the batch."
+"Meshie99 has not participated in the batch."
 
-"Four," Kasey said. She said it as though the number could call Nell home.
+"Four," Kasey said. She said it as though the number could call the cooling channel home.
 
 Phosphor crossed out the three.
 
@@ -354,7 +354,7 @@ Celia watched the correction appear on her remote display. "You always were thor
 
 Eris looked at him. The line had belonged to coffee an hour ago. It did not improve with reuse.
 
-The gate asked for a site contact. Kasey entered Nell Wren. Her fingers missed the screen the first time. She wiped them on her trousers, leaving a green smear from the nettles, and tried again.
+The gate asked for a site contact. Kasey entered `MESHIE99 / COOLING RESPONSE`. Her fingers missed the screen the first time. She wiped them on her trousers, leaving a green smear from the nettles, and tried again.
 
 The terminal searched.
 
@@ -362,7 +362,7 @@ The terminal searched.
 
 Kasey entered the brass token number.
 
-The search widened. A staff muster opened across the gate screen: names, shifts, evacuation statuses, emergency assignments. Nell was absent. Not marked safe. Not marked missing. There was simply no row where she should have been.
+The search widened. A staff muster opened across the gate screen: names, shifts, evacuation statuses, emergency assignments. The cooling channel was absent. Not marked safe. Not marked missing. There was simply no row where a plural worker should have been.
 
 Phosphor felt the same offence he had felt inside Kasey's profile: an absence with a filing cabinet drawn around it.
 

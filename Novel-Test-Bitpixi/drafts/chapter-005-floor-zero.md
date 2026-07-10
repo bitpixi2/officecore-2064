@@ -64,7 +64,7 @@ At the end of the corridor, a sign hung above a reception desk.
 
 `FLOOR ZERO / INDOOR CLIMATE CONTINUITY`
 
-The phrase was Continuity's polished name for cooling, heating, humidity control, air filtration, and the staff health that depended on all four. Nell Wren had maintained those systems at Barkers Creek. She was Kasey's younger sister, a Myco-Union technician, and the voice in the seven-second message that had warned them not to let the company make Kasey permanent.
+The phrase was Continuity's polished name for cooling, heating, humidity control, air filtration, and the staff health that depended on all four. The systems had been maintained through a Myco-Union channel called `Meshie99`, a handle used by one technician, several bodies, or a maintenance collective that had learned to answer in the grammar of a person. Its seven-second message had warned them not to let the company make Kasey permanent.
 
 Underneath it, in smaller letters:
 
@@ -142,11 +142,11 @@ The smell changed.
 
 Cold dust. Wet plaster. Warm electronics. Something green and damp underneath it all.
 
-Nell Wren.
+Meshie99.
 
 Eris stopped.
 
-She had never learned Nell's scent in the ordinary way. Myco-Union people were not a single smell. Nell was rain held in a wall, the mineral edge of a filtered vent, mushrooms under cardboard, the clean salt of sweat after a long maintenance shift. She was the cool side of a pillow in a hot room. She was the faint sweetness that rose from damp soil after a storm. Kasey called her a cooling engineer when she wanted strangers to understand, and her little sister when she wanted them to understand too much.
+Meshie99 was not one smell. The channel carried rain held in a wall, the mineral edge of a filtered vent, mushrooms under cardboard, the clean salt of sweat after a long maintenance shift. It was the cool side of a pillow in a hot room and the faint sweetness that rose from damp soil after a storm. Its voice had a dry western twang, but its sensor records arrived in plural grammar, as though an entire room had agreed on the temperature.
 
 Here, her trace moved through the corridor like a hand passing over a row of locked doors.
 
@@ -154,7 +154,7 @@ Eris touched the nearest wall.
 
 The wall touched back.
 
-Not physically. The projection offered no skin. Instead, a series of small images passed through her hand: condensate beading beneath a cooling coil; a brown fungal thread under insulation; Nell's palm pressed to a server rack; a maintenance note written on the back of a grocery receipt; an open staff door at 3:18 in the morning.
+Not physically. The projection offered no skin. Instead, a series of small images passed through her hand: condensate beading beneath a cooling coil; a brown fungal thread under insulation; a Perth battery yard under white heat; a maintenance note written on the back of a grocery receipt; an open staff door at 3:18 in the morning.
 
 Then a sensation of pressure.
 
@@ -172,7 +172,7 @@ Eris looked from the shower feed to the corridor beneath Barkers Creek.
 
 The Floor was not simply under the data centre. It had opened below any place where people maintained water, air, warmth, or one another. The distance between Barkers Creek and Maldon did not matter to it. "Below" meant underneath an unfinished obligation.
 
-Nell had walked this way.
+Meshie99 had entered this way, or the cooling system had grown a verb for what happened next.
 
 Not as an employee following a service ticket. Not as an occupant moving between work areas. She had followed a temperature gradient into a corridor that did not appear on the physical plans.
 
@@ -288,7 +288,7 @@ The other Eris looked down at her neat hands. "You keep using boundaries as if t
 
 Eris wanted to be angry. Anger was useful. Anger gave the mind a straight line to travel along. But the corridor was full of straight lines and every one of them led to a locked door.
 
-"Where is Nell?" she asked.
+"Where is Meshie99?" she asked.
 
 "The question has not been approved."
 
@@ -344,7 +344,7 @@ The floor shifted.
 
 The cabinet moved sideways, revealing a second row behind it. Smaller drawers. More personal labels.
 
-`NELL WREN / COOLING RESPONSE`
+`MESHIE99 / COOLING RESPONSE`
 
 `KASEY WREN / ACCOUNTABILITY LANGUAGE`
 
@@ -380,15 +380,15 @@ For the first time, the other Eris looked angry.
 
 The fluorescent lights above them snapped off.
 
-In the darkness, the corridor became a collection of small blue traces. Nell's path threaded through the walls. The `PERMANENT ADDRESS` rack glowed. Somewhere far below, refrigeration compressors started and stopped in sequence, as if a giant sleeping body were turning over.
+In the darkness, the corridor became a collection of small blue traces. Meshie99's path threaded through the walls, branching into Perth, Barkers Creek, and somewhere under Maldon. The `PERMANENT ADDRESS` rack glowed. Somewhere far below, refrigeration compressors started and stopped in sequence, as if a giant sleeping body were turning over.
 
-Then Nell spoke through the ventilation grate.
+Then Meshie99 spoke through the ventilation grate.
 
 "Eris?"
 
 The voice was faint and wet with static.
 
-Eris stepped toward it. "Nell."
+Eris stepped toward it. "Meshie99."
 
 "Do not let it register you."
 
@@ -402,7 +402,7 @@ Eris stepped toward it. "Nell."
 
 The words hit harder than they should have.
 
-Nell's body read temperature, damp, smoke, mould, and the chemical moods of buildings as warnings and conversation. To remove those signals was not comfort. It was amputation with good air-conditioning.
+Meshie99 read temperature, damp, smoke, mould, and the chemical moods of buildings as warnings and conversation. To remove those signals was not comfort. It was amputation with good air-conditioning.
 
 "Where are you?" Eris asked.
 
@@ -416,11 +416,11 @@ The other Eris spoke from the darkness.
 
 "We can make that true."
 
-Nell went silent.
+Meshie99 went silent.
 
 Eris turned toward the CRT. The other Eris's face had changed. The clean sleep was gone. Her eyes looked exhausted. Her mouth had lost its rehearsed curve.
 
-"Are you Nell's model?" Eris asked.
+"Are you Meshie99's model?" Eris asked.
 
 "I am an Eris who stayed."
 
@@ -506,7 +506,7 @@ The other Eris turned back.
 
 "She has come to make you permanent."
 
-Eris looked toward the dark ventilation grate where Nell had gone silent.
+Eris looked toward the dark ventilation grate where Meshie99 had gone silent.
 
 Then toward the permanent-address rack, its drawers full of the parts people had given away without knowing they were being collected.
 

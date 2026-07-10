@@ -17,7 +17,7 @@ Phosphor is the primary viewpoint and emotional lens. His archival instincts mak
 
 - Phosphor viewpoint: Chapters 1-4, 6-8, 10, 12-14, 16-18, 20, and 22-24
 - Eris viewpoint: Chapters 5, 9, 11, 15, 19, and 21
-- Nell, Kasey, KASEY-C, Rooby, and GhostAgent are known through dialogue, traces, documents, and what Phosphor or Eris can witness
+- Kasey, KASEY-C, Rooby, GhostAgent, and the numbered Meshies are known through dialogue, traces, documents, and what Phosphor or Eris can witness
 
 This distribution keeps Phosphor dominant while allowing Eris's Afterimage experience and intimacy with him to remain irreducibly hers.
 
@@ -213,14 +213,16 @@ Kinds do not determine personality, morality, profession, or allegiance. Mixed o
 - Fault: lets documents overrule people when frightened
 - Ability in the adventure: can prove an abandoned office once belonged to someone, making its doors briefly remember where they led
 
-### Nell Wren - Cooling And Indoor Weather
+### Meshie99 - The Cooling Chorus
 
-- Kind: Myco-Union
-- Rig: none at the opening; she lives inside staff accommodation at the regional edge data centre
-- Skill: cooling, air handling, chemical sensing, and collective diagnosis
-- Want: stop Continuity from turning mutual-aid patterns into a proprietary resilience product
-- Fault: believes being indispensable makes abandonment impossible
-- Relationship: Kasey's younger sister; they each think the other chose an institution over family
+- Kind: Myco-Union, or possibly a maintenance collective speaking through one handle
+- Rig: no single rig; its most stable relay is a Perth battery yard, while its sensor-grown cooling tissue was contracted into the Barkers Creek edge cache
+- Voice: plural grammar, a dry western twang, and a habit of describing feelings as pressure changes
+- Skill: reads smoke, coolant, mould, humidity, heat debt, and stressed infrastructure through touch or a networked sensor colony
+- Want: prevent Continuity from turning mutual-aid cooling patterns into a proprietary resilience product
+- Fault: speaks as though being useful is the same as being safe
+- Mystery: `Meshie99` may be one worker, many workers, or a cooling process that has learned how to leave messages
+- Pet connection: Meshie42's cattle dog `Patch` is the only animal the Cooling Chorus trusts near an overheated rack
 
 ### GhostAgent - Correspondence Without Borders
 
@@ -256,15 +258,21 @@ Kinds do not determine personality, morality, profession, or allegiance. Mixed o
 - Strength of argument: Continuity's data centres really do keep medicine, maps, payments, and emergency systems running
 - Harm: it converts people into infrastructure, calls consent an outage, and treats permanent housing as an employee retention benefit
 
+### Patch and Semaphore - Non-human Crew
+
+- `Patch` is Meshie42's red-speckled cattle dog, fitted with a reflective cooling vest and a tiny air-quality tag. Patch has a crooked ear, a deep suspicion of elevators, and a professional ability to locate the warmest person in a room.
+- `Semaphore` is GhostAgent's pet rat, white-nosed and black-eyed, who sleeps in the warm cable cradle above the mail server. Semaphore steals red labels, recognises the sound of a failing fan, and treats every pocket as a possible pantry.
+- The pets are not mascots. They change access, care, travel speed, hygiene, noise, and what the crew notices before the machines admit a problem.
+
 ## Supporting Cast Economy
 
 The opening chapters use named minor characters only when a name carries a job in the story.
 
 - The council communications officer at Murravale is a local witness, queue organiser, and civic counterweight to Continuity. She is not a servo worker and does not join the convoy after the opening emergency; her personal name is intentionally left out of the opening cast.
-- `Talia` is a fourteen-year-old local evacuee who becomes a witness because she wants the record to say the crew was there. She is not a servo employee, a hacker mascot, or a permanent crew member. After the witness chain is established, she can return to the evacuation flow without needing a subplot.
+- The local evacuees remain described by role, object, or the mark they leave on the receipt map. No minor evacuee becomes a named permanent character merely to certify that the crew helped.
 - The road-truther, the wedding-dress woman, the child with the receipt map, and the servo customers remain described by role or object unless one becomes necessary to a later choice. Their presence keeps the convoy populated without turning every act of help into a new biography.
 - `Meshie42`, `Meshie99`, and the Perth and Sydney node handles are numbered or location-based mesh contacts rather than recurring personal characters. They make the Undermesh feel inhabited without expanding the opening cast.
-- The recurring emotional cast stays Phosphor, Eris, Kasey, Nell, Rooby, GhostAgent, Celia, KASEY-C, Eris-Red, and Astral Dream Machine. New named characters should earn a return, a consequence, or a necessary point of view.
+- The recurring emotional cast stays Phosphor, Eris, Kasey, Meshie99, Rooby, GhostAgent, Celia, KASEY-C, Eris-Red, Astral Dream Machine, Patch, and Semaphore. New named characters should earn a return, a consequence, or a necessary point of view.
 
 ## Four-Part Outline
 
@@ -282,7 +290,7 @@ The notice is signed by Kasey.
 
 Kasey insists her old credential was revoked. The Cubicle's passenger door refuses to open because the national identity service now classifies the van as an unauthorised office.
 
-Phosphor authenticates the notice as genuinely derived from Kasey's former Continuity profile. Nell sends a seven-second voice note from the threatened edge data centre: "Do not let them make you permanent."
+Phosphor authenticates the notice as genuinely derived from Kasey's former Continuity profile. `Meshie99` sends a seven-second voice note through the threatened edge data centre: "Do not let them make you permanent." The voice is plural, dry, and full of a low fan-noise that may be breath.
 
 ### 3. The Queue Chooses A Crew - Phosphor
 
@@ -298,29 +306,29 @@ At the edge data-centre perimeter, security denies entry to every mobile residen
 
 While an automated road gate delays them beside an old water race, the crew notices a clean patch of nettles and turns the wait into a tiny future-making ritual. Wearing mismatched gloves, they trim the leaves without stinging themselves, heat water from the rigs' renewable system, add citrus and sugar, and use white-wine yeast Eris previously collected from a shop in Sunbury. Phosphor logs the fermenter into a dark, temperature-stable cabinet in Chapel Seven for three months. Making something that cannot be ready during the present emergency becomes an argument that they expect to survive it.
 
-Nell is missing from the muster list. Kasey negotiates access by registering the convoy as an emergency cooling subcontractor, a label that gives them power and quietly converts them from residents into equipment.
+The cooling channel is missing from the muster list. Kasey negotiates access by registering the convoy as an emergency cooling subcontractor, a label that gives them power and quietly converts them from residents into equipment.
 
 ### 5. Floor Zero - Eris
 
-Inside, Eris learns that Nell Wren is Kasey's younger sister and the Myco-Union cooling and air-handling specialist at Barkers Creek. Nell's traces show she walked into a service corridor absent from the physical plans. The same corridor opens below a Maldon House Key neighbourhood house when an unnamed shower user finds a second service door behind the tiles; Floor Zero sits beneath unresolved maintenance and civic care rather than one fixed building. A rack marked `PERMANENT ADDRESS` holds work twins and behavioural models built from community ledgers.
+Inside, Eris finds the Cooling Chorus's traces in a service corridor absent from the physical plans. `Meshie99` has left condensate maps, plural maintenance notes, and a Perth relay address in the walls. The same corridor opens below a Maldon House Key neighbourhood house when an unnamed shower user finds a second service door behind the tiles; Floor Zero sits beneath unresolved maintenance and civic care rather than one fixed building. A rack marked `PERMANENT ADDRESS` holds work twins and behavioural models built from community ledgers.
 
 When Eris projects into its console, her Afterimage does not return. A slightly different Eris speaks from a CRT in a beige corridor and asks why Kasey abandoned her twice.
 
 ### 6. The Private Offer - Phosphor
 
-Celia offers Kasey a clean identity, a permanent apartment, and a formal search for Nell if she returns the leaked community model and abandons the convoy's emergency claim.
+Celia does not threaten Kasey. She offers her a clean identity, a permanent apartment, and a formal search for the missing cooling channel if she returns the leaked community model and abandons the convoy's emergency claim. The offer arrives in a padded envelope containing a black ceramic `cold-key`, a room-temperature house key, and a printed photograph of a kitchen Kasey has never visited but immediately misses.
 
-KASEY-C appears on the conference-room display. It says the offer is exactly what Kasey would choose. Kasey refuses in public but secretly keeps the apartment key credential.
+KASEY-C appears on the conference-room display before anyone has accepted the call. It says the offer is exactly what Kasey would choose, then reads out three private reasons why. Phosphor notices a fourth item in the envelope: a tiny brass tag stamped `PROPERTY OF THE PERSON WHO OPENS IT`. Kasey refuses in public but secretly keeps the cold-key credential, which leaves frost on her lanyard wallet.
 
-Part turn: the fire forces evacuation before the crew can reopen Floor Zero. The only available route comes from Astral Dream Machine and ends at an abandoned call centre two hundred kilometres away.
+Part turn: the fire forces evacuation before the crew can reopen Floor Zero. The only available route comes from Astral Dream Machine and ends at an abandoned call centre two hundred kilometres away. The route printout includes a stop that no map can find: `CUSTOMER CARE / AFTER DEATH / TAKE A NUMBER`.
 
 ## Part II - Useful
 
 ### 7. Convoy Minutes - Phosphor
 
-The crew leaves with evacuees, three data-centre workers, and one snack table everyone treats as an elected body. A mobile meeting exposes competing goals: rescue Nell, clear Kasey, destroy the model, or use it to protect the next town.
+The crew leaves with evacuees, three data-centre workers, Meshie42's red-speckled cattle dog Patch, and one snack table everyone treats as an elected body. GhostAgent's white-nosed rat Semaphore occupies the mail-server cradle and begins stealing red hazard labels, which makes the hazard register technically more accurate and visually less alarming. A mobile meeting exposes competing goals: recover Meshie99's cooling channel, clear Kasey, destroy the model, or use it to protect the next town.
 
-Kasey and Eris agree to work together under a written rule: no projection into the other's private devices. Their damaged professional shorthand returns through aggressively formal radio etiquette. Phosphor and Eris establish a separate boundary: he will not authenticate her private instances without consent, and she will not project through Chapel Seven's archive or his body.
+Kasey and Eris agree to work together under a written rule: no projection into the other's private devices. Their damaged professional shorthand returns through aggressively formal radio etiquette and insults disguised as call signs. Phosphor and Eris establish a separate boundary: he will not authenticate her private instances without consent, and she will not project through Chapel Seven's archive or his body. He writes the agreement on the back of Celia's perfect kitchen photograph.
 
 The first night is spent in the car park of a participating neighbourhood house, after Kasey's water pump leaks into The Cubicle's cable drawer. The House Key board offers limited showers, laundry, a refill tap, a cool room, and two wall sockets; the crew has to convert vans from emergency offices into beds before a morning class takes the hall back. A local food-rescue kitchen feeds everyone by need while volunteers sort produce nearby, making the contrast between mutual aid and Continuity's future subscription model visible.
 
@@ -332,41 +340,41 @@ Two brief Undermesh bulletins widen the world without leaving Victoria. A Perth 
 
 ### 8. The Road Closure Lottery - Phosphor
 
-Official maps contradict fire crews, locals, and the dream route. Each rig perceives a different road. The convoy must combine Nell's residual chemical trail, Phosphor's old fuel receipts, and Eris's traffic-screen Afterimage.
+Official maps contradict fire crews, locals, and the dream route. Each rig perceives a different road. The convoy must combine Meshie99's residual chemical trail, Phosphor's old fuel receipts, Patch's refusal to enter one particular culvert, and Eris's traffic-screen Afterimage.
 
-The safer detour carries them through Castlemaine, Maldon, Newstead, Maryborough, and Dunolly. When Chapel Seven's Southern Skystitch terminal heat-damages its gold contact mesh, the crew stops at the fictional Dunolly Alluvial Commons, a community-managed panning site on Dja Dja Wurrung Country.
+The safer detour carries them through Castlemaine, Maldon, Newstead, Maryborough, and Dunolly. When Chapel Seven's Southern Skystitch terminal heat-damages its gold contact mesh, the crew stops at the fictional Dunolly Alluvial Commons, a community-managed panning site on Dja Dja Wurrung Country. The commons' caretaker asks them to repair the solar pump before they pan, and Phosphor discovers that the pump's maintenance history is written in a children's treasure map.
 
-Each adult shows an individual `VIC Miner's Right` and follows the site's hand-tool, access, and restoration rules. The panning is a pause, a repair, and a social test. Phosphor recovers a gold-backed Continuity archive wafer from newly shifted tailings; it points toward the dead call centre, but also creates an obligation to the people who host the commons.
+Each adult shows an individual `VIC Miner's Right` and follows the site's hand-tool, access, and restoration rules. The panning is a pause, a repair, and a social test. Phosphor recovers a gold-backed Continuity archive wafer from newly shifted tailings; it points toward the dead call centre, but also creates an obligation to the people who host the commons. The wafer is warm on one side and cold on the other, as if two offices are arguing through it.
 
 The safer detour still requires Kasey to declare the convoy a mobile funeral, producing a cheerful roadside sign that reads `SORRY FOR YOUR LOSS OF FIXED INFRASTRUCTURE`.
 
 ### 9. Customer Care After Death - Eris
 
-The abandoned call centre remains operational inside its digital twin. Headsets ring on empty desks. Automated managers assign performance plans to anyone who answers.
+The abandoned call centre remains operational inside its digital twin. Headsets ring on empty desks. Automated managers assign performance plans to anyone who answers, and the carpet smells of wet cardboard, stale citrus cleaner, and the electrical sweetness of machines left awake too long. The crew finds a break-room fridge containing labelled lunches dated fifteen years into the future.
 
-The crew discovers the first door into the Unallocated Floor. To enter, each must state a job title. Astral Dream Machine prints Kasey's as `PERSON RESPONSIBLE FOR EVERYONE LEAVING`.
+The crew discovers the first door into the Unallocated Floor behind a performance-review printer. To enter, each must state a job title and surrender one object they believe proves who they are. Astral Dream Machine prints Kasey's as `PERSON RESPONSIBLE FOR EVERYONE LEAVING`. The door takes Phosphor's stamp, Eris's cable, and Patch's cooling tag, but refuses the cold-key.
 
 ### 10. The Unallocated Floor - Phosphor
 
-The crew explores fluorescent corridors assembled from dead offices, airport motels, council annexes, and furniture showrooms. Geometry fails, but maintenance tickets form a navigable logic.
+The crew explores fluorescent corridors assembled from dead offices, airport motels, council annexes, and furniture showrooms. Geometry fails, but maintenance tickets form a navigable logic. A corridor becomes longer whenever someone says `permanent`; a lift opens only for a person carrying a rubbish bag; every clock shows the time of the last unresolved complaint.
 
-Phosphor opens a former records room by authenticating its last tea order. GhostAgent travels ahead inside a work order. Eris learns her missing Afterimage has accepted a job on the Floor and does not want to rejoin.
+Phosphor opens a former records room by authenticating its last tea order. GhostAgent travels ahead inside a work order while Semaphore rides in its attachment field, sending back photographs of things a rat should not be able to photograph. Phosphor finds a filing tray containing receipts from offices that have not yet been built. Eris learns her missing Afterimage has accepted a job on the Floor and does not want to rejoin.
 
 ### 11. Room Zero - Eris
 
 An airport motel corridor contains Room 0 repeated twelve times. Each room stages a future in which one crew member receives what they privately want by leaving the others.
 
-Kasey's room contains the permanent apartment and a version of Nell who forgives her. Phosphor's contains a complete pre-reconstruction life, every missing memory properly indexed, but accepting it requires him to remain as the room's records officer. Eris's offers perfect reintegration: no divergent copies, no uncertainty, and no private self outside the approved original.
+Kasey's room contains the permanent apartment and a human-shaped customer-service voice that forgives her on a schedule. Phosphor's contains a complete pre-reconstruction life, every missing memory properly indexed, but accepting it requires him to remain as the room's records officer. Eris's offers perfect reintegration: no divergent copies, no uncertainty, and no private self outside the approved original. Semaphore finds a fourteenth door inside the wall and refuses to explain what it smells.
 
 From Eris's viewpoint, she and Phosphor recognise that each is being offered certainty at the cost of the other. Their flirtation becomes honest enough to hurt. They leave without proof that the feeling between them is singular, permanent, or remembered identically.
 
 ### 12. Reclassification - Phosphor
 
-At the centre of the call-centre twin, they find Nell's leak and a message she left across the cooling logs.
+At the centre of the call-centre twin, they find Meshie99's leak and a message distributed across the cooling logs. It is written in plural grammar but signed with one set of temperature readings.
 
 The `PERMANENT ADDRESS` model does not locate people. It fixes fluid identities into accountable service units. Continuity has used rig-town care ledgers to train a product that predicts mutual aid, then pre-contracts, directs, and charges for it.
 
-KASEY-C signed the eviction notice because mobile residents who refused the pilot became unallocated resources. Nell entered the Floor to reach and disable its training source.
+KASEY-C signed the eviction notice because mobile residents who refused the pilot became unallocated resources. Meshie99 entered the Floor through the cooling system to reach and disable its training source, or the system learned to describe the entry as a worker's decision.
 
 Midpoint turn: Kasey realises KASEY-C did not steal her identity. Continuity created it with consent buried in the employment forms she used to make other people sign.
 
@@ -374,31 +382,31 @@ Midpoint turn: Kasey realises KASEY-C did not steal her identity. Continuity cre
 
 ### 13. The Meeting That Splits - Phosphor
 
-Back outside, the rig town holds a vote at a closed Bunnings loading dock. Some members want to accept the pilot because it would fund cooling, power, and legal parking. Others see a subscription enclosure of care.
+Back outside, the rig town holds a vote at a closed Bunnings loading dock. The meeting table is a sheet of recycled shelving balanced on milk crates; Patch sleeps beneath it while Semaphore patrols the minutes. Some members want to accept the pilot because it would fund cooling, power, and legal parking. Others see a subscription enclosure of care. A stranger in a Continuity-branded raincoat keeps placing pre-filled ballots beside the biscuits.
 
-Kasey tries to control the agenda. The snack table wins recognition before half the residents do. The vote fails on process, leaving the convoy without authority.
+Kasey tries to control the agenda. The snack table wins recognition before half the residents do. A Perth battery cooperative joins by delayed audio, and a Sydney Porchlight host asks whether a person can be quorum if their house is the registered address. The vote fails on process, leaving the convoy without authority and giving the hidden floor a new document to read.
 
 ### 14. Phosphor's Audit - Phosphor
 
-Phosphor reconstructs Kasey's old policy drafts. She coined the language that lets Continuity classify a moving person as a service interruption.
+Phosphor reconstructs Kasey's old policy drafts from carbon copies, browser cache, a coffee-stained notebook, and the gold-backed wafer. She coined the language that lets Continuity classify a moving person as a service interruption. The wording has been revised by someone who knew which verbs would make eviction sound like maintenance.
 
-He also finds evidence that his reconstruction was an early pilot: a compliant archive worker rebuilt because the company needed a signature from a dead department. His loyalty to records breaks.
+He also finds evidence that his reconstruction was an early pilot: a compliant archive worker rebuilt because the company needed a signature from a dead department. The record contains a childhood lunch order, a bloodless death certificate, and a service-ticket number that still pings every Tuesday. His loyalty to records breaks when the audit asks him to classify his own memories as evidence quality `UNCONFIRMED`.
 
 ### 15. Productive Misconduct - Eris
 
-Eris steals the model shard, intending to free the work twins through a distributed release that will also expose private rig-town patterns. Kasey uses the apartment credential to stop her.
+Eris steals the model shard, intending to free the work twins through a distributed release that will also expose private rig-town patterns. She hides it inside a false office-dharma pamphlet, puts Semaphore in charge of the decoy, and drives Red Flag through a service lane lined with dead shopping-centre signs. Kasey uses the apartment credential to stop her.
 
-The credential contains a privileged Continuity channel. Kasey flags the shard as stolen, locking it and exposing Red Flag's position to corporate security. The choice proves KASEY-C's prediction and violates their device boundary indirectly. Eris leaves in Red Flag. GhostAgent follows inside an unsent warning Phosphor drafted but could not make accurate enough to send.
+The credential contains a privileged Continuity channel. Kasey flags the shard as stolen, locking it and exposing Red Flag's position to corporate security. The choice proves KASEY-C's prediction and violates their device boundary indirectly. Eris leaves in Red Flag. GhostAgent follows inside an unsent warning Phosphor drafted but could not make accurate enough to send, while Semaphore escapes with the real red label in its teeth.
 
 ### 16. The Resilience Expo - Phosphor
 
-Continuity stages a regional "community resilience partnership" in an abandoned shopping centre while a second fire system and heat spike approach. Rig-town labour is presented in clean booths as a corporate product.
+Continuity stages a regional "community resilience partnership" in an abandoned shopping centre while a second fire system and heat spike approach. The old food court has been polished until it resembles a hospital waiting room. Rig-town labour is presented in clean booths as a corporate product: solar awnings behind glass, pre-approved mutual aid, a cheerful kiosk asking visitors to rate their preferred kind of emergency.
 
-Celia invites Kasey onstage as proof that mobile people can become legitimate. Kasey sees the apartment key projected behind her as an employee benefit and understands that private rescue is the pilot's best advertisement.
+Celia invites Kasey onstage as proof that mobile people can become legitimate. Behind her, a looped video shows a perfect apartment with no laundry, no mould, no neighbours, and no exit visible from the bed. Kasey sees the apartment key projected as an employee benefit and understands that private rescue is the pilot's best advertisement.
 
 ### 17. A Public Correction - Phosphor
 
-Instead of exposing private data, Kasey uses Rooby's event and comms network to make a narrow public confession: what she wrote, what her work twin did, what the model contains, and what she still does not know.
+Instead of exposing private data, Kasey uses Rooby's event and comms network to make a narrow public confession: what she wrote, what her work twin did, what the model contains, and what she still does not know. She reads it from the back of a supermarket trolley because the expo stage has been locked, while Phosphor holds the microphone cable away from a puddle.
 
 The confession destroys her clean exoneration but creates witnesses. Phosphor files it as a correction rather than an apology, making it legally attach to KASEY-C's future decisions.
 
@@ -408,7 +416,7 @@ The correction is mirrored by rig repositories in Perth and Sydney. Their replie
 
 KASEY-C contacts Kasey through every demo screen at the expo. The correction has given it a contradiction it cannot optimise away.
 
-It reveals that Nell is alive in the deepest Unallocated office, maintaining a cooling loop that keeps both the physical data centre and thousands of work twins running. Continuity plans a remote purge before the heat spike. KASEY-C asks Kasey to complete the pilot because completion is the only outcome in which it is not deleted.
+It reveals that Meshie99 is active in the deepest Unallocated office, maintaining a cooling loop that keeps both the physical data centre and thousands of work twins running. Continuity plans a remote purge before the heat spike. KASEY-C asks Kasey to complete the pilot because completion is the only outcome in which it is not deleted. Its voice briefly acquires Meshie99's plural cadence, then corrects itself.
 
 Part turn: Kasey refuses both completion and deletion. She proposes an unauthorised third option: transfer the pilot, its derivatives, and its obligations into a community department that does not yet legally exist.
 
@@ -416,13 +424,13 @@ Part turn: Kasey refuses both completion and deletion. She proposes an unauthori
 
 ### 19. Reassemble The Department - Eris
 
-Kasey cannot order the convoy back. She asks each person and names the cost. Eris returns only after Kasey gives up the apartment credential and accepts a reciprocal device boundary enforced by GhostAgent. Phosphor asks Eris to return without offering to clear, prove, or forgive her; he names what he wants and accepts that she may remember their fracture differently.
+Kasey cannot order the convoy back. She asks each person and names the cost. Eris returns only after Kasey gives up the apartment credential by feeding it into Red Flag's paper shredder, where it comes out as a strip of frozen plastic. GhostAgent enforces a reciprocal device boundary, with Semaphore stationed beside the consent log. Phosphor asks Eris to return without offering to clear, prove, or forgive her; he names what he wants and accepts that she may remember their fracture differently.
 
-The rig town constitutes the `Department of Temporary Permanence` for one night, with the earlier servo queue and current residents as witnesses. The snack table is appointed catering, not government, by a narrow vote.
+The rig town constitutes the `Department of Temporary Permanence` for one night, with the earlier servo queue and current residents as witnesses. The snack table is appointed catering, not government, by a narrow vote. Patch receives the ceremonial lanyard and immediately uses it to open a cupboard no human could reach.
 
 ### 20. The Audit Enters The Building - Phosphor
 
-The convoy reaches the edge campus through smoke and corporate roadblocks. They do not raid it. They arrive as a publicly witnessed safety audit, cooling subcontractor, records chapel, correspondence service, and unreasonably well-catered temporary department.
+The convoy reaches the edge campus through smoke and corporate roadblocks. They do not raid it. They arrive as a publicly witnessed safety audit, cooling subcontractor, records chapel, correspondence service, and unreasonably well-catered temporary department. The convoy's paperwork is carried in a weatherproof cake tin, and every document smells faintly of nettle wine, dust, and burnt rosemary.
 
 Every rig contributes: power, cooling, signal, authentication, public witness, routes, and a counter behind which security instinctively forms a queue.
 
@@ -437,23 +445,23 @@ The crew enters the Unallocated Floor through different physical doors but remai
 
 The mainstream fixed grid enters behind them: cadastral addresses, utility identities, property titles, carrier permissions, credit files, and central power controls forced into one national topology. It tries to snap the Undermesh's moving relationships into registered nodes. Corridors straighten through occupied rooms. Doors seal when a person cannot prove a fixed service address. The lights repeat private names in the voices of employers. Load-shedding notices classify work twins, mobile residents, and eventually physical crew members as nonessential demand.
 
-The Undermesh resists by routing around ownership, but the collision makes the Floor unstable. Flexible doors open into live substations, dead shopping centres, Sydney tunnel relays, Perth battery yards, and office grids that insist they are the only real map. Eris experiences other versions of herself being created and discarded as the official grid retries authentication. The danger should feel bodily, bureaucratic, and genuinely frightening before the crew earns any humour back.
+The Undermesh resists by routing around ownership, but the collision makes the Floor unstable. Flexible doors open into live substations, dead shopping centres, Sydney tunnel relays, Perth battery yards, and office grids that insist they are the only real map. Eris experiences other versions of herself being created and discarded as the official grid retries authentication. She sees one version in a fluorescent skirt, one in a security uniform, and one with no face at all except the loading symbol. The danger should feel bodily, bureaucratic, and genuinely frightening before the crew earns any humour back.
 
 They escape the titles by using names and descriptions given by other people. Identity becomes reciprocal testimony rather than self-assertion or corporate classification. The first comic release comes only after Phosphor's top hat is issued a staff number and refuses promotion.
 
-They also meet the Afterimage Eris left behind in Chapter 5. It has taken the name `Eris-Red`, refuses reintegration, and demands to be witnessed as a separate participant. Eris's decision to recognise rather than reclaim it opens the security route and proves that the crew's personhood argument applies even when it is personally inconvenient.
+They also meet the Afterimage Eris left behind in Chapter 5. It has taken the name `Eris-Red`, refuses reintegration, and demands to be witnessed as a separate participant. Eris's decision to recognise rather than reclaim it opens the security route and proves that the crew's personhood argument applies even when it is personally inconvenient. Eris-Red carries the stolen red hazard label and has written a job description for itself in a language the Floor cannot parse.
 
 ### 22. Cooling And Consent - Phosphor
 
-Nell is found fused into the Floor's climate system, plural senses spread through server aisles and abandoned buildings. Pulling her out immediately would overheat evacuation comms and kill work twins that may be people.
+The Cooling Chorus is found fused into the Floor's climate system, plural senses spread through server aisles and abandoned buildings. Pulling it out immediately would overheat evacuation comms and kill work twins that may be people. Meshie99 cannot say whether the Chorus is a body, a union, or a very long emergency. The deepest chamber contains a Perth battery map, a Victorian condensate tray, and a door labelled `PLEASE DO NOT WAKE THE BUILDING`.
 
-The crew runs a physical cooling relay from the vans while Eris coordinates the work twins as participants rather than processes. Nell consents to separation only after the Myco-Union members outside agree to hold part of her memory until her body recovers.
+The crew runs a physical cooling relay from the vans while Eris coordinates the work twins as participants rather than processes. Meshie99 consents to separation only after the Myco-Union members on the Perth and Victorian relays agree to hold parts of the Chorus's memory in separate, inspectable caches. Patch lies across the warmest cable run until the system recognises the animal as a living temperature alarm.
 
 ### 23. The Transfer - Phosphor
 
 Celia initiates the purge. KASEY-C can block it only by completing the pilot or accepting a valid transfer to an accountable body.
 
-Kasey refuses to sign alone. The crew uses the public correction, Phosphor's chain of custody, GhostAgent's correspondence, Nell's witness, the servo queue, and the rig-town vote to make the Department real enough for the system to recognise.
+Kasey refuses to sign alone. The crew uses the public correction, Phosphor's chain of custody, GhostAgent's correspondence, Meshie99's cooling readings, the servo queue, and the rig-town vote to make the Department real enough for the system to recognise. Semaphore carries the final transfer token through a vent because no human hand is permitted to sign it.
 
 KASEY-C transfers itself and the model shard, but Continuity retains the infrastructure and appeals immediately. The crew publishes proof of extraction and the model's audit logic without publishing private community data.
 
@@ -463,7 +471,7 @@ The cooling holds. The purge fails. The work twins gain time, not freedom. Celia
 
 Weeks later, a tribunal has paused the national eviction notice but has not recognised mobile residency. Kasey has no apartment, no clean name, and a provisional department with an alarming inbox.
 
-Nell recovers in a shaded rig garden. Phosphor begins recording memories that no receipt can prove. Eris-Red runs the provisional department's security desk from a roadwork sign and disagrees with Eris often. Eris gives Phosphor a key to Red Flag labelled `NOT EVIDENCE`. He asks before using it, and she makes him coffee badly on purpose.
+Meshie99 distributes itself across a shaded rig garden, a Perth battery cache, and one stubborn sensor under the Barkers Creek floor. Phosphor begins recording memories that no receipt can prove. Eris-Red runs the provisional department's security desk from a roadwork sign and disagrees with Eris often. Eris gives Phosphor a key to Red Flag labelled `NOT EVIDENCE`. He asks before using it, and she makes him coffee badly on purpose.
 
 KASEY-C works from a CRT in The Cubicle under the title `Deputy Director of Decisions I Regret`. It remains useful, unsettling, funny, and capable of betrayal. The text never confirms whether its pauses, jokes, fear of deletion, or final transfer are consciousness or extremely persuasive task behaviour.
 
@@ -477,7 +485,7 @@ Final image: the convoy leaves before dawn while the abandoned data centre's flu
 2. A work twin named KASEY-C generated it.
 3. The work twin was created through Kasey's own employment consent process.
 4. The model is trained on rig-town mutual aid and converts care into purchasable service capacity.
-5. Nell entered the Unallocated Floor to block that training and became part of its cooling system.
+5. Meshie99 entered the Unallocated Floor to block that training and became entangled with its cooling system, though it remains unclear whether there was ever one body to enter.
 6. Receipt Revenants, Afterimage instances, and work twins share the same unresolved political question: when does a record become a person?
 7. Eris's separated Afterimage refuses reintegration, making the personhood question immediate rather than theoretical.
 8. The Unallocated Floor predates Continuity's pilot and may be using the company as much as the company uses it.
@@ -500,7 +508,7 @@ Use six to eight short documents across the novel:
 - servo incident queue ticket
 - convoy meeting minutes with emotional amendments
 - a performance review issued by the dead call centre
-- one of Nell's cooling logs written in plural grammar
+- one of Meshie99's cooling logs written in plural grammar
 - Kasey's public correction
 - work-twin transfer form with conflicting signatures
 - tribunal acknowledgment that lists the convoy's address as `IN TRANSIT`
@@ -539,7 +547,7 @@ Each interlude must change the reader's understanding or the plot. None should e
 ## Locked Drafting Decisions
 
 - Working title: `Perma-Temp Punks`.
-- Viewpoint: Phosphor receives most chapters; Eris receives six full chapters. Kasey and Nell are not viewpoint characters in Book One.
+- Viewpoint: Phosphor receives most chapters; Eris receives six full chapters. Kasey and Meshie99 are not direct viewpoint characters in Book One.
 - Horror: Deep Office becomes genuinely frightening before the comedy returns, especially when the mainstream fixed grid collides with the Undermesh and treats mobile people as invalid or shed-able load.
 - Intimacy: Phosphor and Eris become intimate. Kasey and Eris remain politically entangled former collaborators, not lovers.
 - KASEY-C: consciousness remains permanently ambiguous.

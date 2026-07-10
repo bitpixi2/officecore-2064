@@ -388,9 +388,9 @@ Kasey looked at the people gathered under the servo awning. The council communic
 
 The message began with static, then a hum like a refrigerator full of bees.
 
-Nell's voice came through thinner than it should have been.
+Meshie99's voice came through thinner than it should have been, plural at the edges and carrying the low hum of a failing cooling fan.
 
-"Kas. Don't let them make you permanent."
+"Kas. Don't let them make you permanent. We are still cooling."
 
 Then the message cut out.
 

@@ -106,7 +106,7 @@ The officer looked at the list. Then she looked beyond it, across Murravale's as
 
 The servo's old gold-and-red fascia was barely visible beneath the ash. Beyond it, the road ran past a low line of tailings and vanished toward Castlemaine in a wall of brown-orange smoke. Solar panels folded over camper roofs like dark wings. Some of those roofs held paid work that could not be allowed to fail: clinic fridges, an evacuation spreadsheet, a repair invoice waiting for signal, a child's bedtime light. By dusk, the same roofs would have to power fans, kettles, and beds. The chrome caravan at the lot's edge had woken beneath its foil tarp; a string of blue route-lights pulsed slowly around its windscreen, as if it were dreaming in public.
 
-At the far end of the forecourt, Kasey had made a third queue with three battered tubs and a cardboard sign rescued from the sausage-roll cabinet: `REUSE / HAZARD / BIN`. It was not an inspiring command post, but people used it. Talia brought over two dead torch cells. The road-truther asked whether a cracked phone case counted as repair stock. The council communications officer, who had spent the morning routing human panic, stood beside the tubs and began issuing instructions about food scraps with the solemnity of a minister opening parliament.
+At the far end of the forecourt, Kasey had made a third queue with three battered tubs and a cardboard sign rescued from the sausage-roll cabinet: `REUSE / HAZARD / BIN`. It was not an inspiring command post, but people used it. The girl in the oversized raincoat brought over two dead torch cells. The road-truther asked whether a cracked phone case counted as repair stock. The council communications officer, who had spent the morning routing human panic, stood beside the tubs and began issuing instructions about food scraps with the solemnity of a minister opening parliament.
 
 Phosphor understood why Kasey had done it. The convoy did not become a town because it had matching lanyards. It became one because someone remembered that the future contained other people, other taps, other drains, and another morning.
 
@@ -134,11 +134,11 @@ The gold icon brightened.
 
 On the forecourt, the girl who had written the route times lifted her hand. "Can I be a witness?"
 
-Her name was Talia, Phosphor discovered when the officer showed him the water-bottle label she had been using as a badge. She was fourteen, a local evacuee rather than a servo volunteer or employee, and had a raincoat too large for her. She had also become better at timekeeping than most public systems.
+She was fourteen, a local evacuee rather than a servo volunteer or employee, and had a raincoat too large for her. She had become better at timekeeping than most public systems, using a water-bottle label as a badge.
 
 Kasey crouched beside her. "You do not have to go to Barkers Creek."
 
-"I don't want to go to Barkers Creek," Talia said quickly. "I want to say you were here."
+"I don't want to go to Barkers Creek," the girl said quickly. "I want to say you were here."
 
 The sentence reached Phosphor with peculiar force.
 
@@ -146,7 +146,7 @@ He had been made from people saying he had been somewhere. On a payroll. At a me
 
 "That is exactly what a witness does," he said.
 
-Talia printed her name under the officer's.
+The girl printed a careful mark under the officer's.
 
 The folder spine changed again.
 
@@ -180,11 +180,11 @@ The road-truther looked toward the road, then back at the page. "Do I need one?"
 
 He gave Phosphor a name, a time, and the exact colour the fire had been when it crossed the ridge. Phosphor wrote the useful parts down and left the rest out of the public record.
 
-By the time the first water crate was empty, the roster had become a small crowd around the fold-out desk. Chapel Seven's black flank reflected them in warped fragments: the officer's ash-streaked polo, Talia's yellow raincoat, the road-truther's high-vis vest, Kasey's pale rolled sleeves, Eris's copper-blonde hair caught in Red Flag's golden light. Beneath the desk, Phosphor could see the equipment that would have to disappear before he slept: the tea tray strapped into its crash cradle, the printer ribbon case, the water filter, the bunk latch. Beyond the reflections, the chapel's brass rails and old velvet tracks made the cramped office look half like a records office and half like a very serious travelling circus.
+By the time the first water crate was empty, the roster had become a small crowd around the fold-out desk. Chapel Seven's black flank reflected them in warped fragments: the officer's ash-streaked polo, the girl's yellow raincoat, the road-truther's high-vis vest, Kasey's pale rolled sleeves, Eris's copper-blonde hair caught in Red Flag's golden light. Beneath the desk, Phosphor could see the equipment that would have to disappear before he slept: the tea tray strapped into its crash cradle, the printer ribbon case, the water filter, the bunk latch. Beyond the reflections, the chapel's brass rails and old velvet tracks made the cramped office look half like a records office and half like a very serious travelling circus.
 
 Nobody was volunteering for Barkers Creek exactly. They were giving the crew pieces of the right to go.
 
-The officer witnessed the road closures. Talia witnessed the receipt map. The road-truther witnessed the western spur. The woman with the wedding dress witnessed that her grandmother's medication had been loaded onto the grey camper. A water runner, who had not asked for a role beyond carrying crates, signed as `SUPPLY TRANSFER / FOUR CRATES / NO COMPLAINTS`. Someone added a note beneath it saying `ONE COMPLAINT ABOUT LIFTING`, and the runner initialled the correction.
+The officer witnessed the road closures. The girl witnessed the receipt map. The road-truther witnessed the western spur. The woman with the wedding dress witnessed that her grandmother's medication had been loaded onto the grey camper. A water runner, who had not asked for a role beyond carrying crates, signed as `SUPPLY TRANSFER / FOUR CRATES / NO COMPLAINTS`. Someone added a note beneath it saying `ONE COMPLAINT ABOUT LIFTING`, and the runner initialled the correction.
 
 Eris read over the signatures. "Where is the repo?"
 
@@ -204,7 +204,7 @@ The folder emitted a small offended click.
 
 `ROOBY: Why three?`
 
-Talia, still holding the marker, said, "Because not everyone needs to see people's medicine."
+The girl, still holding the marker, said, "Because not everyone needs to see people's medicine."
 
 Kasey looked at her. "Exactly. Transparency is being able to inspect how a decision was made. It is not making everybody involved inspectable."
 
@@ -364,17 +364,17 @@ The road-truther offered, "Department of Getting There?"
 
 "Not a department," the officer said. "A prayer."
 
-Talia raised her hand again. "What about the Department of Everybody Who Has To Get There?"
+The girl raised her hand again. "What about the Department of Everybody Who Has To Get There?"
 
 Nobody laughed.
 
-Phosphor looked at the list. Kasey. Eris. Himself. Nell's message in the passenger display. The people who would not be going but had signed their names so someone could later ask why.
+Phosphor looked at the list. Kasey. Eris. Himself. Meshie99's message in the passenger display. The people who would not be going but had left marks so someone could later ask why.
 
 "It is accurate," he said.
 
-Kasey looked at Talia. "Would you mind if we shortened it a little?"
+Kasey looked at the girl. "Would you mind if we shortened it a little?"
 
-Talia thought about that. "Only if you don't make it boring."
+The girl thought about that. "Only if you don't make it boring."
 
 Kasey turned the red file around. She took Phosphor's pen without asking, which he allowed because the incident had escalated beyond stationery etiquette.
 
@@ -448,7 +448,7 @@ Kasey read the invoice. Her expression did not soften, but some of the pressure 
 
 "Send it," Kasey said.
 
-Phosphor put his stamp beside the bottom line. The officer signed as witness. Talia signed below the officer, carefully copying the shape of the letters. Eris wrote `DO NOT SEPARATE` in the delivery notes, then drew an arrow toward Kasey's name and refused to explain it.
+Phosphor put his stamp beside the bottom line. The officer signed as witness. The girl made her careful mark below the officer's. Eris wrote `DO NOT SEPARATE` in the delivery notes, then drew an arrow toward Kasey's name and refused to explain it.
 
 Kasey signed last.
 
@@ -468,7 +468,7 @@ Under it, a new section had appeared.
 
 `CHAIN OF CUSTODY`
 
-He expected the officer. Talia. Kasey. The servo register. The Skystitch panel.
+He expected the officer, the local witness, Kasey, the servo register, and the Skystitch panel.
 
 Instead, the first entry read:
 
