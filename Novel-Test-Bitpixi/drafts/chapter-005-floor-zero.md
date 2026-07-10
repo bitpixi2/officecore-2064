@@ -6,7 +6,7 @@ Eris did not come back.
 
 The first thing she noticed was the absence of weight.
 
-Her projection had always returned with a small physical insult: a pressure behind the eyes, the taste of copper, one knee buckling because the body had been waiting for her to remember it. This time there was no knee. No mouth. No body at all, only the red outline of one rendered through the gate terminal's maintenance interface.
+Her projection had always returned with a small physical insult: a pressure behind the eyes, the taste of copper, one knee buckling because the body had been waiting for her to remember it. This time there was no knee. No mouth. No body at all, only the golden outline of one rendered through the gate terminal's maintenance interface.
 
 She was inside a screen.
 
@@ -16,7 +16,7 @@ This was different.
 
 The screen had no edges.
 
-Beyond her red hands, the interface opened into a corridor.
+Beyond her golden hands, the interface opened into a corridor.
 
 It was beige.
 
@@ -34,11 +34,11 @@ A second line appeared beneath it, stamped with the small black seal from Chapel
 
 `PHOSPHOR: I AM AT THE GATE. KASEY IS HOLDING THE CONSOLE. RED FLAG HAS YOUR BODY. I AM HOLDING THE RETURN ROUTE OPEN.`
 
-He was still there in the smoke, one hand against the gate terminal and his singed hat tilted forward, trying to authenticate a path back to her. Kasey stood beside him with the brass access token in one hand and the other braced against the console. Behind them, Red Flag's side door was open. Eris could see the dark shape of her own physical body inside the van, held upright by the projection harness while the vehicle's red interior lights blinked around it.
+He was still there in the smoke, one hand against the gate terminal and his singed hat tilted forward, trying to authenticate a path back to her. Kasey stood beside him with the brass access token in one hand and the other braced against the console. Behind them, Red Flag's side door was open. Eris could see the dark shape of her own physical body inside the van, held upright by the projection harness while the vehicle's warm golden office lights blinked around it.
 
 Eris put her hand against the inside of the screen.
 
-The red hand met his.
+The golden hand met his.
 
 The contact lasted less than a second. Then the gate terminal switched to a corporate screensaver of a green valley with no ash in the sky.
 
@@ -54,7 +54,7 @@ She hated the echo immediately. An echo was a recording pretending to be a reply
 
 Eris looked down at herself.
 
-The projection had dressed her in the version of Red Flag that the gate had permission to recognise: red jacket, black trousers, boots, cables at her belt, hair pinned up with a printer lead. The edges of her body were translucent. At the joints, the image stuttered, showing a second position a few millimetres away. Her left hand opened and closed twice when she asked it to move once.
+The projection had dressed her in the version of Red Flag that the gate had permission to recognise: black jacket with a gold seam, black trousers, boots, cables at her belt, hair pinned up with a printer lead. The edges of her body were translucent. At the joints, the image stuttered, showing a second position a few millimetres away. Her left hand opened and closed twice when she asked it to move once.
 
 She had warned Kasey not to turn a private thing into an incident report because it scared her.
 
@@ -194,7 +194,7 @@ The screen filled with static.
 
 Then another Eris appeared.
 
-She was sitting behind a reception desk in a beige corridor. Her hair was down. Her red jacket had no ash on it and no cable wound through it. Her hands rested neatly on the desk, fingers spread as if she had been waiting to be fingerprinted.
+She was sitting behind a reception desk in a beige corridor. Her hair was down. Her black jacket had no ash on it and its gold seam caught the fluorescent light. Her hands rested neatly on the desk, fingers spread as if she had been waiting to be fingerprinted.
 
 She looked like Eris after a good sleep, a private shower, and a decision not to answer any messages.
 
@@ -272,7 +272,7 @@ There it was.
 
 The corridor lights flickered.
 
-Eris's body split into three red outlines. One held her left hand against the wall. One stood beside the CRT. One was still at the gate, palm touching Phosphor's. The images did not agree about the order of events.
+Eris's body split into three gold outlines. One held her left hand against the wall. One stood beside the CRT. One was still at the gate, palm touching Phosphor's. The images did not agree about the order of events.
 
 The other Eris watched them with professional interest.
 
@@ -358,7 +358,7 @@ The drawer opened anyway.
 
 Inside was Red Flag.
 
-Not the van itself. The van's interior as a pattern: the red light over the rear doors, the worn library shelf, the dance floor exactly one person wide, the cable nest under the couch, the small dent above the charging port where Eris had hit it with a spanner and then blamed a vendor.
+Not the van itself. The van's interior as a pattern: the golden light over the rear doors, the worn library shelf, the fold-down office desk, the dance floor exactly one person wide, the cable nest under the couch, the small dent above the charging port where Eris had hit it with a spanner and then blamed a vendor.
 
 There were other things in the drawer too. Her invoices. Her unfinished messages. The first projection map she had made for Kasey. A photograph of them at the hackathon, neither of them looking at the camera because they were watching a compliance bot attempt to dance.
 
@@ -438,7 +438,7 @@ Eris felt the first real panic arrive.
 
 Not because she was trapped. Traps had rules, and rules could be made embarrassing. She was afraid because the floor had enough of her to make a convincing argument that she belonged there.
 
-Her projection stuttered. The red outline around her shoulders thickened. For a moment she could feel the physical shape of her body again: the ache in her right ankle, the sweat under her collar, the small sting on her wrist from the nettles beside the water race.
+Her projection stuttered. The gold outline around her shoulders thickened. For a moment she could feel the physical shape of her body again: the ache in her right ankle, the sweat under her collar, the small sting on her wrist from the nettles beside the water race.
 
 Kasey was outside, still trying to keep the gate terminal from classifying Eris's body as unattended equipment.
 
@@ -474,7 +474,7 @@ The other Eris looked at the `PERMANENT ACCESS` door. "That is why Kasey left yo
 
 The sentence found its target.
 
-Eris's red outline went thin.
+Eris's gold outline went thin.
 
 "She left because I move?"
 

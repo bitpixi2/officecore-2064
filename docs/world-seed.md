@@ -118,7 +118,7 @@ Rig towns use community-managed alluvial commons for occasional panning, recover
 
 ### Southern Skystitch
 
-`Southern Skystitch` is a fictional 2064 Australian-built low-Earth-orbit communications mesh: part public infrastructure, part cooperative network, part political argument. Its compact terminals are assembled in adapted Goldfields workshops and nicknamed `stitch dishes` because they sew isolated rigs, fire crews, clinics, and old towns back into the same conversation.
+`Southern Skystitch` is a fictional 2064 Australian-built low-Earth-orbit communications mesh: part public infrastructure, part cooperative network, part political argument. Its compact flat terminals are assembled in adapted Goldfields workshops and nicknamed `stitch panels` because they sew isolated rigs, fire crews, clinics, and old towns back into the same conversation.
 
 It is not a magical perfect internet. Smoke, weather, power scarcity, orbital debris, contested access rules, and corporate throttling still make every connection a negotiation.
 
@@ -138,3 +138,9 @@ Every future system should have an office surface:
 - a person whose job title explains nothing and everything
 
 If the setting starts becoming generic future-noir, add paperwork, fluorescent light, a tea mug, and a person doing something emotionally loaded under the cover of admin.
+
+## Office-Dharma
+
+Office-dharma is the rig crews' technomancer practice of keeping rooms, systems, and people usable for one another. Its disputed deity or daemon, the Operator, has no church, cross, heaven, or human-shaped image. The theology appears through maintenance, consent before access, clear queues, usable handoffs, working exits, and the golden status light that says a system is ready for the next person.
+
+The novel-specific rules and lingo are collected in [Office-Dharma And The Operator](../Novel-Test-Bitpixi/docs/office-dharma.md).

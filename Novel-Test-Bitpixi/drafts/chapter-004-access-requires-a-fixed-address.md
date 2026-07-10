@@ -28,7 +28,7 @@ Kasey climbed into The Cubicle. "Then we will be efficient until half past five 
 
 The teenager lifted the marker. "Too late."
 
-Red Flag rolled out behind The Cubicle, its old library silhouettes slipping through the smoke in red and cream. Chapel Seven followed. Astral Dream Machine brought up the rear without agreeing that it had joined them. Its chrome body reflected a road that was not presently there.
+Red Flag rolled out behind The Cubicle, its old library silhouettes slipping through the smoke in golden light and cream. Chapel Seven followed. Astral Dream Machine brought up the rear without agreeing that it had joined them. Its chrome body reflected a road that was not presently there.
 
 Phosphor drove with the incident file under his desk and the impossible date under his skin. He kept reaching for the radio to tell Eris what he had found, then remembering that she was three metres away in another vehicle and would hear the fear before the words. He had never learned how to carry a secret in a body that had been assembled from other people's paperwork.
 
@@ -280,7 +280,7 @@ Celia's image looked past Kasey as if the convoy were a spreadsheet opening behi
 
 Phosphor said, "The printer request is linked, not included."
 
-Celia's eyes moved to him. "Mobile Fax Chapel Seven. Replacement records function."
+Celia's eyes moved to him. "Mobile Office-Dharma Chapel Seven. Replacement records function."
 
 The phrase entered him cold.
 
@@ -374,7 +374,7 @@ Phosphor felt the same offence he had felt inside Kasey's profile: an absence wi
 
 "Then your interpretation of the sender is incorrect."
 
-Eris's image flickered across the gate terminal. Her Afterimage had projected before anyone could stop her. It moved behind the muster display, red and translucent, following maintenance references through the approved interface. On the physical side of the screen, Eris made a small helpless gesture with both hands, as if she had lost hold of a cup.
+Eris's image flickered across the gate terminal. Her Afterimage had projected before anyone could stop her. It moved behind the muster display, golden and translucent, following maintenance references through the approved interface. On the physical side of the screen, Eris made a small helpless gesture with both hands, as if she had lost hold of a cup.
 
 "Eris," Kasey said.
 
@@ -390,7 +390,7 @@ Rows of staff data peeled back. Under the complete muster sat a cooling work ord
 
 Eris's Afterimage turned toward Phosphor from inside the screen.
 
-For one second, the red version of her looked frightened.
+For one second, the golden version of her looked frightened.
 
 Phosphor put his hand against the glass. He did not authenticate her. He did not reach through. He only stayed where she could see him.
 

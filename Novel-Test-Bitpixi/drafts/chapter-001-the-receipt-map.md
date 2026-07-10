@@ -20,6 +20,8 @@ Only one of those claims was still true.
 
 Chapel Seven stood beside the diesel bowsers in its black, immaculate disapproval. It had once been a compact funeral coach, judging from the long silver rails beneath its windows and the improbable amount of suspension. Somebody had turned it into a mobile office chapel without removing the velvet curtain tracks, the brass handrails, or the small enamel lamp above the driver’s seat. Matte-black panels hid the solar cells. Cork-fibre insulation filled the old coffin rails; quilted thermal curtains sealed the cab from the office, keeping one small human-sized zone cool instead of attempting to refrigerate the entire history of the vehicle. Its wheels were dusted red from the Goldfields tracks; its chrome grille had been polished anyway.
 
+The chapel was not a church and Phosphor kept no cross, icon, or inherited god inside it. In the office-dharma tradition, a chapel was a mobile room reserved for records, repair, witness, and the restoration of usable exits. Phosphor's technomancer theology called its disputed presence the Operator: a god, goddess, daemon, or useful fiction that lived in the handoff between a person and the next action. He did not pray to it. He checked the power, cleared the desk, asked before opening a file, and left a blank sheet ready for whatever needed to be recorded next.
+
 On its roof, the Southern Skystitch terminal held a thin blue lock through the smoke: a flat Australian-built phased-array panel, assembled in some retooled workshop up Bendigo way and repaired by whoever could still read a maintenance ledger. There was no dish to turn and no satellite drama to perform; the panel simply changed its internal geometry until a route existed. Its solar awning was down. Its side hatch had been opened to reveal the fold-out desk, the CRT, the tea tray, the stamp pad, and the first four drawers of filing cabinets that went farther into the camper than any sensible architecture allowed. Behind the fifth drawer, a narrow bunk folded down over the cab. Beneath the desk, the induction plate, water tank gauge, and emergency towel rack waited for the day shift to end. Phosphor had spent the morning reconciling two clinic invoices and a small town's smoke-damaged appointment records; tonight he would latch the files into their ceiling rail, lower his bed, and hope the water pump did not resume its opinionated clicking. The interior smelled of old carpet, hot printer ribbon, lemon furniture polish, and the ghost of every tea Phosphor had ever made there. He had not eaten since a piece of toast before dawn, but there was a warm corner of sausage roll on the desk beside the thermos, and he kept forgetting to finish it. A row of wet shoes had appeared on the beige carpet tiles. Phosphor had allowed this because the alternative was leaving people in the smoke.
 
 He stood behind the desk in a dark technical suit cut close enough not to catch on the filing rails, a white shirt buttoned neatly at the throat despite the heat, and a black top hat with a narrow status band sewn into the satin. The coat's heat-responsive seams had given up trying to cool him and now blinked a tired green at his wrists. The hat gave strangers the impression that he had arrived from a much more orderly century. The lanyard at his waist, the ash on his cuffs, and the unsettling youth of his face corrected that impression on closer inspection.
@@ -112,9 +114,9 @@ Behind her, The Cubicle, her ex-NBN survey van, had its side panel open to form 
 
 The door clicked open with offended dignity.
 
-Eris was perched on the Cubicle's roof with one boot hooked under the roof rack. Red Flag, her old ex-library van, sat nearby in a spill of red interior light. The van's book-return slot had been welded shut and repurposed as a charging port. Faded silhouettes of reading children still ran along its lower panels beneath layers of stickers, arbitration notices, and a hand-painted red flag that had been touched up so often it looked alive. Through the rear doors, Phosphor could see tool drawers, old library shelving full of cables and zines, a velvet couch bolted to the floor, and the narrow strip of polished lino Eris insisted was a dance floor. At night the couch pulled flat, the dance floor became a passage to the fridge, and the top shelf of zines came down to make room for her projection rig. Red Flag looked festive until one noticed how carefully every object had been taught to live in the same metre of air.
+Eris was perched on the Cubicle's roof with one boot hooked under the roof rack. Red Flag, her old ex-library office van, sat nearby in a spill of warm golden light. The van's book-return slot had been welded shut and repurposed as a charging port. Faded silhouettes of reading children still ran along its lower panels beneath layers of stickers, arbitration notices, and a hand-painted red flag that had been touched up so often it looked alive. Through the rear doors, Phosphor could see tool drawers, old library shelving full of cables and zines, a fold-down office desk with two screens, a velvet couch bolted to the floor, and the narrow strip of polished lino Eris insisted was a dance floor. Occult desk manuals and library books leaned against vendor contracts, civic-game binders, and a labelled tray of adapters. At night the couch pulled flat, the dance floor became a passage to the fridge, and the top shelf of books came down to make room for her projection rig. Red Flag looked festive until one noticed how carefully every object had been taught to live in the same metre of air.
 
-She had a signal cable in one hand and a packet of salt-and-vinegar chips in the other. Her dark hair had been tied up with what appeared to be a printer cable. A silver ring flashed through one eyebrow when she grinned.
+She had a signal cable in one hand and a packet of salt-and-vinegar chips in the other. Her long copper-blonde hair had been tied up with what appeared to be a printer cable, loose strands bright in the van's golden spill. A silver ring flashed through one eyebrow when she grinned.
 
 "Good news," Eris said. "The road authority map is lying in three different fonts."
 
@@ -150,7 +152,7 @@ Phosphor retrieved a second cup from beneath the tea tray. "For the record, the 
 
 He poured. The coffee came out the colour of polished jarrah, with a thin cap of milk that trembled when the generator coughed. Kasey kept his cup. Eris accepted the second, blew across it, and regarded Phosphor over the rim.
 
-"You carry Melbourne coffee through the Goldfields in a funeral van," she said. "That is either devotion or evidence."
+"You carry Melbourne coffee through the Goldfields in an old records coach," she said. "That is either devotion or evidence."
 
 "Those categories overlap," Phosphor said.
 
@@ -220,7 +222,7 @@ Phosphor watched the process gather shape. This was the part no document ever ad
 
 He pressed his old brass stamp to the first receipt map.
 
-`MOBILE FAX CHAPEL NO. 7`
+`MOBILE OFFICE-DHARMA CHAPEL NO. 7`
 
 The letters came out dark and slightly crooked.
 
@@ -286,7 +288,7 @@ The forecourt went still in pieces. A woman near the water crates said, "What do
 
 Kasey was already reading. Her face had emptied of everything except concentration.
 
-Eris came to stand beside her. The red light from Red Flag made one side of her jaw look cut from glass.
+Eris came to stand beside her. The golden light from Red Flag made the copper in her hair look almost luminous.
 
 "Tell me that is fake," Eris said.
 

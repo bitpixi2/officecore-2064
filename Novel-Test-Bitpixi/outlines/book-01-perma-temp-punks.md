@@ -45,7 +45,7 @@ This is a statement of audience and experience, not an instruction to imitate th
 
 ## Logline
 
-In 2064, Phosphor, a reconstructed records worker living in a mobile fax chapel, authenticates an eviction notice banning an entire rig town from every registered address in Australia. The notice is signed by KASEY-C, a corporate work-twin built from his friend Kasey's stolen labour. To find Kasey's missing sister and discover why his own signature predates his existence, Phosphor joins a convoy of mobile civic departments crossing the Victorian Goldfields toward a burning data centre and the recursive Unallocated Floor, where abandoned offices are still processing people and every exit demands a job title.
+In 2064, Phosphor, a reconstructed records worker living in a mobile office-dharma chapel, authenticates an eviction notice banning an entire rig town from every registered address in Australia. The notice is signed by KASEY-C, a corporate work-twin built from his friend Kasey's stolen labour. To find Kasey's missing sister and discover why his own signature predates his existence, Phosphor joins a convoy of mobile civic departments crossing the Victorian Goldfields toward a burning data centre and the recursive Unallocated Floor, where abandoned offices are still processing people and every exit demands a job title.
 
 ## Central Question
 
@@ -99,6 +99,12 @@ That is also why Continuity Australia wants their data.
 `Southern Skystitch Mesh` is a fictional Australian-built low-Earth-orbit communications network. Its field terminals, known as `stitch panels`, are rugged, repairable, and assembled through retooled Goldfields workshops around Bendigo.
 
 The crew relies on Skystitch for Rooby's comms, maps, local caches, event feeds, and messages that deserve to have been drafts. Smoke, weather, heat, power, orbital congestion, access tiers, and damaged gold contact mesh can all degrade it. A stitch panel is infrastructure, but it is also an office object with a serial number, maintenance ledger, unpaid invoice history, and a political argument attached.
+
+### Office-Dharma
+
+Office-dharma is the rig crews' technomancer practice of keeping rooms, systems, and people usable for one another. Its disputed god, goddess, daemon, or useful fiction is called the Operator, the Open Loop, the Queue-Mother, or the Golden Operator. It has no church, cross, heaven, or human-shaped image. It appears in a clear handoff, a consented threshold, a working exit, a readable queue, and the golden status light that says a system is ready for the next person.
+
+Phosphor's Chapel Seven is named in this tradition: a mobile room reserved for records, repair, witness, and difficult work. Its rules are practical: check power and air, ask before access, name the next action, leave a usable handoff, and close one loop without silently creating three more. The full vocabulary and practices live in [Office-Dharma And The Operator](../docs/office-dharma.md).
 
 ### Rig Livelihoods
 
@@ -183,7 +189,9 @@ Kinds do not determine personality, morality, profession, or allegiance. Mixed o
 ### Eris - Office Of Productive Misconduct
 
 - Kind: Afterimage
-- Rig: `Red Flag`, a red-lit ex-library van with cable nests, civic-game equipment, tool drawers, and a dance floor exactly one person wide
+- Appearance: copper-blonde long hair, a charismatic systems vandal's wardrobe, and a warm golden glow that follows her into Red Flag's office
+- Rig: `Red Flag`, a golden-lit ex-library office van with cable nests, occult desk manuals, civic-game equipment, tool drawers, and a dance floor exactly one person wide
+- Office: a fold-down workstation, shared screens, binding-arbitration files, and a library of occult, technical, and office-dharma books arranged according to rules she refuses to explain
 - Skill: systems vandalism, social engineering, turning rules into games people can contest
 - Livelihood: mesh maintenance, privacy and accessibility audits, and difficult vendor remediation; gives away more technical help than her invoices admit
 - Want: free the work twins and expose Continuity's theft without handing private community data to the public
@@ -192,11 +200,12 @@ Kinds do not determine personality, morality, profession, or allegiance. Mixed o
 - Intimacy with Phosphor: begins as teasing fascination with his precision, deepens when he treats divergent Afterimages as testimony rather than corrupted copies, and becomes physically and emotionally intimate without demanding permanence or total access
 - Arc: from righteous unilateral action to negotiated trust without surrendering her edge
 
-### Phosphor - Mobile Fax Chapel No. 7
+### Phosphor - Mobile Office-Dharma Chapel No. 7
 
 - Kind: Receipt Revenant
-- Rig: `Chapel Seven`, an immaculate black camper with beige carpet tiles, tea, a CRT, a dot-matrix printer, and filing cabinets deeper than the vehicle
+- Rig: `Chapel Seven`, an immaculate black camper with beige carpet tiles, tea, a CRT, a dot-matrix printer, filing cabinets deeper than the vehicle, and no church symbols
 - Skill: archival authentication and impossible chains of custody
+- Office-dharma: treats the Operator as a technomancer presence in handoffs, queues, thresholds, and systems that fail gently; keeps a blank sheet on the desk for the next necessary record
 - Livelihood: reconstructs records, confirms chains of custody, and settles disputed maintenance histories; after work, his desk folds over the cab and a narrow bunk releases from the filing wall
 - Field history: carries fragmentary but vivid memories of a global systems expedition through windcatcher courtyards, wetlands, fire labs, alpine camps, and water infrastructure; answers emotional questions with thermal or maintenance analogies until stopped
 - Intimacy with Eris: drawn to her willingness to dispute a record and frightened by how many versions of a shared moment she may carry; must learn that intimacy is not chain of custody
