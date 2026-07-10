@@ -21,6 +21,7 @@ The first research and outlining pass is now available:
 - [Chapter Two: Acting Deputy Door](drafts/chapter-002-acting-deputy-door.md): Phosphor authenticates Kasey's impossible notice while the convoy loses its legal address and Nell sends a warning from the edge cache.
 - [Chapter Three: The Queue Chooses A Crew](drafts/chapter-003-the-queue-chooses-a-crew.md): a stranded servo crowd becomes the crew's witness body, and Phosphor finds his own impossible signature in the mandate.
 - [Chapter Four: Access Requires A Fixed Address](drafts/chapter-004-access-requires-a-fixed-address.md): the crew makes nettle wine beside a Goldfields water race before the edge data centre classifies them as cooling equipment.
+- [Chapter Five: Floor Zero](drafts/chapter-005-floor-zero.md): Eris projects into the edge cache's impossible service corridor and finds Nell's traces, the `PERMANENT ADDRESS` rack, and an Eris who stayed behind.
 - [Central Victorian Goldfields](locations/central-victorian-goldfields.md): regional Victorian anchors, historical care notes, Miner's Rights, panning, and the fictional Southern Skystitch satellite mesh.
 - [Rig-town livelihoods](locations/rig-town-livelihoods.md): how campervan crews earn, cook, sleep, repair their homes, use local support respectfully, and keep mutual aid from becoming a debt ledger.
 
