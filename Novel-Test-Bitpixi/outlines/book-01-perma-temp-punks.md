@@ -277,6 +277,8 @@ Before sending it, the crew divides the incident into a public route repo, an op
 
 At the edge data-centre perimeter, security denies entry to every mobile resident while accepting Celia Senn's remote authority from another state.
 
+While an automated road gate delays them beside an old water race, the crew notices a clean patch of nettles and turns the wait into a tiny future-making ritual. Wearing mismatched gloves, they trim the leaves without stinging themselves, heat water from the rigs' renewable system, add citrus and sugar, and use white-wine yeast Eris previously collected from a shop in Sunbury. Phosphor logs the fermenter into a dark, temperature-stable cabinet in Chapel Seven for three months. Making something that cannot be ready during the present emergency becomes an argument that they expect to survive it.
+
 Nell is missing from the muster list. Kasey negotiates access by registering the convoy as an emergency cooling subcontractor, a label that gives them power and quietly converts them from residents into equipment.
 
 ### 5. Floor Zero - Eris

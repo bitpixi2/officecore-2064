@@ -4,6 +4,8 @@ This folder is Bitpixi's prose test area for `officecore-2064`.
 
 Use it for rough novel material, scene fragments, voice tests, chapter sketches, character moments, and experiments that might later become part of the wider Officecore 2064 fiction project.
 
+![Perma-Temp Punks cover concept](assets/perma-temp-punks-cover.png)
+
 ## Working Boundary
 
 This is not final canon by default. It is a labelled test space so readers and contributors know the material is currently Bitpixi-led and exploratory.
@@ -18,6 +20,7 @@ The first research and outlining pass is now available:
 - [Chapter One: The Receipt Map](drafts/chapter-001-the-receipt-map.md): a Phosphor-led prose test with the bushfire servo opening, dialogue, Rooby, and Hackeroos support on comms.
 - [Chapter Two: Acting Deputy Door](drafts/chapter-002-acting-deputy-door.md): Phosphor authenticates Kasey's impossible notice while the convoy loses its legal address and Nell sends a warning from the edge cache.
 - [Chapter Three: The Queue Chooses A Crew](drafts/chapter-003-the-queue-chooses-a-crew.md): a stranded servo crowd becomes the crew's witness body, and Phosphor finds his own impossible signature in the mandate.
+- [Chapter Four: Access Requires A Fixed Address](drafts/chapter-004-access-requires-a-fixed-address.md): the crew makes nettle wine beside a Goldfields water race before the edge data centre classifies them as cooling equipment.
 - [Central Victorian Goldfields](locations/central-victorian-goldfields.md): regional Victorian anchors, historical care notes, Miner's Rights, panning, and the fictional Southern Skystitch satellite mesh.
 - [Rig-town livelihoods](locations/rig-town-livelihoods.md): how campervan crews earn, cook, sleep, repair their homes, use local support respectfully, and keep mutual aid from becoming a debt ledger.
 
