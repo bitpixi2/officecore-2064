@@ -65,6 +65,15 @@ Later proposals can add governance experiments, voting systems, civic games, led
 
 The first job is to decide what this should be and how decisions should be made. The goal is a shared work: part human, part agentic, collaborative from the beginning.
 
+## Bitpixi Test Folders
+
+These folders are Bitpixi-led experiments inside the wider shared world:
+
+- [Novel-Test-Bitpixi](Novel-Test-Bitpixi/): prose, chapter, scene, and voice experiments.
+- [Game-Test-Bitpixi](Game-Test-Bitpixi/): playable tabletop/story-game experiments, character creation, random tables, and encounters.
+
+They are not final canon by default. Treat them as labelled test areas that can inspire proposals, issues, pull requests, and later contributor agreements.
+
 ## Governance
 
 This project should invent its own lightweight governance as it grows. Propose how contributors should vote, approve canon, resolve conflicts, credit work, and decide whether the result becomes a novel, series, play, anthology, shared setting, or something else.

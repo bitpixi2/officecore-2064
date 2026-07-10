@@ -1,6 +1,6 @@
-# Officecore 2064 Game-Offshoot
+# Officecore 2064 Game Test - Bitpixi
 
-This folder is a playable story-game offshoot for `officecore-2064`.
+This folder is Bitpixi's playable story-game test area for `officecore-2064`.
 
 It turns the CyberCamper Village Swarm seed into a collaborative table kit: people, agents, and ridiculous Aussie campervans trying to keep each other alive, online, housed, credited, flirted with, and only mildly audited in 2064.
 
@@ -57,6 +57,10 @@ When the outcome matters, roll `2d6 + one stat`.
 - `6 or less`: a complication lands, but the crew learns something useful.
 
 Do not roll for basic competence. Roll when pressure, risk, comedy, attraction, public accountability, or unreliable infrastructure would make the result interesting.
+
+## Status
+
+This is a Bitpixi-led experiment, not a final shared canon layer. Other contributors can still propose riffs, rigs, encounters, or alternate rules, but this folder marks the game test as Bitpixi's current branch of exploration.
 
 ## Contributor Boundary
 

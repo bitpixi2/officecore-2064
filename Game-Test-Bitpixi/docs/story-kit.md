@@ -2,7 +2,7 @@
 
 Officecore 2064 is about mobile offices that should not work, people who need them to work anyway, and the weird social systems that grow when everyone is over-organised in a different key.
 
-The Game-Offshoot makes that playable.
+The Game Test - Bitpixi folder makes that playable.
 
 ## Table Promise
 

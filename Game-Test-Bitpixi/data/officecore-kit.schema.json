@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/bitpixi2/officecore-2064/Game-Offshoot/data/officecore-kit.schema.json",
-  "title": "Officecore 2064 Game-Offshoot Kit",
+  "$id": "https://github.com/bitpixi2/officecore-2064/Game-Test-Bitpixi/data/officecore-kit.schema.json",
+  "title": "Officecore 2064 Game Test - Bitpixi Kit",
   "type": "object",
   "additionalProperties": false,
   "properties": {
