@@ -10,6 +10,8 @@ Use it for rough novel material, scene fragments, voice tests, chapter sketches,
 
 This is not final canon by default. It is a labelled test space so readers and contributors know the material is currently Bitpixi-led and exploratory.
 
+**Draft notice:** The complete 24-chapter working draft has not been proof-read yet at all. Expect typos, continuity roughness, repeated phrasing, and passages that still need editorial revision.
+
 ## Useful Starting Points
 
 The first research and outlining pass is now available:
