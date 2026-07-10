@@ -143,4 +143,4 @@ If the setting starts becoming generic future-noir, add paperwork, fluorescent l
 
 Office-dharma is the rig crews' technomancer practice of keeping rooms, systems, and people usable for one another. Its disputed deity or daemon, the Operator, has no church, cross, heaven, or human-shaped image. The theology appears through maintenance, consent before access, clear queues, usable handoffs, working exits, and the golden status light that says a system is ready for the next person.
 
-The novel-specific rules and lingo are collected in [Office-Dharma And The Operator](../Novel-Test-Bitpixi/docs/office-dharma.md).
+The novel-specific rules and lingo are collected in [Office-Dharma And The Operator](office-dharma.md).

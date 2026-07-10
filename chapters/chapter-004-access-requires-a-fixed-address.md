@@ -1,6 +1,6 @@
 # Chapter Four: Access Requires A Fixed Address
 
-*Bitpixi-led prose test. Close third person through Phosphor. Not final canon.*
+*Working draft. Close third person through Phosphor.*
 
 Phosphor had been alive for eleven years, according to the most generous records, and had just found his handwriting on a document fifteen years older than that.
 

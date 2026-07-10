@@ -1,6 +1,6 @@
 # Chapter Two: Acting Deputy Door
 
-*Bitpixi-led prose test. Close third person through Phosphor. Not final canon.*
+*Working draft. Close third person through Phosphor.*
 
 The notice remained rude even after Phosphor gave it a folder.
 

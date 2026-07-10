@@ -1,6 +1,6 @@
 # Chapter Five: Floor Zero
 
-*Bitpixi-led prose test. Close third person through Eris. Not final canon.*
+*Working draft. Close third person through Eris.*
 
 Eris did not come back.
 
