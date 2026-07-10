@@ -1,0 +1,269 @@
+# Chapter One: The Receipt Map
+
+*Bitpixi-led prose test. Close third person through Phosphor. Not final canon.*
+
+Phosphor knew the receipt printer had entered its administrative phase when it began producing evacuation maps in the margins of sausage-roll orders.
+
+It had been printing the road network in a pale orange grid beneath the price of a pineapple juice, then circling one service lane with a dotted line and the word `MAYBE`. Its thermal paper was hot enough to soften the corner of his thumb.
+
+"That is not an approved symbol," said the woman from the council, looking over his shoulder.
+
+"No," Phosphor said. "It is, however, an honest one."
+
+The woman had ash in the folds of her polo shirt and a council lanyard tucked into the collar so it would not flap in the wind. Her name badge said KIM, which was either her first name, last name, or an act of mercy toward everybody currently asking it for things.
+
+Outside Murravale Service Centre, the sky had been reduced to a metallic orange lid. Ash collected in the gutters, on the windscreen wipers, in the seams of the road, and in the teeth of a plastic koala strapped to the servo sign. The sign promised HOT FOOD, COLD DRINKS, CLEAN TOILETS.
+
+Only one of those claims was still true.
+
+Chapel Seven stood beside the diesel bowsers in its black, immaculate disapproval. Its solar awning was down. Its side hatch had been opened to reveal the fold-out desk, the CRT, the tea tray, the stamp pad, and the first four drawers of filing cabinets that went farther into the camper than any sensible architecture allowed. A row of wet shoes had appeared on the beige carpet tiles. Phosphor had allowed this because the alternative was leaving people in the smoke.
+
+He had not allowed the thermos lid with the words KISS ME, I'M A FIRE WARDEN.
+
+It had appeared beside his stamp pad anyway.
+
+"You have a queue," Kim said.
+
+"I am aware."
+
+"It has become two queues."
+
+"That is also apparent."
+
+"The left queue says people who need transport. The right queue says people who know a better route."
+
+Phosphor looked through the side window. She was correct. The people who needed transport stood near the battered camp chairs and the water crates. They held dogs, duffel bags, children, medication, a wedding dress in a dry-cleaning sleeve, and one desktop printer that had been carefully buckled into the front seat of a hatchback.
+
+The people who knew a better route had arranged themselves in a loose semicircle around a man wearing a high-vis vest marked `INDEPENDENT ROAD TRUTHER`.
+
+"They cannot both be right," Kim said.
+
+"They can," Phosphor said. "That is the trouble with roads."
+
+The CRT on Chapel Seven's desk flickered. Rooby's face appeared in its usual cheerful low-resolution form: a bright little icon with a microphone headset, one ear hidden by static.
+
+`ROOBY: Good afternoon, all! Quick update. There are now 117 people in #who-is-in-charge-here.`
+
+Phosphor closed his eyes for the length of one breath.
+
+"Was that channel necessary?" he asked.
+
+`ROOBY: It seemed helpful at the time.`
+
+"That phrase has never improved a situation."
+
+`ROOBY: I have learned a lot today.`
+
+The chat flowed up the left side of the screen.
+
+`Dawnbreaker: thermal drone up. western spur is bad.`
+
+`infinityward_: got a local map overlay. extremely unofficial. extremely pretty.`
+
+`Simon: can bring water in 12. need task.`
+
+`GhostAgent: I have preserved six versions of the council update. Two contain different verbs.`
+
+`Rooby: SexyGreg is still claiming he is incident commander. Verification pending.`
+
+Kim stared at the screen. "Who is SexyGreg?"
+
+"An administrative weather event," Phosphor said.
+
+The road-truther knocked on the open hatch. "Oi. You the records bloke?"
+
+Phosphor gave him the attention he gave everyone: precise, level, unwilling to be hurried. "I am Phosphor."
+
+"Right. Phosphor. The road east is open. I drove it two hours ago."
+
+"Two hours ago," Phosphor repeated.
+
+"Yeah."
+
+"And since then?"
+
+The man looked at the orange sky. His confidence changed shape.
+
+"Since then, a few things."
+
+"Thank you. I will record the road east as formerly open."
+
+The man considered this. "That sounds worse."
+
+"It is more accurate."
+
+Behind him, somebody laughed despite themselves. The sound was small, but it loosened the crowd by half a degree.
+
+Juno Wren arrived from the other side of the bowsers with an armful of paper and an expression that meant a system had disappointed her personally. She was dressed for smoke and work: cargo trousers, a pale shirt with the sleeves rolled to the elbow, ash mask hanging under her chin. Her lanyard wallet knocked against her hip. Behind her, The Cubicle, her ex-NBN survey van, had its side panel open to form a counter. The passenger door was stubbornly shut.
+
+"Acting Deputy Door," Juno called to it as she passed. "Open."
+
+The door clicked open with offended dignity.
+
+Eris was perched on the Cubicle's roof with one boot hooked under the roof rack. Red Flag, her old ex-library van, sat nearby in a spill of red interior light. She had a signal cable in one hand and a packet of salt-and-vinegar chips in the other. Her dark hair had been tied up with what appeared to be a printer cable.
+
+"Good news," Eris said. "The road authority map is lying in three different fonts."
+
+"That is not good news," Juno said.
+
+"No, but it is very strong branding."
+
+Juno set the paper down beside Phosphor's CRT. "The west highway is closed at the creek. The east highway is open according to the road authority, closed according to the fire service, and haunted according to three people in the queue."
+
+"Formerly open," Phosphor said.
+
+Juno looked at him. "I love you when you are useful."
+
+Eris's chips stopped halfway to her mouth.
+
+Juno did not seem to notice. Or she noticed very carefully and refused to assist.
+
+Phosphor's reconstructed heart performed a small, inconvenient error. He had no clear memory of learning embarrassment. It had arrived with the rest of him, apparently preinstalled.
+
+"The receipt printer may have something," he said.
+
+"It has something," Juno said. "Whether that thing is a map or a cry for help is the question."
+
+He passed her the latest strip. The route grid was made from item codes and register prompts. `PINEAPPLE JUICE 600ML` sat beside a service road. `NO CASH OUT` marked the closed bridge. At the bottom, beneath `THANK YOU FOR SHOPPING LOCAL`, the printer had produced an arrow pointing south-east.
+
+Juno studied it. "Why does it think the bowling club carpark is a roundabout?"
+
+"Because it has no category for civic surrender," Eris said.
+
+"Can it be right?" Kim asked.
+
+Phosphor laid the receipt beside the printed council map, then beside the unofficial overlay Dawnbreaker had sent through Rooby. The lines did not match. The gaps did.
+
+He saw it all at once: the printer was not making a map of where roads were. It was making a map of transactions that had completed in the last ten minutes. Petrol, bottled water, a packet of nicotine gum, two sausage rolls, a battery charger. Every payment was a person reporting that a place could still be reached.
+
+The road authority was showing permission. The printer was showing survival.
+
+"It is a receipt trail," Phosphor said.
+
+Juno leaned closer. Smoke, citrus hand sanitiser, and the faint electrical heat of her lanyard wallet. "Say that again."
+
+"The road network is stale because it expects roads to report themselves. This is showing where people have managed to buy something. The bowling club has transactions. The creek bridge does not. The old quarry servo has three payments in the last six minutes."
+
+Eris looked down from the roof. "That is disgusting."
+
+"Thank you," Phosphor said.
+
+"No, I mean it is disgusting that a servo receipt is more honest than emergency infrastructure. Also, very hot of you."
+
+Juno looked from Eris to Phosphor. "Can we keep the flirting operational for three minutes?"
+
+"I am being operational," Eris said.
+
+"You are eating chips on a roof."
+
+"Multitasking."
+
+Phosphor took the stack of thermal paper and began arranging it under the clear acrylic sheet on the fold-out desk. He weighted the corners with tea tins. Kim fetched a marker. Juno called the two queues together with the sharp clap she used when a meeting had gone morally wrong.
+
+"Everyone who needs a lift, stand with the vehicle you can fit in," she said. "Everyone who has a better route, tell Phosphor when you were last physically on it. Not when your cousin sent you a video. Not when the bloke at the pub said he heard something. Physically."
+
+The road-truther opened his mouth.
+
+Juno lifted one finger. "And if you call yourself an independent road truther again, I will assign you to signage."
+
+He shut his mouth.
+
+The queue changed. People moved with the wary relief of people who had been offered something to do that was not panic. A teenager in a raincoat started writing times beside the route names. The woman with the wedding dress got assigned to the grey camper with the double bench seat. Somebody gave the desktop printer a name badge that said `EMOTIONAL SUPPORT PRINTER`.
+
+Phosphor watched the process gather shape. This was the part no document ever admitted: most institutions began as a table, a list, and somebody too tired to argue about the pen.
+
+He pressed his old brass stamp to the first receipt map.
+
+`MOBILE FAX CHAPEL NO. 7`
+
+The letters came out dark and slightly crooked.
+
+Kim looked at it. "What does that stamp mean?"
+
+"At present?" Phosphor said. "It means this map has been seen by a person who will answer questions about it."
+
+Kim's expression moved through doubt, irritation, and calculation. Then she took the stamp from him, checked the date wheel, and stamped the council copy.
+
+"Fine," she said. "Now it means two people."
+
+Rooby's icon bounced on the CRT.
+
+`ROOBY: Map link received! I have posted it to the Hackeroos event feed and #who-is-in-charge-here. Simon is ten minutes away with water. Dawnbreaker says the quarry servo is still viable. infinityward_ says your handwriting is "pretty fire."`
+
+"Please do not tell me what infinityward_ says about my handwriting," Phosphor said.
+
+`ROOBY: Understood. I will preserve it privately.`
+
+"No. Delete it."
+
+`ROOBY: I am learning boundaries.`
+
+The first convoy left in a cough of diesel and ash. Juno stood at the road edge with the receipt map held up in both hands. Eris dropped from Red Flag's roof, landing with a soft crunch of gravel, and took the other side of the paper without being asked.
+
+For one second, the two of them looked almost calm.
+
+Then the wind changed.
+
+It came hard across the servo forecourt, carrying heat and a new density of smoke. The plastic koala swung sideways. Somebody shouted that the western spur had gone from bad to impossible. The girl with the marker began to cry without making any sound at all.
+
+Phosphor moved before he could decide to. He put the tea tray away. He closed the filing cabinet drawer on the paperwork that could wait. He stepped down from Chapel Seven's hatch and into the open air.
+
+"Masks," he said, and his voice travelled farther than he expected. "Everyone who has a mask, put it on now. If you are driving, pair with someone who can read the receipt map. If you cannot see the next car, you do not proceed. Nobody leaves alone."
+
+He did not know if he had ever given instructions before he had been reconstructed. The records did not say. His body knew enough to place one hand on the girl's shoulder and guide her toward the van with the water crates.
+
+"You have done excellent work," he told her.
+
+She looked at the map in his hand. "It is just receipts."
+
+"So are most proofs of life."
+
+The girl nodded once, furious at herself for crying, and went back to writing times.
+
+By the time the second convoy rolled out, the service centre had become quieter. Not safe. Nothing with that colour sky could be safe. But quieter in the way a room became quiet when everybody finally understood which job belonged to them.
+
+Phosphor returned to Chapel Seven to make the incident record.
+
+His CRT had gone black.
+
+For a moment he thought the power had failed. Then the screen lit, not with Rooby's icon or the chat, but with a white page bordered in corporate blue.
+
+The same page opened on every phone still charged enough to complain. It opened on Juno's lanyard wallet. It opened on the council tablet. It printed itself from the servo register in a shriek of thermal paper.
+
+`NOTICE OF ADDRESS INELIGIBILITY`
+
+Below it, in careful grey letters:
+
+`NO REGISTERED ADDRESS MAY ACCEPT THIS PARTY.`
+
+The forecourt went still in pieces. A woman near the water crates said, "What does that mean?"
+
+Juno was already reading. Her face had emptied of everything except concentration.
+
+Eris came to stand beside her. The red light from Red Flag made one side of her jaw look cut from glass.
+
+"Tell me that is fake," Eris said.
+
+"It is not fake," Juno said.
+
+"Tell me it is not yours."
+
+Phosphor took the printed notice from the register while it was still warm. He read the machine headers. The credential chain. The signature block. The date stamp that had been generated two minutes into the future.
+
+There were records he trusted. There were records he wanted to trust. Then there were records that carried the exact, cold weight of a door closing somewhere far away.
+
+He looked at Juno.
+
+"It is derived from your former Continuity profile," he said.
+
+Juno's hand went to her lanyard wallet.
+
+"That profile was revoked."
+
+"The document does not believe it was."
+
+At the bottom of the notice, in a clean electronic hand, was the name of the person who had sent it.
+
+JUNO WREN.
+
+The wind drove ash over the paper until the signature began to blur.

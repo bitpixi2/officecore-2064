@@ -15,10 +15,10 @@ The first research and outlining pass is now available:
 - [Cyberpunk reading map](research/cyberpunk-reading-2024-2026.md): recent and historical touchstones, award signals, adjacent screen/game influences, and originality guardrails.
 - [Award-shaped outline schema](docs/award-shaped-outline-schema.md): a reusable structure for an ambitious, propulsive Officecore novel.
 - [Book One: The Last Permanent Address](outlines/book-01-the-last-permanent-address.md): a complete original novel outline built around rig towns, divided digital identity, the Unallocated Floor, strange embodied kinds, magic-tech, data centres, adventure, comedy, and flirtation.
+- [Chapter One: The Receipt Map](drafts/chapter-001-the-receipt-map.md): a Phosphor-led prose test with the bushfire servo opening, dialogue, Rooby, and Hackeroos support on comms.
 
 Possible next files include:
 
-- `drafts/chapter-001.md` for the opening servo sequence
 - `characters.md` for recurring figures and relationship notes
 - `locations.md` for rig towns, service stations, data centres, motels, depots, and other officecore spaces
 
