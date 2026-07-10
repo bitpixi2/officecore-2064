@@ -68,6 +68,28 @@ The speaker clicked.
 
 "State your purpose."
 
+The council emergency network appeared on the intercom display, its status bar greyed out by a traffic-control rule.
+
+`MESH RELAY: DELAYED / REQUEST: CAMPUS HEAT MAP`
+
+Kasey stared at it.
+
+"They have slowed the live relay."
+
+"The official dashboard has lost the cooling data," Phosphor said.
+
+"So they need the relay."
+
+"They need the relay and are treating the people inside it as congestion."
+
+Meshie99 spoke through the delayed channel.
+
+"We can provide the map. We cannot provide ourselves as a service unit."
+
+Kasey opened the gate request and wrote:
+
+`HEAT MAP RELEASED / MESHIE IDENTITIES NOT TRANSFERRED / COUNCIL HANDOFF MUST REMAIN REVOCABLE.`
+
 Phosphor looked at the white towers. Heat shimmered above them. Beyond the fence, the site's emergency water tanks stood on concrete plinths. A pipe had split near the eastern service road, spraying a thin fan of water into the ash.
 
 "Keep the cooling system alive without converting the people maintaining it into equipment," he said.

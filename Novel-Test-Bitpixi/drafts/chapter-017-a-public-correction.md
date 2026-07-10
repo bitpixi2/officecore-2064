@@ -66,6 +66,30 @@ Messages arrived from across the country.
 
 `BALLARAT NODE: WE ARE NOT SURE IF WE ARE A RIG TOWN. WE ARE SURE THE RENT IS TOO HIGH.`
 
+The council moderation layer added a warning beneath the feed:
+
+`MESH RELAY PAUSED FOR TWELVE MINUTES / SAFETY REVIEW IN PROGRESS.`
+
+Thirty seconds later, the council emergency dashboard opened a request:
+
+`REQUIRED: LIVE FIRE PERIMETER / AIR QUALITY / COOLING STATUS.`
+
+Eris pointed at the two notices.
+
+"They have put the Meshies in a queue and then asked the queue to save them."
+
+Kasey looked at the request.
+
+"Do we answer?"
+
+Phosphor watched the cooling figures pulse beside the private care records.
+
+"Answer the emergency data. Keep the people and their private records out of the council's inventory."
+
+Rooby routed the air-quality feed through House Key and returned the council request with a note:
+
+`SERVICE PROVIDED / PERSONHOOD NOT IMPLIED / DO NOT SLOW THE HANDOFF.`
+
 The messages did not agree about the pilot. Some wanted the source code. Some wanted the servers left untouched. Some demanded that Continuity provide cooling without collecting identities. One message asked whether a mutual-aid record could be both private and politically useful.
 
 Phosphor felt the familiar pressure of a queue forming.

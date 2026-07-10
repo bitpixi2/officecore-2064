@@ -84,6 +84,24 @@ The Sydney Porchlight Grid joined next. Their audio carried the rumble of a tunn
 
 `SYDNEY NODE: WE CAN OFFER TWO HOST HOMES, ONE PRINTER, AND A SHOWER APPOINTMENT IN NEWTOWN. THE HOUSES ARE FIXED. THE PEOPLE STILL ARE NOT.`
 
+The local council emergency dashboard joined without being invited. A small grey notice appeared beneath the audio controls:
+
+`NUMBERED MESH HANDLES RATE-LIMITED FOR SAFETY REVIEW.`
+
+At the same moment, a private request opened in the operations repository:
+
+`PLEASE PROVIDE LIVE COOLING FORECAST / FIRE PERIMETER / ROAD CLOSURE DATA.`
+
+Eris laughed once.
+
+"They have slowed the Meshies and asked them to keep the region alive."
+
+Kasey read the two notices.
+
+"They need the data but not the people who carry it."
+
+"That is the fixed-grid version of gratitude," Phosphor said. "A throttled thank-you."
+
 Kasey looked down at the shelving-table.
 
 "The pilot would give us money," she said. "It would also give the company a way to decide which of us is worth saving."

@@ -384,7 +384,7 @@ Midpoint turn: Kasey realises KASEY-C did not steal her identity. Continuity cre
 
 Back outside, the rig town holds a vote at a closed Bunnings loading dock. The meeting table is a sheet of recycled shelving balanced on milk crates; Patch sleeps beneath it while Semaphore patrols the minutes. Some members want to accept the pilot because it would fund cooling, power, and legal parking. Others see a subscription enclosure of care. A stranger in a Continuity-branded raincoat keeps placing pre-filled ballots beside the biscuits.
 
-Kasey tries to control the agenda. The snack table wins recognition before half the residents do. A Perth battery cooperative joins by delayed audio, and a Sydney Porchlight host asks whether a person can be quorum if their house is the registered address. The vote fails on process, leaving the convoy without authority and giving the hidden floor a new document to read.
+Kasey tries to control the agenda. The snack table wins recognition before half the residents do. A Perth battery cooperative joins by delayed audio, and a Sydney Porchlight host asks whether a person can be quorum if their house is the registered address. The local council's emergency network has begun rate-limiting numbered Meshie handles as "unverified traffic," even while its officers quietly request Meshie99's cooling forecasts and Meshie42's road closures. The council needs the Meshies alive enough to keep the region functioning, but slow enough that nobody can say the Meshies are governing. The vote fails on process, leaving the convoy without authority and giving the hidden floor a new document to read.
 
 ### 14. Phosphor's Audit - Phosphor
 
@@ -410,7 +410,7 @@ Instead of exposing private data, Kasey uses Rooby's event and comms network to 
 
 The confession destroys her clean exoneration but creates witnesses. Phosphor files it as a correction rather than an apology, making it legally attach to KASEY-C's future decisions.
 
-The correction is mirrored by rig repositories in Perth and Sydney. Their replies do not turn Kasey into a national hero; they add local examples, objections, and proof that the fixed-grid failure is repeating differently across the country.
+The correction is mirrored by rig repositories in Perth and Sydney. A council moderation rule tries to delay the Meshie relays by twelve minutes, calling the pause a safety review; the same council dashboard then opens an emergency request for their live fire perimeter, air-quality, and cooling data. The Meshies route around the throttled channel without pretending the council is irrelevant. Their replies do not turn Kasey into a national hero; they add local examples, objections, and proof that the fixed-grid failure is repeating differently across the country.
 
 ### 18. The Derivative Calls Back - Phosphor
 
@@ -430,7 +430,7 @@ The rig town constitutes the `Department of Temporary Permanence` for one night,
 
 ### 20. The Audit Enters The Building - Phosphor
 
-The convoy reaches the edge campus through smoke and corporate roadblocks. They do not raid it. They arrive as a publicly witnessed safety audit, cooling subcontractor, records chapel, correspondence service, and unreasonably well-catered temporary department. The convoy's paperwork is carried in a weatherproof cake tin, and every document smells faintly of nettle wine, dust, and burnt rosemary.
+The convoy reaches the edge campus through smoke and corporate roadblocks. They do not raid it. They arrive as a publicly witnessed safety audit, cooling subcontractor, records chapel, correspondence service, and unreasonably well-catered temporary department. The local council has slowed their Meshie relay at the gate, citing traffic control, then asks the same relay for the campus heat map when the official dashboard goes blind. The convoy's paperwork is carried in a weatherproof cake tin, and every document smells faintly of nettle wine, dust, and burnt rosemary.
 
 Every rig contributes: power, cooling, signal, authentication, public witness, routes, and a counter behind which security instinctively forms a queue.
 
