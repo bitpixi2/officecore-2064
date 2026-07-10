@@ -18,7 +18,7 @@ Kasey stood at the open hatch, looking out at the forecourt. The white corporate
 
 "Nobody moves until we know what it does," she said.
 
-"It says no registered address may accept this party," Kim said. She had stopped bothering to ask whether Phosphor's stamp meant anything. This was progress. "Does that mean the caravan park will turn them away?"
+"It says no registered address may accept this party," the council communications officer said. She had stopped bothering to ask whether Phosphor's stamp meant anything. This was progress. "Does that mean the caravan park will turn them away?"
 
 "It means the system will advise them to," Kasey said.
 
@@ -72,7 +72,7 @@ Phosphor nodded.
 
 He opened the second drawer of Chapel Seven's desk and took out a square of archival glass, a cotton cloth, and the little black scanner that everyone called the mourning bug. It was not shaped like an insect, but it did make a noise like something grieving in a wall.
 
-Kim watched him set the items down. "Is this official?"
+The officer watched him set the items down. "Is this official?"
 
 "No," Phosphor said. "It is documented."
 
@@ -98,7 +98,7 @@ Eris straightened. "Like emergency powers."
 
 "Like a dead manager who still approves leave," Phosphor said.
 
-Kim made a face. "That has happened to me."
+The officer made a face. "That has happened to me."
 
 "I am sorry."
 
@@ -156,7 +156,7 @@ It was not dramatic. She did not sink down or swear or strike the door. She simp
 
 Phosphor hated the door for choosing that moment.
 
-He took the red file and crossed the forecourt. Behind him, the queue began to murmur again. Kim stepped in front of it before it could split.
+He took the red file and crossed the forecourt. Behind him, the queue began to murmur again. The officer stepped in front of it before it could split.
 
 "One question at a time," she called. "If your question is 'what does this mean for me,' please take a number. If your question is 'why is the van talking,' please take a different number."
 
@@ -164,7 +164,7 @@ The road-truther raised a hand. "Can I have both?"
 
 "You may have one while supplies last."
 
-The road-truther lowered his hand, apparently unsure whether this was a joke or a rationing policy. Kim pointed him toward a folding chair. He sat down beside a crate of bottled water and immediately began making a list of roads he believed the council had closed for personal reasons. Nobody stopped him. Keeping one person occupied was sometimes a form of crowd control.
+The road-truther lowered his hand, apparently unsure whether this was a joke or a rationing policy. The officer pointed him toward a folding chair. He sat down beside a crate of bottled water and immediately began making a list of roads he believed the council had closed for personal reasons. Nobody stopped him. Keeping one person occupied was sometimes a form of crowd control.
 
 Kasey did not turn when Phosphor stopped beside her.
 
@@ -276,7 +276,7 @@ Kasey glanced at him. "Because I enjoy being difficult at a granular level."
 
 She said it like something she had been trying to explain for years and had only just found the least embarrassing version. Then she looked down at the foil packet in her hand, rubbed a thumb over its scorched edge, and put it in the correct tub.
 
-The smoke had made the forecourt strangely quiet between generator coughs. Kim was trying to keep a bin liner from lifting away in the wind. Near the bowsers, somebody rinsed soot from their hands with half a bottle of precious water and tipped the black runoff into a drain that did not look equal to the day.
+The smoke had made the forecourt strangely quiet between generator coughs. The officer was trying to keep a bin liner from lifting away in the wind. Near the bowsers, somebody rinsed soot from their hands with half a bottle of precious water and tipped the black runoff into a drain that did not look equal to the day.
 
 "That sounds like an argument for keeping it," Phosphor said.
 
@@ -354,7 +354,7 @@ Eris snorted. Kasey did not smile quite fully, but she put the cigarette packet 
 
 The case held three coiled fibre lines, a cooling gel pack, a small first-aid kit, and a brass-edged access token with `BARKERS CREEK EDGE CACHE` printed across it. The token was heavy for its size, stamped with an outline of a ridge and a tiny server tower. Its brass edge had been rubbed almost smooth by Kasey’s thumb.
 
-Kim read it. "Is that where your sister works?"
+The officer read it. "Is that where your sister works?"
 
 Kasey nodded.
 
@@ -368,7 +368,7 @@ Kasey did not answer.
 
 Rooby's icon appeared in the passenger display, upside down at first, then righted itself.
 
-`ROOBY: Update. Sim has arrived with water. Dawnbreaker says the western spur is now definitely not viable. Jaspy has colour-coded the receipt map and added a skull icon to two roads. I did not ask them to. Also, the Maldon House Key board has two shower slots and a water refill tomorrow if the smoke clears. That does not solve today, but it is on the list.`
+`ROOBY: Update. A water runner has arrived. Meshie42 says the western spur is now definitely not viable. Meshie99 has colour-coded the receipt map and added a skull icon to two roads. I did not ask them to. Also, the Maldon House Key board has two shower slots and a water refill tomorrow if the smoke clears. That does not solve today, but it is on the list.`
 
 "Tell them thank you," Kasey said.
 
@@ -382,7 +382,7 @@ Rooby hesitated. That was new.
 
 `ROOBY: It is marked personal.`
 
-Kasey looked at the people gathered under the servo awning. Kim was holding two queues together with a marker and a stare. Sim had set down a crate of water and was already being asked to solve a different problem. The road-truther was helping a child tape the receipt map to the side of a camper. Behind them, the black spine of Chapel Seven, the patched white body of The Cubicle, and Red Flag’s red-lit library interior made a crooked little street against the smoke. Eris stood close enough to Kasey that their shoulders almost touched and not close enough that anybody could call it comfort.
+Kasey looked at the people gathered under the servo awning. The council communications officer was holding two queues together with a marker and a stare. A water runner had set down a crate and was already being asked to solve a different problem. The road-truther was helping a child tape the receipt map to the side of a camper. Behind them, the black spine of Chapel Seven, the patched white body of The Cubicle, and Red Flag’s red-lit library interior made a crooked little street against the smoke. Eris stood close enough to Kasey that their shoulders almost touched and not close enough that anybody could call it comfort.
 
 "Play it," Kasey said again. "Here."
 

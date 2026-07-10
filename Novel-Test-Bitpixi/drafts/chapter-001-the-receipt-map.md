@@ -10,7 +10,7 @@ It had been printing the road network in a pale orange grid beneath the price of
 
 "No," Phosphor said. "It is, however, an honest one."
 
-The woman had ash in the folds of her polo shirt and a council lanyard tucked into the collar so it would not flap in the wind. She was the council communications officer, not a servo worker; the servo staff had gone home when the fire warnings changed. Her name badge said KIM, which was either her first name, last name, or an act of mercy toward everybody currently asking it for things.
+The woman had ash in the folds of her polo shirt and a council lanyard tucked into the collar so it would not flap in the wind. She was the council communications officer, not a servo worker; the servo staff had gone home when the fire warnings changed. The lanyard said COUNCIL COMMS in block letters, an act of mercy toward everybody currently asking it for things.
 
 Outside Murravale Service Centre, a mostly shuttered servo on the road between Castlemaine and Maldon, the sky had been reduced to a metallic orange lid. Ash collected in the gutters, on the windscreen wipers, in the seams of the road, and in the teeth of a plastic koala strapped to the servo sign. The sign promised HOT FOOD, COLD DRINKS, CLEAN TOILETS.
 
@@ -28,7 +28,7 @@ He had not allowed the thermos lid with the words KISS ME, I'M A FIRE WARDEN.
 
 It had appeared beside his stamp pad anyway.
 
-"You have a queue," Kim said.
+"You have a queue," the officer said.
 
 "I am aware."
 
@@ -46,7 +46,7 @@ The other half of a travelling town travelled less photogenically. It sat in lid
 
 The people who knew a better route had arranged themselves in a loose semicircle around a man wearing a high-vis vest marked `INDEPENDENT ROAD TRUTHER`.
 
-"They cannot both be right," Kim said.
+"They cannot both be right," the officer said.
 
 "They can," Phosphor said. "That is the trouble with roads."
 
@@ -66,17 +66,17 @@ Phosphor closed his eyes for the length of one breath.
 
 The chat flowed up the left side of the screen.
 
-`Dawnbreaker: thermal drone up. western spur is bad.`
+`Meshie42: thermal drone up. western spur is bad.`
 
-`Jaspy: got a local map overlay. extremely unofficial. extremely pretty.`
+`Meshie99: got a local map overlay. extremely unofficial. extremely pretty.`
 
-`Sim: can bring water in 12. need task.`
+`ROOBY: water runner can bring more in 12. needs a task.`
 
 `GhostAgent: I have preserved six versions of the council update. Two contain different verbs.`
 
 `Rooby: one account is still claiming incident commander. Verification pending.`
 
-Kim stared at the screen. "Who is claiming incident commander?"
+The officer stared at the screen. "Who is claiming incident commander?"
 
 "An administrative weather event," Phosphor said. "A temporary name would only encourage it."
 
@@ -176,9 +176,9 @@ Kasey studied it. "Why does it think the bowling club carpark is a roundabout?"
 
 "Because it has no category for civic surrender," Eris said.
 
-"Can it be right?" Kim asked.
+"Can it be right?" the officer asked.
 
-Phosphor laid the receipt beside the printed council map, then beside the unofficial overlay Dawnbreaker had sent through Rooby. The lines did not match. The gaps did.
+Phosphor laid the receipt beside the printed council map, then beside the unofficial overlay Meshie99 had sent through Rooby. The lines did not match. The gaps did.
 
 He saw it all at once: the printer was not making a map of where roads were. It was making a map of transactions that had completed in the last ten minutes. Petrol, bottled water, a packet of nicotine gum, two sausage rolls, a battery charger. Every payment was a person reporting that a place could still be reached.
 
@@ -204,7 +204,7 @@ Kasey looked from Eris to Phosphor. "Can we keep the flirting operational for th
 
 "Multitasking."
 
-Phosphor took the stack of thermal paper and began arranging it under the clear acrylic sheet on the fold-out desk. He weighted the corners with tea tins. Kim fetched a marker. Kasey called the two queues together with the sharp clap she used when a meeting had gone morally wrong.
+Phosphor took the stack of thermal paper and began arranging it under the clear acrylic sheet on the fold-out desk. He weighted the corners with tea tins. The officer fetched a marker. Kasey called the two queues together with the sharp clap she used when a meeting had gone morally wrong.
 
 "Everyone who needs a lift, stand with the vehicle you can fit in," she said. "Everyone who has a better route, tell Phosphor when you were last physically on it. Not when your cousin sent you a video. Not when the bloke at the pub said he heard something. Physically."
 
@@ -224,19 +224,19 @@ He pressed his old brass stamp to the first receipt map.
 
 The letters came out dark and slightly crooked.
 
-Kim looked at it. "What does that stamp mean?"
+The officer looked at it. "What does that stamp mean?"
 
 "At present?" Phosphor said. "It means this map has been seen by a person who will answer questions about it."
 
-Kim's expression moved through doubt, irritation, and calculation. Then she took the stamp from him, checked the date wheel, and stamped the council copy.
+The officer's expression moved through doubt, irritation, and calculation. Then she took the stamp from him, checked the date wheel, and stamped the council copy.
 
 "Fine," she said. "Now it means two people."
 
 Rooby's icon bounced on the CRT.
 
-`ROOBY: Map link received! I have posted it to the Hackeroos event feed and #who-is-in-charge-here. Sim is ten minutes away with water. Dawnbreaker says the quarry servo is still viable. Jaspy says your handwriting is "pretty fire."`
+`ROOBY: Map link received! I have posted it to the Hackeroos event feed and #who-is-in-charge-here. A water runner is ten minutes away. Meshie42 says the quarry servo is still viable. Meshie99 says your handwriting is "pretty fire."`
 
-"Please do not tell me what Jaspy says about my handwriting," Phosphor said.
+"Please do not tell me what Meshie99 says about my handwriting," Phosphor said.
 
 `ROOBY: Understood. I will preserve it privately.`
 

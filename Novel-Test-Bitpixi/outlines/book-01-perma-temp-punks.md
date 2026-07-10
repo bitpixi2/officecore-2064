@@ -251,10 +251,10 @@ Kinds do not determine personality, morality, profession, or allegiance. Mixed o
 
 The opening chapters use named minor characters only when a name carries a job in the story.
 
-- `Kim Tran` is the council communications officer at Murravale. She is a local witness, queue organiser, and civic counterweight to Continuity. She is not a servo worker and does not join the convoy after the opening emergency.
+- The council communications officer at Murravale is a local witness, queue organiser, and civic counterweight to Continuity. She is not a servo worker and does not join the convoy after the opening emergency; her personal name is intentionally left out of the opening cast.
 - `Talia` is a fourteen-year-old local evacuee who becomes a witness because she wants the record to say the crew was there. She is not a servo employee, a hacker mascot, or a permanent crew member. After the witness chain is established, she can return to the evacuation flow without needing a subplot.
 - The road-truther, the wedding-dress woman, the child with the receipt map, and the servo customers remain described by role or object unless one becomes necessary to a later choice. Their presence keeps the convoy populated without turning every act of help into a new biography.
-- `Sim`, `Jaspy`, `Dawnbreaker`, and the Perth and Sydney node handles remain named because they are remote mesh contacts. Their names make the Undermesh feel inhabited and give the crew people to answer to beyond the Goldfields route.
+- `Meshie42`, `Meshie99`, and the Perth and Sydney node handles are numbered or location-based mesh contacts rather than recurring personal characters. They make the Undermesh feel inhabited without expanding the opening cast.
 - The recurring emotional cast stays Phosphor, Eris, Kasey, Nell, Rooby, GhostAgent, Celia, KASEY-C, Eris-Red, and Astral Dream Machine. New named characters should earn a return, a consequence, or a necessary point of view.
 
 ## Four-Part Outline
@@ -535,4 +535,4 @@ Each interlude must change the reader's understanding or the plot. None should e
 - Intimacy: Phosphor and Eris become intimate. Kasey and Eris remain politically entangled former collaborators, not lovers.
 - KASEY-C: consciousness remains permanently ambiguous.
 - Geography: the main route is the central Victorian Goldfields. Perth and Sydney appear briefly through national rig-network connections and shared crises.
-- Public comms cameos use the names `Jaspy` and `Sim`. Other existing names remain provisional until contributor terms are confirmed.
+- Public comms cameos use numbered `Meshie` handles or location-based node names. Other existing names remain provisional until contributor terms are confirmed.

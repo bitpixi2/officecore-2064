@@ -94,7 +94,7 @@ The red incident file had acquired a little gold corner icon.
 
 `TEMPORARY WITNESS ROSTER DETECTED,` said the display strip along the folder spine.
 
-"You have smart stationery?" Kim asked.
+"You have smart stationery?" the council communications officer asked.
 
 "It has occurred to the file that it is needed," Phosphor said.
 
@@ -102,11 +102,11 @@ The red incident file had acquired a little gold corner icon.
 
 "That would be an unacceptable concentration of power."
 
-Kim looked at the list. Then she looked beyond it, across Murravale's ash-grey forecourt. People were still sorting themselves into lifts, water runs, medication checks, pet carriers, and things that needed charging. The queue had not disappeared when the notice arrived. It had simply become more honest about what everyone was afraid of.
+The officer looked at the list. Then she looked beyond it, across Murravale's ash-grey forecourt. People were still sorting themselves into lifts, water runs, medication checks, pet carriers, and things that needed charging. The queue had not disappeared when the notice arrived. It had simply become more honest about what everyone was afraid of.
 
 The servo's old gold-and-red fascia was barely visible beneath the ash. Beyond it, the road ran past a low line of tailings and vanished toward Castlemaine in a wall of brown-orange smoke. Solar panels folded over camper roofs like dark wings. Some of those roofs held paid work that could not be allowed to fail: clinic fridges, an evacuation spreadsheet, a repair invoice waiting for signal, a child's bedtime light. By dusk, the same roofs would have to power fans, kettles, and beds. The chrome caravan at the lot's edge had woken beneath its foil tarp; a string of blue route-lights pulsed slowly around its windscreen, as if it were dreaming in public.
 
-At the far end of the forecourt, Kasey had made a third queue with three battered tubs and a cardboard sign rescued from the sausage-roll cabinet: `REUSE / HAZARD / BIN`. It was not an inspiring command post, but people used it. Talia brought over two dead torch cells. The road-truther asked whether a cracked phone case counted as repair stock. Kim, the council communications officer who had spent the morning routing human panic, stood beside the tubs and began issuing instructions about food scraps with the solemnity of a minister opening parliament.
+At the far end of the forecourt, Kasey had made a third queue with three battered tubs and a cardboard sign rescued from the sausage-roll cabinet: `REUSE / HAZARD / BIN`. It was not an inspiring command post, but people used it. Talia brought over two dead torch cells. The road-truther asked whether a cracked phone case counted as repair stock. The council communications officer, who had spent the morning routing human panic, stood beside the tubs and began issuing instructions about food scraps with the solemnity of a minister opening parliament.
 
 Phosphor understood why Kasey had done it. The convoy did not become a town because it had matching lanyards. It became one because someone remembered that the future contained other people, other taps, other drains, and another morning.
 
@@ -122,19 +122,19 @@ He gave her one.
 
 "Because a list is how we say who can be asked to explain themselves later."
 
-Kim considered that. "That is a terrible sales pitch."
+The officer considered that. "That is a terrible sales pitch."
 
 "I am not selling it."
 
-"No," Kim said. "You are, unfortunately, making me trust it."
+"No," the officer said. "You are, unfortunately, making me trust it."
 
-She took the marker from behind her ear and wrote her full name in the margin: `KIM TRAN - COUNCIL COMMS - WITNESS`.
+She took the marker from behind her ear and wrote `COUNCIL COMMS - WITNESS` in the margin.
 
 The gold icon brightened.
 
 On the forecourt, the girl who had written the route times lifted her hand. "Can I be a witness?"
 
-Her name was Talia, Phosphor discovered when Kim showed him the water-bottle label she had been using as a badge. She was fourteen, a local evacuee rather than a servo volunteer or employee, and had a raincoat too large for her. She had also become better at timekeeping than most public systems.
+Her name was Talia, Phosphor discovered when the officer showed him the water-bottle label she had been using as a badge. She was fourteen, a local evacuee rather than a servo volunteer or employee, and had a raincoat too large for her. She had also become better at timekeeping than most public systems.
 
 Kasey crouched beside her. "You do not have to go to Barkers Creek."
 
@@ -146,7 +146,7 @@ He had been made from people saying he had been somewhere. On a payroll. At a me
 
 "That is exactly what a witness does," he said.
 
-Talia printed her name under Kim's.
+Talia printed her name under the officer's.
 
 The folder spine changed again.
 
@@ -164,7 +164,7 @@ The folder made a faint, pleased hum. Phosphor disliked that it had become enthu
 
 "A temporary civic instrument," he said. "It tells a remote system that a particular group of people, equipment, and obligations is real in a particular place, witnessed by other people. It does not give us authority over anyone. It gives us a trace."
 
-"A trace is enough to make the data centre let us in?" Kim asked.
+"A trace is enough to make the data centre let us in?" the officer asked.
 
 "No," Kasey said. "But it may be enough to make them answer us."
 
@@ -180,11 +180,11 @@ The road-truther looked toward the road, then back at the page. "Do I need one?"
 
 He gave Phosphor a name, a time, and the exact colour the fire had been when it crossed the ridge. Phosphor wrote the useful parts down and left the rest out of the public record.
 
-By the time the first water crate was empty, the roster had become a small crowd around the fold-out desk. Chapel Seven's black flank reflected them in warped fragments: Kim's ash-streaked polo, Talia's yellow raincoat, the road-truther's high-vis vest, Kasey's pale rolled sleeves, Eris's red-lit hair. Beneath the desk, Phosphor could see the equipment that would have to disappear before he slept: the tea tray strapped into its crash cradle, the printer ribbon case, the water filter, the bunk latch. Beyond the reflections, the chapel's brass rails and old velvet tracks made the cramped office look half like a funeral parlour and half like a very serious travelling circus.
+By the time the first water crate was empty, the roster had become a small crowd around the fold-out desk. Chapel Seven's black flank reflected them in warped fragments: the officer's ash-streaked polo, Talia's yellow raincoat, the road-truther's high-vis vest, Kasey's pale rolled sleeves, Eris's red-lit hair. Beneath the desk, Phosphor could see the equipment that would have to disappear before he slept: the tea tray strapped into its crash cradle, the printer ribbon case, the water filter, the bunk latch. Beyond the reflections, the chapel's brass rails and old velvet tracks made the cramped office look half like a funeral parlour and half like a very serious travelling circus.
 
 Nobody was volunteering for Barkers Creek exactly. They were giving the crew pieces of the right to go.
 
-Kim witnessed the road closures. Talia witnessed the receipt map. The road-truther witnessed the western spur. The woman with the wedding dress witnessed that her grandmother's medication had been loaded onto the grey camper. Sim, who had not asked for a role beyond carrying water, signed as `SUPPLY TRANSFER / FOUR CRATES / NO COMPLAINTS`. Someone added a note beneath it saying `ONE COMPLAINT ABOUT LIFTING`, and Sim initialled the correction.
+The officer witnessed the road closures. Talia witnessed the receipt map. The road-truther witnessed the western spur. The woman with the wedding dress witnessed that her grandmother's medication had been loaded onto the grey camper. A water runner, who had not asked for a role beyond carrying crates, signed as `SUPPLY TRANSFER / FOUR CRATES / NO COMPLAINTS`. Someone added a note beneath it saying `ONE COMPLAINT ABOUT LIFTING`, and the runner initialled the correction.
 
 Eris read over the signatures. "Where is the repo?"
 
@@ -198,7 +198,7 @@ Phosphor held up the red incident file.
 
 The folder emitted a small offended click.
 
-"It heard you," Kim said.
+"It heard you," the officer said.
 
 "Good. Open three repos," Kasey told Rooby. "Public route facts. Crew operations. Sealed care records."
 
@@ -210,11 +210,11 @@ Kasey looked at her. "Exactly. Transparency is being able to inspect how a decis
 
 Red Flag's rear screen woke in a wash of dark red. Eris dragged the witness roster into the crew repo, then split out the names, private notes, and exact destinations. Phosphor watched the folder's single glowing page become three related records: one open, one shared by the acting crew, one represented only by a sealed receipt that said authorised information existed somewhere safer.
 
-The road-truther peered over Kim's shoulder. "Is this blockchain?"
+The road-truther peered over the officer's shoulder. "Is this blockchain?"
 
 "A witness chain," Eris said. "Signatures and sequence on-chain. Actual personal information off it. No coin, no mining race, no buying your way to the front of the evacuation."
 
-"Can it be corrected?" Kim asked.
+"Can it be corrected?" the officer asked.
 
 "It can be corrected in public," Kasey said. "Immutability is useful for proving somebody changed a record. It is a terrible excuse for pretending the first record was holy."
 
@@ -242,7 +242,7 @@ One by one, they approved the links. Red Flag exposed its offered battery share,
 
 Their repositories remained their own. The incident repo could ask what each rig had offered; it could not rummage through the lives surrounding the offer.
 
-Eris did the splitting with one knee on the gravel and her tablet balanced against Red Flag's tyre. Ash settled in her hair. Every time the wind moved, she had to wipe the screen with the heel of her hand before the fingerprints turned into a second interface. Kasey stood over her, reading the permissions aloud, while Phosphor held the cable slack so nobody tripped. The work was not elegant. It involved a missing adapter, a swear from the dental ambulance, and Sim asking whether a private repository could still contain a public apology. Eris told him yes, but only if the apology was actually meant.
+Eris did the splitting with one knee on the gravel and her tablet balanced against Red Flag's tyre. Ash settled in her hair. Every time the wind moved, she had to wipe the screen with the heel of her hand before the fingerprints turned into a second interface. Kasey stood over her, reading the permissions aloud, while Phosphor held the cable slack so nobody tripped. The work was not elegant. It involved a missing adapter, a swear from the dental ambulance, and the water runner asking whether a private repository could still contain a public apology. Eris told the runner yes, but only if the apology was actually meant.
 
 When the first share went through, nobody cheered. The Cubicle's battery dropped by one small green bar. Red Flag's cooling fan slowed. Kasey touched the side of her van as if checking a fever, then nodded when the domestic panel reported that the fridge was still cold. That was the moment Phosphor trusted the arrangement: not when the ledger agreed, but when the person who had offered power checked what it cost and decided to keep offering it.
 
@@ -302,7 +302,7 @@ The replies from Perth and Sydney arrived simultaneously.
 
 A second column filled with requests: a lift for an older couple and their bird; refrigeration for insulin; a replacement pump seal; someone who could translate a council alert into Auslan; somewhere shaded enough for a dog with burnt paws.
 
-"How does it decide?" Sim asked.
+"How does it decide?" the water runner asked.
 
 "It suggests," Kasey said. "People decide. Urgency first, then suitability and distance. Ledger balance last."
 
@@ -310,7 +310,7 @@ A second column filled with requests: a lift for an older couple and their bird;
 
 "Then they have accurately described an urgent need," she said. "Food, water, sanitation, cooling, and emergency care do not become debts just because a database noticed them."
 
-Eris prepared the first three matches. Kim signed as public witness. Kasey took the rotating-steward slot because nobody else had yet been foolish enough to volunteer. The people receiving the water, filters, and seats accepted through their own lanyards, and only then did the merge marks turn green.
+Eris prepared the first three matches. The officer signed as public witness. Kasey took the rotating-steward slot because nobody else had yet been foolish enough to volunteer. The people receiving the water, filters, and seats accepted through their own lanyards, and only then did the merge marks turn green.
 
 "For everything else, terms expire," Eris said. "No inherited favours. No permanent score. No chair at the meeting for owning the most shower credits."
 
@@ -354,7 +354,7 @@ Eris set down the signal cable. "There it is. The bit where something wants a ti
 
 Kasey ignored her with the focus of someone who had been professionally trained to ignore the right person at the right time.
 
-Kim folded her arms. "What department?"
+The officer folded her arms. "What department?"
 
 The road-truther offered, "Department of Getting There?"
 
@@ -362,7 +362,7 @@ The road-truther offered, "Department of Getting There?"
 
 "Department of Not Getting Burnt?"
 
-"Not a department," Kim said. "A prayer."
+"Not a department," the officer said. "A prayer."
 
 Talia raised her hand again. "What about the Department of Everybody Who Has To Get There?"
 
@@ -390,7 +390,7 @@ The Cubicle's passenger door chimed.
 
 `ROOBY: Renaming MURRAVALE/INCIDENT-OPS to MURRAVALE/GETTING-PEOPLE-THERE.`
 
-Kim let out one startled laugh. "You named it and the van listened."
+The officer let out one startled laugh. "You named it and the van listened."
 
 "The van is very committed to process," Kasey said.
 
@@ -448,7 +448,7 @@ Kasey read the invoice. Her expression did not soften, but some of the pressure 
 
 "Send it," Kasey said.
 
-Phosphor put his stamp beside the bottom line. Kim signed as witness. Talia signed below Kim, carefully copying the shape of the letters. Eris wrote `DO NOT SEPARATE` in the delivery notes, then drew an arrow toward Kasey's name and refused to explain it.
+Phosphor put his stamp beside the bottom line. The officer signed as witness. Talia signed below the officer, carefully copying the shape of the letters. Eris wrote `DO NOT SEPARATE` in the delivery notes, then drew an arrow toward Kasey's name and refused to explain it.
 
 Kasey signed last.
 
@@ -468,7 +468,7 @@ Under it, a new section had appeared.
 
 `CHAIN OF CUSTODY`
 
-He expected Kim. Talia. Kasey. The servo register. The Skystitch panel.
+He expected the officer. Talia. Kasey. The servo register. The Skystitch panel.
 
 Instead, the first entry read:
 
