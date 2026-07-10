@@ -10,10 +10,15 @@ This is not final canon by default. It is a labelled test space so readers and c
 
 ## Useful Starting Points
 
-Future files can include:
+The first research and outlining pass is now available:
 
-- `notes.md` for loose story direction
-- `chapter-001.md` for a first prose attempt
+- [Cyberpunk reading map](research/cyberpunk-reading-2024-2026.md): recent and historical touchstones, award signals, adjacent screen/game influences, and originality guardrails.
+- [Award-shaped outline schema](docs/award-shaped-outline-schema.md): a reusable structure for an ambitious, propulsive Officecore novel.
+- [Book One: The Last Permanent Address](outlines/book-01-the-last-permanent-address.md): a complete original novel outline built around rig towns, divided digital identity, the Unallocated Floor, strange embodied kinds, magic-tech, data centres, adventure, comedy, and flirtation.
+
+Possible next files include:
+
+- `drafts/chapter-001.md` for the opening servo sequence
 - `characters.md` for recurring figures and relationship notes
 - `locations.md` for rig towns, service stations, data centres, motels, depots, and other officecore spaces
 
