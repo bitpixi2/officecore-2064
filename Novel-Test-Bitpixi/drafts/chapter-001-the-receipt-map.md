@@ -68,9 +68,9 @@ The chat flowed up the left side of the screen.
 
 `Dawnbreaker: thermal drone up. western spur is bad.`
 
-`infinityward_: got a local map overlay. extremely unofficial. extremely pretty.`
+`Jaspy: got a local map overlay. extremely unofficial. extremely pretty.`
 
-`Simon: can bring water in 12. need task.`
+`Sim: can bring water in 12. need task.`
 
 `GhostAgent: I have preserved six versions of the council update. Two contain different verbs.`
 
@@ -158,11 +158,11 @@ Kasey passed the cup back with the faint print of her mouth on the steel. "Good.
 
 Phosphor set it beside the thermos lid. "Formerly open," he said.
 
-Kasey looked at him. "I love you when you are useful."
+Kasey looked at him. "You are almost tolerable when you are useful."
 
-Eris's chips stopped halfway to her mouth.
+"I love him when he is accurate," Eris said.
 
-Kasey did not seem to notice. Or she noticed very carefully and refused to assist.
+Kasey did not seem surprised. Or she was surprised very carefully and refused to assist.
 
 Phosphor's reconstructed heart performed a small, inconvenient error. He had no clear memory of learning embarrassment. It had arrived with the rest of him, apparently preinstalled.
 
@@ -234,9 +234,9 @@ Kim's expression moved through doubt, irritation, and calculation. Then she took
 
 Rooby's icon bounced on the CRT.
 
-`ROOBY: Map link received! I have posted it to the Hackeroos event feed and #who-is-in-charge-here. Simon is ten minutes away with water. Dawnbreaker says the quarry servo is still viable. infinityward_ says your handwriting is "pretty fire."`
+`ROOBY: Map link received! I have posted it to the Hackeroos event feed and #who-is-in-charge-here. Sim is ten minutes away with water. Dawnbreaker says the quarry servo is still viable. Jaspy says your handwriting is "pretty fire."`
 
-"Please do not tell me what infinityward_ says about my handwriting," Phosphor said.
+"Please do not tell me what Jaspy says about my handwriting," Phosphor said.
 
 `ROOBY: Understood. I will preserve it privately.`
 

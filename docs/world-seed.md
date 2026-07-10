@@ -88,6 +88,12 @@ After geopolitical upheaval, Australia is formally more independent and material
 
 The rig towns are often antiwar, not because they are pure or unified, but because they refuse to let their compute, routes, water, parking, ledgers, and repair networks become quiet military support.
 
+### The Fixed Grid
+
+The mainstream grid is more than electricity. It is a coupled national system of registered addresses, property titles, utility identities, carrier permissions, credit files, road access, insurance, and emergency-service eligibility. It assumes a legitimate person occupies a fixed property connected through an approved provider. When one part doubts an address, the others begin withdrawing service automatically.
+
+The Undermesh threatens this topology because its people, power, data, and obligations move between peers. The fixed grid calls that instability; rig towns call it redundancy. Their clash can be administrative, economic, electrical, and eventually physical inside the Unallocated Floor. Central load controls try to classify unofficial relays and mobile residents as shed-able demand, while the Undermesh routes care around ownership and refuses one permanent centre.
+
 The official world calls them unstable, unverified, extremist-adjacent, or impossible to insure.
 
 The rig towns call themselves busy.

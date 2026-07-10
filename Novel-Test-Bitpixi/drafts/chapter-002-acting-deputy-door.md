@@ -356,7 +356,7 @@ Kasey did not answer.
 
 Rooby's icon appeared in the passenger display, upside down at first, then righted itself.
 
-`ROOBY: Update. Simon has arrived with water. Dawnbreaker says the western spur is now definitely not viable. infinityward_ has colour-coded the receipt map and added a skull icon to two roads. I did not ask them to. Also, the Maldon House Key board has two shower slots and a water refill tomorrow if the smoke clears. That does not solve today, but it is on the list.`
+`ROOBY: Update. Sim has arrived with water. Dawnbreaker says the western spur is now definitely not viable. Jaspy has colour-coded the receipt map and added a skull icon to two roads. I did not ask them to. Also, the Maldon House Key board has two shower slots and a water refill tomorrow if the smoke clears. That does not solve today, but it is on the list.`
 
 "Tell them thank you," Kasey said.
 
@@ -370,7 +370,7 @@ Rooby hesitated. That was new.
 
 `ROOBY: It is marked personal.`
 
-Kasey looked at the people gathered under the servo awning. Kim was holding two queues together with a marker and a stare. Simon had set down a crate of water and was already being asked to solve a different problem. The road-truther was helping a child tape the receipt map to the side of a camper. Behind them, the black spine of Chapel Seven, the patched white body of The Cubicle, and Red Flag’s red-lit library interior made a crooked little street against the smoke. Eris stood close enough to Kasey that their shoulders almost touched and not close enough that anybody could call it comfort.
+Kasey looked at the people gathered under the servo awning. Kim was holding two queues together with a marker and a stare. Sim had set down a crate of water and was already being asked to solve a different problem. The road-truther was helping a child tape the receipt map to the side of a camper. Behind them, the black spine of Chapel Seven, the patched white body of The Cubicle, and Red Flag’s red-lit library interior made a crooked little street against the smoke. Eris stood close enough to Kasey that their shoulders almost touched and not close enough that anybody could call it comfort.
 
 "Play it," Kasey said again. "Here."
 

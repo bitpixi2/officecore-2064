@@ -188,7 +188,7 @@ By the time the first water crate was empty, the roster had become a small crowd
 
 Nobody was volunteering for Barkers Creek exactly. They were giving the crew pieces of the right to go.
 
-Kim witnessed the road closures. Talia witnessed the receipt map. Darren witnessed the western spur. The woman with the wedding dress witnessed that her grandmother's medication had been loaded onto the grey camper. Simon, who had not asked for a role beyond carrying water, signed as `SUPPLY TRANSFER / FOUR CRATES / NO COMPLAINTS`. Someone added a note beneath it saying `ONE COMPLAINT ABOUT LIFTING`, and Simon initialled the correction.
+Kim witnessed the road closures. Talia witnessed the receipt map. Darren witnessed the western spur. The woman with the wedding dress witnessed that her grandmother's medication had been loaded onto the grey camper. Sim, who had not asked for a role beyond carrying water, signed as `SUPPLY TRANSFER / FOUR CRATES / NO COMPLAINTS`. Someone added a note beneath it saying `ONE COMPLAINT ABOUT LIFTING`, and Sim initialled the correction.
 
 Eris read over the signatures. "Where is the repo?"
 
@@ -262,7 +262,7 @@ Offers began to arrive.
 
 A second column filled with requests: a lift for an older couple and their bird; refrigeration for insulin; a replacement pump seal; someone who could translate a council alert into Auslan; somewhere shaded enough for a dog with burnt paws.
 
-"How does it decide?" Simon asked.
+"How does it decide?" Sim asked.
 
 "It suggests," Kasey said. "People decide. Urgency first, then suitability and distance. Ledger balance last."
 
