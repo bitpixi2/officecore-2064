@@ -18,8 +18,11 @@ The shared-world seed is **CyberCamper Village Swarm**. `Perma-Temp Punks` is th
 
 - [Novel-Test-Bitpixi](Novel-Test-Bitpixi/): chapters, scenes, research, locations, and the Book One outline.
 - [Book One outline](Novel-Test-Bitpixi/outlines/book-01-perma-temp-punks.md)
-- [Chapter One](Novel-Test-Bitpixi/drafts/chapter-001-the-receipt-map.md)
-- [Chapter Five](Novel-Test-Bitpixi/drafts/chapter-005-floor-zero.md)
+- [Chapter One: The Receipt Map](Novel-Test-Bitpixi/drafts/chapter-001-the-receipt-map.md)
+- [Chapter Two: Acting Deputy Door](Novel-Test-Bitpixi/drafts/chapter-002-acting-deputy-door.md)
+- [Chapter Three: The Queue Chooses A Crew](Novel-Test-Bitpixi/drafts/chapter-003-the-queue-chooses-a-crew.md)
+- [Chapter Four: Access Requires A Fixed Address](Novel-Test-Bitpixi/drafts/chapter-004-access-requires-a-fixed-address.md)
+- [Chapter Five: Floor Zero](Novel-Test-Bitpixi/drafts/chapter-005-floor-zero.md)
 
 ## Contribute
 
