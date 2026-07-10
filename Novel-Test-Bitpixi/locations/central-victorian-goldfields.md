@@ -70,13 +70,13 @@ The scene should do five things:
 Southern Skystitch is the fictional 2064 answer to consumer satellite internet: a low-Earth-orbit mesh made in Australia and maintained through a mix of public contracts, regional cooperatives, and rig-town repair culture.
 
 - Full name: `Southern Skystitch Mesh`
-- Common terminal name: `stitch dish`
+- Common terminal name: `stitch panel`
 - Build story: rugged terminal housings and field-repair kits are assembled in retooled workshops around Bendigo; orbital hardware and governance are distributed nationally
 - What it does: carries emergency comms, local caches, clinic data, maps, event feeds, and ordinary embarrassing messages between places with weak terrestrial coverage
 - What can fail: smoke, ash, heat, weather, line of sight, power draw, orbital congestion, data caps, political throttling, damaged contact mesh, or a cranky local relay cooperative
 - What makes it Officecore: every terminal has a serial number, maintenance ledger, access tier, unpaid invoice history, and an argument attached to it
 
-In Chapter One, Chapel Seven's stitch dish keeps Rooby and the Hackeroos network online long enough for the receipt map to become a shared public resource.
+In Chapter One, Chapel Seven's stitch panel keeps Rooby and the Hackeroos network online long enough for the receipt map to become a shared public resource.
 
 ## Research Sources
 

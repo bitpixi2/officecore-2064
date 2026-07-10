@@ -10,7 +10,7 @@ It had been printing the road network in a pale orange grid beneath the price of
 
 "No," Phosphor said. "It is, however, an honest one."
 
-The woman had ash in the folds of her polo shirt and a council lanyard tucked into the collar so it would not flap in the wind. Her name badge said KIM, which was either her first name, last name, or an act of mercy toward everybody currently asking it for things.
+The woman had ash in the folds of her polo shirt and a council lanyard tucked into the collar so it would not flap in the wind. She was the council communications officer, not a servo worker; the servo staff had gone home when the fire warnings changed. Her name badge said KIM, which was either her first name, last name, or an act of mercy toward everybody currently asking it for things.
 
 Outside Murravale Service Centre, a mostly shuttered servo on the road between Castlemaine and Maldon, the sky had been reduced to a metallic orange lid. Ash collected in the gutters, on the windscreen wipers, in the seams of the road, and in the teeth of a plastic koala strapped to the servo sign. The sign promised HOT FOOD, COLD DRINKS, CLEAN TOILETS.
 
@@ -20,9 +20,9 @@ Only one of those claims was still true.
 
 Chapel Seven stood beside the diesel bowsers in its black, immaculate disapproval. It had once been a compact funeral coach, judging from the long silver rails beneath its windows and the improbable amount of suspension. Somebody had turned it into a mobile office chapel without removing the velvet curtain tracks, the brass handrails, or the small enamel lamp above the driver’s seat. Matte-black panels hid the solar cells. Cork-fibre insulation filled the old coffin rails; quilted thermal curtains sealed the cab from the office, keeping one small human-sized zone cool instead of attempting to refrigerate the entire history of the vehicle. Its wheels were dusted red from the Goldfields tracks; its chrome grille had been polished anyway.
 
-On its roof, the Southern Skystitch terminal held a thin blue lock through the smoke: a compact Australian-built low-orbit dish everyone called a stitch dish, assembled in some retooled workshop up Bendigo way and repaired by whoever could still read a maintenance ledger. Its solar awning was down. Its side hatch had been opened to reveal the fold-out desk, the CRT, the tea tray, the stamp pad, and the first four drawers of filing cabinets that went farther into the camper than any sensible architecture allowed. Behind the fifth drawer, a narrow bunk folded down over the cab. Beneath the desk, the induction plate, water tank gauge, and emergency towel rack waited for the day shift to end. Phosphor had spent the morning reconciling two clinic invoices and a small town's smoke-damaged appointment records; tonight he would latch the files into their ceiling rail, lower his bed, and hope the water pump did not resume its opinionated clicking. The interior smelled of old carpet, hot printer ribbon, lemon furniture polish, and the ghost of every tea Phosphor had ever made there. A row of wet shoes had appeared on the beige carpet tiles. Phosphor had allowed this because the alternative was leaving people in the smoke.
+On its roof, the Southern Skystitch terminal held a thin blue lock through the smoke: a flat Australian-built phased-array panel, assembled in some retooled workshop up Bendigo way and repaired by whoever could still read a maintenance ledger. There was no dish to turn and no satellite drama to perform; the panel simply changed its internal geometry until a route existed. Its solar awning was down. Its side hatch had been opened to reveal the fold-out desk, the CRT, the tea tray, the stamp pad, and the first four drawers of filing cabinets that went farther into the camper than any sensible architecture allowed. Behind the fifth drawer, a narrow bunk folded down over the cab. Beneath the desk, the induction plate, water tank gauge, and emergency towel rack waited for the day shift to end. Phosphor had spent the morning reconciling two clinic invoices and a small town's smoke-damaged appointment records; tonight he would latch the files into their ceiling rail, lower his bed, and hope the water pump did not resume its opinionated clicking. The interior smelled of old carpet, hot printer ribbon, lemon furniture polish, and the ghost of every tea Phosphor had ever made there. He had not eaten since a piece of toast before dawn, but there was a warm corner of sausage roll on the desk beside the thermos, and he kept forgetting to finish it. A row of wet shoes had appeared on the beige carpet tiles. Phosphor had allowed this because the alternative was leaving people in the smoke.
 
-He stood behind the desk in his dark work suit, a white shirt buttoned neatly at the throat despite the heat, and a black top hat with a satin band. The hat gave strangers the impression that he had arrived from a much more orderly century. The lanyard at his waist, the ash on his cuffs, and the unsettling youth of his face corrected that impression on closer inspection.
+He stood behind the desk in a dark technical suit cut close enough not to catch on the filing rails, a white shirt buttoned neatly at the throat despite the heat, and a black top hat with a narrow status band sewn into the satin. The coat's heat-responsive seams had given up trying to cool him and now blinked a tired green at his wrists. The hat gave strangers the impression that he had arrived from a much more orderly century. The lanyard at his waist, the ash on his cuffs, and the unsettling youth of his face corrected that impression on closer inspection.
 
 He had not allowed the thermos lid with the words KISS ME, I'M A FIRE WARDEN.
 
@@ -74,11 +74,11 @@ The chat flowed up the left side of the screen.
 
 `GhostAgent: I have preserved six versions of the council update. Two contain different verbs.`
 
-`Rooby: SexyGreg is still claiming he is incident commander. Verification pending.`
+`Rooby: one account is still claiming incident commander. Verification pending.`
 
-Kim stared at the screen. "Who is SexyGreg?"
+Kim stared at the screen. "Who is claiming incident commander?"
 
-"An administrative weather event," Phosphor said.
+"An administrative weather event," Phosphor said. "A temporary name would only encourage it."
 
 The road-truther knocked on the open hatch. "Oi. You the records bloke?"
 

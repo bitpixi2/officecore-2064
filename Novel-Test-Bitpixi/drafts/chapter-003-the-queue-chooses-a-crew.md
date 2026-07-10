@@ -106,7 +106,7 @@ Kim looked at the list. Then she looked beyond it, across Murravale's ash-grey f
 
 The servo's old gold-and-red fascia was barely visible beneath the ash. Beyond it, the road ran past a low line of tailings and vanished toward Castlemaine in a wall of brown-orange smoke. Solar panels folded over camper roofs like dark wings. Some of those roofs held paid work that could not be allowed to fail: clinic fridges, an evacuation spreadsheet, a repair invoice waiting for signal, a child's bedtime light. By dusk, the same roofs would have to power fans, kettles, and beds. The chrome caravan at the lot's edge had woken beneath its foil tarp; a string of blue route-lights pulsed slowly around its windscreen, as if it were dreaming in public.
 
-At the far end of the forecourt, Kasey had made a third queue with three battered tubs and a cardboard sign rescued from the sausage-roll cabinet: `REUSE / HAZARD / BIN`. It was not an inspiring command post, but people used it. Talia brought over two dead torch cells. Darren asked whether a cracked phone case counted as repair stock. Kim, who had spent the morning routing human panic, stood beside the tubs and began issuing instructions about food scraps with the solemnity of a minister opening parliament.
+At the far end of the forecourt, Kasey had made a third queue with three battered tubs and a cardboard sign rescued from the sausage-roll cabinet: `REUSE / HAZARD / BIN`. It was not an inspiring command post, but people used it. Talia brought over two dead torch cells. The road-truther asked whether a cracked phone case counted as repair stock. Kim, the council communications officer who had spent the morning routing human panic, stood beside the tubs and began issuing instructions about food scraps with the solemnity of a minister opening parliament.
 
 Phosphor understood why Kasey had done it. The convoy did not become a town because it had matching lanyards. It became one because someone remembered that the future contained other people, other taps, other drains, and another morning.
 
@@ -134,7 +134,7 @@ The gold icon brightened.
 
 On the forecourt, the girl who had written the route times lifted her hand. "Can I be a witness?"
 
-Her name was Talia, Phosphor discovered when Kim showed him the water-bottle label she had been using as a badge. She was fourteen, had a raincoat too large for her, and had just become better at timekeeping than most public systems.
+Her name was Talia, Phosphor discovered when Kim showed him the water-bottle label she had been using as a badge. She was fourteen, a local evacuee rather than a servo volunteer or employee, and had a raincoat too large for her. She had also become better at timekeeping than most public systems.
 
 Kasey crouched beside her. "You do not have to go to Barkers Creek."
 
@@ -174,21 +174,17 @@ The road-truther had been standing close enough to listen. He raised one hand, t
 
 "Your name?" Phosphor asked.
 
-"Darren."
-
-"Surname?"
-
-"Do I need one?"
+The road-truther looked toward the road, then back at the page. "Do I need one?"
 
 "Only if you would like the document to know you are not a rumour."
 
-Darren looked surprised. Then he gave Phosphor his surname, his time, and the exact colour the fire had been when it crossed the ridge. Phosphor wrote all of it down.
+He gave Phosphor a name, a time, and the exact colour the fire had been when it crossed the ridge. Phosphor wrote the useful parts down and left the rest out of the public record.
 
-By the time the first water crate was empty, the roster had become a small crowd around the fold-out desk. Chapel Seven's black flank reflected them in warped fragments: Kim's ash-streaked polo, Talia's yellow raincoat, Darren's high-vis vest, Kasey's pale rolled sleeves, Eris's red-lit hair. Beneath the desk, Phosphor could see the equipment that would have to disappear before he slept: the tea tray strapped into its crash cradle, the printer ribbon case, the water filter, the bunk latch. Beyond the reflections, the chapel's brass rails and old velvet tracks made the cramped office look half like a funeral parlour and half like a very serious travelling circus.
+By the time the first water crate was empty, the roster had become a small crowd around the fold-out desk. Chapel Seven's black flank reflected them in warped fragments: Kim's ash-streaked polo, Talia's yellow raincoat, the road-truther's high-vis vest, Kasey's pale rolled sleeves, Eris's red-lit hair. Beneath the desk, Phosphor could see the equipment that would have to disappear before he slept: the tea tray strapped into its crash cradle, the printer ribbon case, the water filter, the bunk latch. Beyond the reflections, the chapel's brass rails and old velvet tracks made the cramped office look half like a funeral parlour and half like a very serious travelling circus.
 
 Nobody was volunteering for Barkers Creek exactly. They were giving the crew pieces of the right to go.
 
-Kim witnessed the road closures. Talia witnessed the receipt map. Darren witnessed the western spur. The woman with the wedding dress witnessed that her grandmother's medication had been loaded onto the grey camper. Sim, who had not asked for a role beyond carrying water, signed as `SUPPLY TRANSFER / FOUR CRATES / NO COMPLAINTS`. Someone added a note beneath it saying `ONE COMPLAINT ABOUT LIFTING`, and Sim initialled the correction.
+Kim witnessed the road closures. Talia witnessed the receipt map. The road-truther witnessed the western spur. The woman with the wedding dress witnessed that her grandmother's medication had been loaded onto the grey camper. Sim, who had not asked for a role beyond carrying water, signed as `SUPPLY TRANSFER / FOUR CRATES / NO COMPLAINTS`. Someone added a note beneath it saying `ONE COMPLAINT ABOUT LIFTING`, and Sim initialled the correction.
 
 Eris read over the signatures. "Where is the repo?"
 
@@ -214,7 +210,7 @@ Kasey looked at her. "Exactly. Transparency is being able to inspect how a decis
 
 Red Flag's rear screen woke in a wash of dark red. Eris dragged the witness roster into the crew repo, then split out the names, private notes, and exact destinations. Phosphor watched the folder's single glowing page become three related records: one open, one shared by the acting crew, one represented only by a sealed receipt that said authorised information existed somewhere safer.
 
-Darren peered over Kim's shoulder. "Is this blockchain?"
+The road-truther peered over Kim's shoulder. "Is this blockchain?"
 
 "A witness chain," Eris said. "Signatures and sequence on-chain. Actual personal information off it. No coin, no mining race, no buying your way to the front of the evacuation."
 
@@ -246,7 +242,11 @@ One by one, they approved the links. Red Flag exposed its offered battery share,
 
 Their repositories remained their own. The incident repo could ask what each rig had offered; it could not rummage through the lives surrounding the offer.
 
-The stitch dish sent the update outward, but it was not the only route. Red Flag passed it to Chapel Seven. Chapel Seven passed it to the mint-green dental ambulance. The ambulance found a battery-backed relay in the servo's old stormwater monitor, which found a buried cooperative line beside the disused water race. The commit travelled under the smoke toward a repair shed outside Castlemaine, then waited there for any rig heading west.
+Eris did the splitting with one knee on the gravel and her tablet balanced against Red Flag's tyre. Ash settled in her hair. Every time the wind moved, she had to wipe the screen with the heel of her hand before the fingerprints turned into a second interface. Kasey stood over her, reading the permissions aloud, while Phosphor held the cable slack so nobody tripped. The work was not elegant. It involved a missing adapter, a swear from the dental ambulance, and Sim asking whether a private repository could still contain a public apology. Eris told him yes, but only if the apology was actually meant.
+
+When the first share went through, nobody cheered. The Cubicle's battery dropped by one small green bar. Red Flag's cooling fan slowed. Kasey touched the side of her van as if checking a fever, then nodded when the domestic panel reported that the fridge was still cold. That was the moment Phosphor trusted the arrangement: not when the ledger agreed, but when the person who had offered power checked what it cost and decided to keep offering it.
+
+The flat Skystitch panel sent the update outward, but it was not the only route. Red Flag passed it to Chapel Seven. Chapel Seven passed it to the mint-green dental ambulance. The ambulance found a battery-backed relay in the servo's old stormwater monitor, which found a buried cooperative line beside the disused water race. The commit travelled under the smoke toward a repair shed outside Castlemaine, then waited there for any rig heading west.
 
 On The Cubicle's screen, the network appeared as a loose chain of gold points below the official map. It did not resemble the cloud. It resembled roots, or cracks, or a town quietly remembering where it had buried its spare keys.
 
@@ -314,7 +314,7 @@ Eris prepared the first three matches. Kim signed as public witness. Kasey took 
 
 "For everything else, terms expire," Eris said. "No inherited favours. No permanent score. No chair at the meeting for owning the most shower credits."
 
-"Can sausage rolls become a governance token?" Darren asked.
+"Can sausage rolls become a governance token?" the road-truther asked.
 
 "No," Phosphor said.
 
@@ -322,7 +322,7 @@ The servo printer produced one disapproving centimetre of blank paper.
 
 "The catering department has lodged an appeal," Eris said.
 
-Rooby watched the first matches settle through the stitch dish.
+Rooby watched the first matches settle through the flat Skystitch panel.
 
 `ROOBY: This is becoming a form.`
 
@@ -414,7 +414,7 @@ Eris swore softly.
 
 "Continuity owns the word emergency if it can invoice it," Eris said.
 
-The stitch dish on Chapel Seven's roof gave a dry, metallic crack. Everyone looked up. Its white ceramic face had become a saucer of ash, its blue status ring reflected in the polished black roof below. A line of ash slid down its casing. The blue lock held.
+The flat Skystitch panel on Chapel Seven's roof gave a dry, metallic crack. Everyone looked up. Its white ceramic surface had become a sheet of ash, its blue status ring reflected in the polished black roof below. A line of ash slid down its casing. The blue lock held.
 
 GhostAgent arrived through the receipt printer.
 
@@ -452,7 +452,7 @@ Phosphor put his stamp beside the bottom line. Kim signed as witness. Talia sign
 
 Kasey signed last.
 
-The stitch dish brightened blue.
+The flat Skystitch panel brightened blue.
 
 The invoice disappeared from the printer screen, folded itself into an attachment, and left through a channel that made the CRT flicker like it was trying not to smile.
 
@@ -468,7 +468,7 @@ Under it, a new section had appeared.
 
 `CHAIN OF CUSTODY`
 
-He expected Kim. Talia. Kasey. The servo register. The stitch dish.
+He expected Kim. Talia. Kasey. The servo register. The Skystitch panel.
 
 Instead, the first entry read:
 

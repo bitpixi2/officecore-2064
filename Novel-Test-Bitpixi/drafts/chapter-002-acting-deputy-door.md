@@ -10,6 +10,10 @@ The chapel's cabin was close around them: velvet curtain rails over the windows,
 
 It could, of course. Documents had been making people homeless in much calmer weather for centuries.
 
+Phosphor had slept badly in the narrow strip left between the desk and the server cabinet. He had woken twice with a cable imprint across his cheek and once because the cabinet fan had changed pitch. The fan was not failing; it was simply asking for attention in the only language it knew. He had made coffee with the kettle balanced on a crate of archived permits, brushed his teeth over the little sink while the queue outside began to form, and folded his blanket into the false wall before anyone could see that the emergency office had also been his bedroom.
+
+Chapel Seven was a home by accumulation rather than declaration. There were three mugs because two had broken and Phosphor had refused to buy a matching set, a woollen coat hanging from the shower rail, a tin of screws beneath the passenger seat, and a small ceramic bowl holding keys, earplugs, and a stone from a place he could no longer identify. When the rig became a workplace, every object had to surrender its ordinary purpose. The table became a console. The sofa became a cable bench. The bed went vertical behind the filing wall. He had learned to do the conversion without knocking over the kettle, but he still resented the necessity of it.
+
 Kasey stood at the open hatch, looking out at the forecourt. The white corporate page shone from her lanyard wallet against the soot on her shirt. In the hard light, Phosphor could see how tired she was: the ash gathered in the crease beside her mouth, the fine tremor in the fingers she kept curled around the wallet, the pale line where a ring had once been and was no longer.
 
 "Nobody moves until we know what it does," she said.
@@ -31,6 +35,8 @@ Eris stepped down from Red Flag's side ladder. "Most gates can do anything when 
 "Accurate."
 
 Phosphor put the red file flat beneath his palm. The paper was cooling. He could feel the slight curl of it through the sleeve, as if the document wanted to close itself.
+
+He was hungry enough to notice the smell of somebody else's breakfast: burnt toast, instant coffee, the sweet artificial bacon of a servo pie warming under a heat lamp. His own breakfast had been two mouthfuls of a muesli bar while the solar controller booted. He told himself that hunger made him observant. It also made him less charitable toward stationery.
 
 "We need to separate what it says from what it can actually enforce," he said.
 
@@ -158,6 +164,8 @@ The road-truther raised a hand. "Can I have both?"
 
 "You may have one while supplies last."
 
+The road-truther lowered his hand, apparently unsure whether this was a joke or a rationing policy. Kim pointed him toward a folding chair. He sat down beside a crate of bottled water and immediately began making a list of roads he believed the council had closed for personal reasons. Nobody stopped him. Keeping one person occupied was sometimes a form of crowd control.
+
 Kasey did not turn when Phosphor stopped beside her.
 
 "There are emergency cables in the passenger footwell," she said. "And the facility access tokens."
@@ -254,6 +262,8 @@ Eris said, "That was hot."
 
 Kasey bent into the van and retrieved the cable case. To reach it, she unlatched the counter, shoved a crate of oats beneath the driver's seat, and folded the thin mattress back against the bulkhead with one impatient forearm. The cabin changed from a private room to a field office in three practiced movements. She moved fast now, but her hand shook once when she set the case on the gravel. Phosphor pretended not to see. He knew something about the dignity of not being entered into a record before it was ready.
 
+The Cubicle's interior was briefly visible through the open door. A narrow bunk ran along one wall beneath a mesh of charging cables. A potted herb sat in a clipped plastic cup near the window, its leaves grey with dust but still upright. There was a fold-down desk with a cracked induction mat, a fabric pocket full of labelled adapters, and a faded sticker that said `HOME IS A MAINTENANCE TASK`. Kasey had pushed her private life into every gap the van allowed, then made sure the gaps could be cleared in under five minutes. The arrangement looked improvised until she touched it; then every object seemed to know where it belonged.
+
 Then she picked up an empty cooling-gel sleeve, a torn strip of cable insulation, and a squashed foil packet from the gravel at her feet. She separated them without looking: soft plastic into one small bin, metal-backed film into another, the insulation into a labelled repair tub clipped beneath The Cubicle's counter.
 
 Phosphor watched her work. "Why is proper disposal so important to you?"
@@ -263,6 +273,8 @@ Kasey glanced at him. "Because I enjoy being difficult at a granular level."
 "I had assumed there was a second reason."
 
 "There is." She pressed the repair tub shut. The latch clicked once, cleanly. "Receipts tell you a person bought something, somewhere, at a time. Rubbish tells you they made it through the part after that. A formula tin. A medication sleeve. A heat-wrap. A fruit cup. It is proof of life, if you know how to read it."
+
+She said it like something she had been trying to explain for years and had only just found the least embarrassing version. Then she looked down at the foil packet in her hand, rubbed a thumb over its scorched edge, and put it in the correct tub.
 
 The smoke had made the forecourt strangely quiet between generator coughs. Kim was trying to keep a bin liner from lifting away in the wind. Near the bowsers, somebody rinsed soot from their hands with half a bottle of precious water and tipped the black runoff into a drain that did not look equal to the day.
 
@@ -280,11 +292,11 @@ Phosphor considered the small divided bins. He had a sudden, unwelcome sense of 
 
 Eris, carrying the signal cable past them, said, "Of course you did."
 
-"It was an engineered wetland," Phosphor continued. "Very peaceful from above. Very busy underneath. Gravel, roots, microbial films, inspection wells, inflow, outflow, people with clipboards. The reeds were not personally solving sewage. They were part of an arrangement that allowed the invisible work to happen."
+"It was an engineered wetland," Phosphor continued. He could see it as he spoke: heat trembling above the water, his shoes sinking at the edge, a researcher handing him a pair of gloves that were too large. "Very peaceful from above. Very busy underneath. I put my hand in the gravel and felt the current moving through it. The reeds were not personally solving sewage. They were part of an arrangement that allowed the invisible work to happen."
 
 Kasey's expression shifted despite herself. "That is almost a useful answer."
 
-"I am improving. I also saw windcatchers in a courtyard city. I thought they were decorative towers until I understood the shade, the thermal mass, the water, the wind direction, and the habits of everybody using the rooms. Comfort was not a machine. It was cooperation with a maintenance schedule."
+"I am improving. I also saw windcatchers in a courtyard city. I thought they were decorative towers until an old man shouted at me for blocking one with my backpack. He showed me how the shade moved across the paving, how the walls held the cool from the night, and where people left water for the air to borrow. Comfort was not a machine. It was cooperation with a maintenance schedule."
 
 Kasey leaned into The Cubicle and checked the thermal controller above the oats crate. It showed four green blocks for the house battery, one amber block for the cab, and a small red warning that the rear-door seal had failed its inspection again.
 

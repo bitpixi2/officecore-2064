@@ -96,9 +96,9 @@ That is also why Continuity Australia wants their data.
 
 ### Southern Skystitch
 
-`Southern Skystitch Mesh` is a fictional Australian-built low-Earth-orbit communications network. Its field terminals, known as `stitch dishes`, are rugged, repairable, and assembled through retooled Goldfields workshops around Bendigo.
+`Southern Skystitch Mesh` is a fictional Australian-built low-Earth-orbit communications network. Its field terminals, known as `stitch panels`, are rugged, repairable, and assembled through retooled Goldfields workshops around Bendigo.
 
-The crew relies on Skystitch for Rooby's comms, maps, local caches, event feeds, and messages that deserve to have been drafts. Smoke, weather, heat, power, orbital congestion, access tiers, and damaged gold contact mesh can all degrade it. A stitch dish is infrastructure, but it is also an office object with a serial number, maintenance ledger, unpaid invoice history, and a political argument attached.
+The crew relies on Skystitch for Rooby's comms, maps, local caches, event feeds, and messages that deserve to have been drafts. Smoke, weather, heat, power, orbital congestion, access tiers, and damaged gold contact mesh can all degrade it. A stitch panel is infrastructure, but it is also an office object with a serial number, maintenance ledger, unpaid invoice history, and a political argument attached.
 
 ### Rig Livelihoods
 
@@ -246,6 +246,16 @@ Kinds do not determine personality, morality, profession, or allegiance. Mixed o
 - Want: acquire the rig towns' mutual-aid model before the next climate emergency exposes government failure
 - Strength of argument: Continuity's data centres really do keep medicine, maps, payments, and emergency systems running
 - Harm: it converts people into infrastructure, calls consent an outage, and treats permanent housing as an employee retention benefit
+
+## Supporting Cast Economy
+
+The opening chapters use named minor characters only when a name carries a job in the story.
+
+- `Kim Tran` is the council communications officer at Murravale. She is a local witness, queue organiser, and civic counterweight to Continuity. She is not a servo worker and does not join the convoy after the opening emergency.
+- `Talia` is a fourteen-year-old local evacuee who becomes a witness because she wants the record to say the crew was there. She is not a servo employee, a hacker mascot, or a permanent crew member. After the witness chain is established, she can return to the evacuation flow without needing a subplot.
+- The road-truther, the wedding-dress woman, the child with the receipt map, and the servo customers remain described by role or object unless one becomes necessary to a later choice. Their presence keeps the convoy populated without turning every act of help into a new biography.
+- `Sim`, `Jaspy`, `Dawnbreaker`, and the Perth and Sydney node handles remain named because they are remote mesh contacts. Their names make the Undermesh feel inhabited and give the crew people to answer to beyond the Goldfields route.
+- The recurring emotional cast stays Phosphor, Eris, Kasey, Nell, Rooby, GhostAgent, Celia, KASEY-C, Eris-Red, and Astral Dream Machine. New named characters should earn a return, a consequence, or a necessary point of view.
 
 ## Four-Part Outline
 

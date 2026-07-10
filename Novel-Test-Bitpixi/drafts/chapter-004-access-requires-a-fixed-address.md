@@ -14,9 +14,9 @@ He closed the red incident file, latched it beneath Chapel Seven's desk, and tol
 
 The decision did not feel brave. It felt like putting an unprocessed form into an out-tray because the building had caught fire.
 
-Outside, the temporary department broke camp with the practised disorder of people who lived inside everything they owned. Solar awnings folded. Chairs collapsed into doors. A child's drawings vanished behind a thermal curtain. Water drums were tightened against roof racks; tool drawers slammed and locked; the grey camper's dead herb garden received one apologetic cup of washing water. A woman came to return a saucepan she had borrowed from Red Flag and stayed long enough to squeeze Kasey's elbow. Talia climbed onto the step of the dental ambulance to wave at the convoy until Kim made her come down. The mint-green vehicle took the first evacuees east. Sim's empty water crates were entered into the barter repo as `AVAILABLE / STACKABLE / SMELLS FAINTLY OF ORANGES`.
+Outside, the temporary department broke camp with the practised disorder of people who lived inside everything they owned. Solar awnings folded. Chairs collapsed into doors. A child's drawings vanished behind a thermal curtain. Water drums were tightened against roof racks; tool drawers slammed and locked; the grey camper's dead herb garden received one apologetic cup of washing water. A woman came to return a saucepan she had borrowed from Red Flag and stayed long enough to squeeze Kasey's elbow. A teenager in a yellow raincoat climbed onto the step of the dental ambulance to wave at the convoy until the council communications officer made her come down. The mint-green vehicle took the first evacuees east. Sim's empty water crates were entered into the barter repo as `AVAILABLE / STACKABLE / SMELLS FAINTLY OF ORANGES`.
 
-Kim stood by the servo sign with Talia and the road map taped to a sheet of cracked acrylic. She looked like a person who had accidentally founded a municipal body and intended to complain about it after everyone was safe.
+The council communications officer stood by the servo sign with the teenager and the road map taped to a sheet of cracked acrylic. She looked like a person who had accidentally founded a municipal body and intended to complain about it after everyone was safe.
 
 "Six hours," she called to Kasey. "Your department expires at half past five."
 
@@ -26,13 +26,13 @@ Kasey climbed into The Cubicle. "Then we will be efficient until half past five 
 
 "Please don't."
 
-Talia lifted the marker. "Too late."
+The teenager lifted the marker. "Too late."
 
 Red Flag rolled out behind The Cubicle, its old library silhouettes slipping through the smoke in red and cream. Chapel Seven followed. Astral Dream Machine brought up the rear without agreeing that it had joined them. Its chrome body reflected a road that was not presently there.
 
 Phosphor drove with the incident file under his desk and the impossible date under his skin. He kept reaching for the radio to tell Eris what he had found, then remembering that she was three metres away in another vehicle and would hear the fear before the words. He had never learned how to carry a secret in a body that had been assembled from other people's paperwork.
 
-The road toward Castlemaine narrowed between dry paddocks, old mine workings, and trees holding their pale leaves edge-on to the heat. Smoke erased the higher ridges. Every few kilometres a heritage sign appeared out of the orange air to explain an industry, settlement, railway, or disaster that had once believed itself finished. The convoy's stitch dishes kept low blue locks on Southern Skystitch while the Undermesh travelled beneath them in shorter, warmer hops: culvert relay, farmhouse tank sensor, community shed, van, weather pole, van again.
+The road toward Castlemaine narrowed between dry paddocks, old mine workings, and trees holding their pale leaves edge-on to the heat. Smoke erased the higher ridges. Every few kilometres a heritage sign appeared out of the orange air to explain an industry, settlement, railway, or disaster that had once believed itself finished. The convoy's flat Skystitch panels kept low blue locks on Southern Skystitch while the Undermesh travelled beneath them in shorter, warmer hops: culvert relay, farmhouse tank sensor, community shed, van, weather pole, van again.
 
 Rooby occupied Chapel Seven's CRT in a corner no larger than a postage stamp.
 

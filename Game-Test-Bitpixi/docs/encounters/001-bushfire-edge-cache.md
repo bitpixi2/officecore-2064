@@ -110,7 +110,7 @@ Roll `1d6` when Rooby posts.
 
 1. `Rooby: I found volunteers. I may have found too many volunteers.`
 2. `Rooby: Important update. The evacuation map is now a brunch menu but the table numbers are useful.`
-3. `Rooby: A person called SexyGreg claims to be incident commander. Verifying.`
+3. `Rooby: An account with an aggressively confident display name claims to be incident commander. Verifying.`
 4. `Rooby: Someone asked if Hackeroos can fix the sun. I said maybe.`
 5. `Rooby: Data-centre staff keep reacting to my messages with printer emoji. Is that good?`
 6. `Rooby: I have created a channel called #who-is-in-charge-here. This may have been a mistake.`

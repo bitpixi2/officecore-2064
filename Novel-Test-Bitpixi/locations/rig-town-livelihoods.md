@@ -61,7 +61,7 @@ Use small faults to make the world tactile and to give the crew reasons to depen
 
 - ash packed under a solar awning hinge keeps the panels from tracking the light
 - a slow water-pump leak drains the fresh tank into a cupboard of chargers
-- an overheated stitch dish needs shade, a clean contact mesh, and somebody steady on the roof
+- an overheated stitch panel needs shade, a clean contact mesh, and somebody steady on the roof
 - a fridge gasket fails, putting medication and food at risk
 - a grey-water hose smells wrong, which means the vehicle cannot simply park anywhere
 - a coolant warning becomes a route decision because stopping may cost a paid job or a safe night berth
