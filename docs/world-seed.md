@@ -50,6 +50,26 @@ The official world calls them unstable, unverified, extremist-adjacent, or impos
 
 The rig towns call themselves busy.
 
+## The Central Victorian Goldfields Route
+
+One major Officecore corridor runs through the central Victorian Goldfields: Clunes, Ballarat, Castlemaine, Maldon, Newstead, Daylesford, Maryborough, Dunolly, Talbot, Heathcote, and Bendigo. The towns are not interchangeable scenery. They carry distinct histories of boom, migration, labour, Chinese community life, environmental damage, heritage tourism, water infrastructure, and the long aftermath of extraction.
+
+The route crosses more than one Traditional Owner area. The Castlemaine, Maldon, Daylesford, Dunolly, and Bendigo section is on Dja Dja Wurrung Country; Ballarat includes Wadawurrung and Dja Dja Wurrung Country. Any future canon that uses real places, cultural history, or excavation should be developed with care, research, and consultation rather than treating Country as a treasure map.
+
+By 2064, old water races, rail lines, poppet heads, empty shops, tailings flats, weather stations, and heritage streets have become part of the rig-town infrastructure. The old goldfields are a useful reminder that an extraction boom leaves behind roads, paperwork, damage, stories, and people who were there before the boom arrived.
+
+### Miner's Rights And Alluvial Commons
+
+Many rig-town adults carry an individual `VIC Miner's Right` in their lanyard wallet. Its future form descends from the real hobbyist permit: it allows hand-tool prospecting only where access is lawful and locally authorised. It does not grant ownership of Country, access to private land, permission to use machinery, or permission to damage heritage, waterways, vegetation, or cultural places.
+
+Rig towns use community-managed alluvial commons for occasional panning, recovery work, field science, and a decent excuse to stop moving for an afternoon. A panning day involves hand pans, sieves, gossip, backfilling, water checks, local consent, and arguments about whether gold is a mineral, a memory medium, or a very annoying form of paperwork.
+
+### Southern Skystitch
+
+`Southern Skystitch` is a fictional 2064 Australian-built low-Earth-orbit communications mesh: part public infrastructure, part cooperative network, part political argument. Its compact terminals are assembled in adapted Goldfields workshops and nicknamed `stitch dishes` because they sew isolated rigs, fire crews, clinics, and old towns back into the same conversation.
+
+It is not a magical perfect internet. Smoke, weather, power scarcity, orbital debris, contested access rules, and corporate throttling still make every connection a negotiation.
+
 ## Officecore Rule
 
 Every future system should have an office surface:

@@ -74,6 +74,12 @@ Rig-town lanyards hold credentials, care ledgers, route permissions, favours, ma
 
 That is also why Continuity Australia wants their data.
 
+### Southern Skystitch
+
+`Southern Skystitch Mesh` is a fictional Australian-built low-Earth-orbit communications network. Its field terminals, known as `stitch dishes`, are rugged, repairable, and assembled through retooled Goldfields workshops around Bendigo.
+
+The crew relies on Skystitch for Rooby's comms, maps, local caches, event feeds, and messages that deserve to have been drafts. Smoke, weather, heat, power, orbital congestion, access tiers, and damaged gold contact mesh can all degrade it. A stitch dish is infrastructure, but it is also an office object with a serial number, maintenance ledger, unpaid invoice history, and a political argument attached.
+
 ## Original Embodied Kinds
 
 These are working concepts, not fixed biological castes.
@@ -246,7 +252,11 @@ Juno and Eris agree to work together under a written rule: no projection into th
 
 Official maps contradict fire crews, locals, and the dream route. Each rig perceives a different road. The convoy must combine Nell's residual chemical trail, Phosphor's old fuel receipts, and Eris's traffic-screen Afterimage.
 
-The safer detour requires Juno to declare the convoy a mobile funeral, producing a cheerful roadside sign that reads `SORRY FOR YOUR LOSS OF FIXED INFRASTRUCTURE`.
+The safer detour carries them through Castlemaine, Maldon, Newstead, Maryborough, and Dunolly. When Chapel Seven's Southern Skystitch terminal heat-damages its gold contact mesh, the crew stops at the fictional Dunolly Alluvial Commons, a community-managed panning site on Dja Dja Wurrung Country.
+
+Each adult shows an individual `VIC Miner's Right` and follows the site's hand-tool, access, and restoration rules. The panning is a pause, a repair, and a social test. Phosphor recovers a gold-backed Continuity archive wafer from newly shifted tailings; it points toward the dead call centre, but also creates an obligation to the people who host the commons.
+
+The safer detour still requires Juno to declare the convoy a mobile funeral, producing a cheerful roadside sign that reads `SORRY FOR YOUR LOSS OF FIXED INFRASTRUCTURE`.
 
 ### 9. Customer Care After Death
 
@@ -411,6 +421,7 @@ Each interlude must change the reader's understanding or the plot. None should e
 
 - bushfire servo command post and receipt-map rescue
 - convoy navigation through contradictory roads
+- permitted panning and Skystitch repair at a community alluvial commons near Dunolly
 - haunted customer-care floor in a dead call centre
 - twelve versions of Room 0 in an airport motel twin
 - a Bunnings loading-dock parliament after midnight

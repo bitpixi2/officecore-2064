@@ -12,11 +12,11 @@ It had been printing the road network in a pale orange grid beneath the price of
 
 The woman had ash in the folds of her polo shirt and a council lanyard tucked into the collar so it would not flap in the wind. Her name badge said KIM, which was either her first name, last name, or an act of mercy toward everybody currently asking it for things.
 
-Outside Murravale Service Centre, the sky had been reduced to a metallic orange lid. Ash collected in the gutters, on the windscreen wipers, in the seams of the road, and in the teeth of a plastic koala strapped to the servo sign. The sign promised HOT FOOD, COLD DRINKS, CLEAN TOILETS.
+Outside Murravale Service Centre, a mostly shuttered servo on the road between Castlemaine and Maldon, the sky had been reduced to a metallic orange lid. Ash collected in the gutters, on the windscreen wipers, in the seams of the road, and in the teeth of a plastic koala strapped to the servo sign. The sign promised HOT FOOD, COLD DRINKS, CLEAN TOILETS.
 
 Only one of those claims was still true.
 
-Chapel Seven stood beside the diesel bowsers in its black, immaculate disapproval. Its solar awning was down. Its side hatch had been opened to reveal the fold-out desk, the CRT, the tea tray, the stamp pad, and the first four drawers of filing cabinets that went farther into the camper than any sensible architecture allowed. A row of wet shoes had appeared on the beige carpet tiles. Phosphor had allowed this because the alternative was leaving people in the smoke.
+Chapel Seven stood beside the diesel bowsers in its black, immaculate disapproval. On its roof, the Southern Skystitch terminal held a thin blue lock through the smoke: a compact Australian-built low-orbit dish everyone called a stitch dish, assembled in some retooled workshop up Bendigo way and repaired by whoever could still read a maintenance ledger. Its solar awning was down. Its side hatch had been opened to reveal the fold-out desk, the CRT, the tea tray, the stamp pad, and the first four drawers of filing cabinets that went farther into the camper than any sensible architecture allowed. A row of wet shoes had appeared on the beige carpet tiles. Phosphor had allowed this because the alternative was leaving people in the smoke.
 
 He had not allowed the thermos lid with the words KISS ME, I'M A FIRE WARDEN.
 
