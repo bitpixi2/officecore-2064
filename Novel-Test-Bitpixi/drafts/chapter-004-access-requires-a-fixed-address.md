@@ -4,7 +4,9 @@
 
 Phosphor had been alive for eleven years, according to the most generous records, and had just found his handwriting on a document fifteen years older than that.
 
-The responsible thing would have been to stop.
+The date had sat beneath the chain of custody while the convoy packed around him. He had read it so many times that the numbers had lost their shape. Now they returned as a physical thing: a cold coin behind his ribs, impossible to swallow.
+
+The responsible thing would have been to stop. To ask Eris to check the ink. To ask Kasey whether the file had been altered. To ask the people who had signed the roster whether a person could be a witness before he existed.
 
 He did not.
 
@@ -12,7 +14,7 @@ He closed the red incident file, latched it beneath Chapel Seven's desk, and tol
 
 The decision did not feel brave. It felt like putting an unprocessed form into an out-tray because the building had caught fire.
 
-Outside, the temporary department broke camp with the practised disorder of people who lived inside everything they owned. Solar awnings folded. Chairs collapsed into doors. A child's drawings vanished behind a thermal curtain. Water drums were tightened against roof racks; tool drawers slammed and locked; the grey camper's dead herb garden received one apologetic cup of washing water. The mint-green dental ambulance took the first evacuees east. Sim's empty water crates were entered into the barter repo as `AVAILABLE / STACKABLE / SMELLS FAINTLY OF ORANGES`.
+Outside, the temporary department broke camp with the practised disorder of people who lived inside everything they owned. Solar awnings folded. Chairs collapsed into doors. A child's drawings vanished behind a thermal curtain. Water drums were tightened against roof racks; tool drawers slammed and locked; the grey camper's dead herb garden received one apologetic cup of washing water. A woman came to return a saucepan she had borrowed from Red Flag and stayed long enough to squeeze Kasey's elbow. Talia climbed onto the step of the dental ambulance to wave at the convoy until Kim made her come down. The mint-green vehicle took the first evacuees east. Sim's empty water crates were entered into the barter repo as `AVAILABLE / STACKABLE / SMELLS FAINTLY OF ORANGES`.
 
 Kim stood by the servo sign with Talia and the road map taped to a sheet of cracked acrylic. She looked like a person who had accidentally founded a municipal body and intended to complain about it after everyone was safe.
 
@@ -28,7 +30,7 @@ Talia lifted the marker. "Too late."
 
 Red Flag rolled out behind The Cubicle, its old library silhouettes slipping through the smoke in red and cream. Chapel Seven followed. Astral Dream Machine brought up the rear without agreeing that it had joined them. Its chrome body reflected a road that was not presently there.
 
-Phosphor drove with the incident file under his desk and the impossible date under his skin.
+Phosphor drove with the incident file under his desk and the impossible date under his skin. He kept reaching for the radio to tell Eris what he had found, then remembering that she was three metres away in another vehicle and would hear the fear before the words. He had never learned how to carry a secret in a body that had been assembled from other people's paperwork.
 
 The road toward Castlemaine narrowed between dry paddocks, old mine workings, and trees holding their pale leaves edge-on to the heat. Smoke erased the higher ridges. Every few kilometres a heritage sign appeared out of the orange air to explain an industry, settlement, railway, or disaster that had once believed itself finished. The convoy's stitch dishes kept low blue locks on Southern Skystitch while the Undermesh travelled beneath them in shorter, warmer hops: culvert relay, farmhouse tank sensor, community shed, van, weather pole, van again.
 
@@ -56,7 +58,7 @@ Eris answered from Red Flag. "Tell it our destination is through the gate."
 
 "It has placed me on hold."
 
-They stopped beside an old bluestone water race that ran under the road and away through a shallow cutting. The race itself was mostly dry, but a maintenance seep darkened the stones beneath a stand of wattles. Green had survived there. Green had become extravagant: dock, chickweed, grass, and a dense patch of nettles growing waist-high in the protected damp.
+They stopped beside an old bluestone water race that ran under the road and away through a shallow cutting. The race itself was mostly dry, but a maintenance seep darkened the stones beneath a stand of wattles. Green had survived there. Green had become extravagant: dock, chickweed, grass, and a dense patch of nettles growing waist-high in the protected damp. A dragonfly lifted from the wet stones and hovered beside Phosphor's sleeve, bright blue and absurdly calm.
 
 Phosphor opened Chapel Seven's side hatch. Heat came in carrying dust, eucalyptus, hot brakes, and the mineral smell of old stone.
 
@@ -74,7 +76,7 @@ Kasey looked at the fire-dark sky, the locked road gate, and the emergency data 
 
 "Three months from now."
 
-That answer changed the air more than it should have.
+For a moment, none of them looked toward the gate. The idea of three months had made a small room around them. It had walls, perhaps a table, perhaps a day when the sky was not orange.
 
 Phosphor stepped down onto the gravel. "Nettles make wine?"
 
@@ -92,7 +94,7 @@ The purchase was six weeks old. White-wine yeast, replacement airlocks, printer 
 
 "A Porchlight host's printer was producing every page in landscape and her plum tree had become an emergency."
 
-"This explains nothing."
+"The printer was angry. The plum tree was worse."
 
 "It explains the yeast."
 
@@ -104,7 +106,7 @@ Eris looked at Phosphor. "She makes foraging sound like procurement."
 
 "See? This is why I keep him."
 
-Phosphor's body made the same small error it had made at the servo. He decided it was heat stress and recorded nothing.
+Phosphor's body made the same small error it had made at the servo. He decided it was heat stress. The decision was not accepted by the rest of him.
 
 They found gloves for everyone. Kasey wore thin work gloves beneath a heavier pair because she trusted systems only when they had redundancy. Eris kept the lemon glove and the welding glove. Phosphor wore black archival gloves until Kasey stared at them, then added gardening gloves over the top.
 
@@ -112,17 +114,19 @@ They found gloves for everyone. Kasey wore thin work gloves beneath a heavier pa
 
 "You do not know what they intend."
 
-The first sting found the strip of bare wrist between her two gloves.
+The first sting found the strip of bare wrist between her two gloves. Eris sucked in a breath and went very still. The pain was tiny, local, almost laughable. That was what made it so offensive.
 
 Eris made a noise that caused Astral Dream Machine to print a route away from her.
 
-"Do not laugh," she told Phosphor.
+"Do not laugh," she told Phosphor, with her eyes watering.
 
-"I am documenting a safety incident."
+"I am trying to decide whether to document it or kiss it better."
 
 "Your mouth is smiling."
 
-"That is an unrelated muscular event."
+"You have not made a decision."
+
+"The evidence is incomplete."
 
 Kasey handed Eris a strip of tape to close the gap. "Personal protective equipment is most effective when it touches the other personal protective equipment."
 
@@ -130,7 +134,7 @@ Kasey handed Eris a strip of tape to close the gap. "Personal protective equipme
 
 "Any time."
 
-They worked along the edge of the patch with scissors and shallow tubs. The nettles had a dark, mineral green unlike the exhausted paddocks around them. Their serrated leaves caught ash and held it. Tiny hairs shone along the stems whenever the smoke thinned enough to let sunlight through.
+They worked along the edge of the patch with scissors and shallow tubs. The nettles had a dark, mineral green unlike the exhausted paddocks around them. Their serrated leaves caught ash and held it. Tiny hairs shone along the stems whenever the smoke thinned enough to let sunlight through. Kasey kept checking the road, Eris kept checking her wrist, and Phosphor kept pretending the work required his entire attention.
 
 Phosphor cut carefully. Each top landed in the tub with a soft vegetable weight. It was strange to handle evidence that was alive and actively opposed to being handled. Receipts submitted. Doors objected. Nettles appealed directly to the skin.
 
@@ -156,11 +160,13 @@ Kasey held a stem with kitchen tongs and snipped at it from maximum legal distan
 
 Phosphor showed her the Sunbury packet. "It has a batch number."
 
-Eris stopped trimming. "I need you to understand that this is flirting for us."
+Eris stopped trimming. "I need you to understand that this is flirting for us," she said. "I am doing my best with the gloves."
 
 Kasey dropped a nettle top into the tub. "Unfortunately, we all understand."
 
 They poured the hot water over the prepared nettles and sugar. The leaves collapsed from defensive green into something softer and darker. Citrus brightened the steam. For a minute the roadside smelled not of fire but of cut plants, lemon oil, warm metal, and a kitchen that had been assembled from three vehicles without any of them admitting it was a kitchen.
+
+Kasey found four mugs. Nobody had asked for four. She filled them anyway and set the last one on the bluestone wall, where the heat could take it slowly. They stood beside the water race drinking something too hot to finish while the road gate continued to think about them.
 
 They waited for the liquid to cool enough for the yeast. Waiting was the difficult part. The gate remained closed. Barkers Creek remained beyond it. Nell's seven-second warning sat inside every silence.
 
@@ -184,7 +190,17 @@ He showed her the date.
 
 She did not touch the page. This mattered to him more than touching would have.
 
-"Could somebody have copied your hand?" she asked.
+"Do you know what it means?" she asked.
+
+"No."
+
+"Good."
+
+He looked at her.
+
+"Not good," she said. "Just honest."
+
+She studied the date without leaning closer. "Could somebody have copied your hand?"
 
 "Yes."
 
@@ -198,7 +214,7 @@ She did not touch the page. This mattered to him more than touching would have.
 
 "Do you hate all three answers?"
 
-"They are insufficiently different."
+"I hate that they all leave me responsible for the next question."
 
 Eris looked toward the cooling vessel. "We have just put weeds, sugar, lemon, and a fungus into a bucket and agreed to call the result wine in three months."
 
@@ -208,7 +224,17 @@ Eris looked toward the cooling vessel. "We have just put weeds, sugar, lemon, an
 
 "That is a dangerous standard."
 
-"Yes. So is only believing things after they are over."
+"Yes. So is only believing things after they are over." She rubbed her stung wrist against the seam of her sleeve. "I don't want you to wait until you can prove what happened to tell us you are frightened."
+
+Phosphor looked at the date again. "I am not sure frightened is the word."
+
+"It is the word people use when their hands shake and they keep driving."
+
+He considered denying this. Instead he held the file out so she could see the line without taking it.
+
+"I am frightened," he said.
+
+Eris's shoulder touched his again. This time it was not accidental.
 
 The fermenting liquid had cooled. Eris added the white-wine yeast from Sunbury. Kasey fitted the airlock. Phosphor wrote a label.
 
@@ -224,7 +250,7 @@ Kasey read it. "Four."
 
 "Nell has not participated in the batch."
 
-"Four," Kasey said.
+"Four," Kasey said. She said it as though the number could call Nell home.
 
 Phosphor crossed out the three.
 
@@ -328,7 +354,7 @@ Celia watched the correction appear on her remote display. "You always were thor
 
 Eris looked at him. The line had belonged to coffee an hour ago. It did not improve with reuse.
 
-The gate asked for a site contact. Kasey entered Nell Wren.
+The gate asked for a site contact. Kasey entered Nell Wren. Her fingers missed the screen the first time. She wiped them on her trousers, leaving a green smear from the nettles, and tried again.
 
 The terminal searched.
 
@@ -340,7 +366,7 @@ The search widened. A staff muster opened across the gate screen: names, shifts,
 
 Phosphor felt the same offence he had felt inside Kasey's profile: an absence with a filing cabinet drawn around it.
 
-"She lives here," Kasey said.
+"She lives here," Kasey said. The sentence was too plain for how much it had to carry.
 
 "The current muster is complete," Celia replied.
 
@@ -348,13 +374,13 @@ Phosphor felt the same offence he had felt inside Kasey's profile: an absence wi
 
 "Then your interpretation of the sender is incorrect."
 
-Eris's image flickered across the gate terminal. Her Afterimage had projected before anyone could stop her. It moved behind the muster display, red and translucent, following maintenance references through the approved interface.
+Eris's image flickered across the gate terminal. Her Afterimage had projected before anyone could stop her. It moved behind the muster display, red and translucent, following maintenance references through the approved interface. On the physical side of the screen, Eris made a small helpless gesture with both hands, as if she had lost hold of a cup.
 
 "Eris," Kasey said.
 
 "I am reading what they showed us."
 
-"Return."
+"Return," Kasey said, and this time the word sounded less like an order than a request she was trying to disguise.
 
 "In a moment."
 
@@ -365,6 +391,10 @@ Rows of staff data peeled back. Under the complete muster sat a cooling work ord
 Eris's Afterimage turned toward Phosphor from inside the screen.
 
 For one second, the red version of her looked frightened.
+
+Phosphor put his hand against the glass. He did not authenticate her. He did not reach through. He only stayed where she could see him.
+
+"I am here," he said.
 
 Then the gate accepted the convoy.
 
