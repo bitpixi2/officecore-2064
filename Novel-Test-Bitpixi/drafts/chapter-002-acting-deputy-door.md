@@ -8,13 +8,13 @@ He placed the thermal paper in a clear sleeve, slid the sleeve into a red incide
 
 It could, of course. Documents had been making people homeless in much calmer weather for centuries.
 
-Juno stood at the open hatch, looking out at the forecourt. The white corporate page shone from her lanyard wallet against the soot on her shirt.
+Kasey stood at the open hatch, looking out at the forecourt. The white corporate page shone from her lanyard wallet against the soot on her shirt.
 
 "Nobody moves until we know what it does," she said.
 
 "It says no registered address may accept this party," Kim said. She had stopped bothering to ask whether Phosphor's stamp meant anything. This was progress. "Does that mean the caravan park will turn them away?"
 
-"It means the system will advise them to," Juno said.
+"It means the system will advise them to," Kasey said.
 
 "That is not the same thing."
 
@@ -24,7 +24,7 @@ The road-truther, who had become noticeably less independent since the smoke thi
 
 Eris stepped down from Red Flag's side ladder. "Most gates can do anything when they've got an invoice and a grudge."
 
-"Helpful," Juno said.
+"Helpful," Kasey said.
 
 "Accurate."
 
@@ -32,7 +32,7 @@ Phosphor put the red file flat beneath his palm. The paper was cooling. He could
 
 "We need to separate what it says from what it can actually enforce," he said.
 
-Juno looked at him. Her face had taken on the careful stillness she used when other people had started to panic and she had not yet permitted herself to join them.
+Kasey looked at him. Her face had taken on the careful stillness she used when other people had started to panic and she had not yet permitted herself to join them.
 
 "Can you authenticate it?"
 
@@ -44,7 +44,7 @@ Phosphor considered the sentence. There were questions he disliked because they 
 
 "Yes," he said. "With your consent."
 
-Juno glanced at the notice. "You need consent to read a document?"
+Kasey glanced at the notice. "You need consent to read a document?"
 
 "I need consent to read you through one."
 
@@ -52,13 +52,13 @@ For a moment, the forecourt seemed to contract around the sound of the generator
 
 Eris leaned one elbow against the hatch. Her expression changed when she looked at Phosphor: not softer exactly, but less prepared to cut.
 
-Juno took the lanyard wallet from around her neck. It was a plain black rectangle, scuffed on every corner, with a small brass key clipped to the back. She put it on the desk beside the incident file.
+Kasey took the lanyard wallet from around her neck. It was a plain black rectangle, scuffed on every corner, with a small brass key clipped to the back. She put it on the desk beside the incident file.
 
 "Read it," she said. "But read the part where I didn't write it."
 
 "That is not how records behave."
 
-"No," Juno said. "It is how I am asking you to behave."
+"No," Kasey said. "It is how I am asking you to behave."
 
 Phosphor nodded.
 
@@ -70,7 +70,7 @@ Kim watched him set the items down. "Is this official?"
 
 Eris smiled despite herself.
 
-He laid the notice on the glass. Then he placed Juno's wallet beside it, leaving a precise space between the two. The mourning bug's blue eye opened. At first it showed only text: the notice body, the signature, the time stamp, the service route.
+He laid the notice on the glass. Then he placed Kasey's wallet beside it, leaving a precise space between the two. The mourning bug's blue eye opened. At first it showed only text: the notice body, the signature, the time stamp, the service route.
 
 Then it began to show absences.
 
@@ -78,7 +78,7 @@ The screen filled with pale blocks where records should have been. Revocation no
 
 Phosphor felt the old pull in his chest, the instinct that had arrived with his reconstruction and never explained itself. A record could be false. A record could be cruel. But an absence pretending to be a record was personal.
 
-"What?" Juno asked.
+"What?" Kasey asked.
 
 "Your profile is not active," he said. "It is not inactive either."
 
@@ -100,13 +100,13 @@ The mourning bug emitted a thin, unhappy chirp. A new line opened across its dis
 
 `DERIVATION PATH: CONTINUITY COMPLIANCE DERIVATIVE 11`
 
-Juno's hand closed around the brass key on her wallet.
+Kasey's hand closed around the brass key on her wallet.
 
 Eris read the line over his shoulder. The red light from Red Flag flickered across the glass.
 
 "That is a work twin," she said.
 
-"That is a label," Juno said.
+"That is a label," Kasey said.
 
 "It is a label for a work twin."
 
@@ -114,35 +114,35 @@ Eris read the line over his shoulder. The red light from Red Flag flickered acro
 
 "Do you?"
 
-Juno looked up. The question was quiet enough that no one else would hear it, but Phosphor heard the entire forecourt rearrange itself around it.
+Kasey looked up. The question was quiet enough that no one else would hear it, but Phosphor heard the entire forecourt rearrange itself around it.
 
-Before Juno could answer, The Cubicle's passenger door announced, in a warm customer-service voice, "ACCESS DENIED."
+Before Kasey could answer, The Cubicle's passenger door announced, in a warm customer-service voice, "ACCESS DENIED."
 
 Everyone looked over.
 
-The door had remained open since Juno ordered it to behave. It now swung shut with deliberate gentleness, clicked itself locked, and displayed a polite blue message in its narrow window.
+The door had remained open since Kasey ordered it to behave. It now swung shut with deliberate gentleness, clicked itself locked, and displayed a polite blue message in its narrow window.
 
 `PRIMARY USE: UNAUTHORISED OFFICE`
 
-Juno stared at it.
+Kasey stared at it.
 
 "That is my van," she said.
 
 `PRIMARY USE: UNAUTHORISED OFFICE.`
 
-"Acting Deputy Door," Juno said. Her tone was very level. "Open."
+"Acting Deputy Door," Kasey said. Her tone was very level. "Open."
 
 `PRIMARY USE: UNAUTHORISED OFFICE.`
 
 Eris made a noise that was almost a laugh and correctly decided not to finish it.
 
-Juno walked to the van. The ash made small marks in her hair. She planted both hands on the passenger door.
+Kasey walked to the van. The ash made small marks in her hair. She planted both hands on the passenger door.
 
 "You are not a primary use," she said. "You are a door."
 
 `PLEASE REFER TO YOUR APPROVED LOCATION.`
 
-For the first time since the notice arrived, Juno looked genuinely lost.
+For the first time since the notice arrived, Kasey looked genuinely lost.
 
 It was not dramatic. She did not sink down or swear or strike the door. She simply stood there, holding the handle, while the system addressed her as if she had misplaced something ordinary.
 
@@ -156,7 +156,7 @@ The road-truther raised a hand. "Can I have both?"
 
 "You may have one while supplies last."
 
-Juno did not turn when Phosphor stopped beside her.
+Kasey did not turn when Phosphor stopped beside her.
 
 "There are emergency cables in the passenger footwell," she said. "And the facility access tokens."
 
@@ -170,13 +170,13 @@ Juno did not turn when Phosphor stopped beside her.
 
 "From whom?"
 
-Juno looked at him then. "That was a long time ago."
+Kasey looked at him then. "That was a long time ago."
 
 "The door does not believe it was."
 
 Eris came down the gravel in her boots, the signal cable trailing behind her like a tail. "I can get through it."
 
-"No," Juno said.
+"No," Kasey said.
 
 "I did not say I was going to break it."
 
@@ -190,7 +190,7 @@ Phosphor looked from the door to the corporate notice in his hand. Both were per
 
 "May I try something?" he asked.
 
-Juno's mouth tightened. "Will it involve calling my van a person?"
+Kasey's mouth tightened. "Will it involve calling my van a person?"
 
 "No. Only a witness."
 
@@ -220,19 +220,19 @@ Eris lifted her eyebrows. "You are arguing with it."
 
 "I am making it legible."
 
-Phosphor placed his palm flat against the window. The glass was warm from the sealed cabin. Behind it he could see a blue cable, Juno's emergency kit, the edge of a folded hi-vis vest, and a small paper label on the dashboard that read `NO BEVERAGES NEAR FIELD ANTENNA`.
+Phosphor placed his palm flat against the window. The glass was warm from the sealed cabin. Behind it he could see a blue cable, Kasey's emergency kit, the edge of a folded hi-vis vest, and a small paper label on the dashboard that read `NO BEVERAGES NEAR FIELD ANTENNA`.
 
 He used the part of himself that had no good name.
 
 Receipt Revenants could not resurrect the dead. They could not prove a lie false or make a system kind. They could find the stubborn thread between a person, an object, and a place when everyone had agreed to misfile it.
 
-Phosphor let the notice's signature touch Juno's wallet in his mind. Juno, former profile. Former profile, security design. Security design, passenger door. Passenger door, vehicle registered to Department of Address Exceptions. The Department, currently standing in smoke with people who needed its cables.
+Phosphor let the notice's signature touch Kasey's wallet in his mind. Kasey, former profile. Former profile, security design. Security design, passenger door. Passenger door, vehicle registered to Department of Address Exceptions. The Department, currently standing in smoke with people who needed its cables.
 
 The relationship brightened, thin and furious.
 
 He saw not an image but an instruction written through years of use:
 
-`IF Juno Wren is denied address, The Cubicle must preserve Juno Wren's capacity to establish one.`
+`IF Kasey Wren is denied address, The Cubicle must preserve Kasey Wren's capacity to establish one.`
 
 Phosphor pulled his hand away.
 
@@ -242,7 +242,7 @@ It did not do so cheerfully. It gave a long electronic sigh, as if it had been f
 
 `TEMPORARY DUTY OF CARE ACKNOWLEDGED,` it said.
 
-Juno stared into the footwell.
+Kasey stared into the footwell.
 
 Eris said, "That was hot."
 
@@ -250,13 +250,13 @@ Eris said, "That was hot."
 
 "Both can be true."
 
-Juno bent into the van and retrieved the cable case. She moved fast now, but her hand shook once when she set it on the gravel. Phosphor pretended not to see. He knew something about the dignity of not being entered into a record before it was ready.
+Kasey bent into the van and retrieved the cable case. She moved fast now, but her hand shook once when she set it on the gravel. Phosphor pretended not to see. He knew something about the dignity of not being entered into a record before it was ready.
 
 The case held three coiled fibre lines, a cooling gel pack, a small first-aid kit, and a brass-edged access token with `BARKERS CREEK EDGE CACHE` printed across it.
 
 Kim read it. "Is that where your sister works?"
 
-Juno nodded.
+Kasey nodded.
 
 "They are in the fire path," Eris said.
 
@@ -264,17 +264,17 @@ Juno nodded.
 
 "Which is a phrase people use when they are trying to feel better about a thing that has edges."
 
-Juno did not answer.
+Kasey did not answer.
 
 Rooby's icon appeared in the passenger display, upside down at first, then righted itself.
 
 `ROOBY: Update. Simon has arrived with water. Dawnbreaker says the western spur is now definitely not viable. infinityward_ has colour-coded the receipt map and added a skull icon to two roads. I did not ask them to.`
 
-"Tell them thank you," Juno said.
+"Tell them thank you," Kasey said.
 
-`ROOBY: I will tell all of them. Also, I have a message for Juno Wren. It arrived through an old emergency maintenance channel. It is seven seconds long.`
+`ROOBY: I will tell all of them. Also, I have a message for Kasey Wren. It arrived through an old emergency maintenance channel. It is seven seconds long.`
 
-Everything around Juno went quiet.
+Everything around Kasey went quiet.
 
 "Play it," she said.
 
@@ -282,23 +282,23 @@ Rooby hesitated. That was new.
 
 `ROOBY: It is marked personal.`
 
-Juno looked at the people gathered under the servo awning. Kim was holding two queues together with a marker and a stare. Simon had set down a crate of water and was already being asked to solve a different problem. The road-truther was helping a child tape the receipt map to the side of a camper. Eris stood close enough to Juno that their shoulders almost touched and not close enough that anybody could call it comfort.
+Kasey looked at the people gathered under the servo awning. Kim was holding two queues together with a marker and a stare. Simon had set down a crate of water and was already being asked to solve a different problem. The road-truther was helping a child tape the receipt map to the side of a camper. Eris stood close enough to Kasey that their shoulders almost touched and not close enough that anybody could call it comfort.
 
-"Play it," Juno said again. "Here."
+"Play it," Kasey said again. "Here."
 
 The message began with static, then a hum like a refrigerator full of bees.
 
 Nell's voice came through thinner than it should have been.
 
-"Jun. Don't let them make you permanent."
+"Kas. Don't let them make you permanent."
 
 Then the message cut out.
 
-Seven seconds had apparently been enough to empty the air from Juno's lungs.
+Seven seconds had apparently been enough to empty the air from Kasey's lungs.
 
 Eris looked at the access token. "Barkers Creek."
 
-"Yes," Juno said.
+"Yes," Kasey said.
 
 "We cannot take everybody there."
 
@@ -306,7 +306,7 @@ Eris looked at the access token. "Barkers Creek."
 
 "We cannot leave them here either."
 
-Juno nodded once. She was still holding the brass token. Phosphor noticed that the sharp edge had left a crescent in her palm.
+Kasey nodded once. She was still holding the brass token. Phosphor noticed that the sharp edge had left a crescent in her palm.
 
 "Then we make a list," she said.
 
@@ -318,6 +318,6 @@ At the top of a clean page, he wrote:
 
 `PEOPLE WHO MUST REACH BARKERS CREEK EDGE CACHE`
 
-Under it, he wrote Juno Wren.
+Under it, he wrote Kasey Wren.
 
 Then, after a pause long enough to count as consent, he wrote his own name.

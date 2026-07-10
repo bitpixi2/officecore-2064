@@ -61,7 +61,7 @@ The scene should do five things:
 
 1. Let the crew enjoy being outside and temporarily unhurried.
 2. Give Phosphor a physical relationship with trace evidence rather than another screen.
-3. Let Juno's need for control collide with a process that requires patience.
+3. Let Kasey's need for control collide with a process that requires patience.
 4. Give Eris a chance to be unexpectedly competent at careful, low-tech work.
 5. Make the discovery create an obligation to the commons and the people who host it.
 

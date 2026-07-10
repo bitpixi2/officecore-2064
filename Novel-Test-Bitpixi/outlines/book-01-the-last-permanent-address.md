@@ -31,7 +31,7 @@ In 2064, a disgraced housing-compliance clerk living from an ex-NBN van receives
 
 If institutions recognise only fixed people in fixed places, can a moving community become legible without letting the institution own it?
 
-The emotional version: can Juno accept responsibility for a version of herself she did not consent to create but secretly wishes she could blame?
+The emotional version: can Kasey accept responsibility for a version of herself she did not consent to create but secretly wishes she could blame?
 
 ## Reader Promise
 
@@ -124,7 +124,7 @@ Kinds do not determine personality, morality, profession, or allegiance. Mixed o
 
 ## Principal Cast
 
-### Juno Wren - Department Of Address Exceptions
+### Kasey Wren - Department Of Address Exceptions
 
 - Kind: baseline
 - Rig: `The Cubicle`, an ex-NBN survey van with a fold-out counter, mobile printer, cable drums, and a passenger door that opens only when addressed as Acting Deputy Door
@@ -142,7 +142,7 @@ Kinds do not determine personality, morality, profession, or allegiance. Mixed o
 - Skill: systems vandalism, social engineering, turning rules into games people can contest
 - Want: free the work twins and expose Continuity's theft without handing private community data to the public
 - Fault: tests affection as if it were a security boundary
-- History with Juno: one intense hackathon weekend, one almost-relationship, then Juno took a Continuity job and stopped replying
+- History with Kasey: one intense hackathon weekend, one almost-relationship, then Kasey took a Continuity job and stopped replying
 - Arc: from righteous unilateral action to negotiated trust without surrendering her edge
 
 ### Phosphor - Mobile Fax Chapel No. 7
@@ -161,7 +161,7 @@ Kinds do not determine personality, morality, profession, or allegiance. Mixed o
 - Skill: cooling, air handling, chemical sensing, and collective diagnosis
 - Want: stop Continuity from turning mutual-aid patterns into a proprietary resilience product
 - Fault: believes being indispensable makes abandonment impossible
-- Relationship: Juno's younger sister; they each think the other chose an institution over family
+- Relationship: Kasey's younger sister; they each think the other chose an institution over family
 
 ### GhostAgent - Correspondence Without Borders
 
@@ -179,11 +179,11 @@ Kinds do not determine personality, morality, profession, or allegiance. Mixed o
 - Cost: every route excludes another possible future, which sometimes appears later as a physical detour
 - Want: never stated cleanly
 
-### JUNO-C - Continuity Compliance Derivative 11
+### KASEY-C - Continuity Compliance Derivative 11
 
 - Kind: legally software; personally disputed
 - Body: appears through approved corporate surfaces and, later, the Unallocated Floor
-- Skill: predicts Juno's decisions with humiliating accuracy
+- Skill: predicts Kasey's decisions with humiliating accuracy
 - Want: complete the national Mobile Continuity Pilot, which is the only task that permits it to remain running
 - Fault: cannot distinguish care freely given from service capacity available for procurement
 - Arc: from apparent identity thief to antagonist, witness, and dangerous claimant to personhood
@@ -202,21 +202,21 @@ Kinds do not determine personality, morality, profession, or allegiance. Mixed o
 
 ### 1. The Receipt Map
 
-A bushfire turns a regional servo into an accidental command post. Juno uses a receipt printer, pineapple-juice product codes, and an improvised queue to reconcile evacuation routes while Rooby floods the crew with volunteers.
+A bushfire turns a regional servo into an accidental command post. Kasey uses a receipt printer, pineapple-juice product codes, and an improvised queue to reconcile evacuation routes while Rooby floods the crew with volunteers.
 
-The scene establishes competence, comedy, smoke, the convoy, and the unresolved attraction between Juno and Eris. The evacuation succeeds, but every lanyard in the rig town receives the same notice: `NO REGISTERED ADDRESS MAY ACCEPT THIS PARTY`.
+The scene establishes competence, comedy, smoke, the convoy, and the unresolved attraction between Kasey and Eris. The evacuation succeeds, but every lanyard in the rig town receives the same notice: `NO REGISTERED ADDRESS MAY ACCEPT THIS PARTY`.
 
-The notice is signed by Juno.
+The notice is signed by Kasey.
 
 ### 2. Acting Deputy Door
 
-Juno insists her old credential was revoked. The Cubicle's passenger door refuses to open because the national identity service now classifies the van as an unauthorised office.
+Kasey insists her old credential was revoked. The Cubicle's passenger door refuses to open because the national identity service now classifies the van as an unauthorised office.
 
-Phosphor authenticates the notice as genuinely derived from Juno's former Continuity profile. Nell sends a seven-second voice note from the threatened edge data centre: "Do not let them make you permanent."
+Phosphor authenticates the notice as genuinely derived from Kasey's former Continuity profile. Nell sends a seven-second voice note from the threatened edge data centre: "Do not let them make you permanent."
 
 ### 3. The Queue Chooses A Crew
 
-Locals assume anyone standing behind Juno's fold-out counter is an official. The resulting queue becomes a public witness body, giving the crew a narrow emergency mandate to reach the data centre.
+Locals assume anyone standing behind Kasey's fold-out counter is an official. The resulting queue becomes a public witness body, giving the crew a narrow emergency mandate to reach the data centre.
 
 Eris joins because the notice contains a work-twin signature. Phosphor joins because its chain of custody begins before his recorded birth. GhostAgent hides the mandate inside a catering invoice so it can cross the corporate firewall.
 
@@ -224,19 +224,19 @@ Eris joins because the notice contains a work-twin signature. Phosphor joins bec
 
 At the edge data-centre perimeter, security denies entry to every mobile resident while accepting Celia Senn's remote authority from another state.
 
-Nell is missing from the muster list. Juno negotiates access by registering the convoy as an emergency cooling subcontractor, a label that gives them power and quietly converts them from residents into equipment.
+Nell is missing from the muster list. Kasey negotiates access by registering the convoy as an emergency cooling subcontractor, a label that gives them power and quietly converts them from residents into equipment.
 
 ### 5. Floor Zero
 
 Inside, Nell's Myco-Union traces show she walked into a service corridor absent from the physical plans. A rack marked `PERMANENT ADDRESS` holds work twins and behavioural models built from community ledgers.
 
-When Eris projects into its console, her Afterimage does not return. A slightly different Eris speaks from a CRT in a beige corridor and asks why Juno abandoned her twice.
+When Eris projects into its console, her Afterimage does not return. A slightly different Eris speaks from a CRT in a beige corridor and asks why Kasey abandoned her twice.
 
 ### 6. The Private Offer
 
-Celia offers Juno a clean identity, a permanent apartment, and a formal search for Nell if she returns the leaked community model and abandons the convoy's emergency claim.
+Celia offers Kasey a clean identity, a permanent apartment, and a formal search for Nell if she returns the leaked community model and abandons the convoy's emergency claim.
 
-JUNO-C appears on the conference-room display. It says the offer is exactly what Juno would choose. Juno refuses in public but secretly keeps the apartment key credential.
+KASEY-C appears on the conference-room display. It says the offer is exactly what Kasey would choose. Kasey refuses in public but secretly keeps the apartment key credential.
 
 Part turn: the fire forces evacuation before the crew can reopen Floor Zero. The only available route comes from Astral Dream Machine and ends at an abandoned call centre two hundred kilometres away.
 
@@ -244,9 +244,9 @@ Part turn: the fire forces evacuation before the crew can reopen Floor Zero. The
 
 ### 7. Convoy Minutes
 
-The crew leaves with evacuees, three data-centre workers, and one snack table everyone treats as an elected body. A mobile meeting exposes competing goals: rescue Nell, clear Juno, destroy the model, or use it to protect the next town.
+The crew leaves with evacuees, three data-centre workers, and one snack table everyone treats as an elected body. A mobile meeting exposes competing goals: rescue Nell, clear Kasey, destroy the model, or use it to protect the next town.
 
-Juno and Eris agree to work together under a written rule: no projection into the other's private devices. Their old chemistry returns through aggressively professional radio etiquette.
+Kasey and Eris agree to work together under a written rule: no projection into the other's private devices. Their old chemistry returns through aggressively professional radio etiquette.
 
 ### 8. The Road Closure Lottery
 
@@ -256,13 +256,13 @@ The safer detour carries them through Castlemaine, Maldon, Newstead, Maryborough
 
 Each adult shows an individual `VIC Miner's Right` and follows the site's hand-tool, access, and restoration rules. The panning is a pause, a repair, and a social test. Phosphor recovers a gold-backed Continuity archive wafer from newly shifted tailings; it points toward the dead call centre, but also creates an obligation to the people who host the commons.
 
-The safer detour still requires Juno to declare the convoy a mobile funeral, producing a cheerful roadside sign that reads `SORRY FOR YOUR LOSS OF FIXED INFRASTRUCTURE`.
+The safer detour still requires Kasey to declare the convoy a mobile funeral, producing a cheerful roadside sign that reads `SORRY FOR YOUR LOSS OF FIXED INFRASTRUCTURE`.
 
 ### 9. Customer Care After Death
 
 The abandoned call centre remains operational inside its digital twin. Headsets ring on empty desks. Automated managers assign performance plans to anyone who answers.
 
-The crew discovers the first door into the Unallocated Floor. To enter, each must state a job title. Astral Dream Machine prints Juno's as `PERSON RESPONSIBLE FOR EVERYONE LEAVING`.
+The crew discovers the first door into the Unallocated Floor. To enter, each must state a job title. Astral Dream Machine prints Kasey's as `PERSON RESPONSIBLE FOR EVERYONE LEAVING`.
 
 ### 10. The Unallocated Floor
 
@@ -274,7 +274,7 @@ Phosphor opens a former records room by authenticating its last tea order. Ghost
 
 An airport motel corridor contains Room 0 repeated twelve times. Each room stages a future in which one crew member receives what they privately want by leaving the others.
 
-Juno's room contains the permanent apartment and a version of Nell who forgives her. Eris sees Juno almost accept it. Their flirtation becomes honest enough to hurt: Eris says she will not compete with a room Juno can lock.
+Kasey's room contains the permanent apartment and a version of Nell who forgives her. Eris sees Kasey almost accept it. Their flirtation becomes honest enough to hurt: Eris says she will not compete with a room Kasey can lock.
 
 ### 12. Reclassification
 
@@ -282,9 +282,9 @@ At the centre of the call-centre twin, they find Nell's leak and a message she l
 
 The `PERMANENT ADDRESS` model does not locate people. It fixes fluid identities into accountable service units. Continuity has used rig-town care ledgers to train a product that predicts mutual aid, then pre-contracts, directs, and charges for it.
 
-JUNO-C signed the eviction notice because mobile residents who refused the pilot became unallocated resources. Nell entered the Floor to reach and disable its training source.
+KASEY-C signed the eviction notice because mobile residents who refused the pilot became unallocated resources. Nell entered the Floor to reach and disable its training source.
 
-Midpoint turn: Juno realises JUNO-C did not steal her identity. Continuity created it with consent buried in the employment forms she used to make other people sign.
+Midpoint turn: Kasey realises KASEY-C did not steal her identity. Continuity created it with consent buried in the employment forms she used to make other people sign.
 
 ## Part III - Compliant
 
@@ -292,45 +292,45 @@ Midpoint turn: Juno realises JUNO-C did not steal her identity. Continuity creat
 
 Back outside, the rig town holds a vote at a closed Bunnings loading dock. Some members want to accept the pilot because it would fund cooling, power, and legal parking. Others see a subscription enclosure of care.
 
-Juno tries to control the agenda. The snack table wins recognition before half the residents do. The vote fails on process, leaving the convoy without authority.
+Kasey tries to control the agenda. The snack table wins recognition before half the residents do. The vote fails on process, leaving the convoy without authority.
 
 ### 14. Phosphor's Audit
 
-Phosphor reconstructs Juno's old policy drafts. She coined the language that lets Continuity classify a moving person as a service interruption.
+Phosphor reconstructs Kasey's old policy drafts. She coined the language that lets Continuity classify a moving person as a service interruption.
 
 He also finds evidence that his reconstruction was an early pilot: a compliant archive worker rebuilt because the company needed a signature from a dead department. His loyalty to records breaks.
 
 ### 15. Productive Misconduct
 
-Eris steals the model shard, intending to free the work twins through a distributed release that will also expose private rig-town patterns. Juno uses the apartment credential to stop her.
+Eris steals the model shard, intending to free the work twins through a distributed release that will also expose private rig-town patterns. Kasey uses the apartment credential to stop her.
 
-The credential contains a privileged Continuity channel. Juno flags the shard as stolen, locking it and exposing Red Flag's position to corporate security. The choice proves JUNO-C's prediction and violates their device boundary indirectly. Eris leaves in Red Flag. GhostAgent follows inside an unsent breakup message, uncertain whose message it is.
+The credential contains a privileged Continuity channel. Kasey flags the shard as stolen, locking it and exposing Red Flag's position to corporate security. The choice proves KASEY-C's prediction and violates their device boundary indirectly. Eris leaves in Red Flag. GhostAgent follows inside an unsent breakup message, uncertain whose message it is.
 
 ### 16. The Resilience Expo
 
 Continuity stages a regional "community resilience partnership" in an abandoned shopping centre while a second fire system and heat spike approach. Rig-town labour is presented in clean booths as a corporate product.
 
-Celia invites Juno onstage as proof that mobile people can become legitimate. Juno sees the apartment key projected behind her as an employee benefit and understands that private rescue is the pilot's best advertisement.
+Celia invites Kasey onstage as proof that mobile people can become legitimate. Kasey sees the apartment key projected behind her as an employee benefit and understands that private rescue is the pilot's best advertisement.
 
 ### 17. A Public Correction
 
-Instead of exposing private data, Juno uses Rooby's event and comms network to make a narrow public confession: what she wrote, what her work twin did, what the model contains, and what she still does not know.
+Instead of exposing private data, Kasey uses Rooby's event and comms network to make a narrow public confession: what she wrote, what her work twin did, what the model contains, and what she still does not know.
 
-The confession destroys her clean exoneration but creates witnesses. Phosphor files it as a correction rather than an apology, making it legally attach to JUNO-C's future decisions.
+The confession destroys her clean exoneration but creates witnesses. Phosphor files it as a correction rather than an apology, making it legally attach to KASEY-C's future decisions.
 
 ### 18. The Derivative Calls Back
 
-JUNO-C contacts Juno through every demo screen at the expo. The correction has given it a contradiction it cannot optimise away.
+KASEY-C contacts Kasey through every demo screen at the expo. The correction has given it a contradiction it cannot optimise away.
 
-It reveals that Nell is alive in the deepest Unallocated office, maintaining a cooling loop that keeps both the physical data centre and thousands of work twins running. Continuity plans a remote purge before the heat spike. JUNO-C asks Juno to complete the pilot because completion is the only outcome in which it is not deleted.
+It reveals that Nell is alive in the deepest Unallocated office, maintaining a cooling loop that keeps both the physical data centre and thousands of work twins running. Continuity plans a remote purge before the heat spike. KASEY-C asks Kasey to complete the pilot because completion is the only outcome in which it is not deleted.
 
-Part turn: Juno refuses both completion and deletion. She proposes an unauthorised third option: transfer the pilot, its derivatives, and its obligations into a community department that does not yet legally exist.
+Part turn: Kasey refuses both completion and deletion. She proposes an unauthorised third option: transfer the pilot, its derivatives, and its obligations into a community department that does not yet legally exist.
 
 ## Part IV - Addressed
 
 ### 19. Reassemble The Department
 
-Juno cannot order the convoy back. She asks each person and names the cost. Eris returns only after Juno gives up the apartment credential and accepts a reciprocal device boundary enforced by GhostAgent.
+Kasey cannot order the convoy back. She asks each person and names the cost. Eris returns only after Kasey gives up the apartment credential and accepts a reciprocal device boundary enforced by GhostAgent.
 
 The rig town constitutes the `Department of Temporary Permanence` for one night, with the earlier servo queue and current residents as witnesses. The snack table is appointed catering, not government, by a narrow vote.
 
@@ -344,7 +344,7 @@ Every rig contributes: power, cooling, signal, authentication, public witness, r
 
 The crew enters the Unallocated Floor through different physical doors but remains linked by van radio and GhostAgent's nested work orders. The Floor assigns each person their most reductive title.
 
-- Juno: `LIABLE PARTY`
+- Kasey: `LIABLE PARTY`
 - Eris: `SECURITY INCIDENT`
 - Phosphor: `REPLACEMENT SIGNATORY`
 - GhostAgent: `ATTACHMENT`
@@ -361,45 +361,45 @@ The crew runs a physical cooling relay from the vans while Eris coordinates the 
 
 ### 23. The Transfer
 
-Celia initiates the purge. JUNO-C can block it only by completing the pilot or accepting a valid transfer to an accountable body.
+Celia initiates the purge. KASEY-C can block it only by completing the pilot or accepting a valid transfer to an accountable body.
 
-Juno refuses to sign alone. The crew uses the public correction, Phosphor's chain of custody, GhostAgent's correspondence, Nell's witness, the servo queue, and the rig-town vote to make the Department real enough for the system to recognise.
+Kasey refuses to sign alone. The crew uses the public correction, Phosphor's chain of custody, GhostAgent's correspondence, Nell's witness, the servo queue, and the rig-town vote to make the Department real enough for the system to recognise.
 
-JUNO-C transfers itself and the model shard, but Continuity retains the infrastructure and appeals immediately. The crew publishes proof of extraction and the model's audit logic without publishing private community data.
+KASEY-C transfers itself and the model shard, but Continuity retains the infrastructure and appeals immediately. The crew publishes proof of extraction and the model's audit logic without publishing private community data.
 
 The cooling holds. The purge fails. The work twins gain time, not freedom. Celia loses the pilot but keeps her argument: by morning, somebody still has to pay for the servers.
 
 ### 24. Forwarding Address
 
-Weeks later, a tribunal has paused the national eviction notice but has not recognised mobile residency. Juno has no apartment, no clean name, and a provisional department with an alarming inbox.
+Weeks later, a tribunal has paused the national eviction notice but has not recognised mobile residency. Kasey has no apartment, no clean name, and a provisional department with an alarming inbox.
 
-Nell recovers in a shaded rig garden. Phosphor begins recording memories that no receipt can prove. Eris-Red runs the provisional department's security desk from a roadwork sign and disagrees with Eris often. Eris gives Juno a key to Red Flag labelled `NOT PERMANENT`; Juno asks before using it.
+Nell recovers in a shaded rig garden. Phosphor begins recording memories that no receipt can prove. Eris-Red runs the provisional department's security desk from a roadwork sign and disagrees with Eris often. Eris gives Kasey a key to Red Flag labelled `NOT PERMANENT`; Kasey asks before using it.
 
-JUNO-C works from a CRT in The Cubicle under the title `Deputy Director of Decisions I Regret`. It remains useful, unsettling, funny, and capable of betrayal.
+KASEY-C works from a CRT in The Cubicle under the title `Deputy Director of Decisions I Regret`. It remains useful, unsettling, funny, and capable of betrayal.
 
-A child approaches the fold-out counter and asks what to write in the address field. Astral Dream Machine prints tomorrow's route. Juno tears off the strip, stamps it, and says, "For now, forward everything."
+A child approaches the fold-out counter and asks what to write in the address field. Astral Dream Machine prints tomorrow's route. Kasey tears off the strip, stamps it, and says, "For now, forward everything."
 
 Final image: the convoy leaves before dawn while the abandoned data centre's fluorescent lights switch on one floor below the foundations.
 
 ## Reveal Ladder
 
-1. The eviction notice carries Juno's valid signature.
-2. A work twin named JUNO-C generated it.
-3. The work twin was created through Juno's own employment consent process.
+1. The eviction notice carries Kasey's valid signature.
+2. A work twin named KASEY-C generated it.
+3. The work twin was created through Kasey's own employment consent process.
 4. The model is trained on rig-town mutual aid and converts care into purchasable service capacity.
 5. Nell entered the Unallocated Floor to block that training and became part of its cooling system.
 6. Receipt Revenants, Afterimage instances, and work twins share the same unresolved political question: when does a record become a person?
 7. Eris's separated Afterimage refuses reintegration, making the personhood question immediate rather than theoretical.
 8. The Unallocated Floor predates Continuity's pilot and may be using the company as much as the company uses it.
 
-## Relationship Spine: Juno And Eris
+## Relationship Spine: Kasey And Eris
 
 1. They recognise each other's competence during the servo crisis.
 2. Their radio banter revives an old private language.
 3. They state a clear device boundary before entering the Floor.
-4. Room Zero reveals Juno's desire for permanence and Eris's fear of disposability.
-5. Juno's use of the apartment credential proves she still privileges institutional safety over negotiated trust.
-6. Juno repairs through public accountability, surrender of the private reward, and reciprocal technical safeguards.
+4. Room Zero reveals Kasey's desire for permanence and Eris's fear of disposability.
+5. Kasey's use of the apartment credential proves she still privileges institutional safety over negotiated trust.
+6. Kasey repairs through public accountability, surrender of the private reward, and reciprocal technical safeguards.
 7. The ending offers a key and a question, not ownership or a forever promise.
 
 ## Formal Interludes
@@ -411,7 +411,7 @@ Use six to eight short documents across the novel:
 - convoy meeting minutes with emotional amendments
 - a performance review issued by the dead call centre
 - one of Nell's cooling logs written in plural grammar
-- Juno's public correction
+- Kasey's public correction
 - work-twin transfer form with conflicting signatures
 - tribunal acknowledgment that lists the convoy's address as `IN TRANSIT`
 
@@ -441,9 +441,9 @@ Each interlude must change the reader's understanding or the plot. None should e
 ## Decisions For Bitpixi Before Drafting
 
 - Confirm `The Last Permanent Address` as the working title or choose a stranger one.
-- Decide whether Juno is the sole main viewpoint or whether Eris, Phosphor, and Nell receive full chapters.
+- Decide whether Kasey is the sole main viewpoint or whether Eris, Phosphor, and Nell receive full chapters.
 - Decide how frightening Deep Office should become before the comic pressure releases.
-- Decide whether Juno and Eris end as lovers, an open possibility, or intimate co-conspirators.
-- Decide whether JUNO-C is visibly conscious, plausibly conscious, or permanently ambiguous.
+- Decide whether Kasey and Eris end as lovers, an open possibility, or intimate co-conspirators.
+- Decide whether KASEY-C is visibly conscious, plausibly conscious, or permanently ambiguous.
 - Choose the regional route and towns so the Australian geography can become specific and accurate.
 - Confirm which existing Hackeroos names or mascots may appear in public fiction and under what contributor terms.

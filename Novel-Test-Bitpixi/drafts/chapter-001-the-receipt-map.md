@@ -94,9 +94,9 @@ The man considered this. "That sounds worse."
 
 Behind him, somebody laughed despite themselves. The sound was small, but it loosened the crowd by half a degree.
 
-Juno Wren arrived from the other side of the bowsers with an armful of paper and an expression that meant a system had disappointed her personally. She was dressed for smoke and work: cargo trousers, a pale shirt with the sleeves rolled to the elbow, ash mask hanging under her chin. Her lanyard wallet knocked against her hip. Behind her, The Cubicle, her ex-NBN survey van, had its side panel open to form a counter. The passenger door was stubbornly shut.
+Kasey Wren arrived from the other side of the bowsers with an armful of paper and an expression that meant a system had disappointed her personally. She was dressed for smoke and work: cargo trousers, a pale shirt with the sleeves rolled to the elbow, ash mask hanging under her chin. Her lanyard wallet knocked against her hip. Behind her, The Cubicle, her ex-NBN survey van, had its side panel open to form a counter. The passenger door was stubbornly shut.
 
-"Acting Deputy Door," Juno called to it as she passed. "Open."
+"Acting Deputy Door," Kasey called to it as she passed. "Open."
 
 The door clicked open with offended dignity.
 
@@ -104,29 +104,29 @@ Eris was perched on the Cubicle's roof with one boot hooked under the roof rack.
 
 "Good news," Eris said. "The road authority map is lying in three different fonts."
 
-"That is not good news," Juno said.
+"That is not good news," Kasey said.
 
 "No, but it is very strong branding."
 
-Juno set the paper down beside Phosphor's CRT. "The west highway is closed at the creek. The east highway is open according to the road authority, closed according to the fire service, and haunted according to three people in the queue."
+Kasey set the paper down beside Phosphor's CRT. "The west highway is closed at the creek. The east highway is open according to the road authority, closed according to the fire service, and haunted according to three people in the queue."
 
 "Formerly open," Phosphor said.
 
-Juno looked at him. "I love you when you are useful."
+Kasey looked at him. "I love you when you are useful."
 
 Eris's chips stopped halfway to her mouth.
 
-Juno did not seem to notice. Or she noticed very carefully and refused to assist.
+Kasey did not seem to notice. Or she noticed very carefully and refused to assist.
 
 Phosphor's reconstructed heart performed a small, inconvenient error. He had no clear memory of learning embarrassment. It had arrived with the rest of him, apparently preinstalled.
 
 "The receipt printer may have something," he said.
 
-"It has something," Juno said. "Whether that thing is a map or a cry for help is the question."
+"It has something," Kasey said. "Whether that thing is a map or a cry for help is the question."
 
 He passed her the latest strip. The route grid was made from item codes and register prompts. `PINEAPPLE JUICE 600ML` sat beside a service road. `NO CASH OUT` marked the closed bridge. At the bottom, beneath `THANK YOU FOR SHOPPING LOCAL`, the printer had produced an arrow pointing south-east.
 
-Juno studied it. "Why does it think the bowling club carpark is a roundabout?"
+Kasey studied it. "Why does it think the bowling club carpark is a roundabout?"
 
 "Because it has no category for civic surrender," Eris said.
 
@@ -140,7 +140,7 @@ The road authority was showing permission. The printer was showing survival.
 
 "It is a receipt trail," Phosphor said.
 
-Juno leaned closer. Smoke, citrus hand sanitiser, and the faint electrical heat of her lanyard wallet. "Say that again."
+Kasey leaned closer. Smoke, citrus hand sanitiser, and the faint electrical heat of her lanyard wallet. "Say that again."
 
 "The road network is stale because it expects roads to report themselves. This is showing where people have managed to buy something. The bowling club has transactions. The creek bridge does not. The old quarry servo has three payments in the last six minutes."
 
@@ -150,7 +150,7 @@ Eris looked down from the roof. "That is disgusting."
 
 "No, I mean it is disgusting that a servo receipt is more honest than emergency infrastructure. Also, very hot of you."
 
-Juno looked from Eris to Phosphor. "Can we keep the flirting operational for three minutes?"
+Kasey looked from Eris to Phosphor. "Can we keep the flirting operational for three minutes?"
 
 "I am being operational," Eris said.
 
@@ -158,13 +158,13 @@ Juno looked from Eris to Phosphor. "Can we keep the flirting operational for thr
 
 "Multitasking."
 
-Phosphor took the stack of thermal paper and began arranging it under the clear acrylic sheet on the fold-out desk. He weighted the corners with tea tins. Kim fetched a marker. Juno called the two queues together with the sharp clap she used when a meeting had gone morally wrong.
+Phosphor took the stack of thermal paper and began arranging it under the clear acrylic sheet on the fold-out desk. He weighted the corners with tea tins. Kim fetched a marker. Kasey called the two queues together with the sharp clap she used when a meeting had gone morally wrong.
 
 "Everyone who needs a lift, stand with the vehicle you can fit in," she said. "Everyone who has a better route, tell Phosphor when you were last physically on it. Not when your cousin sent you a video. Not when the bloke at the pub said he heard something. Physically."
 
 The road-truther opened his mouth.
 
-Juno lifted one finger. "And if you call yourself an independent road truther again, I will assign you to signage."
+Kasey lifted one finger. "And if you call yourself an independent road truther again, I will assign you to signage."
 
 He shut his mouth.
 
@@ -198,7 +198,7 @@ Rooby's icon bounced on the CRT.
 
 `ROOBY: I am learning boundaries.`
 
-The first convoy left in a cough of diesel and ash. Juno stood at the road edge with the receipt map held up in both hands. Eris dropped from Red Flag's roof, landing with a soft crunch of gravel, and took the other side of the paper without being asked.
+The first convoy left in a cough of diesel and ash. Kasey stood at the road edge with the receipt map held up in both hands. Eris dropped from Red Flag's roof, landing with a soft crunch of gravel, and took the other side of the paper without being asked.
 
 For one second, the two of them looked almost calm.
 
@@ -228,7 +228,7 @@ His CRT had gone black.
 
 For a moment he thought the power had failed. Then the screen lit, not with Rooby's icon or the chat, but with a white page bordered in corporate blue.
 
-The same page opened on every phone still charged enough to complain. It opened on Juno's lanyard wallet. It opened on the council tablet. It printed itself from the servo register in a shriek of thermal paper.
+The same page opened on every phone still charged enough to complain. It opened on Kasey's lanyard wallet. It opened on the council tablet. It printed itself from the servo register in a shriek of thermal paper.
 
 `NOTICE OF ADDRESS INELIGIBILITY`
 
@@ -238,13 +238,13 @@ Below it, in careful grey letters:
 
 The forecourt went still in pieces. A woman near the water crates said, "What does that mean?"
 
-Juno was already reading. Her face had emptied of everything except concentration.
+Kasey was already reading. Her face had emptied of everything except concentration.
 
 Eris came to stand beside her. The red light from Red Flag made one side of her jaw look cut from glass.
 
 "Tell me that is fake," Eris said.
 
-"It is not fake," Juno said.
+"It is not fake," Kasey said.
 
 "Tell me it is not yours."
 
@@ -252,11 +252,11 @@ Phosphor took the printed notice from the register while it was still warm. He r
 
 There were records he trusted. There were records he wanted to trust. Then there were records that carried the exact, cold weight of a door closing somewhere far away.
 
-He looked at Juno.
+He looked at Kasey.
 
 "It is derived from your former Continuity profile," he said.
 
-Juno's hand went to her lanyard wallet.
+Kasey's hand went to her lanyard wallet.
 
 "That profile was revoked."
 
@@ -264,6 +264,6 @@ Juno's hand went to her lanyard wallet.
 
 At the bottom of the notice, in a clean electronic hand, was the name of the person who had sent it.
 
-JUNO WREN.
+KASEY WREN.
 
 The wind drove ash over the paper until the signature began to blur.
