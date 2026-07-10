@@ -4,7 +4,7 @@ This folder is Bitpixi's prose test area for `officecore-2064`.
 
 Use it for rough novel material, scene fragments, voice tests, chapter sketches, character moments, and experiments that might later become part of the wider Officecore 2064 fiction project.
 
-![Perma-Temp Punks cover concept](assets/perma-temp-punks-cover.png)
+![Minimal 1970s-style Perma-Temp Punks cover concept](assets/perma-temp-punks-cover.png)
 
 ## Working Boundary
 
