@@ -64,6 +64,28 @@ Kasey's face changed a fraction. Not anger. Recognition, perhaps, and the cost o
 
 Eris took the red file from Phosphor, found the blank line, and wrote `ERIS - OFFICE OF PRODUCTIVE MISCONDUCT` in a hand that slanted forward as if it were impatient with the page.
 
+"Power contribution?" Kasey asked.
+
+"Red Flag has sixty-two percent storage, one clean solar skin, two dirty ones, and a reversible heat pump that only screams on the lower setting."
+
+"How much can you share?"
+
+"Depends. Are we preserving medicine, comms, humans, or your belief in indoor comfort?"
+
+"Humans first. Medicine and comms because they preserve humans. Indoor comfort because it preserves my temper."
+
+"Rude, but correct. Twenty percent, with a floor at refrigeration."
+
+Phosphor wrote it beside her name. `ENERGY SHARE: CONDITIONAL / FRIDGE HAS SENIORITY.`
+
+"Chapel Seven can contribute recovered server heat after sunset," he said.
+
+Eris looked at the orange sky. "Phosphor, it is thirty-eight degrees."
+
+"I said after sunset. I am capable of seasonal thought."
+
+Kasey glanced at his top hat. "Evidence is mixed."
+
 The paper beeped.
 
 Phosphor frowned at it. Paper did not generally beep. That was one of its better qualities.

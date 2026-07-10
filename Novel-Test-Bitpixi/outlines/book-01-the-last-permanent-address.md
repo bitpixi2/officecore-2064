@@ -86,6 +86,8 @@ The crew's netrunning is practical mobile network labour: paid incident response
 
 Each van is also a small home that must be reset after work. Counters fold into beds, cables move before the kettle boils, batteries compete with fridges and laptops, and a broken water pump can alter the whole route. Maintenance is character work: ash in a solar hinge, coolant on a sleeve, a wet towel catching a leak, somebody holding a light while another person tries not to swear.
 
+Thermal comfort comes from systems working together: insulation, seals, external shade, filtered airflow, zoning, compact heat pumps, recovered equipment heat, deployable solar, and shared convoy storage. Renewable power remains a budget. Air filtration, refrigeration, medical devices, comms, paid work, cooking, and comfort compete for it, turning every heatwave into an argument about care and every cold night into an opportunity for awkward proximity.
+
 Refuse is part of the same story. The crew sorts reusable parts, e-waste, organics, contaminated material, and landfill because sanitation is emergency infrastructure. Kasey's rule is that trash is proof of life: it can tell rescuers what people needed and where they made it to, but it must never become a licence to profile them.
 
 ### House Keys And Food Circuits
@@ -269,6 +271,8 @@ Kasey and Eris agree to work together under a written rule: no projection into t
 The first night is spent in the car park of a participating neighbourhood house, after Kasey's water pump leaks into The Cubicle's cable drawer. The House Key board offers limited showers, laundry, a refill tap, a cool room, and two wall sockets; the crew has to convert vans from emergency offices into beds before a morning class takes the hall back. A local food-rescue kitchen feeds everyone by need while volunteers sort produce nearby, making the contrast between mutual aid and Continuity's future subscription model visible.
 
 While they sort the convoy's refuse, Phosphor asks why Kasey treats disposal like a compliance hearing. Kasey explains that trash is proof of life: it shows where people were, what they needed, and whether public systems reached them. She makes the case that failing sanitation degrades trust and raises disease risk, especially in hot, displaced communities. Phosphor connects this to his field memories of windcatchers, wetlands, and thermal systems: comfort and public health come from many unglamorous systems cooperating, not from one heroic device.
+
+The conversation turns into an inspection of the rigs' renewable systems: patched insulation, thermal curtains, filtered vents, deployable solar, shared batteries, and heat recovered from network equipment. Eris notes that the campervans are better insulated than a disturbing number of two-million-dollar Australian houses. The joke lands because the crew's comfort has been built through maintenance and material knowledge, while expensive fixed housing still mistakes market value for habitability.
 
 ### 8. The Road Closure Lottery
 

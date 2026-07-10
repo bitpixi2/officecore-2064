@@ -54,6 +54,22 @@ Use small faults to make the world tactile and to give the crew reasons to depen
 
 The repair does not need to be a technical lecture. Describe the hot plastic smell, wet towels under the cabinet, the bruised knuckles, the improvised parts, the person holding a torch, and the relief when an ordinary appliance works again.
 
+### Energy And Thermal Comfort
+
+The vans do not solve climate with oversized air conditioners. Their first line of defence is reducing demand:
+
+- fitted insulation and replaceable door seals
+- external awnings and reflective window shutters that stop heat before it enters
+- thermal curtains that divide the cab, work bay, and sleeping nook
+- filtered roof vents and cross-flow fans for smoke-safe night purging when conditions allow
+- compact reversible heat pumps used for the smallest occupied zone
+- recovered heat from batteries, servers, cooking, or hot-water loops in winter
+- deployable solar skins, shared convoy batteries, shore power, and locally negotiated microgrid access
+
+Every option has a tradeoff. Insulation consumes precious wall depth. Exterior shade must be folded before driving. Evaporative cooling uses water and may be useless in the wrong conditions. Filters clog with ash. Solar panels need cleaning, sun, and safe roof access. A heat pump is efficient but still loses the argument when the fridge, comms, and medical equipment have priority.
+
+Give each rig a recognisable thermal personality. Chapel Seven is quiet, dark, heavily insulated, and good at holding yesterday's temperature. The Cubicle uses repaired modular panels, aggressive zoning, and a controller Kasey has labelled with legal warnings. Red Flag opens wide at night, closes into a filtered red cocoon by day, and lends battery power while pretending not to keep track.
+
 ### Refuse Is Also Infrastructure
 
 Rigs carry far more than their inhabitants want to admit: food wrappers, compost, worn seals, dead cells, broken cable ends, printer ribbons, grey-water filters, damaged electronics, and the residue of every quick meal eaten between jobs. Separate reuse, repair stock, e-waste, organics, landfill, sharps, and contaminated material. It is not aesthetic virtue. In a heatwave or evacuation, missed collection and blocked drains can reduce sanitation, raise health risks, and make everyone less able to trust shared food, water, and toilets.

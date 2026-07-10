@@ -54,6 +54,10 @@ A rig has no unused square metre. In daylight it may be a counter, server nook, 
 
 Routine maintenance is domestic and dramatic in equal measure: clearing ash from solar hinges, sealing a roof vent before rain, replacing a noisy water pump, tightening a grey-water hose, patching a fridge gasket, checking tyre pressure, cleaning a stove jet, rotating battery load, and finding where the coolant has gone. A broken pump turns a shower into a negotiation. A dead inverter turns paid remote work into a job that must be carried to the nearest powered table.
 
+Rig comfort is designed as a small ecology. Removable insulation panels, thermal curtains, exterior shade, roof vents, filtered cross-flow, pale summer skins, dark winter collectors, heat pumps, recovered equipment heat, and deployable solar all reduce the amount of stored energy needed to stay safe. The exact mix depends on the vehicle, season, smoke, humidity, water supply, and what its occupants can repair.
+
+Renewable power is finite rather than magical. A rig may harvest solar, accept shore power, exchange energy through a convoy bus, or earn charge credit by supporting a local microgrid. Its battery still has to choose among air filtration, refrigeration, medical equipment, comms, paid network work, cooking, and comfort. Heat and cold become social questions: who needs the coolest bunk, which van can safely host them, and what work can wait until the sun returns?
+
 ### House Keys And Food Circuits
 
 By 2064, participating neighbourhood houses, community halls, libraries, repair sheds, and similar local institutions may offer a fictional `House Key` agreement: a booked shower or laundry slot, a water refill, desk space, device charging, a cool room, a postal address for a week, or simply a place to sit without buying anything. These arrangements are local, voluntary, and capacity-limited; no house is assumed to have the same facilities, and no rig town treats access as automatic.

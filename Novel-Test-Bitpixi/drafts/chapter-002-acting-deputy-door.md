@@ -286,6 +286,54 @@ Kasey's expression shifted despite herself. "That is almost a useful answer."
 
 "I am improving. I also saw windcatchers in a courtyard city. I thought they were decorative towers until I understood the shade, the thermal mass, the water, the wind direction, and the habits of everybody using the rooms. Comfort was not a machine. It was cooperation with a maintenance schedule."
 
+Kasey leaned into The Cubicle and checked the thermal controller above the oats crate. It showed four green blocks for the house battery, one amber block for the cab, and a small red warning that the rear-door seal had failed its inspection again.
+
+"Same principle in here," she said. "Insulation first. Shade outside the wall. Seal the doors. Keep the cooled space small. Move air when the outside air is worth moving. Then ask the heat pump to handle what is left."
+
+"And when the outside air is smoke?" Phosphor asked.
+
+"Close everything, run the filters, complain about the power draw, and decide whether breathing outranks uploading an invoice."
+
+"It generally does," he said.
+
+"You would be surprised what accounts payable thinks."
+
+Eris hooked the signal cable over one shoulder. "At least our vans have proper insulation. More than a disturbing number of two-million-dollar Australian houses."
+
+Phosphor looked from Chapel Seven's quilted cab curtain to the blue domestic panel on The Cubicle. "Surely a house that expensive would be required to retain a temperature."
+
+Kasey and Eris looked at him with identical pity.
+
+"You have travelled widely," Kasey said, "and retained innocence."
+
+"They retain auction value," Eris said. "Temperature is an optional extra."
+
+"Stone benchtop," Kasey added.
+
+"Designer tap."
+
+"One unshaded west-facing glass wall."
+
+"And a split system trying to cool the sun."
+
+Phosphor considered this list. "Chapel Seven has cork fibre, three thermal curtains, and a server cabinet that heats the bunk in winter."
+
+"Exactly," Eris said. "Luxury funeral technology."
+
+"It is heat recovery. The solar roof is renewable."
+
+"Luxury funeral technology with audited terminology."
+
+Kasey checked the solar forecast on her lanyard. "The Cubicle can give us filtered cooling for four hours if I stop paid work, six if Red Flag shares storage, or eight if the sun comes through before the ash coats everything again. After that we choose between the fridge, the filter, and being comfortable."
+
+"The fridge and filter," Phosphor said.
+
+"Yes. Comfort is what remains after the things keeping people alive have stopped negotiating."
+
+Eris's grin faded at the edges. She touched two fingers to her lanyard and sent a quiet power-share offer across the metre between the vans.
+
+The Cubicle accepted it with a blue chime.
+
 "You have been everywhere," Kasey said.
 
 "I have been many places in records that agree with one another," Phosphor said. "It is close enough to luggage, emotionally."
