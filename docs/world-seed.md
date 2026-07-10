@@ -72,7 +72,11 @@ Renewable power is finite rather than magical. A rig may harvest solar, accept s
 
 ### House Keys And Food Circuits
 
-By 2064, participating neighbourhood houses, community halls, libraries, repair sheds, and similar local institutions may offer a fictional `House Key` agreement: a booked shower or laundry slot, a water refill, desk space, device charging, a cool room, a postal address for a week, or simply a place to sit without buying anything. These arrangements are local, voluntary, and capacity-limited; no house is assumed to have the same facilities, and no rig town treats access as automatic.
+By 2064, `House Key` is specifically Victorian. It grew from the state's long-running Neighbourhood House Coordination Program and network structure, which had formal program documentation by 1988 and again in 2002. When mobile residency became common, Victoria added a shared protocol to infrastructure that already knew how to coordinate locally governed places across the state.
+
+Participating Victorian neighbourhood houses may offer a booked shower or laundry slot, a water refill, desk space, device charging, a cool room, a postal address for a week, or simply a place to sit without buying anything. These arrangements are local, voluntary, and capacity-limited; no house is assumed to have the same facilities, and no rig town treats access as automatic.
+
+Neighbourhood and community centres exist across Australia, but other states did not adopt the fictional Victorian `House Key` standard. Perth and Sydney rig communities use variants of the `Porchlight Grid`: people with fixed homes opt in as temporary safe nodes and publish exactly what they can offer, such as a driveway berth, outdoor socket, water, laundry, a shower appointment, or a place behind a locked gate. Hosts often request a computer tune-up, mesh lesson, or printer exorcism in return. Ordinary exchanges are negotiated; emergency safety is never conditional on technical labour.
 
 When a rig's water system fails, its crew might help stack chairs, repair a noticeboard, or share technical skills because they are part of the place, but never as a condition for a meal, shower, or emergency support. Food moves through community pantries, food-rescue kitchens, social cafes, shared gardens, and regional food hubs. People volunteer, pack, cook, or transport because mutual aid needs hands; food remains available by need and choice, not as wages for unpaid labour.
 

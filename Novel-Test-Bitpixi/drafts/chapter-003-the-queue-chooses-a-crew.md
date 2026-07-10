@@ -260,6 +260,46 @@ Offers began to arrive.
 
 `RED FLAG: BATTERY SHARE / 20% / FRIDGE FLOOR APPLIES`
 
+Two messages arrived from much farther away.
+
+`PERTH-SOLAR-CIRCLE: wait, victoria still has HOUSE KEY?`
+
+`SYD-PORCHLIGHT-88: showing off the institutional memory again. rude.`
+
+Phosphor looked at Kasey. "Do other states not have neighbourhood houses?"
+
+"They have neighbourhood and community centres," Kasey said. "They do not have House Key. Victoria had the coordination program, the regional networks, and the governance paperwork before half these vans existed. The old guidelines were already circulating in 2002. When mobile residency became a permanent emergency, somebody added fields instead of inventing a platform."
+
+"Victoria survived by adding columns," Eris said.
+
+`PERTH-SOLAR-CIRCLE: we have Porchlight. household hosts opt in. driveway, power, water, sometimes shower.`
+
+`SYD-PORCHLIGHT-88: in exchange we fix their computers.`
+
+`PERTH-SOLAR-CIRCLE: and printers.`
+
+`SYD-PORCHLIGHT-88: especially printers.`
+
+"A household barter grid," Phosphor said.
+
+"A national cry for printer help," Eris corrected.
+
+`SYD-PORCHLIGHT-88: mine says paper jam but there is no paper in it`
+
+Phosphor reached for the incident list.
+
+Kasey put one hand over his pen. "Sydney is nine hundred kilometres away."
+
+"A fault has been reported."
+
+"You are not adding it to our fire response."
+
+He considered the message with professional regret. "I will open a linked issue."
+
+The replies from Perth and Sydney arrived simultaneously.
+
+`thank you`
+
 A second column filled with requests: a lift for an older couple and their bird; refrigeration for insulin; a replacement pump seal; someone who could translate a council alert into Auslan; somewhere shaded enough for a dog with burnt paws.
 
 "How does it decide?" Sim asked.

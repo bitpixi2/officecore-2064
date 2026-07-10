@@ -92,11 +92,19 @@ Kasey's rule is that trash is proof of life. It shows that someone was somewhere
 
 ## House Keys, Showers, And Water
 
-`House Key` is a fictional 2064 local agreement, not a statewide entitlement. Participating neighbourhood houses, libraries, community halls, repair sheds, and service clubs might offer booked access to some combination of showers, laundry, a sink, a water refill, desk space, charging, a cool room, a mail drop, or a meeting table. Each site publishes what it can safely provide that week.
+`House Key` is a fictional 2064 Victorian protocol, not a national program or statewide entitlement. It persists because Victoria could extend a coordinated Neighbourhood House structure that had formal government program guidance by 1988 and 2002. Participating houses might offer booked access to some combination of showers, laundry, a sink, a water refill, desk space, charging, a cool room, a mail drop, or a meeting table. Each site publishes what it can safely provide that week.
 
 This gives scenes a practical rhythm. A broken water pump means Kasey has to call ahead before the last shower slot closes. A crew must choose whether to spend its remaining battery power on a client job, the fridge, or an electric kettle. A neighbourhood house kitchen lets the group eat at a real table, but only after they stack their equipment so local art class participants can use the room in the morning.
 
-Present-day inspiration: Neighbourhood Houses Victoria describes nearly 400 community-based, accessible local organisations. The future `House Key` network extrapolates from that community role; it does **not** claim that every current neighbourhood house offers showers, laundry, or campervan access.
+Present-day inspiration: Victoria's Neighbourhood House Coordination Program funds around 400 houses and networks. The future `House Key` protocol extrapolates from that community role; it does **not** claim that any current neighbourhood house offers showers, laundry, or campervan access.
+
+### Perth And Sydney: The Porchlight Grid
+
+Neighbourhood houses and community centres are not unique to Victoria in the present day. The fictional distinction is that Perth and Sydney never adopt Victoria's `House Key` interface. Their rig communities build a more domestic alternative called the `Porchlight Grid`.
+
+A fixed-house resident can opt in for one night or one season, mark their home as a safe node, and list a driveway berth, outdoor power, water, laundry, a shower appointment, secure parcel receipt, or simply a person willing to answer the door. In ordinary circumstances the visiting rig might offer computer maintenance, printer repair, network setup, data recovery, or a lesson in exchange. The comedy comes from half the national alternative economy being powered by people whose printer has been "making a noise since Easter."
+
+The safety rule remains firm: urgent refuge, water, sanitation, and emergency charging cannot be withheld because the visitor is unable to repair anything. A household may set boundaries and availability, but it cannot convert distress into compulsory labour.
 
 ## Food Is Not A Wage
 
@@ -114,5 +122,9 @@ Foodbank Victoria's current model works through charity partners, community food
 ## Research Notes
 
 - [Neighbourhood Houses Victoria](https://www.nhvic.org.au/) describes the present-day Victorian neighbourhood-house network as community-based local organisations.
+- [Victorian Government: Neighbourhood House Coordination Program](https://providers.dffh.vic.gov.au/neighbourhood-house-coordination-program) describes current state funding and governance for around 400 houses and networks.
+- [Victorian Government Library Service: 2002 NHCP guidelines](https://www.vgls.vic.gov.au/client/en_AU/vgls/search/detailnonmodal.template.header_0.mainmenu.accessibilitymode?d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A623876~~0&h=8&ic=true&ps=300&qu=Community+centers+--+Victoria.&sdcsrf=280667ee-a352-4729-a1b8-8adb79564ea4) and its catalogue record for a 1988 program manual ground the fictional idea that Victoria had durable coordination infrastructure early.
+- [Australian Neighbourhood Houses and Centres Association](https://www.anhca.org/) represents a real national network of more than 1,000 neighbourhood houses and community centres, so `House Key` is a Victorian distinction only inside the 2064 fiction.
+- [Linkwest](https://linkwest.asn.au/Web/Web/Centres/What-are-Centres.aspx) describes neighbourhood and community resource centres across Western Australia.
 - [Foodbank Victoria community food centres](https://www.foodbank.org.au/vic/community-food-centres/) describes community food centres and local food access.
 - [Foodbank Victoria charity partners](https://www.foodbank.org.au/vic/who-we-help/charities/) and [warehouse volunteering](https://www.foodbank.org.au/vic/warehouse-volunteering/) inform the distinction between community food access and volunteering.

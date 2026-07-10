@@ -25,7 +25,7 @@ This distribution keeps Phosphor dominant while allowing Eris's Afterimage exper
 
 The physical journey stays in the central Victorian Goldfields corridor: Castlemaine, Maldon, Newstead, Maryborough, Dunolly, Talbot, Clunes, Ballarat, Daylesford, Heathcote, and Bendigo as the route requires. Specific town use must respect distance, weather, Country, local infrastructure, and the different histories already established in the setting guide.
 
-Perth and Sydney appear briefly through Undermesh calls, shared repos, delayed video, and resource notices from other rig communities. Perth reports may concern extreme heat, long solar routes, battery cooperatives, and isolation from eastern grid governance. Sydney reports may concern vertical parking, harbour infrastructure, tunnel relays, water access, and fixed-address enforcement. These are windows into a national movement, not detours from the Victorian story.
+Perth and Sydney appear briefly through Undermesh calls, shared repos, delayed video, and resource notices from other rig communities. Perth reports may concern extreme heat, long solar routes, battery cooperatives, and isolation from eastern grid governance. Sydney reports may concern vertical parking, harbour infrastructure, tunnel relays, water access, and fixed-address enforcement. Neither city has Victoria's `House Key` protocol; their rig communities rely partly on the household-run `Porchlight Grid`, where residents opt their fixed homes into a safe-host registry and often exchange a berth, water, power, or a shower appointment for computer and printer help. These are windows into a national movement, not detours from the Victorian story.
 
 ## Working Title
 
@@ -118,7 +118,9 @@ The repos synchronise through the `Undermesh`: van-to-van links, community Wi-Fi
 
 ### House Keys And Food Circuits
 
-`House Key` is a fictional 2064 local agreement used by some neighbourhood houses, libraries, halls, and repair sheds. Depending on local capacity, a crew may book a shower, laundry, water refill, mail drop, cool room, desk, charging point, or a real table. It is not a universal entitlement and it is never a claim about every present-day Victorian site.
+`House Key` is a fictional 2064 Victorian protocol built on the state's durable Neighbourhood House coordination structure. Depending on local capacity, a crew may book a shower, laundry, water refill, mail drop, cool room, desk, charging point, or a real table. It is not a universal entitlement and it is never a claim about services at any present-day Victorian site.
+
+Perth and Sydney use the household-run `Porchlight Grid` instead. Fixed-house residents voluntarily publish a safe berth and a tightly scoped offer; visiting rig workers commonly reciprocate with computer, network, or printer help. Emergency refuge and essential support remain outside barter.
 
 Food moves through community pantries, food-rescue kitchens, social cafes, gardens, and regional hubs. Crew members volunteer and contribute skills because the work matters, but food and emergency support remain need-based, not payment for labour. This is an ethical contrast with Continuity's attempt to turn every act of care into billable capacity.
 
@@ -305,7 +307,7 @@ While they sort the convoy's refuse, Phosphor asks why Kasey treats disposal lik
 
 The conversation turns into an inspection of the rigs' renewable systems: patched insulation, thermal curtains, filtered vents, deployable solar, shared batteries, and heat recovered from network equipment. Eris notes that the campervans are better insulated than a disturbing number of two-million-dollar Australian houses. The joke lands because the crew's comfort has been built through maintenance and material knowledge, while expensive fixed housing still mistakes market value for habitability.
 
-Two brief Undermesh bulletins widen the world without leaving Victoria. A Perth solar convoy offers battery-routing advice while contesting an official attempt to classify peer-shared power as an unlicensed utility. A Sydney rig collective reports that a vertical carpark address has been accepted for vehicles but rejected for the people sleeping inside them. Phosphor files both under `SAME SYSTEM / DIFFERENT WEATHER`.
+Two brief Undermesh bulletins widen the world without leaving Victoria. A Perth solar convoy offers battery-routing advice while contesting an official attempt to classify peer-shared power as an unlicensed utility. A Sydney rig collective reports that a vertical carpark address has been accepted for vehicles but rejected for the people sleeping inside them. Both are mildly jealous of Victoria's inherited `House Key` network; their `Porchlight Grid` depends on individual household hosts, most of whom appear to own a printer with an urgent spiritual problem. Phosphor files both under `SAME SYSTEM / DIFFERENT WEATHER`.
 
 ### 8. The Road Closure Lottery - Phosphor
 
