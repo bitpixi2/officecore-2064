@@ -1,6 +1,6 @@
 # officecore-2064
 
-A collaborative fiction lab for strange future offices, mobile rooms, shared worlds, and human-agent writing.
+A collaborative fiction lab for strange future offices, mobile rooms, and shared worlds.
 
 <p align="center">
   <img src="assets/perma-temp-punks-cover.png" alt="Perma-Temp Punks cover" width="60%">
@@ -8,21 +8,19 @@ A collaborative fiction lab for strange future offices, mobile rooms, shared wor
 
 ## Perma-Temp Punks
 
-*A regional Victorian liminal cyberpunk novel about mobile offices, mutual aid, strange identities, and doors that appear beneath them.*
+*A liminal cyberpunk road novel set in regional Victoria.*
 
-In 2064, permanent housing is a luxury product. Campervans, retired service vehicles, buses, and solar trailers become homes, offices, clinics, workshops, and civic departments. These moving settlements are called **rig towns**: broke, funny, technical, flirtatious, and determined to remain human.
-
-The shared-world seed is **CyberCamper Village Swarm**. `Perma-Temp Punks` is the first focused book inside it.
+In 2064, campervans, buses, and solar trailers become mobile homes, offices, clinics, and civic departments. These moving settlements are called **rig towns**. `Perma-Temp Punks` is the first book in the shared-world seed **CyberCamper Village Swarm**.
 
 ## Back Cover Copy
 
-In 2064, permanent housing is a luxury, but the roads are full of people who refuse to disappear.
+In 2064, housing is a luxury and the roads are full of people who refuse to disappear.
 
-Phosphor is a reconstructed records clerk living in Chapel Seven, a black campervan that doubles as an office-dharma chapel. Eris is a copper-blonde systems vandal with a golden-lit ex-library rig, too many secrets, and an Afterimage that may have become someone else. Kasey is a former corporate architect whose stolen work-twin has issued an eviction notice against every mobile resident in Australia.
+Phosphor, a reconstructed records clerk, lives in Chapel Seven, a black campervan that doubles as an office-dharma chapel. Eris is a copper-haired systems vandal whose golden-lit ex-library rig contains too many secrets. Kasey is a former corporate architect whose stolen work-twin has issued an eviction notice against every mobile resident in Australia.
 
-When a bushfire drives the crew toward a regional edge data centre, they uncover a hidden office beneath the country's unfinished infrastructure: a liminal floor built from abandoned call centres, council rooms, motel corridors, and the care people leave behind. As councils throttle the Meshies while relying on them to keep the region alive, the crew must navigate collapsing addresses, corporate doubles, cooling systems, haunted paperwork, and a network that may be learning how to want.
+When a bushfire drives the crew toward a regional edge data centre, they find a hidden office beneath the country's unfinished infrastructure. Its abandoned call centres, council rooms, cooling systems, and mutual-aid records have become a bureaucracy with a memory. To survive it, the crew must decide what can be witnessed, what must remain private, and whether a network can learn to want.
 
-Funny, frightening, tender, and strange, `Perma-Temp Punks` is a cyberpunk road novel about mobile homes, shared technology, bad coffee, and the people who keep one another alive when the official systems stop recognising them.
+Funny, frightening, and tender, `Perma-Temp Punks` is a literary cyberpunk road novel about displacement, climate, technology, and the ordinary labour of keeping one another alive.
 
 ## Draft Status
 
