@@ -288,4 +288,162 @@ Rooby opened every available channel.
 
 The request went out.
 
+The channel did not become a chorus at once. It became a queue of people waiting to help without knowing whether help would be accepted.
+
+The Perth battery cooperative offered thirty minutes of reserve power, provided the receiving system returned a thermal report. Sydney offered tunnel bandwidth, provided no fixed host was made liable for the mobile people using it. House Key offered the cool room and a shower roster, provided the crew cleaned the filter after the work. A Ballarat food bank offered six insulated meals and asked only that the empty containers come back.
+
+Kasey wrote each offer on the side of The Cubicle with a grease pencil. Her handwriting slanted when she was tired. She wrote power in blue, water in green, people in black, and things nobody had decided how to pay for in orange.
+
+"You are making a dashboard on a van," Eris said.
+
+"The van has a better memory than the building."
+
+"That is a low bar."
+
+"A low bar is still a bar."
+
+Phosphor stood at the gate camera. His hands rested on the metal housing without pressing. The camera carried the history of every person it had watched: contractors with badges, firefighters carrying hose, a courier eating a sandwich in the rain, a child waiting beside a locked pedestrian gate while an adult argued with the speaker.
+
+"It has seen people before," he said.
+
+"It has recorded people before," Kasey corrected.
+
+"The difference is important."
+
+"Then say it at the intercom."
+
+He opened the channel.
+
+"This is a public audit," he said. "The witnesses and the infrastructure are outside. We are requesting access to a cooling emergency. We are not consenting to be converted into registered service units by entering."
+
+The speaker produced static.
+
+Then a voice answered. It sounded like a senior administrator who had not slept and was angry about the inconvenience of needing to speak.
+
+"State the accountable body."
+
+Kasey leaned toward the microphone. "The body is not singular."
+
+"The field requires one."
+
+"Then the field is inadequate."
+
+The camera focused on her. A red scan line crossed her face, paused at her throat, and read the cold-key chain as a credential.
+
+"Credential accepted," the speaker said.
+
+"Person not accepted."
+
+"That is not the wording."
+
+"It is the result."
+
+Eris sent a golden projection through the camera. She did not enter the building. She placed an image of the crew's hands across the display: Kasey's grease-stained fingers, Phosphor's ink, Meshie42's green threads, the food-rescue volunteer's scarred knuckles, the small webbed hands of the Civic Daemon holding a clean towel.
+
+"You can see the witnesses," Eris said. "You cannot own the image."
+
+The security vehicle's blue light brightened. A small drone rose from its roof.
+
+Patch barked and moved in front of the camera.
+
+GhostAgent said, "Patch has filed an objection to aerial surveillance on the grounds that the drone is not house-trained."
+
+The drone lowered.
+
+The speaker asked, "Is the dog a service animal?"
+
+Kasey looked at Patch.
+
+"Patch is a service dog when the service is noticing danger," she said. "Patch is a dog when the service is being a dog. Both are true."
+
+The camera stayed on Patch for three seconds.
+
+The gate opened.
+
+Not fully. Enough for The Cubicle to pass, with Red Flag close behind and Chapel Seven waiting until the public file had been copied to the Perth and Sydney relays. Astral Dream Machine printed a route strip and tucked it beneath the windscreen wiper.
+
+It read:
+
+ENTER AS A PARTY.
+
+Phosphor took the strip.
+
+Kasey started the engine. The Cubicle's passenger door opened once, as if the vehicle had made its own decision.
+
 The queue began.
+
+The first number appeared on the gate display.
+
+0001.
+
+Then 0002.
+
+Then the display stopped and asked for the name of the person who had been waiting.
+
+Kasey stepped out of The Cubicle. Smoke moved behind her. The old data centre rose beyond the fence, white and silent, its cooling towers turning through the haze.
+
+"There are too many people for one number," she said.
+
+The speaker answered, "The queue requires sequence."
+
+"The emergency requires cooperation."
+
+"Cooperation is not a valid queue state."
+
+Eris projected the list of offers onto the gate: Perth power, Sydney relay, House Key water, Ballarat meals, Dunolly pump records, the road-truther's route, the food bank's cleaning terms.
+
+"Each offer has a limit," she said. "That is what makes it a handoff."
+
+Phosphor placed the blank sheet against the gate camera. He wrote:
+
+NO SINGLE PERSON WILL BE MADE RESPONSIBLE FOR THE WHOLE SYSTEM.
+
+The camera scanned the page.
+
+"That is not an accountable body."
+
+"It is an accountable condition."
+
+The camera focused on Patch.
+
+"Animal presence detected."
+
+Patch sat down.
+
+GhostAgent said, "Patch has chosen the strongest available negotiating posture."
+
+The speaker asked, "Is the animal accredited?"
+
+Kasey rested her hand on the dog's shoulder. "Patch is accredited by experience."
+
+The gate display paused.
+
+From inside the campus came the sound of a cooling fan slowing down.
+
+Kasey lifted her voice. "Open the gate or record that the delay caused the next failure."
+
+The speaker returned to its script. "Threat language detected."
+
+"That was a maintenance warning."
+
+"Intent cannot be determined."
+
+"Then record both."
+
+The gate opened six inches.
+
+The Cubicle passed. Its passenger door opened as it moved, then shut again when the rear axle crossed the threshold. Red Flag followed, golden lights dimmed to travel mode. Chapel Seven's printer began sending the public audit through the Perth relay.
+
+Phosphor remained at the gate until every witness had crossed.
+
+The final person was the food-rescue volunteer, carrying the empty container from the staging meal.
+
+"You coming?" Kasey called.
+
+"After I return the box."
+
+They placed it in the collection crate.
+
+Only then did they enter.
+
+The request had become a queue.

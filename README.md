@@ -35,6 +35,7 @@ This is a complete working draft, but it has **not been proof-read yet at all**.
 - [Central Victorian Goldfields](locations/central-victorian-goldfields.md): regional anchors, historical care notes, Miner's Rights, panning, and Southern Skystitch.
 - [Rig-town livelihoods](locations/rig-town-livelihoods.md): how the campervan crews earn, cook, sleep, repair, and share resources.
 - [Cyberpunk reading map](research/cyberpunk-reading-2024-2026.md): research touchstones and originality guardrails.
+- [Prose voice and party guide](docs/prose-voice-and-party-guide.md): the human dialogue, D&D-like adventure texture, and character speech rules for the revision pass.
 - [Chapter One: The Receipt Map](chapters/chapter-001-the-receipt-map.md)
 - [Chapter Two: Acting Deputy Door](chapters/chapter-002-acting-deputy-door.md)
 - [Chapter Three: The Queue Chooses A Crew](chapters/chapter-003-the-queue-chooses-a-crew.md)

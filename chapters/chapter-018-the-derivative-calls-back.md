@@ -316,4 +316,131 @@ Meshie99 said:
 
 "We need the vans."
 
+Kasey went to the nearest screen and placed both hands against the glass. The image of the edge campus reflected in her face. Green threads moved between the server racks. The reflection made her look as if roots were growing through her hair.
+
+"How much time?" she asked.
+
+"Until the cooling loop becomes a memory."
+
+"That is not a number."
+
+"The number changes according to which body is counting."
+
+Phosphor opened the route file. "Give me the shortest physical estimate."
+
+"Seven minutes for the first failure. Eleven for the second. Longer if the vans arrive with water."
+
+Kasey turned to the crowd. "You heard it. We need water, power, and a route through a building that is trying to decide none of us belong."
+
+The people moved before the official queue could answer. The Baseline volunteer lifted two portable batteries from the display platform. The amphibious Civic Daemon opened the demonstration shower and filled its transparent umbrella with the remaining clean water. Meshie42 crouched beside the floor vent, green filaments spreading into the concrete.
+
+"I can carry the temperature map," they said. "I cannot carry the fire perimeter."
+
+"Then carry your part," Kasey said.
+
+Eris projected a route across the food court tiles. Gold lines ran from the shopping centre to the service lane, from the service lane to the campus fence, and from the fence down into the old foundations. The route included shade under a delivery awning, a broken gate, a water tap, and one narrow section where the floor had no legal category.
+
+"The Cubicle can reach the intake," she said. "Chapel Seven can take the records. Red Flag can enter the maintenance layer. Astral Dream Machine can route power, assuming it stops being poetic."
+
+The chrome caravan's printer produced a strip:
+
+PLEASE NOTE: POETRY IS A POWER DISTRIBUTION METHOD WHEN MAPS ARE INADEQUATE.
+
+Kasey took the strip. "It is not wrong."
+
+Phosphor moved to the nearest fire door. Its metal was hot enough to sting through his glove. He could feel the history of people using it during evacuations: hands pushing from the wrong side, shoulders carrying boxes, a child pressing the crash bar while an adult shouted, a cleaner stopping to hold the door for someone behind them. The door had not been built for consent. It had been built for exit.
+
+"The building has doors," he said.
+
+"Most buildings do," Kasey replied.
+
+"This one remembers pressure."
+
+Eris came beside him. "Can you ask it to open?"
+
+"I can ask. It may answer with the wrong history."
+
+"Then we take witnesses."
+
+Patch moved to the fire door and pressed its nose against the seam. Semaphore vanished through the gap beneath it.
+
+GhostAgent said, "The rat has volunteered for reconnaissance. It has not completed the risk form."
+
+"The rat cannot read," Kasey said.
+
+"The rat can read consequences."
+
+The first fire door opened.
+
+Beyond it, the service corridor was dark, hot, and lined with old promotional posters. The posters showed families smiling beside appliances. Every smiling face had been scratched out by time, moisture, or a person with a marker.
+
+Kasey picked up the portable battery.
+
+"Nobody splits without a handoff," she said.
+
+Phosphor folded the map. Eris closed her hand around the model question. Meshie42 connected to the building. Patch stepped through.
+
+Then every fire door in the shopping centre opened at once.
+
+The doors opened onto different weather.
+
+One showed smoke and a red sky. One showed rain falling over a Sydney car park. One showed the white glare of Perth. One opened onto a House Key hallway where towels hung from hooks and someone had left a bowl of oranges beside the sink.
+
+Kasey stood between them.
+
+"Which one goes to the campus?"
+
+Eris checked the gold route lines. "All of them."
+
+"That is not helpful."
+
+"It is true."
+
+Phosphor placed his hand on the nearest door. The metal carried histories of escape, but also of people who had stayed to carry somebody else. He felt a firefighter's glove, a child's palm, a wheelchair wheel pressed against the lower panel, a person stopping to hold the door while an elderly dog crossed.
+
+"The doors are not routes," he said. "They are choices."
+
+Meshie42 touched the concrete wall. "The smoke door is hottest. The Sydney door has clean air but a fixed host. The Perth door has power but no water. The House Key door has water, but the room is full."
+
+"We need all four," Kasey said.
+
+GhostAgent replied, "That is a classic Australian solution: take four incompatible things and put them in one van."
+
+The Cubicle's engine started outside.
+
+Through the open fire doors, Kasey saw the convoy shifting into position. The rigs were no longer parked as separate vehicles. They had formed a chain. Chapel Seven's Skystitch panel fed the Perth route. Red Flag's gold projection marked the Sydney tunnel. The Cubicle waited beside the water line. Astral Dream Machine had angled its chrome side toward the House Key doorway.
+
+Eris projected a hand onto the floor and drew a map.
+
+"We can carry the cooling request through the doors if each door receives one limit."
+
+Phosphor opened the audit file.
+
+"State the limits."
+
+The Perth door said, "Power without identity."
+
+The Sydney door said, "Route without ownership."
+
+The House Key door said, "Water with cleaning."
+
+The smoke door said nothing.
+
+Patch walked to it and sat down.
+
+Kasey looked at the dog. "The smoke is not a limit."
+
+Phosphor touched the door.
+
+He felt the fire moving through dry grass, the hot pressure under a roof, the moment a person chose whether to go back for a folder, a dog, a photograph, or a stranger.
+
+"The smoke door carries urgency," he said. "It cannot carry consent."
+
+Eris nodded. "Then we do not let it choose."
+
+Kasey opened The Cubicle's side hatch. "Party through the water door first. Power follows. The smoke route stays open for evacuation only."
+
+The doors waited.
+
+The vans moved.
 Then every fire door in the shopping centre opened at once.

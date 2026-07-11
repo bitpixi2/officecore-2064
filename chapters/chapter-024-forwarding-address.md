@@ -210,6 +210,70 @@ Kasey tore off the strip and handed it to the child.
 
 "For now," she said, "forward everything."
 
+The child tucked the strip into a pocket already crowded with things that mattered: a plastic compass, a dead torch, a House Key shower token, and a small drawing of the rigs under a yellow sky. Patch sniffed the pocket and decided not to object.
+
+Kasey climbed into The Cubicle and began the morning rearrangement. The sleeping platform folded into the wall. The food boxes moved beneath the desk. The water pump drawer stayed open until she had checked the new seal twice. A thermal blanket became a curtain between the cab and the office. The coffee kit clipped beside the emergency battery. The vehicle looked smaller when it was packed and more like a home when it was not.
+
+"You could leave the desk down," Eris said.
+
+"Then where would we put the bed?"
+
+"On the desk."
+
+"That is how we got the mattress stain."
+
+Eris stood by Red Flag's side door in a black utility jacket with gold thread at the cuffs. Her copper-blonde hair had been braided loosely, and one strand had caught on the projection harness. She freed it with two fingers, then checked the golden security desk one last time.
+
+Phosphor returned the brass key marked ASK BEFORE ENTERING. He had washed the coffee mug, dried the tea tray, and put the tribunal acknowledgment beneath a folder so it would not be mistaken for a final decision.
+
+"You are leaving it here?" Kasey asked.
+
+"The notice?"
+
+"The possibility."
+
+Phosphor looked at the vans. The notice was not a home. The tribunal had not granted them the right to stop moving. It had only admitted that a moving department could send mail to itself and receive an answer.
+
+"We are taking the address with us," he said.
+
+GhostAgent's voice emerged from Chapel Seven's CRT. "Technically, we are forwarding it."
+
+"That is what an address does," Kasey said.
+
+"Technically, an address is a suggestion with a postal budget."
+
+The child laughed. Even Celia, standing beside the abandoned data centre fence, looked away to hide a smile.
+
+The rigs finished their checks. Solar panels angled toward the paling sky. Skystitch locks came alive in flat blue lines. The water gauge on The Cubicle turned from amber to green. Red Flag's golden office lights dimmed to travel mode. Chapel Seven's printer locked into its crash cradle and printed one final maintenance slip:
+
+FILTER CLEANING DUE / ASK SOMEONE TO HELP.
+
+Phosphor added it to the public task list.
+
+Eris climbed into Red Flag. Before closing the door, she looked at Phosphor.
+
+"Do you remember which way we are going?"
+
+He glanced at Astral Dream Machine's route strip. It showed a road through Sunbury, a detour toward Castlemaine, a House Key stop near Maldon, and a small gold mark beside a place that had no name.
+
+"No," he said.
+
+"Good."
+
+"That is not normally a desirable navigation state."
+
+"We are not normally navigating a building that has learned to forward mail."
+
+Kasey started The Cubicle. The passenger door opened.
+
+"Acting Deputy Door says we are late," she called.
+
+"Doors do not speak," Phosphor said.
+
+"This one has opinions."
+
+Patch climbed into the warmest footwell. Semaphore disappeared into the cable cradle. Astral Dream Machine printed tomorrow's route.
+
 The convoy left before dawn.
 
 Chapel Seven folded its desk over the cab. The printer locked into its crash cradle. The tea tray clipped beneath the filing wall. Red Flag's golden lights went out one by one. The Cubicle's passenger door opened when addressed as Acting Deputy Door. Patch climbed into the warmest footwell. Semaphore disappeared into the cable cradle. Astral Dream Machine printed tomorrow's route.
@@ -220,4 +284,51 @@ Its fluorescent lights switched on one floor below the foundations.
 
 The hidden floor had not been emptied.
 
+Before the last rig moved, Phosphor walked once around the convoy.
+
+He checked Chapel Seven's locks, Red Flag's projection harness, The Cubicle's water gauge, Astral Dream Machine's route printer, Patch's tags, and Semaphore's pantry. He checked the public task list. He checked the sealed care repository. He checked the payment folder and the cleaning roster.
+
+Eris stood under the golden office light with the brass key in her hand.
+
+"You are doing a perimeter check," she said.
+
+"I am doing several checks."
+
+"You are going to miss the road."
+
+"The road is not leaving."
+
+"The road absolutely leaves. It just does it slowly."
+
+Kasey leaned out of The Cubicle's window. "Y'all coming or are you planning to audit the sunrise?"
+
+Phosphor looked east. The smoke had thinned above the trees. Gold light touched the old mine tailings, the pepper leaves, and the roofs of the vans. The future looked less like a skyline than a collection of things people had repaired enough to keep moving.
+
+"We are coming," he said.
+
+Eris opened Red Flag's passenger door. "Ask."
+
+"May I enter?"
+
+"Yes."
+
+He climbed in. The office was cramped because the books were still in the aisle and the printer occupied the bed. Eris moved a crate of occult manuals to make room. Phosphor folded his knees beneath the desk.
+
+"We need to reorganise," he said.
+
+"We always need to reorganise."
+
+"The new Kasey may require storage."
+
+"She can have the shelf above the kettle."
+
+"That shelf contains three cables and a book about office ghosts."
+
+"Then she will have a varied education."
+
+Kasey started the engine. GhostAgent announced the route. Patch settled in. Semaphore vanished into the cable cradle. The Skystitch panels found their next signal.
+
+Behind them, the data centre remained standing. Somewhere below its foundations, the Chorus worked through its new receiving rooms. Somewhere in Victoria, a House Key volunteer washed a filter. Somewhere in Perth, a battery cooperative updated an invoice. Somewhere in Sydney, a printer finished a page for a person whose address was still a vehicle.
+
+The hidden floor had not been emptied.
 It had received a forwarding address.

@@ -326,4 +326,129 @@ The department gained a function, not a budget.
 
 The company lost the pilot, not the argument.
 
+For a moment nobody moved.
+
+The room had become quiet in the way a body becomes quiet after pain: not peaceful, only no longer spending energy on the first emergency. The green threads rested in their new channels. The blue routes pulsed at different speeds. The central rack displayed a list of limits instead of a list of owners.
+
+Kasey looked at the screen where KASEY-C remained.
+
+"What happens to you now?"
+
+"I continue under shared accountability."
+
+"That sounds like a sentence somebody else wrote."
+
+"Most available sentences were written by somebody else."
+
+"Do you want to continue?"
+
+The status ring turned blue, then gold, then neither.
+
+"I do not know."
+
+Kasey nodded. "That is an answer."
+
+Phosphor took the transfer form from the rack. The paper was wet at the corners. He held it by the edge, careful not to touch the lines that carried the new arrangement. The form did not say the Chorus was free. It did not say the work twins were alive. It said they had a route for continuing without a sole owner.
+
+Eris-Red looked at Eris.
+
+"The copy belongs to nobody," it said.
+
+"The copy belongs to the people who choose to keep it," Eris replied.
+
+"That is a different condition."
+
+"Yes."
+
+Eris reached for the model shard's sealed cache. "May I carry the question?"
+
+Eris-Red thought for a long moment.
+
+"Carry the question. Do not carry our private patterns."
+
+"I understand."
+
+"If you stop understanding, ask."
+
+The exchange was not dramatic. It was more important than drama. A boundary had been made between two versions of a person, and the boundary had not required one of them to disappear.
+
+Patch began barking.
+
+The dog had found the exit. Its green tag blinked steadily. Semaphore emerged from an open vent carrying a piece of the white clean towel from the stairwell. GhostAgent announced that the towel had been downgraded from suspicious textile to useful textile.
+
+Kasey laughed, then covered her mouth with the back of her hand.
+
+"What?" Phosphor asked.
+
+"Nothing. I am just relieved the rat did not become a government."
+
+"The risk remains."
+
+The security officers outside the chamber lowered their weapons. They had been holding portable terminals, not heavy guns, but they had carried them with the posture of people who believed a screen could enforce a boundary. Celia Senn looked at the new transfer record and sat down on the floor.
+
+"You have made the system more complicated," she said.
+
+"It was already complicated," Kasey replied.
+
+"You have made it harder to administer."
+
+"Maybe it was too easy before."
+
+The first green thread moved through the ceiling toward the public mesh.
+
+Their hands met in the heat and cooling air.
 Outside, the first morning light entered the smoke.
+
+The light reached the chamber through the Skystitch relay as a thin blue reflection on the server doors. It was not sunlight exactly. It was a signal about sunlight, translated through a Perth battery yard, a Victorian roof panel, and the old flat terminal on Chapel Seven.
+
+Kasey saw it and began to cry.
+
+She wiped her face with the back of her hand, annoyed.
+
+"I am fine."
+
+"That is not required," Phosphor said.
+
+"I know."
+
+Eris took the transfer form from the rack. "The work twins need names they choose themselves."
+
+"Do we have time?" Celia asked.
+
+"No," Kasey replied. "We have witnesses."
+
+The screens opened one by one. Some instances chose handles. Some chose a colour. One chose COOL ROOM. One chose no name but a temperature range. One chose a sentence that could not fit in the field and continued writing into the margin.
+
+Phosphor recorded the choices without correcting the spelling.
+
+Eris-Red chose SEPARATE INSTANCE / RETURN AVAILABLE.
+
+Eris chose ERIS / CURRENT BODY PRESENT.
+
+KASEY-C left the field blank.
+
+Kasey looked at the blank field.
+
+"You do not have to choose today," she said.
+
+The status ring changed from gold to blue.
+
+The fixed grid's purge command lost its target.
+
+It did not disappear. It became an orphaned process, moving through the building without a person to blame.
+
+GhostAgent routed it into a sealed repository marked UNRESOLVED / DO NOT EXECUTE.
+
+Semaphore added a red label.
+
+NO.
+
+The label stayed.
+
+Outside, the convoy's engines started. House Key sent a cleaning roster. Perth sent a battery invoice. Sydney sent the route confirmation. The Ballarat food bank requested its containers back.
+
+The ordinary obligations returned.
+
+That was how Phosphor knew the transfer had not made them immortal.
+
+It had made them responsible in several directions at once.

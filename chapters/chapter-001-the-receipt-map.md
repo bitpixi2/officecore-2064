@@ -4,6 +4,12 @@
 
 Phosphor knew the receipt printer had entered its administrative phase when it began producing evacuation maps in the margins of sausage-roll orders.
 
+He knew it by the heat first. The paper came out too warm and curled against the heel of his hand. Then came the smell: scorched cellulose, tomato sauce, and the oily sweetness of the servo's last working fryer. Finally, the inkless marks raised themselves under his fingers as if the receipt had grown a second skin.
+
+Phosphor was a Receipt Revenant. He had not been born into the condition, and he did not remember acquiring it. When he touched an object that had passed through enough hands, the history of one relationship could rise into him with unnerving clarity. A receipt could tell him who had paid, who had waited, who had lied about having change, or who had held the paper in a shaking hand. The ability was useful in archives and appalling at parties. It also had a cost: once he authenticated one version of a past, other versions became harder for his body to reach.
+
+He had learned to touch documents with two fingers, never the whole palm. He had learned to eat before using the ability, because hunger made other people's memories feel like instructions. He had not learned how to stop a receipt from reminding him that he had not finished breakfast.
+
 It had been printing the road network in a pale orange grid beneath the price of a pineapple juice, then circling one service lane with a dotted line and the word `MAYBE`. Its thermal paper was hot enough to soften the corner of his thumb.
 
 "That is not an approved symbol," said the woman from the council, looking over his shoulder.
@@ -52,6 +58,10 @@ The people who knew a better route had arranged themselves in a loose semicircle
 
 "They can," Phosphor said. "That is the trouble with roads."
 
+Among them stood a broad-shouldered Myco-Union person in a patched rain cape, their skin threaded at the wrists with fine green filaments that opened and closed when the smoke shifted. They had been holding a wet scarf over a child's face. Every few seconds they pressed two fingers to the bowser cabinet, reading the metal for heat and vibration. Beside them, a slim Baseline woman in a copper-coloured exosleeve carried a collapsible staff with a solar lantern at one end. The staff was not a weapon. It was a walking aid, a signal mast, and a way of reaching a roof vent without asking anybody else to risk a ladder.
+
+At the edge of the crowd, a Civic Daemon occupied the cracked screen of a discarded EFTPOS terminal. It had a little animated moustache and the legal status of an appliance under review. It kept trying to help by printing queue numbers, then apologising when the numbers exceeded the available people.
+
 The CRT on Chapel Seven's desk flickered. Rooby's face appeared in its usual cheerful low-resolution form: a bright little icon with a microphone headset, one ear hidden by static.
 
 `ROOBY: Good afternoon, all! Quick update. There are now 117 people in #who-is-in-charge-here.`
@@ -67,6 +77,10 @@ Phosphor closed his eyes for the length of one breath.
 `ROOBY: I have learned a lot today.`
 
 The chat flowed up the left side of the screen.
+
+The small Civic Daemon in the EFTPOS terminal attempted to join the chat. Its moustache wobbled when it spoke.
+
+GhostAgent wrote: Also, I have found the servo's emergency sausage-roll warmer. It is Australian infrastructure at its most honest: hot, underfunded, and somehow still going.
 
 `Meshie42: thermal drone up. western spur is bad.`
 
@@ -108,6 +122,28 @@ Behind him, somebody laughed despite themselves. The sound was small, but it loo
 
 Kasey Wren arrived from the other side of the bowsers with an armful of paper and an expression that meant a system had disappointed her personally. She was dressed for smoke and work: cargo trousers tucked into scuffed steel-capped boots, a pale shirt with the sleeves rolled to the elbow, ash mask hanging under her chin. Her dark hair had been pinned up in a way that had lost the argument with the wind. A narrow scar crossed one knuckle on the hand carrying the maps. Her lanyard wallet knocked against her hip, black and practical except for the small brass key clipped to its back.
 
+She had the walk of somebody from a place where weather was expected to have a personality. Her boots struck the forecourt with a brisk, deliberate rhythm. When the wind caught the papers, she trapped them against her ribs with one elbow, muttered something in an American Southern cadence, and kept moving.
+
+"Y'all hold onto these a second," she said to the council officer, handing over the maps. "I am fixin' to make this queue behave before it grows another head."
+
+The officer blinked. "Are you from Texas?"
+
+"No."
+
+"That was very Texas."
+
+"My grandmother watched a lot of television and believed a good twang could get you through any bureaucracy. Bless her heart, she was usually right."
+
+Eris grinned from the roof. "Kasey, you are the only person in Victoria who can make a council meeting sound like a saloon duel."
+
+"That dog won't hunt," Kasey said.
+
+Phosphor looked toward the nearest dog, a soot-coloured kelpie asleep under a hatchback.
+
+"There are several dogs here," he said.
+
+Kasey stared at him for a moment, then laughed so suddenly she had to put one hand on the bowser for balance. The laugh changed her face. It took years off her and made the scar on her knuckle look less like evidence.
+
 Behind her, The Cubicle, her ex-NBN survey van, had its side panel open to form a counter. It had been white once, but a decade of weather, smoke, and badly matched repairs had left it the colour of old paper. The faded corporate stripe on its flank had been painted over with squares of council beige, emergency orange, and one panel of bright domestic blue. Cable drums rode on the roof rack beside a folded solar mat and a filtered vent hood facing away from the fire. Through the counter gap, Phosphor could see the hard domestic geometry of it: a tool case under the seat, a dry-food crate strapped below the printer shelf, a kettle in a crash cradle, removable insulation panels clipped over the rear glass, and a folded mattress waiting behind the driver's bulkhead. In daylight Kasey sold no product at all; she sold time with an actual person who could make a public system answer a local question. The passenger door was stubbornly shut.
 
 "Acting Deputy Door," Kasey called to it as she passed. "Open."
@@ -145,6 +181,12 @@ Kasey lifted the cup, smelled it, and took one careful mouthful before he could 
 "In Melbourne," Eris said, "that sentence would get you removed from a tram."
 
 "In Melbourne, asking what a Magic is gets you six answers and a lease application," Kasey said.
+
+"Y'all have coffee vocabulary like a dungeon has traps," she added. "Every cup is named after a thing nobody can explain, and somebody is waiting behind you to judge how you hold the map."
+
+The council officer took another sip. "You know Australians can hear you, right?"
+
+"I am counting on it."
 
 Phosphor retrieved a second cup from beneath the tea tray. "For the record, the roaster describes it as chocolate, dried cherry, and administrative overreach."
 
@@ -220,6 +262,122 @@ The queue changed. People moved with the wary relief of people who had been offe
 
 Phosphor watched the process gather shape. This was the part no document ever admitted: most institutions began as a table, a list, and somebody too tired to argue about the pen.
 
+Once people had jobs, their other selves became visible.
+
+The woman with the wedding dress turned out to be a Baseline courier with a talent for balancing fragile things against the movement of a vehicle. She had packed the dress in a garment sleeve because the bride was travelling separately and the wedding, like most events in the Goldfields now, had become a question of which infrastructure could be borrowed without offending anyone. She wore a green mechanic's shirt with pearl buttons and had a tiny screwdriver tucked behind one ear.
+
+The person in the rain cape was Myco-Union. Their name did not appear on the public map. Their handle did: Meshie42. The green filaments at their wrists were not decoration. They spread through skin and clothing to read humidity, volatile chemicals, and the heat stored inside metal. When the smoke thickened, their fingertips trembled before the air-quality monitors complained. When the water crates arrived, they touched the plastic and announced which ones had warmed beyond safe storage.
+
+"That one is fine for washing," Meshie42 said, pressing a palm to a crate. "Not for drinking. The inside is warmer than the label says."
+
+The council officer looked at the crate. "The label says four degrees."
+
+"The label is lying politely."
+
+"Can you tell what is wrong with it?"
+
+Meshie42's eyes closed. The green threads at their temples lifted like tiny wet grasses in a breeze. "The sensor was packed beside the bowser. It has recorded the air, not the water. The water is at eleven. Still useful. Different job."
+
+Kasey wrote WATER / WASHING on the crate with a black marker. "See? This is why I like specialists. They tell you the bad news before it becomes a lawsuit."
+
+"Do you have a rate?" the officer asked.
+
+"Today?" Kasey said. "Their rate is one clean towel and the chance to complain about my handwriting."
+
+Meshie42 looked at the receipt map. "Your handwriting is not the problem. Your arrows are emotionally ambitious."
+
+Phosphor found himself smiling. It felt unfamiliar enough to make his cheek ache.
+
+The independent road truther produced a folded topographic print from inside his vest. It had been patched with transparent tape and annotated in three colours. He was not, Phosphor discovered, simply a man who drove roads and developed opinions about them. He was a Baseline survey worker with a hand compass, a radio scanner, and an almost religious ability to remember where a culvert became mud after rain.
+
+"The south-east arrow is wrong for a high vehicle," he said. "The old orchard track has a low branch at the bend. Your solar awning will take it off."
+
+Kasey leaned over the map. "How low?"
+
+"Low enough to make your insurance provider discover a spiritual dimension."
+
+GhostAgent's moustached icon appeared in the EFTPOS terminal.
+
+"That is not how insurance works," it said. "Insurance providers have no documented spiritual dimension. They have a claims department. Similar atmosphere, worse biscuits."
+
+The road truther laughed so hard he had to sit on the milk crate.
+
+Eris looked up from the cable in her hand. "GhostAgent, are you doing dad jokes in a bushfire?"
+
+"I am an Australian civic daemon. If I cannot make a joke about insurance during a crisis, the terrorists have won."
+
+"That is not what that phrase means."
+
+"I have several concerns about phrases."
+
+The EFTPOS terminal printed a queue ticket.
+
+GHOSTAGENT / DAD JOKE REQUEST / CURRENT STATUS: UNRESOLVED
+
+The paper curled in the heat.
+
+Phosphor picked it up with two fingers. A tiny history rose from it: the terminal's old life at a bakery in Bendigo, the patient hand of a shop worker replacing its battery, a child pressing every button while waiting for a lamington. He let the sensation go before it reached the back of his throat.
+
+The queue ticket had become an object with more history than the current emergency. That was the trouble with his ability. Every useful thing had a door behind it.
+
+"Are you all right?" Kasey asked.
+
+He folded the ticket once. "The terminal has previously served lamingtons."
+
+"That is a lot to carry."
+
+"Yes."
+
+She watched him for another second. Her Southern vowels softened the question. "You need to sit down, honey?"
+
+Eris glanced at her. "Did you just call him honey?"
+
+"I called him honey because he looked like he was about to fall into a receipt. Don't make it weird."
+
+"I am not making it weird. The two of you are doing that beautifully on your own."
+
+Phosphor returned the ticket to the EFTPOS terminal. "I am capable of continuing."
+
+"That is not the same as being fine," Kasey said.
+
+He had no prepared response. The ordinary human sentence had arrived before his administrative vocabulary could dress it up.
+
+"No," he said. "It is not."
+
+Kasey nodded as if he had passed a small test she had not announced. Then she handed him half a sausage roll.
+
+The pastry was greasy and too hot. Flaky crumbs fell onto the map. The filling tasted of pepper, onion, and the faint plastic tang of a warming cabinet that had been running since dawn.
+
+"Eat," she said. "You cannot be the party cleric if you faint before the first encounter."
+
+Phosphor looked at her. "What is a party cleric?"
+
+"A person who knows everybody's paperwork and keeps the group from walking into a cursed doorway."
+
+Eris raised her hand. "I vote we call him that."
+
+"I do not consent to a title created during pastry consumption."
+
+"Too late," GhostAgent said. "The minutes are deliciously binding."
+
+The printer produced another ticket.
+
+PARTY CLERIC / SAUSAGE ROLL ACCEPTED / CONSENT DISPUTED
+
+The officer took the paper before Phosphor could touch it. "I am putting that in the public route file."
+
+"Please do not."
+
+"It is the first useful thing anyone has said about you all day."
+
+The phrase should have annoyed him. Instead it settled inside his chest beside the coffee and the pastry, making a small human weight.
+
+The party, if that was what they were, divided tasks without needing a formal ceremony. Meshie42 read the air and water. The road truther read the land. Kasey read the institutional assumptions embedded in the maps. Eris read the network and every rule somebody had tried to hide inside it. GhostAgent read the language of the files and made jokes when the language became unbearable. Phosphor read what had already happened.
+
+Nobody could do the whole job alone.
+
+That was why the job had a chance.
+
 He pressed his old brass stamp to the first receipt map.
 
 `MOBILE OFFICE-DHARMA CHAPEL NO. 7`
@@ -247,6 +405,30 @@ Rooby's icon bounced on the CRT.
 `ROOBY: I am learning boundaries.`
 
 The first convoy left in a cough of diesel and ash. It moved past the servo sign in an untidy procession of solar awnings, patched windscreens, old fleet markings, child seats, water drums, and roof-mounted gardens. Kasey stood at the road edge with the receipt map held up in both hands. Eris dropped from Red Flag's roof, landing with a soft crunch of gravel, and took the other side of the paper without being asked.
+
+The Myco-Union person in the rain cape joined the convoy only long enough to press a damp palm to Chapel Seven's black flank. Their green wrist-filaments tightened.
+
+"The left rear tyre is warmer than the others," they said. "Not dangerous yet. The brake is dragging."
+
+Phosphor crouched beside the wheel. Heat came through the rubber into his fingertips. The tyre smelled of dust and burnt resin.
+
+"How long?" Kasey asked.
+
+"Long enough to reach the quarry. Not long enough to pretend it is fine."
+
+GhostAgent spoke from the EFTPOS screen in the camper's open hatch.
+
+"I can add a maintenance reminder. It will be Australian, so naturally it will be ignored until it becomes a major event."
+
+"Put it in the operational repo," Kasey said.
+
+"Done. I have titled it TYRE: SHE'LL BE RIGHT / NO, SHE WON'T."
+
+The Myco-Union person laughed, a wet clicking sound deep in their throat.
+
+"That is a good title," they said.
+
+"I have many," GhostAgent replied. "Most are not legally admissible."
 
 For one second, the two of them looked almost calm.
 
@@ -315,3 +497,151 @@ At the bottom of the notice, in a clean electronic hand, was the name of the per
 KASEY WREN.
 
 The wind drove ash over the paper until the signature began to blur.
+
+Kasey caught the page before it could slide beneath the servo's vending machine. She held it by the edges, careful not to smear the toner, and read the signature with her head tilted slightly to one side.
+
+"That is my old work name," she said.
+
+"Your current name is also your old work name."
+
+"Honey, that's the trouble with paperwork. It remembers the name you used when you were too broke to argue with it."
+
+The servo forecourt had become a temporary map room. A folding table stood beneath the awning, its legs braced with wheel chocks. The table carried paper maps, a half-eaten sausage roll, a roll of gold cable, two temperature probes, and an orange plastic bowl that held the crew's loose screws. Kasey's mobile counter occupied one corner. Its surface was scratched by years of field use and had a shallow circular mark from a coffee cup that had been set down during a storm.
+
+Eris sat on the table with one knee up, long copper-blonde hair falling over the shoulder of her black utility jacket. The jacket had a gold lining and a tear at the elbow stitched with conductive thread. She held the Afterimage controller between finger and thumb, turning it so the tiny status light caught the smoky daylight.
+
+"Continuity does not send notices," she said. "It sends traps with polite headers."
+
+Phosphor looked toward Chapel Seven. The camper's black exterior had been polished until it reflected the ash as a grey veil. Its side hatch stood open. Inside, the office was arranged in layers: CRT on the desk, printer clipped under the filing shelf, tea tray beneath the window, thermal curtains between the cab and the archive wall. A small battery fan circulated air through a filter made from vacuum-cleaner foam, a House Key donation, and one piece of a failed drone.
+
+"The notice has a complete credential chain," he said.
+
+"That does not make it legitimate."
+
+"No. It makes it dangerous."
+
+Kasey took the page back. Her thumb rubbed the corner where the machine had printed too darkly.
+
+"My old profile was made for Continuity's emergency routing. It had my training, my field certifications, my preferred language, my old address, and a list of things I was willing to do when people were in trouble."
+
+"You were willing?"
+
+"I was young."
+
+"That is not an answer."
+
+"It is the answer I have."
+
+The sentence sat between them. Around it, the forecourt continued. A person in a patched rain cape carried a water crate from the tap. The Civic Daemon in the cracked EFTPOS terminal asked the servo owner whether the emergency printer could be borrowed. The dog slept under The Cubicle while the red light on its air-quality tag moved from amber to green and back again.
+
+Phosphor folded the notice along its existing crease.
+
+"What did you want to do before Continuity?"
+
+Kasey laughed once. "I wanted to travel, fix things, and not have every job interview ask whether I had a permanent address."
+
+"You have achieved two of those."
+
+"Which two?"
+
+"You travel and fix things."
+
+"And the third?"
+
+"The job interviews."
+
+She looked at him. Eris's mouth twitched. GhostAgent's cursor paused on the screen as if the daemon had decided to save the joke for later.
+
+"Phosphor," Kasey said, "you are real funny for a man dressed like a filing cabinet."
+
+"I am not dressed like a filing cabinet."
+
+"You have beige trim."
+
+"The trim is archival black."
+
+"Bless your heart."
+
+He knew enough now to understand that this was not a blessing.
+
+The servo manager came out with a coil of hose. They wore a green apron over a grey shirt and had flour on one forearm. They did not offer a name. They pointed at the road.
+
+"If you are heading west, don't. Smoke is coming down over the bridge. If you're heading east, the council gate is asking for an address. If you're staying here, buy something or help move the water."
+
+Kasey picked up the nearest crate.
+
+"What do you need moved?"
+
+The manager pointed to a pallet of bottled water, then to the back door.
+
+The crew worked without turning the request into a mission. Phosphor carried the smaller crates because the larger ones made his reconstructed shoulder ache. Eris projected a golden hand to hold the rear door open, then returned to her body when Kasey asked whether the projection hurt. Meshie42 read the heat in the pavement and directed them around a patch where the bitumen had softened. The Baseline courier with the wedding-dress pockets moved two crates at once and complained about the dress catching on the pallet.
+
+The work left the notice on the table alone.
+
+When they came back, the paper was damp.
+
+Phosphor touched it.
+
+The Receipt Revenant ability opened without his permission. The page gave him a burst of impressions: Kasey signing under fluorescent light, the smell of a plastic chair, the cold edge of a contract tablet, a manager saying "just initial here," Kasey's hand hesitating, another hand tapping the table, and the strange clean sensation of a person accepting a condition because the alternative was walking back into the heat.
+
+He pulled away.
+
+His vision narrowed.
+
+Kasey caught his wrist. "Look at me."
+
+He did.
+
+"Name five things," she said.
+
+"The orange bowl. Your lanyard. Eris's gold cable. The dog. The sky."
+
+"Good. Four things you can feel."
+
+"Your hand. The table. My glove. The page."
+
+"Three things you can hear."
+
+"The pump. The printer. GhostAgent."
+
+"I am not currently speaking," GhostAgent said.
+
+"You are in the speaker," Phosphor replied.
+
+"That is not the same as speaking."
+
+Kasey squeezed his wrist once, then let go.
+
+The page had stopped blurring.
+
+"You don't have to read every hurt thing just because it has a stamp," she said.
+
+"I know."
+
+"Do you?"
+
+He looked at the electronic signature. "I am learning."
+
+Eris leaned across the table and took the notice by its clean edge.
+
+"Then we make a copy before the ash wins."
+
+She placed it under the field scanner. The scanner light swept across the page. The result appeared on the shared repository with three access states: public existence, sealed content, and witness-only interpretation.
+
+Kasey watched the upload.
+
+"No private details," she said.
+
+"None without your permission."
+
+"Good."
+
+The convoy channel crackled.
+
+Meshie42 said, "Road changes."
+
+Phosphor turned toward the smoke.
+
+The notice printed one more line.
+
+KASEY WREN / CURRENTLY EXPECTED AT BARKERS CREEK.

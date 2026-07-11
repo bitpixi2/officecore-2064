@@ -226,7 +226,119 @@ Kasey read over his shoulder.
 
 Eris moved beside them.
 
-"Give it one."
+Phosphor looked at the people around the loading dock. The smoke had thickened, and the Bunnings floodlights made every face look briefly theatrical. The person with the crowbar had a grease mark on one cheek. The person with the pressure cooker was barefoot on one side because a blister had opened. Kasey's fingers were stained with ink from the ballots. Eris had a loose strand of copper hair caught in the gold zipper of her jacket.
+
+No one looked like a department.
+
+They looked like people who had driven too far, slept badly, shared tools, and still wanted to decide what happened next.
+
+"I will own the minutes," Phosphor said.
+
+Kasey shook her head. "No."
+
+"The file requests an owner."
+
+"Then give it a custodian, not an owner."
+
+The crowbar person leaned forward. "What is the difference?"
+
+"An owner can sell the thing," Kasey said. "A custodian has to tell the next person what they received and what they are not allowed to pretend they received."
+
+The pressure-cooker person lifted their hand. "Can a custodian be paid?"
+
+"Yes," Kasey said.
+
+"Good. I am tired of people treating responsibility as a compliment."
+
+GhostAgent brought up a draft field on the three screens. "Custodian, witnesses, access boundary, expiry date, repair obligation, payment terms."
+
+"Add refusal rights," Eris said.
+
+"Add a joke field," GhostAgent said.
+
+"No," Phosphor and Kasey said together.
+
+"I have added it under cultural continuity."
+
+The Perth node returned first. Its voice came through with a wash of battery-yard wind and a faint alarm in the distance.
+
+"Perth node: We will custodian power, not people. We can lend kilowatts and take back the cables. We cannot take responsibility for a life we have not met."
+
+The Sydney node followed.
+
+"Sydney node: We will host people, not absorb them. Our fixed houses have doors that open for a reason and close for a reason. Both reasons must be recordable."
+
+The local people began to add their own terms. Cooling work would be paid in credits, parts, food, or time, but never silently. A House Key shower appointment could not be exchanged for a claim over someone's evening. A data repair could not be used as evidence that a person had agreed to a lease. A dog counted as a passenger, not a load. A rat could witness a meeting but could not be made treasurer.
+
+Semaphore climbed onto the table.
+
+GhostAgent said, "Semaphore has requested deputy treasurer status."
+
+"Denied," Kasey said.
+
+GhostAgent continued, "It has a strong financial instinct. It has already hidden the petty cash."
+
+The vote did not become clean. It became possible.
+
+Phosphor created three columns on the repository: accept, refuse, and not yet. The options were not presented as moral categories. They were practical routes, each with a cost. People could ask for more information. They could leave. They could return tomorrow and find that the decision had changed.
+
+The Continuity stranger watched from the edge of the floodlight.
+
+"A system without a single owner cannot be insured," they said.
+
+"Then insure the specific risks," Kasey replied. "A broken pump. A lost battery. A missed handoff. Do not insure the fiction that one person can own everybody's care."
+
+The stranger's lanyard began to print a name.
+
+The paper emerged blank.
+
+Eris went to the person and held out the gold cable from her sleeve.
+
+"You can choose a name," she said.
+
+"The system already has one."
+
+"That is not the same thing."
+
+The stranger looked at the paper, then at the cable. They did not take either.
+
+Phosphor closed the minutes file. "The meeting is adjourned for sleep and food. The unresolved questions remain unresolved."
+
+"That is not a conclusion," somebody said.
+
+"It is an accurate one."
+
+The loading dock lights went out. The screen behind him stayed bright.
+
+In the dark, everybody reached for something familiar. Kasey found the edge of the shelving table. Eris found the gold cable at her wrist. The crowbar person found the handle of the crowbar. Phosphor found the blank sheet.
+
+The screen showed the Department's new terms:
+
+NO SOLE OWNER.
+
+NO SILENT LABOUR.
+
+NO PRIVATE CARE PATTERN WITHOUT PERMISSION.
+
+The terms were not a constitution. They were a list of things the party had agreed to notice.
+
+"That is not enough," somebody said.
+
+"It is not meant to be enough," Kasey replied. "It is meant to be what we can carry tonight."
+
+The snack table moved again. Semaphore climbed onto it and took a sausage roll.
+
+GhostAgent said, "The observer has exercised its cultural rights."
+
+The laughter was small, but it moved through the crowd. People switched on torches. Somebody opened the side door of a van. Hot air left the dock. The smoke outside had gone darker, and the old Bunnings sign made the loading lane look like a dungeon entrance designed by a retail chain.
+
+Phosphor folded the minutes. The paper was warm from his hand.
+
+The file remained ownerless.
+
+That frightened him.
+
+It also felt honest.
 
 Kasey looked at the crowd, the rigs, the dog, the rat, the snack tray, and the orange facade of a store built to sell people the tools of permanence.
 

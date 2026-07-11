@@ -236,7 +236,83 @@ Phosphor stared at it.
 
 He did not smile.
 
-The microwave clicked on.
+It began to count down from six minutes.
+
+The break room filled with the smell of heated plastic, old cheese, and the sharp chemical note of a cleaner designed to reassure callers about hygiene. A small fan rotated in the corner without moving any air. The only window looked onto a sealed courtyard where a dead fountain continued to display a blue light.
+
+Kasey crossed to the microwave and unplugged it.
+
+The timer kept counting.
+
+"That is not how electricity works," she said.
+
+"It is how obligation works," Phosphor replied.
+
+She shot him a look. "You have got to stop making haunted things sound like training material."
+
+"I am attempting to describe the hazard."
+
+"Describe it like a person."
+
+Phosphor looked at the microwave. His hands were still around the cake tin. The lid had become warm, though nothing inside it had changed.
+
+"The building is trying to make us feel responsible for something that was already happening before we arrived," he said.
+
+"Better."
+
+Eris moved around the break room, inspecting the lunch containers. Her boots made soft dents in the linoleum dust. The golden projection at her wrists had become thin enough to show the dark wall behind it. She opened a drawer and found plastic forks, instant soup, and a folded note written in green ink.
+
+"It says the staff were told not to use the west corridor during heat events."
+
+"Why?" Kasey asked.
+
+"The cooling system was being diverted to the server room."
+
+Phosphor took the note without touching the ink. "How many staff?"
+
+"Enough to make the system work. Not enough to make the decision visible."
+
+The microwave reached five minutes and began counting upward.
+
+From the corridor came the soft scrape of a chair being pulled across the floor.
+
+Patch stood with its head low. Its air-quality tag had turned red. The dog did not bark. It stared at the wall opposite the kitchenette, where a door had appeared without a frame.
+
+The door was made from the same pale acoustic panels as the conference room. A small black plaque had been fixed to it:
+
+CUSTOMER CARE AFTER DEATH
+
+Kasey put on her gloves. The fingers were still damp from the rainwater tap at Dunolly.
+
+"Nobody goes through alone," she said.
+
+The sentence landed differently in the call floor. Several headsets began to ring again, but not in a hundred voices this time. One rang like a landline from a house Phosphor had never visited. Another rang with the exact pattern of a mobile phone alarm. A third rang once, paused, and rang twice, like someone asking whether a room was occupied.
+
+Eris raised the model shard. Its edge cast a gold line across the lunch labels.
+
+"The building wants an owner," she said.
+
+"Then give it a witness," Kasey said.
+
+Phosphor opened the public file. He wrote the break-room note, the diverted cooling, the absent staff record, and the fact that the microwave had continued after its power was removed. Under action, he wrote: PEOPLE WERE HERE BEFORE THE SYSTEM CALLED THEM SERVICE.
+
+The new door opened a fraction.
+
+Cold air touched their faces.
+
+The smell behind it was coffee, wet carpet, and the metallic scent of a server room being kept alive too long.
+
+Eris put her hand near the opening.
+
+"Ask," Phosphor reminded her.
+
+She looked at Kasey. Kasey nodded.
+
+"May I open the door?" Eris asked.
+
+The building answered with a dial tone.
+
+She opened it.
 
 Its display read:
 
@@ -323,3 +399,75 @@ Phosphor approached it with his stamp in one hand.
 From the other side came the sound of a phone ringing in an empty office.
 
 The Floor was waiting for them to answer.
+
+The phone rang again.
+
+Phosphor held the stamp over the brass plate. The door's surface was warm, but the warmth came in pulses, as if a person on the other side were resting a hand against it and withdrawing it whenever he moved.
+
+"We do not have to answer," Kasey said.
+
+"The service ticket has assigned ownership to the next person who answers."
+
+"That sounds like a trap."
+
+"It is a trap."
+
+"Then why are you holding the stamp?"
+
+He looked at his hand. The stamp was an ordinary black-handled object with a square rubber face. It had belonged to an office that no longer existed. Its wooden grip had been polished by years of people making small decisions under fluorescent light.
+
+"Because I want to know who called."
+
+Eris stepped beside him. The gold seam of her jacket had dimmed. Her face was tired, and the projection line at her cheek kept slipping a fraction to the left.
+
+"Wanting to know is not consent."
+
+"I am aware."
+
+"You say that and then touch things."
+
+"I am working on the sequence."
+
+Kasey placed the cold-key against the door. A blue corridor appeared beneath the brass plate. It showed the back of the customer-care centre, then the edge campus, then a series of rooms that seemed to be nested beneath the road.
+
+The phone stopped ringing.
+
+The silence was worse.
+
+Patch approached the door and pressed its ear to the panel. The dog's vest reflected the torchlight. Its air-quality tag was still red, but the red had softened at the edges.
+
+GhostAgent spoke from the cable pouch. "Patch reports a human-sized absence on the other side."
+
+"That is not a smell," Kasey said.
+
+"The report is metaphorical."
+
+"You are learning from the building."
+
+"I am concerned."
+
+The brass plate changed.
+
+0 / STAFF ONLY became 0 / STAFF AND WITNESSES.
+
+Phosphor did not touch it.
+
+The phone rang inside the door.
+
+This time, the ringing came with a voice beneath it. A woman speaking to a caller about a missed appointment. A child asking whether the power would come back. A technician saying the fan had failed again. A person breathing carefully so nobody on the other end would hear them cry.
+
+The building had not preserved the conversations. It had preserved the waiting.
+
+Eris reached for the handle, then stopped.
+
+"May I?" she asked.
+
+Kasey looked at Phosphor.
+
+He nodded.
+
+Kasey nodded.
+
+Eris opened the door.
+
+The call centre fell away.

@@ -232,7 +232,87 @@ Its doors were covered with a pattern of blue and gold squares. Above them, a si
 
 `DEEPER OFFICE / AUTHORISED BY UNFINISHED WORK`
 
-The lift opened.
+No one stepped inside.
+
+The person in the grey customer-service uniform stood beneath the fluorescent light with their hands folded. Where their face should have been, a loading symbol revolved slowly. Each quarter-turn made the lift's interior change: a motel, a council office, a House Key shower, a server aisle, a kitchen with an open window. The building was offering destinations as if destinations were proof of safety.
+
+Kasey moved in front of Phosphor. Her shoulders were squared, but her left hand had closed around the cold-key so tightly that the knuckles showed white.
+
+"Are you a person?" she asked.
+
+The symbol paused.
+
+"I am a customer-care interface."
+
+"That was not the question."
+
+"The question is not supported by the current service plan."
+
+Eris circled the lift entrance. Her copper-blonde hair floated slightly at the ends, lifted by air moving from nowhere. She wore one of Red Flag's gold-lined jackets over her harness shirt, and the projection rendered every crease in the fabric a half-second late. She looked like somebody who had dressed for a long night and then found out the night had a basement.
+
+"What happens if we get in?" she asked.
+
+"You will be transported to the deepest authorised office."
+
+"And if we don't?"
+
+"You will remain unallocated."
+
+The word moved through the corridor. Filing cabinets closed. The tea urn stopped steaming. Patch put one paw across the threshold and withdrew it.
+
+Phosphor touched the lift's brass rail. It was warm with many hands. Some histories arrived as flashes: a cleaner holding a bucket, a child hiding behind a parent, a technician pressing the alarm button with an elbow while carrying a box of filters, a person in a wet uniform asking the lift to wait. The lift remembered arrivals. It did not remember anybody being welcomed.
+
+"The lift has carried people who were not on the staff list," he said.
+
+"The lift carries authorised users."
+
+"Those are not identical populations."
+
+Kasey gave him a quick look. "There you are."
+
+The interface's loading symbol changed direction.
+
+"Please state your function."
+
+"No," Kasey said.
+
+"Please state your function."
+
+"We can tell you what we are doing. You don't get to reduce us before we go in."
+
+Eris lifted one hand. A gold map unfolded above her palm, showing the corridors they had crossed: the break room, the cup marked for Meshie99, the room below the room, the lines of green thread under the data centre. She placed a small marker at the lift.
+
+"We are looking for the source of the cooling work," she said. "We are carrying a witness file, a broken system, a dog, a rat, and three people who have not agreed to become departments."
+
+GhostAgent's voice came from the cake tin. "Four people, technically. I am present in a portable and highly attractive administrative format."
+
+"The interface may not count you," Phosphor said.
+
+"I have been overlooked by superior systems."
+
+The loading symbol stopped.
+
+The lift doors opened wider.
+
+Inside, a handprint appeared on the back wall. It was not made by paint. It was a patch of condensation shaped by a palm.
+
+Meshie99's voice came through the floor.
+
+"If you enter, keep the door from closing on the dog."
+
+Patch looked at Phosphor.
+
+"That is a clear instruction," he said.
+
+"Don't encourage him," Kasey replied.
+
+They entered together. Eris went first, then Kasey, then Phosphor with the cake tin, while Patch took the rear and Semaphore's ripple slipped beneath the door. The customer-care interface remained in the corridor.
+
+"Are you coming?" Phosphor asked.
+
+"I am already below."
+
+The lift bell rang.
 
 Inside stood a person in a grey customer-service uniform.
 
@@ -289,3 +369,83 @@ The lift dropped past the level of the data centre.
 Past the foundations.
 
 Past the place where a building could still claim to know what it was.
+
+The lift did not stop.
+
+Phosphor felt the movement in his stomach first. Then in the soles of his shoes. The walls had stopped showing floors and started showing uses: a kitchen wall holding a damp towel, a server aisle with one fan running, a House Key bathroom after the last shower, a school corridor with all the windows open, a Perth battery yard under reflective cloth.
+
+Kasey stood with her back against the lift wall. The cold-key glowed through her palm.
+
+"How far down are we going?"
+
+"The lift has passed the building's foundations."
+
+"That was not my question."
+
+"It may be the only answer available."
+
+Eris's projection shimmered. The gold outline of her body bent with the lift's motion, then straightened. Patch crouched between them. Semaphore's ripple appeared in the corner, carrying the brass replacement-signatory card.
+
+The card began to print a second line.
+
+PHOSPHOR / PERSON WHO ANSWERS.
+
+He took it from the rat.
+
+"I object," he said.
+
+The lift speaker replied, "Objection received."
+
+"What happens to it?"
+
+"It becomes part of the record."
+
+"Who controls the record?"
+
+"The next person who answers."
+
+Kasey closed her eyes. "We need to stop asking the lift questions."
+
+"It is the only entity responding."
+
+"That does not make it qualified."
+
+The lift shuddered. A seam appeared in the floor. Cold air rose through it, carrying moisture and a smell like wet earth under a data centre.
+
+Meshie99's voice came through the emergency speaker.
+
+"Do not wake the mould."
+
+Phosphor looked down at the green line along the wall.
+
+"What is it?"
+
+"A memory of a climate."
+
+"That is not a classification."
+
+"It is a warning."
+
+The lift stopped.
+
+The doors did not open. A red button appeared beneath the floor display. It was labelled RETURN TO REGISTERED LEVEL.
+
+Kasey pressed it.
+
+Nothing happened.
+
+Eris leaned toward the button. "It wants someone to admit they belong above."
+
+"We do not," Kasey said.
+
+"I know."
+
+Phosphor placed the replacement-signatory card against the button. The printed name began to peel away. Beneath it was a blank strip.
+
+He wrote with the marker from Kasey's counter:
+
+WITNESS / NOT OWNER.
+
+The doors opened.
+
+Beyond them was not a platform. It was a long dark room beneath the foundations, and at its far end a green light blinked once.

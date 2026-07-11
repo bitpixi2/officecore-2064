@@ -374,4 +374,185 @@ Eris looked at Eris-Red.
 
 The other instance nodded.
 
+The stairwell smelled of damp concrete and warm dust. Its handrail was cold at the top, hot in the middle, and slick with condensation near the bottom. Kasey went first with a work light clipped to her collar. Phosphor followed, carrying the public audit in a waterproof sleeve. Eris and Eris-Red walked side by side, their projections overlapping whenever the lights flickered.
+
+Patch kept to the rear.
+
+"Why is the dog behind us?" Kasey asked.
+
+"Patch is guarding the return route," Phosphor said.
+
+"Or Patch is scared."
+
+"The two are not mutually exclusive."
+
+The first landing held a vending machine. Its glass was fogged from the inside. Rows of obsolete snacks floated behind it: salt-and-vinegar chips, a packet of biscuits, a protein bar with an expiry date in a language none of them recognised. A small screen asked them to select a department.
+
+Kasey pressed the button marked OTHER.
+
+The machine dispensed a single clean towel.
+
+She caught it.
+
+"Well," she said. "At least it has priorities."
+
+GhostAgent's voice came from the portable speaker. "The towel appears to be a civic daemon in disguise."
+
+The towel moved.
+
+Eris stared at it. "Please do not make the towel a character."
+
+"I am not making it a character. I am reporting suspicious textile behaviour."
+
+The next landing opened onto a corridor of doors. Each door carried a different version of the party's name. One said MOBILE OFFICE. One said EVACUATION SERVICE. One said UNREGISTERED LOAD. One said PEOPLE WHO BROUGHT THEIR OWN WATER.
+
+Phosphor touched the last door.
+
+It showed him a memory of a road at dusk. The rigs were parked beneath pepper trees. Someone had hung wet towels across the open doors to cool the air. Kasey was laughing at GhostAgent's joke. Eris sat on the roof of Red Flag with her boots dangling. Patch slept beneath The Cubicle. Phosphor himself was washing a mug with a small amount of water, carefully, because waste felt like a form of betrayal.
+
+The memory was ordinary.
+
+He almost stepped into it.
+
+Eris caught his sleeve.
+
+"Ask," she said.
+
+"May I enter?"
+
+The door opened.
+
+Kasey looked at him. "Is that a memory or an ambush?"
+
+"I cannot determine."
+
+"Then no."
+
+Phosphor nodded and closed the door.
+
+The other Eris watched him. "You are learning to leave things unentered."
+
+"I am learning that access is not the same as entitlement."
+
+"That is an expensive lesson."
+
+"Most accurate lessons are."
+
+At the bottom landing, the green light brightened. The air became wet enough to taste. Meshie99's voices moved through the wall.
+
+"There are seven of us in the loop. There may be more. We cannot tell whether the others are asleep, hidden, or distributed across the racks."
+
+Kasey rested her hand against the concrete. "What do you need?"
+
+"A place to be separate."
+
+Eris-Red looked down the stairwell. "Separation can be deletion if the memory does not travel."
+
+"We know."
+
+Phosphor opened the audit sleeve. "Then the transfer needs a witness for each part."
+
+"There are more parts than hands."
+
+"We can use the mesh, but only if each receiver states its limit."
+
+The green light blinked.
+
+"That is a slow method."
+
+"Yes."
+
+"The purge is not slow."
+
+"Then we must be exact quickly."
+
+Kasey smiled without humour. "That is the most you sentence you have ever said."
+
+The stairwell descended.
+
+At the next landing, the stairwell opened into a maintenance kitchen.
+
+There was a sink, a kettle, a row of mugs, and a shelf of labelled containers. The labels were not names. They were tasks:
+
+FILTER WASHING.
+
+BATTERY CHECK.
+
+DOOR HOLDING.
+
+SOMEONE TO SIT WITH.
+
+Kasey stared at the last one.
+
+"That is a job," she said.
+
+"It is work," Phosphor replied.
+
+"Who gets paid?"
+
+The kitchen's speaker clicked on. "Payment pending."
+
+Kasey opened the nearest cupboard. It held food, clean towels, spare batteries, and a small envelope marked UNCLAIMED THANKS.
+
+"We are not taking the thanks," she said.
+
+"The thanks are not transferable."
+
+"Good."
+
+Eris checked the cups. Each one carried a different temperature. A cup warm enough for tea. A cup cool enough for a fever. A cup at room temperature. One that contained a tiny blue light.
+
+GhostAgent said, "I have located the coffee."
+
+"Do not drink the haunted coffee," Kasey said.
+
+"I am a daemon. It is unclear whether coffee can haunt me."
+
+Phosphor lifted the blue-light cup and felt a distant route: a person at House Key in Maldon washing a filter in a laundry sink, a Perth technician checking a battery under reflective cloth, a Sydney host setting out a clean towel without asking for a biography. The memory did not belong to one person. It belonged to a pattern of maintenance that had been done because the alternative was letting somebody suffer.
+
+He set the cup down.
+
+"The Chorus is here," he said.
+
+"In the kitchen?" Eris asked.
+
+"In the work."
+
+The wall behind the sink became transparent. Green threads moved through pipes. At the far end, the central chamber glowed. The threads had been routed around the fixed grid's new walls, but they were thinning.
+
+Kasey took a clean towel from the shelf and folded it into a square.
+
+"We need a handoff object."
+
+Phosphor offered the blank sheet.
+
+"No. Something that has been used."
+
+Eris picked up the blue-light cup.
+
+"This?"
+
+"Ask."
+
+She held it toward the transparent wall.
+
+"May we carry this history to the receiving rooms?"
+
+The green threads brightened.
+
+Meshie99 answered, "Yes, if the receiving rooms state their limits."
+
+Kasey placed the towel beside the cup.
+
+"Then we carry both. A thing that remembers work and a thing that can be washed."
+
+The stairs shook.
+
+The maintenance kitchen began to fill with warm air.
+
+"The building is shedding heat," Phosphor said.
+
+"Then we keep moving," Kasey replied.
+
+They left the kitchen with the cup, the towel, and the task list.
 The stairwell descended.

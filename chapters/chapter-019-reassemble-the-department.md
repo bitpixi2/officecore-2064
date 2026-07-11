@@ -253,3 +253,115 @@ It now read:
 `NOT EVIDENCE`
 
 "We are going in," she said. "But we are not letting the Floor decide who comes back out."
+
+They did not enter immediately. They made the cramped car park into a staging area.
+
+Kasey put water under the passenger seats and masks in the door pockets. Eris placed a gold route marker on each person who agreed to be seen by the mesh. Phosphor carried the sealed evidence tin and a stack of blank paper. Meshie42 checked the air at the door and asked for three minutes of quiet before connecting to the building.
+
+The food-rescue volunteer opened a box of rice, lentils, and roasted vegetables. Nobody had planned a meal. The meal happened because the boxes were there and because people made better decisions after eating.
+
+Patch received a portion in a metal bowl.
+
+Semaphore stole one lentil.
+
+GhostAgent said, "The pantry has been raided by a small socialist."
+
+Kasey pointed her fork at the speaker. "Do not turn the rat into a political mascot."
+
+"It has already declined centralised ownership."
+
+The argument over the food lasted less than a minute. That was how they knew they were tired. A person who had driven from Perth's battery yard through a relay said the food belonged to the kitchen until the kitchen said otherwise. The House Key volunteer said the kitchen had sent it for the people doing the work. Phosphor wrote the terms down. Kasey divided the portions equally, then gave Patch the piece of carrot that had fallen on the lid.
+
+The evening light changed. Through the shopping centre roof, the smoke turned the sky copper. The deep-office door showed a thin line of blue beneath it.
+
+Eris stood beside Phosphor.
+
+"Are you ready?"
+
+"No."
+
+"Good."
+
+"That is not a logical conclusion."
+
+"It is a party conclusion."
+
+He looked at her. She had a smear of gold resin on her cheek and a dark line beneath one eye from the projection contacts. Her hair was tied back, but the loose ends moved in the heat.
+
+"You are carrying the model question," he said.
+
+"Yes."
+
+"And the limits?"
+
+"Written inside my sleeve."
+
+"What if you lose them?"
+
+"Then I ask."
+
+Kasey climbed into The Cubicle. The passenger door opened.
+
+"That van is becoming bossy," Eris said.
+
+"It has watched us make decisions," Kasey replied. "It has opinions."
+
+The first rig rolled toward the hidden door. The rest followed.
+
+The lights in the abandoned shopping centre came on one row at a time.
+
+They made the decision at the edge of the empty fountain, where pale stones held the day's heat and a dead pump kept ticking without water. Nobody treated the return as an order. Kasey read the risks aloud. Phosphor read the custody terms. Eris read the route's hidden permissions. Meshie42 asked the other green-threaded bodies whether they still agreed to remain connected.
+
+The answer came in three small pulses at their wrists.
+
+"They agree," Meshie42 said. "They do not agree to being brave."
+
+"Good," Kasey replied. "Bravery is not a job requirement."
+
+The party prepared in the practical order of a dungeon crawl, though nobody called it that. Water first. Then masks. Then lights, cable, spare batteries, food that could be eaten without cooking, and a folded blanket for Patch. The kettle from Astral Dream Machine was clipped to Chapel Seven's rear rail. Eris packed the model question inside a Faraday pouch. Phosphor placed the sealed evidence envelope in the cake tin, then moved the cake tin to Kasey's custody.
+
+"Why me?" she asked.
+
+"You wrote the first policy."
+
+"That is a reason to keep it away from me."
+
+"It is a reason for the transfer to be witnessed."
+
+She accepted the tin. "You are learning to ask for help in a very complicated manner."
+
+"I am improving."
+
+"You are still making it sound like a software update."
+
+The first rig to move was The Cubicle. Kasey climbed into the driver's seat and adjusted the mirror with the heel of her hand. The vehicle's passenger door opened and shut.
+
+"It is nervous," GhostAgent said.
+
+"It is a van," Kasey replied.
+
+"The distinction is under review."
+
+Chapel Seven's roof panel aligned with the Perth battery yard. Blue Skystitch light travelled over the black surface. The printer inside began issuing labels for cables, water, and people who had requested not to be labelled. Eris walked beside the open rear doors of Red Flag, her copper-blonde hair tied back in a gold ribbon, one hand on the projection harness and the other on the brass property tag.
+
+At the edge of the service lane, the food-rescue team arrived with insulated boxes. Their payment terms were written on the lid of the first box: meals for labour, no debt for eating. A House Key volunteer brought a roll of clean towels. The Sydney relay sent a tunnel map and a note from the Newtown printer:
+
+TONER LOW / STILL TRYING.
+
+The Perth cooperative sent a battery reserve with a condition:
+
+RETURN THE CABLES OR EXPLAIN THE LOSS.
+
+Phosphor put each term in the public file.
+
+The people around the rigs watched him. They had learned that a promise could be made more dangerous by making it sound noble. A cost written plainly was not less generous. It was more likely to survive.
+
+Kasey opened The Cubicle's side hatch and made room for the return crew. To fit the water boxes, she folded the sleeping platform, moved the tool drawers beneath the desk, clipped the coffee kit to the roof rail, and shifted a stack of House Key towels into the cab. The van became narrower inside but more capable. A person sat on the folded bed with a battery between their knees. Another held Patch's blanket. A third kept one hand on the emergency stop.
+
+"This is not enough room," Eris said.
+
+"It is enough room if everybody stops pretending their elbows are private property," Kasey replied.
+
+The rigs rolled toward the deep-office door.
+
+The shopping centre's lights came on one row at a time. The hidden door reopened. Somewhere below the foundations, a cooling system began to breathe.

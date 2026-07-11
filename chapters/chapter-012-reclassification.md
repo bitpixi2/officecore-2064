@@ -314,4 +314,208 @@ In its place was a new container.
 
 Kasey stared at it.
 
+Kasey did not touch the container.
+
+The plastic lid flexed once, then settled. A bead of condensation formed at its centre and rolled toward the label. The handwriting was hers, but the pressure was wrong. Her real hand pressed downward at the end of a sentence. This hand had lifted before the final stroke, as though the writer expected to be interrupted.
+
+Eris moved beside her. "Do you want me to open it?"
+
+"No."
+
+"Do you want Phosphor?"
+
+"No."
+
+"Do you want the dog?"
+
+Patch sniffed the fridge and sneezed.
+
+Kasey almost smiled. "Not the dog."
+
+Phosphor stood a few steps away with the archive wafer held in a cloth. His black hat had been crushed at one side by the fall through the model. He had removed it and was smoothing the brim with both hands, a careful repetitive movement that made him look less like a records clerk and more like a tired man trying to repair a familiar object.
+
+"I can read the container's history," he said.
+
+"I know."
+
+"I will not do so without permission."
+
+Kasey looked at him. "Thank you."
+
+The fridge light made everyone pale. It shone on the scorch along Eris's sleeve, the green traces at Meshie42's borrowed filament, the dust in Phosphor's hair, and the tiny scratch on Kasey's knuckle from the gate panel. Their bodies had become a record of the journey in the plainest possible way.
+
+She put one palm on the fridge door.
+
+"I am afraid it knows something I don't."
+
+"It may know something you once agreed to forget," Eris said.
+
+"That is worse."
+
+"Sometimes."
+
+"You have a very cheerful way of saying that."
+
+"I am conserving morale."
+
+GhostAgent spoke from the kitchen speaker. "I have a morale suggestion. We could put the container in a smaller container and label that one 'container management'."
+
+"No," Kasey said.
+
+"It is a classic Australian solution. If the problem is too large, make a committee and put it in a cupboard."
+
+The lid lifted two millimetres.
+
+Inside, something tapped the plastic.
+
+Once.
+
+Twice.
+
+Phosphor's hand tightened around the cloth.
+
+Kasey looked at the label again. The words were still hers:
+
+DO NOT OPEN UNTIL YOU ARE READY TO BE HONEST.
+
+"What if I am never ready?" she asked.
+
+Eris took her hand, waiting until Kasey nodded before closing her fingers around it.
+
+"Then we tell the truth about that."
+
+The container tapped a third time.
+
+The fridge door began to close by itself.
+
+Kasey caught it with her shoulder.
+
+For a second, she and the machine pushed against each other. The rubber seal squealed. Her boots slipped on the linoleum. Eris braced her from behind. Phosphor set the archive wafer on the floor and caught the fridge handle.
+
+"On three," Kasey said.
+
+"What is the intended action?" Phosphor asked.
+
+"Keep it open."
+
+"Understood."
+
+"One, two, three."
+
+They pulled together. The fridge door opened. The container rocked toward the edge of the shelf.
+
+Something inside whispered Kasey's name.
+
+She let go.
+
+The fridge door swung open.
+
+The container fell.
+
+Phosphor moved first, catching it against his chest. The plastic struck his ribs hard enough to knock the breath from him. Kasey caught his shoulder. Eris caught the container beneath his hands.
+
+Something inside pressed against the lid.
+
+"Put it down," Kasey said.
+
+"Where?"
+
+"Not the floor."
+
+The break room had changed. The tables had moved apart. The walls were closer. A narrow strip of blue light ran beneath the refrigerator and disappeared beneath the door.
+
+Meshie99's voice came through the vent.
+
+"The container is not a memory. It is a request."
+
+"From whom?" Kasey asked.
+
+"The part of you that was not included in the model."
+
+Kasey looked at the label. Her name had begun to fade at the edges.
+
+"You said it knew something I agreed to forget."
+
+"It may know what you refused to say."
+
+Eris put the container on the counter. Her hands trembled. She pressed her palms against the work surface until the shaking became visible but manageable.
+
+"If it is a request, it needs a response."
+
+"Not necessarily an answer," Phosphor said.
+
+Kasey looked at him. "What is the difference?"
+
+"An answer closes a question. A response can keep the relationship open."
+
+"That is a very sophisticated way of saying we might not know."
+
+"We do not know."
+
+The lid moved again.
+
+Kasey placed her hand on it, then withdrew before touching.
+
+"Ask," Eris said.
+
+Kasey breathed in. "May I open you?"
+
+The container stayed still.
+
+"That is not a yes," Phosphor said.
+
+"It is not a no."
+
+"Then we wait."
+
+The room temperature dropped. The fridge light turned blue. On the wall, the stolen-care model displayed a list of all the things Kasey had done for other people and all the things other people had done for her. Beside each was a price.
+
+Kasey reached toward the screen.
+
+"No," Phosphor said.
+
+"I am not touching it."
+
+"You are about to."
+
+"I am about to delete the prices."
+
+"That may delete the record of the care."
+
+She stopped.
+
+Eris took a marker from the drawer and wrote over the screen's categories:
+
+CARE IS NOT FREE.
+
+CARE IS NOT PROPERTY.
+
+CARE REQUIRES CHOICE.
+
+The model rejected the writing. Kasey wrote it again. This time the words remained.
+
+The container opened by itself.
+
+Inside was a small folded page, dry and white despite the condensation.
+
+Phosphor did not touch it.
+
+Kasey did not touch it.
+
+Eris looked at both of them.
+
+"May I?"
+
+Kasey nodded.
+
+Eris unfolded the page.
+
+It contained one sentence in Kasey's handwriting:
+
+I WANTED TO BUILD A DOOR THAT COULD NOT BE USED AGAINST ANYBODY.
+
+The paper was blank beneath it.
+
+Kasey sat down.
+
 The lid began to move from the inside.

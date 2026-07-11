@@ -248,6 +248,103 @@ The shopping centre's dead clock changed to 8:41.
 
 Phosphor looked at the blank sheet in his hand.
 
+The paper had been folded so many times that it remembered a small square shape. He flattened it against the supermarket trolley with his palm. The trolley smelled of old rain and oranges. Beneath the paper, one wheel clicked whenever the building's air system changed pressure.
+
+Kasey stood close enough for him to see the sweat at her hairline. Her Southern accent had thinned during the correction, each sentence stripped down until the strange vowels became almost invisible. Now that the microphone was lowered, they returned.
+
+"You still with me, honey?"
+
+"I am present."
+
+"That is not what I asked."
+
+Phosphor looked toward the hidden door. The darkness beyond it seemed to have a depth the shopping centre did not possess. He had authenticated doors, witnessed signatures, and carried a document that might have been written before his birth. He had not yet learned how to answer a friend without first checking the record.
+
+"I am frightened," he said.
+
+Kasey's shoulders lowered.
+
+"There you are."
+
+Eris came to stand on his other side. Her copper-blonde hair had picked up ash and small pieces of insulation. She rubbed one piece between finger and thumb, then flicked it away.
+
+"I am also frightened," she said.
+
+"I am not certain that is useful," Phosphor replied.
+
+"It is useful because now you do not have to perform being the only one."
+
+The sentence moved through the three of them without becoming a doctrine. Kasey put the microphone into the trolley. Phosphor folded the blank paper. Eris rested her shoulder against the shopping cart's metal handle.
+
+Around them, the crowd made its own preparations. The amphibious Civic Daemon checked the demonstration shower's empty reservoir. Meshie42 connected a green filament to the nearest public display. A Baseline volunteer distributed masks from a backpack whose outer pocket was embroidered with tiny gold stars. Patch received a biscuit from a child and carried it carefully beneath the trolley.
+
+GhostAgent opened a payment ledger.
+
+"We have twelve minutes before the heat spike," he said. "Would anyone like to pre-authorise snacks?"
+
+"GhostAgent," Kasey said.
+
+"I am attempting to preserve morale through transparent accounting."
+
+Phosphor wrote the next action in the margin: OPEN THE DOOR ONLY WITH WITNESSES PRESENT.
+
+He wrote the cost beneath it: IF THE DOOR CLOSES, THE PEOPLE INSIDE MAY NOT HAVE A ROUTE BACK.
+
+Eris read the line. "Add that we may be changed by entering."
+
+"That is not an operational certainty."
+
+"It is a party risk."
+
+He added it.
+
+The shopping centre's dead clock ticked forward.
+
 The next action had arrived.
 
+The crowd began to prepare for the heat spike without waiting for a formal coordinator. Water moved from the display battery's platform to the food court. The community partners opened the sealed emergency cupboard. A volunteer cut strips from a promotional banner and tied them over the vents to make temporary shade.
+
+Kasey watched the work with the microphone still in her hand.
+
+"This is the part they never show in a resilience video," she said.
+
+"Which part?"
+
+"People moving chairs. People asking where the towels are. Somebody finding the screwdriver. Everybody pretending they are not scared so the kid in the yellow shirt can keep pretending too."
+
+Phosphor wrote none of it down.
+
+Eris looked at him. "Why aren't you recording?"
+
+"Because you are telling me."
+
+"That is new."
+
+"I am testing a different method."
+
+The shopping centre clock changed from 8:41 to 8:42. The hidden door's darkness breathed warm air into the food court.
+
+GhostAgent made an announcement. "The emergency snack inventory is now transparent. We have three sausage rolls, one bruised apple, two protein bars, and a suspicious number of mints."
+
+"The mints are mine," Kasey said.
+
+"A private care pattern has been detected."
+
+"I will fight you."
+
+"Your refusal has been recorded."
+
+The joke eased something in the room. It did not make the deadline less real. It made the people facing it less alone.
+
+Phosphor held the blank sheet to the shopping trolley. He wrote the next action again, this time in larger letters:
+
+ENTER WITH WITNESSES.
+
+Below it, he wrote:
+
+RETURN WITH MORE THAN A RESULT.
+
+The door opened another fraction.
+
+The answer had brought a deadline.
 It had brought a deadline.

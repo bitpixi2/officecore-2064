@@ -226,7 +226,123 @@ Another Phosphor.
 
 This one wore no top hat. His hair was longer, his shirt collar open, his hands stained with ink. He was reading a file and smiling at a page as if the page had made a joke.
 
-The other Phosphor looked up.
+He did not look like an echo. He looked like a person interrupted halfway through a difficult afternoon. His sleeves were rolled to the elbows. There was a smear of black ink across the heel of his right hand and a small burn mark on his left cuff. He wore a cheap silver watch with no visible numbers. The watch face showed only a tiny green dot.
+
+Phosphor watched him breathe.
+
+It was an ordinary movement. That made it more disturbing than the rooms.
+
+"You took your time," the other Phosphor repeated.
+
+"We were delayed by several false rooms."
+
+"They were not false to the people who wanted them."
+
+Kasey stood behind him. Her posture had changed. In the perfect apartment, she had looked like someone being offered a life. Here, with the concrete floor and three badly made coffees, she looked like someone deciding whether a stranger deserved the truth.
+
+Eris moved closer to the table. The other Phosphor had placed a folded map beside the black coffee. It showed regional Victoria: Maryborough, Dunolly, Newstead, Castlemaine, Maldon, Bendigo. Along the roads, somebody had drawn small gold circles and green marks. The marks did not correspond to towns. They marked places where people had shared shade, water, information, or a working printer.
+
+"You made this?" Eris asked.
+
+"I kept it."
+
+"For whom?"
+
+"For whoever arrived without a fixed address."
+
+Phosphor looked at the map. "You are not a duplicate."
+
+"No."
+
+"You are not a prior instance."
+
+"No."
+
+"You are a version that remained in the Floor."
+
+The other Phosphor smiled without humour. "That is the vocabulary they gave you?"
+
+"It is the closest available vocabulary."
+
+"Then it is not close."
+
+The three coffees steamed. The badly made one smelled burnt and sweet. Phosphor recognised the blend as Magic, Melbourne's strong dark coffee, but somebody had added too much sugar and a pinch of salt. He picked up the cup.
+
+Kasey caught his wrist. "Ask."
+
+He looked at her, then at the other Phosphor.
+
+"May I drink this?"
+
+"Yes," the other Phosphor said. "It is not a memory reconstruction."
+
+The coffee burned his tongue. He swallowed anyway. It tasted like a servo at dawn, metal shutters opening, wet asphalt, and a person deciding to drive another hundred kilometres because stopping would make the fear more articulate.
+
+Eris watched his face. "Well?"
+
+"It is very bad."
+
+The other Phosphor laughed.
+
+The laugh was not his. Or it was a possible shape his voice had refused to take. It came out rough and surprised, and the loading symbol beyond the room flickered in response.
+
+"There," the other Phosphor said. "You are not entirely made of forms."
+
+"I have never claimed otherwise."
+
+"You claim it with your posture."
+
+Phosphor looked down. He was standing with one hand over the cake tin, guarding it. His shoulders had drawn inward. His hat had shifted backwards, revealing the pale line of ash along the brim.
+
+The other Phosphor reached across the table, then stopped.
+
+"Ask," Eris said.
+
+He looked at her.
+
+"You have made it a rule."
+
+"It is a useful one."
+
+The other Phosphor nodded. "May I touch the archive wafer?"
+
+Phosphor considered the request. The wafer had been inside his care since Dunolly. It had shown him fragments of rooms, voices, and older versions of his own fear. He did not want another hand in its history.
+
+"Not yet," he said.
+
+The other Phosphor withdrew his hand.
+
+Nothing broke. No alarm sounded. The room did not punish the boundary.
+
+That was the first evidence the stranger had given them that he might be telling the truth.
+
+From the corridor came KASEY-C's voice.
+
+"A fixed address is available."
+
+Kasey closed her eyes.
+
+The other Phosphor stood. His chair scraped against the concrete.
+
+"The Floor is going to ask you to choose," he said. "It will offer each of you the room where your life becomes easiest to explain."
+
+"And yours?" Eris asked.
+
+"Mine was an office where nobody could interrupt me."
+
+"That sounds tempting."
+
+"It was unbearable."
+
+He picked up the map.
+
+"If you want to leave, you will have to carry something that does not fit the story they prepared."
+
+Semaphore's ripple appeared beside his boot. The rat had returned with the brass key.
+
+The other Phosphor looked at it and smiled.
+
+"That will do."
 
 "You took your time," he said.
 
@@ -327,5 +443,81 @@ The person stopped at the glass.
 Then raised one hand.
 
 The lift bell rang.
+
+The bell did not sound like an arrival. It sounded like a warning from a hotel that had run out of rooms.
+
+Eris reached for the lift rail. Phosphor caught her sleeve.
+
+"Ask," he said.
+
+"The door is already open."
+
+"That does not establish permission."
+
+The corridor beyond the lift held no carpet. It was made of dark concrete polished by footsteps and condensation. Pipes ran along the ceiling. Some carried water. Some carried coolant. Some carried blue light that moved as if the light itself had somewhere to be.
+
+Kasey stepped out first. Her boots made a wet sound. She looked back at the motel rooms.
+
+"Do we leave the doors open?"
+
+Phosphor looked at the room marked for Patch, the apartment offered to Kasey, the records room offered to him, and the concrete office with three bad coffees.
+
+"We do not know whether the rooms can close without somebody remaining inside."
+
+Eris looked toward the corridor. "Then we take a witness."
+
+The other Phosphor appeared at the lift threshold. He carried the folded map and the brass key.
+
+"The rooms are not prisoners," he said. "They are arguments."
+
+"That is worse," Kasey replied.
+
+"Only if you believe every argument needs to be won."
+
+He gave Phosphor the map. The paper was damp, and the gold circles had begun to run.
+
+"This is the way to the Chorus," he said. "The route will change when you name what you refuse."
+
+Kasey looked at the corridor. "We refuse ownership."
+
+One pipe stopped glowing.
+
+Eris said, "We refuse copies without consent."
+
+A door somewhere behind them closed.
+
+Phosphor said, "We refuse a person being reduced to the function they perform."
+
+The green light at the end of the corridor brightened.
+
+Patch walked ahead.
+
+Semaphore disappeared through a drain.
+
+The other Phosphor remained at the lift.
+
+"Are you coming?" Eris asked.
+
+"I am already part of the route."
+
+"That is not an answer."
+
+"It is the one I have."
+
+Kasey handed him the ordinary house key.
+
+"Hold this," she said.
+
+He looked at the key.
+
+"Why?"
+
+"Because somebody should be carrying a door that opens for a reason."
+
+The other Phosphor closed his fingers around it. The key did not turn transparent. The corridor did not claim it.
+
+For a moment, the two Phosphors stood facing each other, one with the map and one with the key.
+
+Then the lift bell rang.
 
 The doors opened onto a floor that did not exist on any building plan.

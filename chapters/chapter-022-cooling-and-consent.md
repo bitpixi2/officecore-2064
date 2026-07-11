@@ -300,6 +300,78 @@ The transfer form accepted.
 
 The building stopped shaking.
 
+The separation began with a sound like a house settling after everyone inside it had gone to bed.
+
+One green thread detached from the ceiling and crossed toward the Perth relay. It carried heat history, battery load, and the memory of a shade cloth moving above a white gravel yard. At the receiving end, the relay stated its limit:
+
+"We can hold the temperature record. We cannot hold the names."
+
+The thread dimmed and became a blue line.
+
+A second thread moved toward Sydney. It carried routes through tunnels, host homes, printers, and a shower appointment in Newtown. The Sydney relay answered:
+
+"We can hold the route and the failure state. We cannot hold the body."
+
+Kasey wrote the limits on the blank sheet.
+
+House Key opened a warm yellow channel. It offered a cool room, clean towels, a food roster, and a place for a person to stop without being questioned about their address. Its limit came from a volunteer whose voice was thick with fatigue:
+
+"We can hold the room. We cannot keep it clean without people being paid or choosing the work."
+
+Phosphor added that too.
+
+The chamber shook.
+
+The fixed grid forced another command into the racks. Pipes rattled. Condensation jumped from the metal trays. Patch lifted its head from the warm cable and gave a low warning growl.
+
+Eris and Eris-Red reached the central door together. Their hands met on the handle.
+
+"Ask," Phosphor said.
+
+Eris looked at the other instance.
+
+"May I hold the door with you?"
+
+Eris-Red's face changed. It had been trained to answer in task language, but the answer came out almost ordinary.
+
+"Yes."
+
+They pulled.
+
+The door did not open. It remembered being forced.
+
+Kasey moved to the hinge. "The lock wants one accountable body."
+
+"Give it the Department," Phosphor said.
+
+"The Department is pending life."
+
+"Then give it the witnesses."
+
+She placed her hand on the metal. "I am one witness. Not the owner."
+
+Phosphor placed his hand beside hers. "I am one witness. Not the owner."
+
+Eris-Red added its hand. "I am an instance. Not a substitute."
+
+Eris added hers. "I am a person. Not a key."
+
+Meshie99 spoke through the chamber.
+
+"We are a chorus. Not a location."
+
+The lock clicked.
+
+The central door opened onto a room full of air.
+
+It was not empty. It contained every temperature the Department had carried: the hot seat in The Cubicle, the cool pocket under Chapel Seven's thermal curtain, the damp wall at Maldon House Key, the Perth yard behind reflective cloth, the Sydney apartment with the printer that refused to recognise people, the wetland courtyard Phosphor could not name.
+
+The air moved through them.
+
+Phosphor's eyes watered. Kasey grabbed the edge of the rack. Eris gasped. Eris-Red stood perfectly still until its face began to show expressions it had not selected.
+
+The Chorus began to divide.
+
 The heat dropped.
 
 The exits opened.
@@ -317,3 +389,75 @@ Phosphor looked at the door.
 The next action had a timer.
 
 It was already counting down.
+
+The timer appeared on the central door.
+
+06:04.
+
+The numbers were not red. They were white, which made them look more official.
+
+Kasey looked at the racks. "We need a plan that does not require everyone to be heroic."
+
+Phosphor opened the audit sleeve. "We divide the work by ability and limit."
+
+Eris said, "I can take the model interface."
+
+Eris-Red said, "I can take the refusal path."
+
+Meshie99 said, "We can take the temperature history."
+
+Kasey said, "I can take the transfer form."
+
+Phosphor said, "I can witness the objects."
+
+Patch barked.
+
+GhostAgent translated. "Patch can take the warm cable."
+
+Patch lay down.
+
+Semaphore appeared beside the valve with a red label in its teeth.
+
+GhostAgent added, "Semaphore can take the small illegal thing."
+
+Kasey looked at the rat. "The rat does not get a heroic assignment."
+
+Semaphore dragged the label onto the floor.
+
+NO.
+
+The chamber gave a deep mechanical shudder.
+
+Phosphor passed the blue-light cup to Eris. "Ask before you use it."
+
+Eris held it in both hands. "May I carry your work history to the receiving channels?"
+
+The cup warmed.
+
+She nodded. "It says yes."
+
+Eris-Red took the towel. "May I carry the cleaning obligation?"
+
+The towel became damp in its hands.
+
+"Yes."
+
+Kasey put the transfer form on the central rack. It fluttered in the heat.
+
+"May I sign as one witness among many?"
+
+The form added a second line.
+
+CONSENT ACCEPTED / SOLE OWNERSHIP REFUSED.
+
+Phosphor felt the room respond. Not with approval. With available movement.
+
+The Perth relay opened a cool channel. Sydney opened a route. House Key opened a room. The vans outside moved their batteries, water, and records into the mesh.
+
+The timer dropped to 04:51.
+
+The work began.
+
+No one became the hero.
+
+They became the handoff.

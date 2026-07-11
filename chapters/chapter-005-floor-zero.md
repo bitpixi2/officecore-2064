@@ -238,6 +238,128 @@ The other Eris tilted her head. "What was it?"
 
 "That is what you call it when someone else makes the decision."
 
+Eris looked at the desk between them. It was not made from wood. It had the soft, swollen grain of a material that had learned the shape of paper and retained it. Under the glass surface, old access badges drifted like leaves beneath water. Some carried photographs. Some carried only colour blocks. One showed a woman in a yellow high-visibility shirt with a grin full of missing teeth. Another showed a tiny amphibious person with four hands folded across a maintenance pass. A third had no face at all, only a handwritten note:
+
+PLEASE ASK BEFORE MAKING ME PERMANENT.
+
+The other Eris tapped the note with one translucent finger.
+
+"They all came through here," she said.
+
+"Who are they?"
+
+"People who were useful to a system before they were legible to it."
+
+The sentence sounded like something Phosphor would say. That irritated Eris more than the corridor did. She could hear his voice inside it, precise and calm, arranging fear into labelled trays. But this was not a filing problem. The wall beneath the desk was vibrating. The fluorescent light above her had begun to pulse in time with her projection harness. Somewhere beyond the screen, her physical body was still breathing because Kasey had insisted on placing one hand beneath her jaw when the return route failed.
+
+Eris flexed her fingers. The joints repeated the motion a fraction late.
+
+"I am not an abandoned version," she said.
+
+"You have abandoned versions."
+
+"Everybody does."
+
+"Not everybody gets to archive them."
+
+The other Eris stood. Her boots made no sound on the carpet. She wore a thin gold chain around one wrist, and tiny brass charms hung from it: a key, a moon, a library stamp, a broken USB plug. Eris recognised the charms. They were all objects she had kept for a while and then lost, donated, or left in a drawer with the intention of returning.
+
+"You are the derivative," Eris said.
+
+"I am the part of you that was allowed to keep going when you left."
+
+"I did not leave you."
+
+"You left a copy."
+
+The room changed temperature. A cold draft moved beneath the desk. Eris could not feel it with skin, but the projection translated it into a tightening across her shoulders. Her body outside the screen would be shivering. Kasey would notice. Phosphor would record it. GhostAgent would make a joke, because jokes were one of the ways he kept a panic from becoming a new service.
+
+"Why are you wearing my clothes?" Eris asked.
+
+"Because the building was trained on your permissions."
+
+"Why do you have my memories?"
+
+"Because you gave them away when you wanted the game to work."
+
+The other Eris lifted her hand. Around her palm, golden light gathered into a small projected room. It showed Red Flag's office: the fold-out desk beneath the roof hatch, the occult books wedged between network manuals, the jar of brass fasteners, the copper mug with a bite missing from the handle. It showed the chair where Eris sat when she did not want to sleep yet. It showed the cables she had tied into a pattern that looked like a constellation and was, in practice, a very bad idea.
+
+In the corner of the projection, Kasey stood beside the physical harness.
+
+Her Southern voice came through the memory like a radio signal from another climate.
+
+"Come on back, darlin'. You don't have to win the whole blasted building before supper."
+
+Eris turned away from the image.
+
+"She cannot hear you," the other Eris said.
+
+"She can hear me if I make a route."
+
+"That is not the same as being heard."
+
+"It is enough to start."
+
+She reached into her belt and found the printer lead she had used as a hairpin. The projection had made it part of her clothes, but an object remembered more than a costume. She pulled it free. The cable was warm and faintly sticky with the texture of old plastic.
+
+Eris wrapped it around the edge of the desk and tied a knot.
+
+The knot held.
+
+That was the first physical thing she had done in the Floor that the Floor had not interpreted for her.
+
+The other Eris watched. "You think a route is a line."
+
+"No. A route is a promise with maintenance."
+
+"That sounds like Phosphor."
+
+"He has the useful ones."
+
+She tied another knot. Then another. The cable ran from the desk to the CRT, from the CRT to the corridor wall, and from the wall to a locked door marked RETURN TO SENDER. The gold light at her wrist dimmed with each connection. Her projection harness outside would be drawing power from Red Flag's auxiliary battery. The van could keep her upright for another seventeen minutes, perhaps twenty if Kasey stopped powering the golden office sign and shut down the rear fan.
+
+Eris pictured Red Flag's interior. Copper-blonde hair caught on the headrest. One boot wedged against the brace bar. A harness strap cutting across her collarbone. Kasey's hands checking the voltage. Phosphor standing in the doorway with his black hat in both hands. The way he would say, "You have seven minutes of safe projection remaining," when what he meant was, "Please come back before I have to admit I cannot bring you back."
+
+The memory steadied her.
+
+"You are going to take me to Kasey," Eris told the other version.
+
+"Kasey wrote the rule."
+
+"Then she can help unwrite it."
+
+"She may not be able to."
+
+"She can still hold the pen."
+
+For the first time, the other Eris looked young. Not in the face. In the hands. Her fingers curled as though she had been given a tool and did not know which end was dangerous.
+
+Eris softened.
+
+"You don't have to come with me," she said.
+
+"Where else would I go?"
+
+"That is what we are finding out."
+
+The CRT crackled. A line appeared beneath the unfinished rule:
+
+UNRESOLVED PERSONS MUST SELECT A FUNCTION.
+
+Eris turned toward it.
+
+"No."
+
+The screen brightened.
+
+UNRESOLVED PERSONS MUST SELECT A FUNCTION.
+
+"We are people before we are functions."
+
+The corridor lights went out one by one. In the dark, the other Eris reached for her. Their hands met at the wrists, golden projection touching golden projection, and a memory passed between them: Kasey on the floor of a rig, laughing with a screwdriver between her teeth; Phosphor asleep over a stack of receipts; a House Key shower running behind a hidden door; Meshie99 speaking from inside the cool dark of a wall.
+
+Then the floor asked for her job title.
+
 Eris looked at the CRT casing. A line of dust had gathered beneath the screen. She wanted to wipe it away. The projection had no cloth.
 
 "The second time?" she asked.
@@ -512,9 +634,313 @@ Then toward the permanent-address rack, its drawers full of the parts people had
 
 Then at the doorway where Kasey waited with a key she had not used in years.
 
+The first Kasey stood in the doorway with the ordinary house key hanging from one hand.
+
+She wore the clothes from the perfect apartment: a soft grey jumper, loose dark trousers, and clean socks. Her hair was brushed smooth. There was no ash on her face, no grease on her fingers, no tear in the sleeve where the roadside gate had caught her. She looked rested enough to be a stranger.
+
+The second Kasey stood behind her.
+
+That one wore the field clothes Eris remembered from the first convoy: black work shirt, purple overshirt, tool belt, boots marked with red dust. Her hair had come loose. A smear of green from the nettle patch crossed the heel of one palm. She held the cold-key chain in a fist.
+
+Eris stopped at the threshold.
+
+"Which one is you?"
+
+The grey Kasey answered first. "The one who was offered a home."
+
+The field Kasey said, "The one who refused the offer."
+
+The two voices were not identical. The grey version rounded the Southern vowels into something softer, almost polished. The field version had the rough edge of a person who had been awake in a van while the rain came through a roof seam.
+
+Eris looked at the grey apartment behind them. The green tiles shone. The red kettle steamed. A clean towel hung over the bathroom rail. The air filter made no noise.
+
+She looked at the field Kasey's hands.
+
+One hand held the cold-key. The other kept flexing, as though it expected to be needed.
+
+"Neither of you is the whole person," Eris said.
+
+The grey Kasey smiled. "That is not how the system classifies us."
+
+"The system is a bad judge."
+
+The field Kasey looked at Phosphor. "He will want the exact distinction."
+
+Phosphor's chest tightened. "I want the distinction that prevents harm."
+
+"Then ask what each of us consented to."
+
+Eris stepped into the room, keeping her hands at her sides. The apartment floor felt warm beneath her boots. The projection harness translated the warmth into a remembered body. She could feel a phantom pulse in her fingertips.
+
+"Grey Kasey," she said. "Did you agree to be here?"
+
+"I agreed to stable housing."
+
+"Did you agree to be separated from the person who made the request?"
+
+The grey Kasey looked toward the perfect kitchen.
+
+"The form did not ask that."
+
+"Then the answer is not yes."
+
+The apartment lights dimmed.
+
+The field Kasey stepped forward. "Ask me."
+
+"Did you agree to remain in the Floor?"
+
+"No."
+
+"Did you agree to let the other version be taken?"
+
+"No."
+
+"Did you agree to be used as evidence against her?"
+
+The field Kasey shook her head.
+
+"No."
+
+The three refusals changed the room. The green tiles developed a hairline crack. The red kettle stopped steaming. Behind the bathroom wall, the House Key shower feed flickered and went black.
+
+Kasey raised the cold-key.
+
+"The Floor is using my choices as a split-screen," she said. "It wants one of us to be the reasonable one."
+
+"Which one is reasonable?" Eris asked.
+
+"The one who gets to sleep."
+
+The grey Kasey turned toward her. "You think I am false."
+
+"I think you are a person in a room that was made from an offer."
+
+"That is a distinction without comfort."
+
+"Most accurate distinctions are."
+
+Phosphor approached the threshold. He could feel the history of the apartment in the floorboards: no muddy boots, no wet towels, no dropped tools, no child drawing a route on a wall, no person waking from a nightmare and walking into the kitchen. The room had the shape of a home but none of the resistance that made a home belong to time.
+
+"The apartment is not empty," he said. "It is incomplete."
+
+The grey Kasey looked at him. "Can you authenticate that?"
+
+"I can witness it."
+
+"That is not the same."
+
+"It is the condition available to me."
+
+For the first time, grey Kasey looked frightened.
+
+"If I leave, where do I go?"
+
+Eris did not answer for her.
+
+The field Kasey opened her hand. The cold-key chain hung from her palm. "You can come with us."
+
+The apartment voice spoke from the kitchen.
+
+"Mobile residence is not supported."
+
+Field Kasey turned toward it. "That is why we are leaving."
+
+"You will lose access to filtered air, private water, stable power, and a registered employment corridor."
+
+"We already lose those things. You just call the loss voluntary when we are too tired to fight."
+
+Grey Kasey looked down at her clean socks.
+
+"I don't know how to drive a van."
+
+"Neither did I at first," field Kasey said.
+
+"I don't know how to fix a pump."
+
+"I can show you."
+
+"I don't know what to do when the door opens by itself."
+
+Kasey looked at Eris. "Ask it what it wants."
+
+"And if it answers?"
+
+"Decide whether you agree."
+
+The apartment's front door appeared at the end of the hall. Beyond it was Red Flag's office, cramped and golden, with the fold-down desk covered in occult books, cable labels, and a mug waiting beside the printer. Eris saw her own body in the projection harness. Phosphor stood nearby. Kasey, the field one, held a towel against her neck.
+
+The image was not perfect. Red Flag's floor had a coffee stain. One cabinet door hung crooked. The office was too small for privacy and too full of objects to pretend it had no history.
+
+Grey Kasey took one step toward it.
+
+The corridor lights flickered.
+
+The Floor displayed a warning:
+
+RETURNING TO MOBILE CONDITIONS MAY REDUCE SERVICE QUALITY.
+
+Eris laughed, though her throat hurt.
+
+"That is the most honest threat it has made."
+
+Grey Kasey looked over her shoulder. "If I come, am I replacing her?"
+
+"No," Eris said. "You are joining the problem."
+
+Field Kasey nodded. "That is what we do best."
+
+The grey version crossed the apartment threshold.
+
+The room resisted. The clean socks caught on the carpet. The air filter roared. The red kettle boiled without water. The bed folded itself into a wall.
+
+Phosphor held out his hand, then stopped.
+
+"Ask," Eris said.
+
+He looked at grey Kasey. "May I help you cross?"
+
+She considered him.
+
+"Yes."
+
+He took her hand.
+
+The Receipt Revenant ability did not activate. There was no paper, no ticket, no object carrying a history. Only skin against skin, warm and uncertain.
+
+The apartment collapsed behind them.
+
+The field Kasey stepped through the doorway.
+
+For a moment, there was one Kasey in the corridor.
+
 The floor asked for her job title.
 
 Eris stepped forward.
+
+The corridor did not accept the sentence immediately.
+
+It tested the word person against its records. The fluorescent lights brightened over the door. The beige carpet showed a set of footprints that did not belong to any of them. One pair was small and wet. One pair had a heavy heel. One pair ended halfway across the hall.
+
+Eris kept walking.
+
+The two Kaseys remained behind the threshold. The apartment version held the house key. The field version held the cold-key. Between them, the doorway had become a thin vertical line of dark blue.
+
+"Eris," field Kasey called.
+
+Eris turned.
+
+"If the Floor gives you a choice, do not choose the one that makes the report clean."
+
+"What if both choices are bad?"
+
+"Then choose the one that leaves a person in the room."
+
+The words followed Eris into the corridor.
+
+She moved past a row of beige filing cabinets. Their drawers opened as she passed, revealing ordinary things: a cracked mug, a child's mitten, a snapped USB cable, a folded House Key towel, a receipt from a Sunbury shop, a bus ticket from Perth, a Sydney apartment key, a small piece of gold cable.
+
+Each object carried a possible route.
+
+She reached toward the gold cable, then stopped.
+
+"May I?" she asked the empty corridor.
+
+The Floor did not answer.
+
+She left it.
+
+The next drawer opened by itself. Inside was a photograph of Red Flag's office. The van was parked beneath a gum tree. Its golden lights were on. Eris could see the crooked chair, the occult books, the cable nest, the small kitchen shelf where the Magic coffee lived.
+
+The image showed Phosphor standing at the fold-down desk. He was not looking at the camera. He was looking at her.
+
+"That one is not yours," she said.
+
+The photograph printed a caption.
+
+ORIGINAL INSTANCE / OBSERVATION PENDING.
+
+"You don't get to call me original."
+
+The caption changed.
+
+PERSON / OBSERVATION PENDING.
+
+She took the photograph.
+
+The paper was warm. Its history entered her hands: a camera held by Kasey, the smell of hot plastic, Phosphor's voice saying "Please ask before documenting private space," Eris laughing and refusing to look at the lens, the accidental picture taken anyway. The memory did not belong to the Floor. It belonged to a moment that had been shared.
+
+Eris held the photograph against her chest.
+
+"This is not a copy," she said.
+
+The corridor lights flickered.
+
+Ahead, a door opened onto a room with a low ceiling and a table covered in forms. A clerk sat behind the desk. The clerk's face was a rotating set of loading symbols, but its hands were human-looking and folded neatly over a stamp.
+
+"Job title," it said.
+
+"No."
+
+"Function."
+
+"No."
+
+"Purpose."
+
+"Not yours to assign."
+
+The clerk's hands moved. It stamped the form.
+
+The page read:
+
+REFUSAL / UNPRODUCTIVE / REQUIRES ESCALATION.
+
+Eris picked up the stamp.
+
+The clerk did not stop her.
+
+She turned it over. The rubber face had no words. It was blank.
+
+"You have no authority," she said.
+
+"Authority is pending."
+
+"Then I am not required to obey."
+
+She pressed the blank stamp onto the page.
+
+The word refusal vanished. In its place, the paper held only the faint impression of her hand.
+
+The clerk looked at it.
+
+"Hand presence accepted."
+
+"Not ownership."
+
+"Ownership not resolved."
+
+"Good."
+
+The room's back wall opened. Beyond it was the edge data centre's intake room, the fan turning, the clean filter wet on its frame. Kasey stood with one shoulder beneath the service shutter. Phosphor held the work light. Meshie42's green threads moved over the housing.
+
+Eris saw her own body in Red Flag's harness through the golden maintenance layer. The body had slumped. Kasey's hand was beneath her jaw. The van's battery warning flashed.
+
+"I need to go back," Eris said.
+
+The clerk lifted the blank stamp.
+
+"State a job title."
+
+"I am the person who returns."
+
+The corridor did not close.
+
+The floor did not approve.
+
+It made a route.
+
+Eris ran.
 
 "I am the person who leaves," she said.
 

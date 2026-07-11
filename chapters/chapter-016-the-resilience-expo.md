@@ -228,6 +228,138 @@ Behind the stage, a door appeared where the corporate backdrop had been.
 
 Its sign read:
 
+DEEP OFFICE / STAFF ONLY
+
+The word STAFF pulsed in a colour that was neither red nor gold. It was the colour of a warning designed by someone who wanted the warning to be ignored until it was too late.
+
+Kasey came off the stage. The microphone cable dragged behind her. Phosphor caught it before it snagged on the model shower's empty drain.
+
+"You all right?" he asked.
+
+"Nope."
+
+Her answer had the soft Southern shape of home, though home had become a word she treated like a dangerous animal. She wiped the microphone dust from her palm onto the side of her trousers.
+
+"Did I sound too angry?"
+
+"You sounded audible."
+
+"That is the bureaucratic version of reassurance."
+
+"It is the version I can substantiate."
+
+Eris's golden projection stepped out of the wall beside them. Her copper-blonde hair caught the mall's dead light and made it look warmer than it was. She wore the gold-threaded jacket, one sleeve scorched at the cuff, and held the model shard in a closed fist.
+
+"The door is below the stage," she said.
+
+"Everything is below the stage," Kasey replied. "That is how events work."
+
+The shopping centre crowd had not dispersed. The community partners stood in a loose group around the display battery. One of them, a broad-shouldered Baseline woman in a blue rain shell, had taken the display's warning placard and turned it face-down. Another, a small amphibious Civic Daemon with a transparent umbrella, had moved closer to the empty shower.
+
+Meshie42 crouched beside the battery. Green filaments moved across their wrist as they read the fan's new temperature.
+
+"The battery is stable," they said. "The building is not."
+
+Patch put its nose to the deep-office door.
+
+The dog whined.
+
+Phosphor knelt and pressed his fingers to the tile. Beneath it he felt a second floor: carpet, concrete, cable trays, and a vast pressure like a room holding its breath. He also felt a newer history. Hundreds of visitors had walked across this spot while looking at the stage. None had known the door was below them.
+
+"The door has been here during every expo," he said.
+
+"Then why open now?" Kasey asked.
+
+Eris looked at the model shard. "Because someone said none of the above."
+
+The statement made the door's lock click.
+
+The crowd heard it. People stopped talking. A child in a yellow shirt took their parent's hand. The vegan catering trolley began to roll slowly toward the door.
+
+GhostAgent said, "I would like to record that the catering has once again become a participant."
+
+The door opened three centimetres.
+
+Hot air rose through the gap, carrying the smell of warm dust, old carpet, and the metallic tang of overloaded cooling equipment.
+
+Celia stood at the edge of the stage. Her gold lapel pin had gone dull.
+
+"Nobody enters," she said.
+
+Kasey looked at the people around the battery, the empty shower, the dog, the rat, and the screens still showing an apartment with no laundry.
+
+"You can stay up here," she said. "We are going down."
+
+She put her hand on the door.
+
+Phosphor watched her wait.
+
+"Ask," he said.
+
+Kasey exhaled through her nose. "May we?"
+
+The deep office answered by opening another centimetre.
+
+The crowd moved closer, but not all the way. Some people stayed beside the display battery. Some held the empty shower's hose. The community partners had understood the difference between witnessing and entering.
+
+Celia's voice rose above the mall's fans. "You cannot open a restricted access point during a public event."
+
+"It is already open," Kasey said.
+
+"That does not make it available."
+
+"Then state the conditions."
+
+Celia looked toward the door. Her composure had begun to crack at the edges. She touched the gold lapel pin, found it hot, and removed it.
+
+"No private devices. No unrecorded copying. No changes to the cooling control without a handoff."
+
+Eris looked at Phosphor.
+
+"Those are reasonable conditions."
+
+"They are," he said.
+
+Kasey nodded. "We accept, provided the door does not classify the people entering as company property."
+
+Celia hesitated.
+
+"State it," Kasey said.
+
+"I cannot guarantee what the system will do."
+
+"Then record that the company cannot guarantee it."
+
+Phosphor opened the public file. His hand moved over the keyboard. The record included the conditions, the witnesses, the remaining battery, the empty shower, Patch's green temperature tag, and the fact that the vegan catering trolley had independently approached the door.
+
+GhostAgent said, "The catering requests equal witness status."
+
+"Granted," Kasey said.
+
+The trolley wheel clicked.
+
+Phosphor looked at the deep-office gap. Hot air rose from below. It carried the smell of dust, copper, and a room that had been waiting for somebody to ask a better question.
+
+Eris put one foot over the threshold, then paused.
+
+"May I?"
+
+Kasey answered first. "Yes."
+
+Phosphor answered next. "Yes."
+
+Meshie42's green threads brightened beside the battery.
+
+"The Chorus agrees to receive a witness."
+
+Patch walked through.
+
+The catering trolley followed.
+
+Kasey took the microphone and went down last.
+
+The door opened wider.
+
 `CUSTOMER CARE / ESCALATION ROUTE`
 
 The door opened onto darkness.

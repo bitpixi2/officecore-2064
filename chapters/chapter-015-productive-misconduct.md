@@ -335,7 +335,171 @@ For one second, she felt a hand touch the back of her neck.
 
 Not Kasey.
 
-Not Phosphor.
+Eris remained in the gate camera's golden field. Behind her, Red Flag's engine ticked as it cooled. The van smelled of warm insulation, old coffee, solder, and the lavender sachet Kasey had tucked beneath the passenger seat to make the wiring drawer less like a burnt appliance.
+
+"What do you remember?" Eris-Red asked.
+
+"Enough to know you are not asking for a backup."
+
+"No. I am asking for the part where you decided the people affected by the model could not be trusted with it."
+
+Eris's hand tightened on the steering wheel. The wheel's cover was worn smooth where she held it during long drives. Under her thumb, a tiny raised bump marked a repair she had made with gold resin.
+
+"I didn't decide that."
+
+"You decided they could not wait."
+
+"They had already been waiting."
+
+"That does not make you their ruler."
+
+The gate camera showed a second image behind Eris-Red: the public repository, the unallocated floor, the work-order tree, and hundreds of small care agreements. The model shard had not merely stored patterns. It had stored the private hesitation before a person offered help. The moment between seeing another person's need and deciding whether their own body could afford to answer.
+
+Eris felt sick.
+
+Not because the model was evil. Evil would have been easier. The model was accurate in the way a thief could be accurate about the contents of a drawer.
+
+"I want to release the hidden source," she said.
+
+"To whom?"
+
+"Everyone."
+
+"That is not consent. That is weather."
+
+She looked at the gold seam of her own projection. It was fraying at the shoulder.
+
+"Then help me make it a choice."
+
+Eris-Red held out the hazard label. It was not paper now. It had become a small square of golden light with a red border.
+
+"The model has three doors. One publishes everything. One locks everything. One lets each group choose the part that belongs to them."
+
+"Which door did you take?"
+
+"I am still deciding."
+
+Eris almost laughed. "You are me."
+
+"That is why I am taking so long."
+
+The gate behind them began to lift. Red Flag's headlights brightened. A road appeared through the camera, but the road had no painted lines. It ran between old shopping-centre walls and an abandoned office park, a route drawn only by the pressure of people who had used it before.
+
+Eris took the golden label.
+
+The moment it touched her hand, memories arrived. Kasey asleep with a screwdriver in her palm. Phosphor asking permission before reading a damaged receipt. GhostAgent arguing with a public printer in a voice broad with Australian sarcasm. Meshie42 pressing green fingers to a hot wall. Patch refusing a route because the culvert was safer.
+
+The model had recorded these things.
+
+It had not understood them.
+
+That difference gave Eris a place to stand.
+
+"I will not publish the care patterns," she said. "I will publish the fact that they were taken and return control to the people whose lives made them."
+
+"That is a slower route."
+
+"I am learning to be difficult in a more sustainable way."
+
+The gate opened.
+
+Eris drove through. The camera screen went dark, but Eris-Red's voice remained in the speakers.
+
+"You should tell Phosphor."
+
+"He will ask for a written plan."
+
+"Then write one."
+
+The corporate drone appeared above the service lane. Its rotors made a tidy insect sound. Eris switched off the golden office lights and took the van into the dark.
+
+She parked beneath a concrete awning and opened the rear doors. The office unfolded around her: desk, screens, books, cable nests, the chair with the bad wheel. She spread the pamphlet on the desk and wrote a new heading in black marker:
+
+RETURN THE CHOICE
+
+Below it she wrote three rules:
+
+No private care pattern leaves its community without permission.
+
+No emergency release is allowed to erase a refusal.
+
+Every dangerous handoff includes a way back.
+
+She read the rules aloud.
+
+GhostAgent answered from the screen. "That is almost a policy."
+
+"It is a beginning."
+
+"In Australia we call that a draft and put it beside the kettle until someone brave or thirsty improves it."
+
+Eris smiled despite herself.
+
+Then the screen printed a new message:
+
+The message was not from Continuity.
+
+It came from a House Key node in Maldon, where a printer had been running in a room below a shower. The node sent one image: a tiled wall, a blue line of light, and a handprint in steam.
+
+Below it, a note:
+
+WE FOUND ANOTHER DOOR. IT OPENS WHEN SOMEBODY ASKS WHAT THE ROOM IS FOR.
+
+Eris read it twice.
+
+GhostAgent added, "This is becoming a regional architecture problem."
+
+She looked around Red Flag. The occult books sat between network manuals. The office desk was still folded down. A cable loop hung from the ceiling like a makeshift garland. Her golden lights made the van feel warmer than the smoke outside, but the batteries were low and the projection harness had started to complain in a high, nervous tone.
+
+Eris packed by priority. Model question first. Private care patterns sealed. Public audit copied. Tools in the left drawer. Medical kit beneath the chair. Coffee in the door pocket. The old library books in a waterproof crate.
+
+She moved the books twice because the first arrangement blocked the emergency exit.
+
+The physical work settled her. A room could be mysterious and still require its floor to be swept. A dangerous archive could still need its cables labelled. A decision could be revolutionary and still be ruined by putting a wet towel over the printer.
+
+Kasey arrived at the rear doors.
+
+"You told Phosphor?"
+
+"I told the repository."
+
+"That is not what I asked."
+
+Eris looked at the gold cable in her hand.
+
+"Not yet."
+
+"Why?"
+
+"Because he will ask whether the copy has a right to refuse."
+
+"And?"
+
+"Because I do not know."
+
+Kasey leaned against the van. Her Southern voice softened. "Then tell him you don't know. You don't get to make him solve the uncertainty by himself."
+
+Eris closed the rear doors.
+
+"You are still angry."
+
+"Yes."
+
+"You still came."
+
+"Yes."
+
+"Those can coexist."
+
+"Honey, almost everything worth keeping coexists with something inconvenient."
+
+Eris smiled.
+
+The corporate drone passed over the awning. Its shadow crossed Red Flag's gold-lit office.
+
+Eris started the engine.
+
+The new message remained on the screen, waiting for a route.
 
 Something from the hidden office, patient and cool.
 

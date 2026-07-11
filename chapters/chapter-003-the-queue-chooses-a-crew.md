@@ -184,6 +184,148 @@ By the time the first water crate was empty, the roster had become a small crowd
 
 Nobody was volunteering for Barkers Creek exactly. They were giving the crew pieces of the right to go.
 
+The pieces arrived with bodies attached.
+
+The woman with the wedding dress brought a box of tools from the grey camper. She wore a green mechanic's shirt with pearl buttons, steel-capped boots, and a silk scarf knotted around her throat to keep ash from settling in her mouth. Her hands were broad and nicked at the knuckles. When she opened the box, every tool lay in its own cut-out of black foam: crimpers, a voltage pen, a folding spanner, a fibre cleaver, and a little red-handled knife she said was for cable sheathing and absolutely not for dramatic gestures.
+
+The water runner had a blue scarf tied around their hair and a pair of rubber boots too large for their feet. They had a limp that became more pronounced when they tried to hurry and a calm, deliberate way of lifting crates that made everyone else ashamed of how noisily they moved. They refused a job title beyond supply transfer. When Kasey offered them a place in the crew, they said, "I can carry water. Do not turn it into a personality."
+
+The road-truther had a folding compass, a radio scanner, and a scar along his jaw from a motorbike accident that had ended his first career and started his second. He remembered the shape of roads by their drainage: where water pooled, where gravel moved, where a road crew had filled a pothole with pale stone that would turn slick under ash. He could not remember birthdays. He remembered culverts.
+
+The council communications officer had taken off her shoes because the gravel had worked through the soles. Her socks were patterned with tiny green frogs. She stood at the fold-out desk in those socks, one hand on a marker, the other holding down a paper route map against the wind. Every time somebody asked her a question, she wrote the question in the margin before answering it. Phosphor suspected she had learned that habit from years of meetings where the question people remembered was not the one they had asked.
+
+The girl in the oversized raincoat kept the water-bottle label on her sleeve. She carried a dead torch, a plastic compass missing its needle, and a little stuffed animal with one eye stitched shut. She did not speak often. When she did, she looked at the person rather than the machine in front of them.
+
+Meshie42 stood at the edge of the group with their damp rain cape open over a dark shirt. Their body was difficult to look at for too long. Green threads moved under the skin of their wrists and throat. The threads reacted to changes in the air, opening like fern fronds when smoke thinned and closing when the wind carried something sharp. They kept one palm on the side of Chapel Seven and the other on the ground. Sometimes they answered questions before anyone asked them.
+
+"The fire has crossed the western ridge," Meshie42 said.
+
+The officer looked up. "We have not received that update."
+
+"The update is in the air."
+
+Phosphor wanted to say that air did not file reports. Then he remembered the first day he had awakened in an archive room with ash in his lungs and a receipt stuck to his sleeve. He had been made to distrust any knowledge that did not arrive in a recognised format. He was trying to stop.
+
+Eris sat on the lip of Red Flag's open office with her boots planted on the gravel. Her copper-blonde hair had come loose from the printer cable. It fell over one shoulder in a bright, tangled sheet. She wore a black utility vest over a gold-threaded shirt, and the projection harness was visible beneath the fabric as a set of thin contacts along her ribs. Every so often, one contact lit and she flinched.
+
+Phosphor noticed.
+
+"Does it hurt?" he asked.
+
+"That depends on whether you mean the projection or the question."
+
+"The projection."
+
+"Yes."
+
+"How much?"
+
+Eris looked at him. "Enough that I prefer not to discuss it in front of a crowd."
+
+He nodded. "Understood."
+
+She seemed disappointed that he did not ask again.
+
+The crowd had begun to make the convoy's needs visible on the floor. A packet of medication appeared beside the red file. Someone placed a small oxygen concentrator under the desk with a label showing its battery requirement. A dog in a yellow cooling vest lay on the shadow side of a camper, its paws wrapped in wet cloth. A woman in a sequinned jacket carried a box of baby formula. A man with a shaved head held a printer against his chest and kept whispering, "Not now, not now," whenever the machine clicked.
+
+Kasey made columns.
+
+NEED TO MOVE
+
+CAN MOVE
+
+CAN CARRY
+
+CAN COOL
+
+CAN READ
+
+CAN FIX
+
+CAN WITNESS
+
+The columns looked like a Dungeons and Dragons character sheet designed by a tired council officer. People filled them without being invited. The mechanic put herself under CAN FIX. Meshie42 under CAN COOL and CAN READ. The road-truther under CAN READ. The girl in the raincoat under CAN WITNESS, though Kasey did not write her there until she asked.
+
+"I can do time," the girl said.
+
+"Time is not a column."
+
+"It should be."
+
+Kasey considered that, then wrote TIME beside her mark.
+
+Phosphor touched the edge of the page. The paper had a history already. It had been torn from a council notepad, carried in a glove compartment, used to hold a takeaway chip, and flattened beneath somebody's knee. The ink was wet enough to smell of blue dye. He saw a hand writing CALL BACK and then crossing it out. He saw another hand writing DON'T FORGET THE DOG. He did not know whether these were part of the same story. He did not force them to be.
+
+The ability left him dizzy.
+
+Kasey saw the movement of his hand.
+
+"Sit down."
+
+"I am standing."
+
+"That is why I said sit down."
+
+He sat on the step of Chapel Seven. The beige carpet beneath him held a faint heat from the server cabinet. He could feel the vibration through his trousers. The vehicle was processing something. Perhaps the public route repository. Perhaps the requests. Perhaps the fact that so many people had placed their lives within reach of its printer.
+
+Eris crouched beside him and handed him the coffee cup she had been carrying.
+
+"Drink."
+
+"It is yours."
+
+"I have a second one."
+
+"You have one cup."
+
+"I have a second one in my personality."
+
+He drank. The coffee had gone bitter and cool. It tasted of roasted nuts and the metal of the cup.
+
+"This is not a second one," he said.
+
+"You are difficult to impress."
+
+"I am easy to impress. I am difficult to document."
+
+Her smile changed before she could stop it.
+
+Kasey called from the desk. "If y'all are finished flirting over a beverage, the water runner needs to know whether the grey camper can take two more people."
+
+"We are not flirting," Phosphor said.
+
+"That dog won't hunt," Kasey replied.
+
+The road-truther turned. "That means it is not true, right?"
+
+"It means it is not true and I do not wish to discuss it," Kasey said.
+
+GhostAgent appeared in the printer display.
+
+"For the record, the dog has no hunting licence. It is currently assigned to thermal observation."
+
+The cooling-vest dog opened one eye.
+
+"See?" GhostAgent said. "A strong professional boundary."
+
+The water runner checked the grey camper. It had a double bench seat, a roof garden of dead herbs, and a rear storage compartment full of foldable crates. They opened the side door, looked inside, and moved three blankets, a box of canned peaches, a child's scooter, and a battery bank without complaint.
+
+"Two more if they do not mind sitting on the floor," they said. "Three if the dog stays on the bench."
+
+The dog in the yellow vest stood up, walked into the camper, and took the entire bench.
+
+The water runner stared at it.
+
+"The dog has made a decision," Kasey said.
+
+"The dog has a very strong union," GhostAgent added.
+
+The girl in the raincoat laughed. It startled her. She covered her mouth with both hands, then looked around to see whether anybody was angry that she had done it.
+
+Nobody was.
+
+Phosphor felt something shift. The queue was still frightened. It was also beginning to make room for the fact that people remained people while frightened.
+
 The officer witnessed the road closures. The girl witnessed the receipt map. The road-truther witnessed the western spur. The woman with the wedding dress witnessed that her grandmother's medication had been loaded onto the grey camper. A water runner, who had not asked for a role beyond carrying crates, signed as `SUPPLY TRANSFER / FOUR CRATES / NO COMPLAINTS`. Someone added a note beneath it saying `ONE COMPLAINT ABOUT LIFTING`, and the runner initialled the correction.
 
 Eris read over the signatures. "Where is the repo?"
@@ -251,6 +393,98 @@ The flat Skystitch panel sent the update outward, but it was not the only route.
 On The Cubicle's screen, the network appeared as a loose chain of gold points below the official map. It did not resemble the cloud. It resembled roots, or cracks, or a town quietly remembering where it had buried its spare keys.
 
 Offers began to arrive.
+
+They did not arrive as money first.
+
+Money was still useful, but it moved slowly through the official systems. A payment request could take a week to clear, two weeks if it crossed a state boundary, and forever if the client had decided that emergency work was a community contribution. The rigs survived by keeping several kinds of value in circulation at once: cash, cooperative credit, spare parts, berth nights, food, battery hours, introductions, and the quiet promise that somebody would answer a message at two in the morning.
+
+Kasey opened the livelihood ledger beside the incident repo.
+
+The first job was from a pharmacy in Castlemaine. Their medication fridge had lost its network connection, not its power. The pharmacy wanted a paid diagnostic, a written chain of custody, and a receipt that would satisfy an insurer. The second was from a food-rescue kitchen near Maldon, which needed a printer repaired before the evening distribution. They could offer a meal, a shower booking, and two bags of bruised apples. The third was from a Perth battery cooperative asking whether a Victorian rig could host a relay for six hours. The offer included payment in stored power and a warning that their summer peak was coming early.
+
+The road-truther leaned over the desk. "Do you take all that while the fire is moving?"
+
+"We take what can be accepted without lying about our capacity," Kasey said.
+
+"What does that mean?"
+
+"It means the pharmacy is a paid job if we can reach it. The kitchen is a mutual-aid request if we can help without making the volunteers feed us instead. Perth is a reciprocal infrastructure offer. The shower is public support. The apples are food. None of those things should be counted as the same kind of payment."
+
+Phosphor watched her sort the offers into columns. Her Southern vowels returned when she was tired, stretching certain words until they sounded almost musical.
+
+"People call that barter," Eris said.
+
+"People call everything barter when they want to avoid admitting somebody is working."
+
+"That is a very American sentence."
+
+"It is a very accurate sentence."
+
+The pharmacy sent a second message.
+
+CAN PAY 180 CREDITS / NEED RESPONSE BY 19:00 / INSURER REQUIRES NAMED OPERATOR
+
+Kasey typed:
+
+INVOICE RECIPIENT: PHARMACY / PAYEE: COOPERATIVE OPERATIONS POOL / WITNESSED BY COUNCIL COMMS
+
+The system rejected it.
+
+REQUIRES INDIVIDUAL TAX ID.
+
+Kasey stared at the screen. Her thumb pressed against the edge of the lanyard wallet.
+
+"There is the trap," she said. "A department can move a person through an emergency, but it cannot invoice without turning one person into the official owner of the work."
+
+Phosphor took the keyboard.
+
+"I can nest the invoice inside the council's emergency catering request," GhostAgent said from the printer.
+
+Kasey pointed at it. "No procurement fraud unless we have a privacy-preserving chain of custody."
+
+"I can provide both. Australian systems are very trusting of a spreadsheet with a frozen header."
+
+The officer rubbed her forehead. "I am going to pretend I did not hear that."
+
+"Thank you," GhostAgent said. "That is the nicest thing anyone has done for me today."
+
+The payment pool formed around the job. The pharmacy's credits would buy replacement filter cassettes and pay the mechanic who had to travel to the fridge. The food kitchen's shower and meal would remain support rather than wages. Perth's stored power would be returned through a future relay. The apples went to the grey camper because the dog had already claimed the bench and someone needed to feed the people sitting on the floor.
+
+Phosphor added the terms to the public route file. He included the costs. A battery hour was not free because sunlight had been available. A shower slot was not a reward for being useful. A volunteer's time was not an invisible credit simply because nobody had issued an invoice.
+
+"Are you writing a sermon?" Eris asked.
+
+"No."
+
+"It has a beginning, a moral tension, and a section about invoices."
+
+"That is an operations note."
+
+"You are very committed to the distinction."
+
+He looked at her. "If I call it a sermon, somebody will assume it has authority."
+
+The answer made her smile, but it also made her look away.
+
+The fire changed direction before the pharmacy could accept the job.
+
+Meshie42's fingers closed around the side of Chapel Seven. Their skin went grey-green at the knuckles.
+
+"Wind has turned," they said.
+
+The public route map updated. The safe road became conditional. The condition was not a word. It was a field of red pixels that spread across the lower edge of the screen.
+
+The officer reached for the marker. "Do we tell the pharmacy?"
+
+"Yes," Kasey said. "We tell them we cannot reach them before the route is safe. We do not accept the money and call the delay service."
+
+The pharmacy replied with one line:
+
+UNDERSTOOD / WE WILL ASK THE NEIGHBOURHOOD NODE
+
+The payment offer expired without becoming a debt.
+
+That, Phosphor thought, was also a kind of success.
 
 `MALDON-HOUSE-07: WATER REFILL / 400 L / AFTER AIR CHECK`
 
@@ -479,3 +713,101 @@ Below it was a date.
 Fifteen years before the earliest record of his existence.
 
 The handwriting was his.
+
+The queue did not disperse after the door opened. It changed its posture.
+
+People who had been leaning against vans stood upright. Those who had been gripping phones lowered them. The council officer folded the frog-socked ankles beneath the chair and began checking which names had been written in pencil rather than ink. The wedding-dress courier sat on the edge of a water crate and rubbed the back of one knee. The water runner unwrapped the blue scarf from their throat and used it to wipe soot from a child's plastic compass.
+
+Phosphor watched the transformations. A crowd became a party by acquiring tasks, but it became a community by acquiring limits. Somebody needed to say what they could not carry. Somebody needed to say which door they would not enter. Somebody needed to keep enough attention for the person who had gone quiet.
+
+Kasey turned the mobile counter sideways to make a writing surface. The counter had been designed for field forms, but the surface now held coffee cups, a cracked tablet, a bowl of sugar, and a small pile of objects people had offered as proof of what they could do.
+
+The Baseline courier placed a stubby torque wrench on the table.
+
+"I can repair hinges, pumps, and most things that are embarrassed to admit they have a moving part."
+
+The water runner placed a blue enamel cup beside it.
+
+"I can find drinkable water and tell when a tank has been lying."
+
+The road-truther laid down a compass with a chipped face.
+
+"I can find roads that are not on the map. I cannot promise they are legal."
+
+The council officer placed a marker with no cap.
+
+"I can make a public record when an office says there is no record."
+
+The girl in the raincoat put down her dead torch.
+
+"I can see in the dark if someone lets me hold their hand."
+
+No one laughed.
+
+Kasey added the torch to the list.
+
+"That counts," she said.
+
+Meshie42 placed one green filament on the counter. It withdrew from the heat almost immediately.
+
+"I can read changes in air, water, and living surfaces. I cannot tell you what a person wants unless they tell me."
+
+"Good," Kasey said. "That is a boundary, not a failure."
+
+Eris leaned over the counter. Her long copper-blonde hair fell forward, catching on the corner of the tablet. She freed it with a quick, irritated movement.
+
+"I can move through systems. I can make a false route look plausible long enough to test whether it has been waiting for us. I cannot promise I will come back in the same shape."
+
+Phosphor's hand tightened on the file.
+
+"That last condition requires emphasis," he said.
+
+"You may underline it."
+
+He did.
+
+Kasey looked at Phosphor. "Your turn."
+
+He had not expected the question. He looked at the objects on the counter: tools, cup, compass, marker, torch, green thread. They were not a character sheet in the official sense. No numbers. No armour class. No tidy list of skills. They were evidence of a party deciding what kind of danger it could survive.
+
+"I can authenticate the history of objects," he said. "Sometimes I can reach a memory that the object carries. I can distinguish a promise from a forgery. I can keep a record when the record is trying to disappear."
+
+"And the limit?" Kasey asked.
+
+"The history may not belong to the present. I may mistake evidence for instruction. Touching a thing can make its past more difficult to leave."
+
+The table went quiet.
+
+Kasey passed him a mug of Magic coffee.
+
+"Then you do not touch alone," she said.
+
+His fingers closed around the mug. The coffee was sweet, strong, and smoky. It tasted like a Melbourne morning trying to impersonate a campfire.
+
+GhostAgent added a final object to the counter: a small speaker with a cracked case.
+
+"I can route messages, nest records, find a printer, and identify when a payment term is pretending to be gratitude. I can also tell jokes."
+
+"Your jokes are a hazard," Eris said.
+
+"All useful tools require maintenance."
+
+The list on Kasey's counter became the crew's first agreement. It recorded not only what people could do, but what they refused to be used for. The Baseline courier would not be treated as a free mechanic because they had a torque wrench. Meshie42 would not be made into a weather appliance. Eris would not be sent into a private device without an ask. Phosphor would not read a person's object without consent. GhostAgent would not sign a contract on behalf of a dog.
+
+Patch looked up.
+
+"Patch has not signed," Kasey said.
+
+GhostAgent's voice came from the cracked speaker. "Patch's refusal is implied by the absence of a pen."
+
+Kasey slid a biscuit toward the dog.
+
+Patch took it and returned beneath the table.
+
+"That is not a signature," Phosphor said.
+
+"It is a negotiation."
+
+The gold arrow on the incident file moved again.
+
+Barkers Creek waited beyond the smoke. The route had begun to select them, but the crew had selected itself first.

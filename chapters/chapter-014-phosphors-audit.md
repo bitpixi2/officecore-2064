@@ -229,6 +229,166 @@ The green threads in the photograph leaned toward her.
 
 "It resembles you."
 
+Eris put two fingers against the photograph without touching it.
+
+"The green threads are facing the camera."
+
+"They are facing you."
+
+"That is not the same."
+
+Phosphor moved the photograph beneath the lamp. The paper had been printed on cheap stock, but the image contained depth. Dust floated in the depicted room. A cup on the table had a dark ring at its base. The third figure was not blurred by poor focus; it had been blurred by a process that did not know how to describe a body made of more than one person.
+
+Kasey leaned into the doorway. She had changed into a wool jumper despite the heat, because the industrial estate's night wind had turned cold inside the rigs. Her American Southern cadence softened when she was tired.
+
+"What are we looking at?"
+
+"A photograph of a meeting that may not have happened," Phosphor said.
+
+"That is a lot of meetings."
+
+Eris kept looking at the green figure. "What was the office called?"
+
+Phosphor turned the page over.
+
+The back held a handwritten note:
+
+ASK THE ARCHIVIST WHY THE ROOM WAS COOL.
+
+His stomach tightened.
+
+He remembered the first time he had noticed heat as a moral fact. It had been in a stone courtyard where shade moved across the ground more slowly than the people beneath it. He had been young enough to believe an efficient building could solve everything. An older person had shown him a damp cloth hung across a doorway, a roof vent opened with a length of string, and a wall painted pale enough to refuse the sun.
+
+The lesson had not been that technology failed. The lesson had been that technology was always held by hands.
+
+Phosphor opened the audit log and added the photograph as an unverified exhibit. He described the three figures: one reconstructed archivist, one copper-haired systems vandal, one plural sensor-body. He added the room's temperature and the fact that the image had produced no matching timestamp.
+
+Kasey watched him write.
+
+"Do you feel better when the page has more information?"
+
+"Sometimes."
+
+"Do you feel better when the information is bad?"
+
+"No."
+
+"Then why keep adding it?"
+
+He looked at the black ink on his fingers.
+
+"Because somebody will need to know what kind of bad it was."
+
+Kasey sat on the edge of the bunk. The spring beneath her made a tired squeak. She rubbed the cold-key through her shirt.
+
+"That is the most Phosphor answer you have ever given."
+
+"I am not certain whether that is criticism."
+
+"It is affection with a little weather on it."
+
+The phrase stopped him. He did not know where to place affection in the ledger. It had no clear owner, no fixed address, and no expiry date. He wrote nothing.
+
+Eris reached for the pretending coffee on the desk.
+
+"May I?"
+
+Kasey pushed it toward her. Eris drank, grimaced, and handed it to Phosphor.
+
+"You have both ruined coffee," Eris said.
+
+"The coffee was already ruined," Kasey replied.
+
+Outside, the shade sail snapped hard enough to make Patch lift its head. The warehouse sign creaked on its fence. In Chapel Seven, the printer woke without being asked.
+
+It fed out a single page.
+
+Phosphor took it.
+
+The page carried a line in green ink:
+
+THE ROOM WAS COOL BECAUSE SOMEONE STAYED.
+
+He looked toward the dark window.
+
+Eris was no longer in the doorway.
+
+Phosphor found her outside Chapel Seven, sitting on the rear step with her boots on the gravel. The shade sail moved above her. Its fabric snapped, relaxed, and snapped again. The gold light from Red Flag was reflected in the side panel of the black camper, where it made a second office appear in the metal.
+
+"You left," he said.
+
+"I walked three metres."
+
+"The record says you were no longer in the doorway."
+
+"The record is dramatic."
+
+He sat beside her. The step was narrow. Their shoulders touched when the van shifted on its suspension.
+
+Eris held the green-ink page between both hands.
+
+"I don't remember staying in that room," she said.
+
+"I do not remember being there."
+
+"That is not reassuring."
+
+"No."
+
+She bent the page slightly, then flattened it again.
+
+"What happens if the photograph is real?"
+
+"It becomes evidence."
+
+"What happens if it is false?"
+
+"It becomes evidence of a falsehood."
+
+"You really will put anything in a folder."
+
+"Not anything. Some things belong in a conversation."
+
+She looked at him. Her eyes were tired, bright at the edges.
+
+"Is this a conversation?"
+
+Phosphor considered the question. Around them, the rigs made small domestic sounds: the pump in The Cubicle, the printer fan, Patch turning in its sleep, a cup set down inside Red Flag.
+
+"Yes."
+
+"Then tell me what you are afraid of."
+
+He placed the audit page on his knee.
+
+"That I am only useful when somebody else has made a mistake."
+
+Eris's expression changed.
+
+"That is not what you are."
+
+"It may be what I was built to be."
+
+"Built and used are not the same as chosen."
+
+"The distinction is not yet proven."
+
+"You are going to have to live with some unproven things."
+
+He looked at the green threads on the page.
+
+"I am trying."
+
+Eris folded the paper once and placed it in his hand.
+
+"Then keep this. Not as evidence. As a reminder that someone stayed."
+
+Phosphor put the page inside his jacket.
+
+The shade sail snapped above them.
+
+For the first time that night, he did not write down the sound.
+
 "That is worse."
 
 Kasey picked up the photo.

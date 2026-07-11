@@ -396,6 +396,316 @@ Phosphor put his hand against the glass. He did not authenticate her. He did not
 
 "I am here," he said.
 
+The words were meant for Eris, but the gate heard them too.
+
+Its camera iris tightened. A blue status line crawled across the glass:
+
+PRESENCE CLAIM DETECTED
+
+Kasey lifted her hand from the token reader. Her fingers were marked green from the nettles, and a small cut near her thumb had begun to bead through the glove. She did not wipe it away. She looked at the camera as if it were an officious stranger who had just asked to see a birth certificate.
+
+"Presence claim," she said. "Whose presence?"
+
+"The system is parsing it," Celia answered.
+
+"The system can parse while we stand here."
+
+The road beyond the gate shimmered. The data centre's perimeter lights made a pale corridor through the smoke, but the corridor did not feel welcoming. It felt like the throat of a machine deciding whether to swallow them. Behind the rigs, people moved between open doors, carrying cable cases, water jerrycans, folded blankets, and one plastic crate full of rescued tomatoes. They had come this far because the edge cache held evacuation maps, medication records, community radio links, and the last functioning copy of a regional food-bank database. The gate's definition of a person had become an obstacle with a temperature.
+
+Phosphor stepped closer to the camera. He kept his hands visible.
+
+"I am Phosphor," he said. "I am a records clerk, a driver, and the current custodian of a document that may have been written before I existed. I am also holding a route open for a person whose projection has been admitted but whose body has not."
+
+"This statement is not a recognised credential."
+
+"It is still true."
+
+Kasey looked over her shoulder. "Meshie42, can you read the gate from the outside?"
+
+Meshie42 answered through a small speaker clipped to Red Flag's mirror. The voice was soft and wet around the edges, as if it had travelled through leaves before reaching them. The Myco-Union person wore a patched rain cape despite the heat, and green filaments showed at the wrists where their skin had adapted to a life of shared fungal sensing. They crouched beside the gate's concrete footing and laid two fingers against the dust.
+
+"The hinge is hot," Meshie42 said. "The camera is cooler. The locked pedestrian mechanism is drawing power from the emergency battery. The emergency battery believes there are no people in the smoke."
+
+"Can you make it believe otherwise?" Kasey asked.
+
+"I can tell it otherwise. Belief is a larger service."
+
+Eris's golden face flickered inside the gate display. "I am in the maintenance layer. The gate's employee table is not a table. It is a list of doors that have been permitted to call themselves people."
+
+"Can you open the pedestrian gate?" Kasey asked.
+
+"I can open it. I cannot guarantee what the building will call us afterward."
+
+"We are already being called mobile records appliances," Phosphor said.
+
+"That may be the kinder name."
+
+The road-truther from the first convoy came forward with a hand-held radio and a paper survey map folded into a square the size of a lunchbox. They had no interest in the gate's software. They wore a faded survey vest over a long-sleeved shirt, a compass clipped to their belt, and a scar across one knuckle that looked older than the road. They crouched at the edge of the vehicle lane and studied the white paint.
+
+"There is a second track," they said.
+
+Kasey glanced at it. "That is a maintenance shoulder."
+
+"It goes to the cooling intake."
+
+"The gate says it is not a road."
+
+"The gate is not driving."
+
+The Baseline courier in the wedding dress appeared beside them, gathering the skirt away from a puddle of black water. The dress had been altered with cargo pockets and reflective tape. A green mechanic's shirt showed beneath the bodice. Pearl buttons ran down the back, each one replaced where necessary by a different kind of fastener.
+
+"The intake track has a broken bollard," the courier said. "A vehicle could get through if it did not mind losing a mirror."
+
+"The Cubicle minds losing a mirror," Kasey said.
+
+"The Cubicle is invited to have preferences."
+
+The girl in the yellow raincoat had followed them from the roadside. She held her dead torch in both hands and watched the smoke above the data centre. The plastic compass hanging from her zip pointed nowhere reliable. The stuffed animal under her arm had one ear scorched flat.
+
+"There is a small door," she said.
+
+No one answered immediately.
+
+"The little door beside the big door," she continued. "It has a hand sign, not a car sign."
+
+Phosphor looked. She was right. Beneath the camera housing, almost hidden by soot, a narrow access panel showed a simple handprint. The paint around it had been worn smooth.
+
+"That may be an old maintenance input," Eris said.
+
+"Or a door," Kasey replied.
+
+"Both categories are possible."
+
+Phosphor placed his palm against the panel. It was warm. The metal carried a history of touches: a gloved hand with oil in the creases, a bare hand damp from rain, a child pressing the fingers one by one, someone leaning against it with their whole shoulder while carrying a box. The object did not show him faces. It showed the shape of need. Every person who had used it had needed the building to open without becoming an employee.
+
+The memory struck harder than he expected. His knees softened.
+
+Kasey caught his elbow. "Easy, honey."
+
+"The panel has admitted people before."
+
+"Can it admit us?"
+
+"It is not certain."
+
+"Neither are we."
+
+She kept her hand on his arm until the dizziness passed. Her thumb moved once over the seam of his sleeve, a practical gesture that was almost tenderness and therefore more dangerous than a kiss.
+
+Eris came through the speaker. "I can give the panel a temporary identity."
+
+"What kind?" Kasey asked.
+
+"A group."
+
+"Not a vehicle?"
+
+"Not a vehicle."
+
+Celia's voice sharpened. "That is outside the emergency subcontract."
+
+"Yes," Eris said. "That is why it might work."
+
+Kasey turned to the people gathered in the smoke. "Anyone who wants to use the little door needs to say what they are carrying in and what they are willing to carry out. No heroic promises. No agreeing on behalf of somebody else."
+
+The courier raised one hand. "Tools and two people who cannot walk fast. I will carry the tools out again."
+
+The water runner adjusted the blue scarf around their neck. "Water. I will carry a frightened dog if the dog consents."
+
+Patch stood up.
+
+GhostAgent said, "That is a yes. Patch has excellent procedural clarity. Also, I have been told that a dog carrying a dog is called a bark-to-bark transfer."
+
+"GhostAgent," Phosphor said.
+
+"I am workshopping."
+
+The road-truther lifted the radio. "Maps, culvert coordinates, and a radio battery. I will carry out whoever is left behind by the map."
+
+The council officer with the frog socks said, "A marker, the public incident file, and the names of anybody the grid tries to erase."
+
+The girl in the raincoat held up the scorched stuffed animal. "This. And my brother."
+
+"Where is your brother?" Kasey asked.
+
+"In the van. He is pretending he is not scared."
+
+"A classic family strategy," Kasey said.
+
+Meshie42 pressed their green-threaded fingers to the gate base again. "Air reading. Water stress. The cooling intake is failing on the western side. I can carry the pattern if you let me remain connected."
+
+"You decide where your body is," Kasey said.
+
+"I decide with two others."
+
+"Then ask them."
+
+Meshie42 closed their eyes. The filaments at their wrists brightened, first green, then a colour like wet leaves under moonlight. After a moment they opened their eyes.
+
+"They agree to the risk. They do not agree to being called a sensor."
+
+"Noted," Phosphor said.
+
+The hand panel warmed beneath his palm.
+
+Eris spoke more quietly. "Phosphor, I need your name in the group credential."
+
+He looked at the golden outline of her face on the screen. "You already have it."
+
+"I need permission to use it."
+
+He understood then that the floor had not only trapped her. It had made every action into a question about who was allowed to stand for whom.
+
+"Use it," he said. "Only for this door. Do not let the building make it permanent."
+
+"I won't."
+
+Kasey entered the group record. She did not use the convoy name. She wrote "BARKERS CREEK EMERGENCY PARTY", then paused.
+
+"Party?" she asked.
+
+Eris's smile appeared in the speaker. "It has the advantage of being accurate."
+
+Phosphor thought of old adventure records, where a party meant a number of people entering a dangerous place together with incomplete maps, inadequate food, and a strong opinion about who should carry the rope. The word was less bureaucratic than crew and less final than department. It made room for someone to join at the edge of the page.
+
+Kasey pressed the entry key.
+
+The panel read:
+
+GROUP PRESENCE: ACCEPTED
+
+The little door opened inward.
+
+The gatehouse alarm began to ring.
+
+UNREGISTERED SOCIAL UNIT DETECTED
+
+GhostAgent cleared his digital throat. "Good news. The building has discovered friendship."
+
+The alarm changed pitch. Inside the data centre, cooling fans spun up all at once. A wave of hot air crossed the perimeter and lifted the edge of Kasey's shirt. The smoke thinned for one second, revealing the low buildings, the emergency tanks, and a line of blue lights disappearing underground.
+
+Eris's Afterimage turned toward the far end of the maintenance layer. Phosphor saw her look at something beyond the gate's visible records.
+
+"There is another door," she said.
+
+"Where?" Kasey asked.
+
+"Below us."
+
+The little gate remained open. The pedestrian route waited like a mouth. Behind the convoy, the road was filling with ash. Ahead, the data centre's cooling system had begun to make the sound of a huge animal trying to breathe through a blocked throat.
+
+Kasey picked up the nettle-wine vessel, still warm from the thermal loop, and passed it to the courier.
+
+"Carry this," she said.
+
+"Why?"
+
+"Because we promised to carry something out."
+
+The courier tucked the vessel into the wedding dress's largest pocket.
+
+Phosphor closed the red incident file and followed the party through the little door. He could feel the old gate's handprint beneath his palm as it released him, not like a blessing and not like permission. More like recognition.
+
 Then the gate accepted the convoy.
+
+Inside the perimeter, the heat changed character. Outside it had been weather: smoke moving over paddocks, ash in the eyes, wind pressing at the awnings. Here it was equipment. It came from vent stacks and cooling towers, from asphalt that had held the sun, from the white walls of the edge buildings where every surface was trying to reject a degree.
+
+The party moved toward the intake track. The wedding-dress courier carried the nettle-wine vessel under one arm and two tool rolls under the other. The skirt brushed the gravel, catching burrs and ash. The water runner walked beside Patch with the blue scarf pulled over their mouth. The road-truther kept one hand on the compass and one on the radio. Meshie42 travelled close to the fence, green filaments brushing the metal whenever the sensor field changed.
+
+Kasey led them through the maintenance door. Her boots slipped once on condensation. Phosphor caught the back of her jacket.
+
+"I had it," she said.
+
+"I know."
+
+"Then why catch me?"
+
+"Because having it and accepting assistance are compatible."
+
+"That is a very fancy way of saying thank you."
+
+"I was not thanking you."
+
+"You're welcome anyway."
+
+The corridor beyond the gate was narrow enough that the party had to go single file. Emergency pipes ran overhead. A line of blue light marked the floor. Every few metres, a small hatch displayed a warning about water pressure, staff access, or the presence of a climate system that had not been inspected since the last ownership change.
+
+Eris's Afterimage moved along the wall beside them. Her golden projection had regained strength inside the site's maintenance mesh, but her physical body remained in Red Flag. The image showed her in pieces: face in one camera, hands in another, hair scattered through a third.
+
+"I can see the intake," she said.
+
+"How far?" Kasey asked.
+
+"Forty metres. The route is blocked by a service shutter."
+
+"Can you open it?"
+
+"I can ask."
+
+"Ask."
+
+Eris's image turned toward a panel. The shutter displayed a prompt:
+
+STAFF MEMBER REQUIRED.
+
+"There is no staff member," Eris said.
+
+The council officer lifted the marker. "There are witnesses."
+
+They wrote on the panel:
+
+STAFF ABSENT / PUBLIC EMERGENCY / WITNESSES PRESENT.
+
+The panel erased the words.
+
+The girl in the yellow raincoat stepped forward. She held the dead torch against the metal.
+
+"My brother is in the van," she said. "We need the air to stay on."
+
+The panel hesitated.
+
+Phosphor watched the surface. It was not a touchscreen. It was a pressure plate under a layer of old paint. He placed his gloved hand beside the child's torch, not over it.
+
+"This panel has opened for people who were not staff," he said. "It has opened for people carrying boxes, people cleaning vents, and people waiting for someone else to finish a shift."
+
+The shutter rose ten centimetres.
+
+The courier slid the tool rolls beneath it. The water runner crawled after them, then Patch. Kasey crouched and held the shutter up with one shoulder while Phosphor passed the nettle vessel through.
+
+"The wine is taking a lot of risks," Eris said.
+
+"It has a three-month maturation schedule," Kasey replied. "We are obligated to protect the asset."
+
+The shutter rose higher.
+
+The intake room beyond held the sound of a failing fan. Heat rolled from a bank of filters. One filter had collapsed inward, black with ash. Another was wet. A third was still clean but had been placed backward.
+
+Meshie42 knelt at the housing. Green filaments spread from their wrists and touched the frame.
+
+"The damaged filter is carrying a chemical stress signal," they said. "The wet one can be cleaned. The backward one is a person who tried to help without the manual."
+
+Kasey opened The Cubicle's tool roll. "Then we fix the wet one and turn the backward one around."
+
+Nobody asked whether the work was glamorous. They stripped the housing, rinsed the filter with controlled water, and dried the contacts beneath a solar-powered fan. Phosphor held the work light. Eris read the maintenance code through the golden interface. The courier steadied the frame with one knee. The child passed screws from a magnetic tray. Patch lay beside the intake and watched the air.
+
+The fan started.
+
+The room exhaled.
+
+For a moment, the blue floor line became steady.
+
+Then a deeper alarm came from below.
+
+The intake display changed:
+
+FLOOR ZERO / INDOOR WEATHER CONTINUITY / ACCESS PENDING.
+
+Phosphor looked toward the line of blue light disappearing beneath the concrete.
+
+Eris's projection turned its face toward him.
+
+"I am here," she said again.
+
+This time, something beneath the building answered.
 
 The barrier descended behind them before Eris came back.
