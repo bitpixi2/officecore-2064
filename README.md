@@ -84,6 +84,10 @@ This is a complete working draft, but it has **not been proof-read yet at all**.
   As the purge begins, Kasey-C, Eris-Red, Meshie99, and the crew negotiate a transfer that protects private care patterns while keeping the work alive.
 - [Chapter Twenty-Four: Forwarding Address](chapters/chapter-024-forwarding-address.md)
   The Department receives a tribunal acknowledgment at an address in transit. The rigs repair, pack, pay their debts, and leave with the hidden floor still listening.
+- [Chapter Twenty-Five: The Ash Protocol](chapters/chapter-025-the-ash-protocol.md)
+  The crew discovers that the new bushfire emergency is moving through mesh routes as well as roads. A hidden shelter reveals that the Ash Protocol is counting unregistered living things.
+- [Chapter Twenty-Six: The Last Temperature Alarm](chapters/chapter-026-the-last-temperature-alarm.md)
+  Prepared rigs and hidden-room access cannot contain the firestorm. Patch makes a final choice, and the crew learns what the network has really been collecting.
 
 ## Contribute
 

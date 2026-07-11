@@ -178,6 +178,12 @@ That was what made them trustworthy.
 
 The Cooling Chorus began to separate.
 
+One thermal history did not move to Perth, Sydney, Victoria, or any of the receiving rooms. It remained beneath the chamber floor, too hot to touch and too quiet to classify.
+
+Meshie99 called it a wild signal.
+
+Phosphor wrote the phrase down.
+
 Green threads detached from the racks. Some entered the Perth link as temperature records. Some travelled through Sydney's tunnel relay as route memories. Some settled into House Key's cool rooms as a schedule of maintenance, filters, and consent. A small amount remained in the edge campus, distributed among the physical systems that had known it longest.
 
 Meshie99's voice changed as it divided.

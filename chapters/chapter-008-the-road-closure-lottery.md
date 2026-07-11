@@ -264,6 +264,12 @@ The convoy left Dunolly with wet hands, dirty boots, a repaired panel, a stolen 
 
 At the junction, Patch did not look back.
 
+On the underside of the cake tin, beneath the route receipts, a second line appeared in green ink:
+
+FIRE DOES NOT FOLLOW ROADS.
+
+IT FOLLOWS ROUTES.
+
 Kasey stopped The Cubicle before the road narrowed. The smoke had turned the bitumen silver. She climbed out, walked around the van, and checked each latch with the flat of her hand. The solar awning was secured. The water crates were strapped. The repaired pump controller had not shifted. The passenger door opened a few centimetres and held there.
 
 "You want to say something?" she asked it.

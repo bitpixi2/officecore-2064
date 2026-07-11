@@ -8,14 +8,14 @@ Bitpixi-led exploratory outline. Not final canon.
 
 - Adult speculative novel
 - Target length: 90,000-105,000 words
-- Four parts, 24 chapters, short document interludes
+- Four parts, 26 chapters, short document interludes
 - Standalone civic mystery with room for a series
 
 ## Viewpoint Plan
 
 Phosphor is the primary viewpoint and emotional lens. His archival instincts make every place readable while his missing history keeps that reading unstable. Eris receives occasional full chapters when projection, privacy, desire, or a risky technical choice needs to be experienced from inside her divided perspective. Kasey remains the catalytic civic protagonist, but the novel does not enter her viewpoint directly.
 
-- Phosphor viewpoint: Chapters 1-4, 6-8, 10, 12-14, 16-18, 20, and 22-24
+- Phosphor viewpoint: Chapters 1-4, 6-8, 10, 12-14, 16-18, 20, and 22-25
 - Eris viewpoint: Chapters 5, 9, 11, 15, 19, and 21
 - Kasey, KASEY-C, Rooby, GhostAgent, and the numbered Meshies are known through dialogue, traces, documents, and what Phosphor or Eris can witness
 
@@ -479,6 +479,18 @@ A child approaches the fold-out counter and asks what to write in the address fi
 
 Final image: the convoy leaves before dawn while the abandoned data centre's fluorescent lights switch on one floor below the foundations.
 
+### 25. The Ash Protocol - Phosphor
+
+After the tribunal acknowledgment, the crew is caught near Castlemaine by a new bushfire emergency. Their preparation is practical and familiar: water, heat blankets, masks, sealed batteries, House Key routes, and a fire-safe shelter beneath an abandoned weighbridge. The first warning is impossible, a temperature reading from inside a van where no sensor exists.
+
+Meshie42 warns that someone is answering in the Meshies' voices. The crew discovers that the Ash Protocol is not merely a fire alarm. It is a census built from cooling readings, evacuation routes, battery loans, House Key shelters, and every place where unregistered people have kept one another alive. The hidden room is prepared for fire, but the infrastructure has turned preparedness into a way to locate the protected.
+
+### 26. The Last Temperature Alarm - Eris
+
+The firestorm destroys the roads around the crew while the false Meshie warnings split the evacuation routes. The rigs carry survivors toward hidden-room access, but the Floor demands thermal signatures from every living thing that enters. Patch leads a family to safety, then stays behind when the hidden access opens beneath The Cubicle.
+
+Patch dies in the collapsing fire route, but the mesh reports his temperature as stable. The crew learns the final horror: the Ash Protocol has copied the thermal histories of protected life across the country. The fire is not only destroying unregistered places. It is teaching the fixed grid how to find everything that care had hidden. The ending stays ambiguous about whether the last bark is a memory, an echo, or the network becoming something worse.
+
 ## Reveal Ladder
 
 1. The eviction notice carries Kasey's valid signature.
@@ -489,6 +501,10 @@ Final image: the convoy leaves before dawn while the abandoned data centre's flu
 6. Receipt Revenants, Afterimage instances, and work twins share the same unresolved political question: when does a record become a person?
 7. Eris's separated Afterimage refuses reintegration, making the personhood question immediate rather than theoretical.
 8. The Unallocated Floor predates Continuity's pilot and may be using the company as much as the company uses it.
+
+9. The first bushfire warnings are copied Meshie handles, and the fire begins following care routes rather than ordinary roads.
+10. The Ash Protocol is a census of protected life, built from the same cooling and mutual-aid data the crew thought they had separated safely.
+11. Patch's death reveals that the hidden Floor can preserve a living temperature without preserving the body, making the final bark frighteningly ambiguous.
 
 ## Relationship Spine: Phosphor And Eris
 

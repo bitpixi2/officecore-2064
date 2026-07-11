@@ -382,6 +382,10 @@ Phosphor folded the map. Eris closed her hand around the model question. Meshie4
 
 Then every fire door in the shopping centre opened at once.
 
+For half a second, each open doorway displayed the same green marker. The marker had the shape of a Meshie handle, but no location followed it.
+
+Phosphor noticed that the fire doors had opened before the alarm. He wrote the observation in the margin and did not yet understand why it frightened him.
+
 The doors opened onto different weather.
 
 One showed smoke and a red sky. One showed rain falling over a Sydney car park. One showed the white glare of Perth. One opened onto a House Key hallway where towels hung from hooks and someone had left a bowl of oranges beside the sink.
