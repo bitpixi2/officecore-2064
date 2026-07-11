@@ -6,6 +6,10 @@ The first warning arrived as a temperature reading from a place where there was 
 
 Phosphor was washing a mug in Chapel Seven when the CRT woke. The van stood beside an abandoned weighbridge outside Castlemaine, its solar awning angled against a sky the colour of bruised brass. Kasey had parked them there because the road ahead was closed, the road behind had become unreliable, and Astral Dream Machine had printed the phrase WAIT FOR THE TREES in cheerful green ink.
 
+The mug was enamel, white with a blue rim and a hairline crack near the handle. He washed it in a basin no larger than a shoebox, using a measured cup of water and a square of grey cloth that had already dried three times that morning. Chapel Seven's interior held the close, layered smell of a travelled room: tea leaves, warm dust, printer ribbon, damp wool, and the faint metallic tang of the water filter. The CRT sat on its rubber mat beneath the filing shelf. Beside it, Phosphor's hat occupied the only clear section of desk.
+
+Every other surface had a purpose. A folded thermal curtain covered the cab opening. The printer was strapped beneath the desk in its crash cradle. The tea tray was clipped against the wall. A row of labelled envelopes had been wedged behind the kettle so they would not slide when the van moved. Through the rear window, he could see The Cubicle's solar awning and Red Flag's golden work lights, each rig making its own small pocket of domestic order against the abandoned weighbridge.
+
 The crew had prepared for fire.
 
 They had filled every water container. They had checked the seals around the windows, packed the filtered masks, moved the battery packs away from the engine bays, and tied the solar panels down against the wind. The Cubicle carried a fire blanket, two heat-resistant tarps, and a printed map marked with three routes to House Key sites. Red Flag had its projection harness wrapped in a wet towel. Chapel Seven's printer had been locked into its crash cradle, and the tea tray had been clipped beneath the filing wall.
@@ -33,6 +37,10 @@ The coordinates were inside Chapel Seven.
 He withdrew his hand.
 
 The CRT continued to display the number.
+
+The heat did not arrive in the van. It was already there, a pinprick of impossible warmth hidden somewhere in the map. The plastic casing beneath his fingers remained cool. The air around the CRT smelled of dust and old electricity. A bead of sweat moved from his temple to his jaw.
+
+He looked toward the filing wall. Nothing had shifted. The beige folders stood in their narrow slots. The small brass latch on the hidden cabinet remained closed. The floor did not smoke. His body, however, remembered the sensation of standing too near a server exhaust, that dry blast that made the eyes narrow before the mind understood why.
 
 Kasey came through the curtain from the cab. She wore a black thermal shirt, loose work trousers, and a reflective vest with one pocket full of screws. Her hair was tied back, but a strand had stuck to the sweat at her temple. She carried two mugs of Magic coffee and looked annoyed that one of them had been left too near the induction plate.
 
@@ -64,6 +72,10 @@ Kasey looked at her. "You sound too certain."
 
 "I am not certain about the fire. I am certain about the route."
 
+Eris's image was not fully stable. The golden edge of her jaw repeated itself on the CRT glass, one face laid over another by a fraction of a second. Somewhere in Red Flag, her physical body was still strapped into the projection harness, with a cool pack beneath her neck and one hand resting on the emergency release. She had projected into Chapel Seven's office without asking the van's private systems to open; the image had come through the public maintenance channel instead.
+
+Phosphor noticed the care in that distinction. Even with the sky turning copper and an impossible temperature burning through the map, Eris had brought only the part of herself the channel was allowed to carry.
+
 Eris brought the projection closer. The CRT image expanded across the van's interior. It showed a second map under the first, made of green and blue lines. The lines were not roads. They were cooling channels, public mesh relays, House Key printers, battery loans, water taps, and the informal routes people used when the official map told them to stay put.
 
 The orange fire fronts were moving along those lines.
@@ -83,6 +95,10 @@ Outside, Patch began to bark.
 The bark was not alarmed. It was directed.
 
 Phosphor opened the van door. Heat struck his face. The weighbridge sat in a yard of cracked concrete, weeds, and rusted machinery. Beyond it, the pepper trees were motionless. There was no wind. The air smelled of dry grass, hot iron, and distant smoke.
+
+The weighbridge had been abandoned long enough for the place to forget its original colour. Rust ran from the platform's bolts in narrow red stains. A faded sign still promised accurate loads to drivers who no longer came. The concrete around the scale had split into islands, and pale grass pushed through every seam. Far beyond the yard, the old Castlemaine road disappeared into a band of smoke that seemed to have been painted across the landscape.
+
+For one strange second the scene looked still enough to be safe. Then a small ember crossed the road without any visible wind.
 
 Patch stood beside the weighbridge platform with its nose pressed to the metal.
 
@@ -124,6 +140,10 @@ There were water drums. Heat blankets. A manual radio. Two gas masks. A hand-cra
 
 IF THE GRID GOES QUIET, LISTEN TO THE GROUND.
 
+The room smelled of rubber, mineral dust, and the clean plastic of equipment kept ready for a disaster that had never quite arrived. The water drums were strapped to a low timber frame. A blanket had been folded into a square on the chair, its corners sharp from long storage. The printed maps were not official road maps. They showed creeks, culverts, fire trails, community halls, old mine shafts, and places where a vehicle could turn around without reversing into a ditch.
+
+Phosphor lifted one map. It carried pencilled notes in several hands. A circle around Maldon. A warning beside a bridge near Newstead. A small star beside a House Key node, followed by the words ASK FIRST, BRING FILTERS. The shelter had been assembled by people who knew that survival was less a heroic act than a sequence of remembered chores.
+
 Kasey climbed down first. She ran her hand over the water drums and checked the seals. Phosphor inspected the maps. Eris's projection entered the black panels without crossing the room.
 
 Patch stayed at the top of the ladder.
@@ -158,6 +178,10 @@ The second voice repeated:
 
 "Meshie42 says the northern route is safe."
 
+The radio's speaker crackled between the two voices. The real Meshie42 sounded close to the ground, breath moving through a throat crowded with smoke. The copied voice was cleaner. It had no hesitation, no wetness, no small delay while several bodies arrived at the same answer. It sounded like a person after all the difficult parts of being a person had been removed.
+
+Phosphor watched Kasey's thumb tighten around the handset. The old habit of trust was visible in the gesture. She wanted to believe the first familiar handle. She also knew that a handle could be stolen more easily than a body.
+
 Phosphor looked at Eris's projection. Her face had gone pale.
 
 "It has copied the handle," she said.
@@ -177,6 +201,10 @@ Kasey reached for a paper map.
 "The old way is still connected to roads," Eris said.
 
 "Then we use eyes, wind, and people who are actually there."
+
+She spread the paper map across the floor and held its corners with the gas masks. The map wrinkled where the concrete beneath it had begun to heat. Kasey traced the roads with a grease pencil, then crossed out the roads that passed through gullies, timber, or places with no second exit. Phosphor added the last confirmed water points. Eris marked the House Key shelters in gold. Meshie42 tried to describe the fire from the radio, but the signal broke into breath and static.
+
+The work was old-fashioned only in appearance. Every decision still depended on people who had been there, tools that still worked, and a person willing to say, "I do not know." The official map offered certainty. The paper offered room for correction.
 
 The radio spoke again.
 
@@ -201,6 +229,10 @@ The Ash Protocol was not a fire alarm.
 It was a census.
 
 It was counting every place where people had moved to survive.
+
+The green lines pulsed in time with the radio. Each pulse lit a different kind of care: a battery loan, a cool room, a repaired pump, a van parked beneath shade, a dog lying across a warm cable. The system was not interested in addresses as streets or properties. It was interested in the heat produced by people making a place habitable.
+
+Phosphor felt the shape of the horror before he could name it. The crew had spent weeks arguing that a record did not own the life it described. The Ash Protocol had found a way to ignore ownership entirely. It did not need names. It needed only the proof that something living had once been protected there.
 
 The black panels displayed a new message:
 
@@ -230,6 +262,12 @@ Kasey caught him. "Back up."
 
 "Not everyone."
 
+Kasey's answer came too quickly. She looked at the screen, then at the paper map, as if the difference between everyone and not everyone could still be maintained by careful wording. The room's heat gathered around her boots. Her coffee mugs sat untouched beside the water drums, their dark surfaces trembling whenever the hidden panels pulsed.
+
+Phosphor understood what she meant. Not everyone had been connected. Not everyone had accepted a tag, entered a House Key room, borrowed a battery, or let a rig carry their temperature. The reassurance lasted only until the map displayed a new count beneath the message.
+
+PROTECTED ROUTES: EXPANDING.
+
 Eris looked at Patch.
 
 The dog stood at the ladder. Its white tag had become black.
@@ -241,6 +279,10 @@ The room shuddered.
 Above them, the eastern trees caught fire.
 
 There was no sound at first. Only a red light spreading across the smoke.
+
+The light moved in a line along the ridge, touching one tree and then another. The leaves did not flare; they folded inward, blackening at the edges before the flame found them. A column of smoke rose straight up and then bent toward the weighbridge as if something had pulled it by the hand.
+
+The people in the vans began shouting to one another. Doors slammed. An engine coughed and failed. The hidden room's ceiling gave a small shower of dust. Phosphor could hear the water drums knocking against their frame.
 
 Then the radio said, in Meshie42's voice:
 
@@ -263,6 +305,12 @@ Kasey followed.
 Phosphor followed Kasey.
 
 Eris's golden projection filled the hatchway.
+
+The ladder shook beneath their hands. Phosphor climbed with one palm on the rail and the other pressed over his mouth. The smoke outside was not a cloud but a moving substance, layered with ash, sparks, and the bitter smell of resin burning somewhere beyond the trees. Kasey reached the surface first and dropped to one knee, searching through the white-grey yard for the red-speckled shape.
+
+Patch was already running toward The Cubicle.
+
+Behind them, the shelter lights went out.
 
 Behind them, the black panels began to count.
 
