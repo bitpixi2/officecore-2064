@@ -23,13 +23,15 @@ Chapel Seven stood beside the diesel bowsers in its black, immaculate disapprova
 
 She had short white hair, cut close around the ears, and the strict, unhurried expression of a council worker who had already made a decision before approaching the problem. Ash had settled in the shoulders of her navy polo shirt. Her council lanyard was tucked into the collar so it would not flap in the wind, and a laminated compliance folder was held beneath one arm. She had stopped because the name Chapel Seven was painted in small cream letters beside the camper's side hatch.
 
-"Is that the registered vehicle name or the operating site?" she asked.
+"Is that the registered vehicle name or registered religious organisation?" she asked.
 
 Phosphor looked at the lettering. The paint had been applied by hand, one careful stroke at a time, after the old funeral coach became a mobile office.
 
 "It is my work and my play," he said. "Work which is seven days a week. I call it the office-dharma. No rest, really."
 
-The council worker considered him for a moment. She did not look moved. She looked as if she were deciding whether office-dharma belonged in the vehicle description field or the comments box.
+The council worker considered him for a moment. She did not look moved.
+
+"That was not an answer about registrations."
 
 "That sounds personally meaningful," she said. "It is not a land-use category. I need to know whether Chapel Seven is parked here for emergency operations, overnight occupation, or commercial activity."
 
