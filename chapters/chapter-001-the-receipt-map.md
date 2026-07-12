@@ -12,11 +12,39 @@ He had learned to touch documents with two fingers, never the whole palm. He had
 
 It had been printing the road network in a pale orange grid beneath the price of a pineapple juice, then circling one service lane with a dotted line and the word `MAYBE`. Its thermal paper was hot enough to soften the corner of his thumb.
 
-"That is not an approved symbol," said the woman from the council, looking over his shoulder.
+"Chapel Seven?" asked a woman passing the open hatch.
 
-"No," Phosphor said. "It is, however, an honest one."
+She had short white hair, cut close around the ears, and the strict, unhurried expression of a council worker who had already made a decision before approaching the problem. Ash had settled in the shoulders of her navy polo shirt. Her council lanyard was tucked into the collar so it would not flap in the wind, and a laminated compliance folder was held beneath one arm. She was not a servo worker. The servo staff had gone home when the fire warnings changed. She had stopped because the name Chapel Seven was painted in small cream letters beside the camper's side hatch.
 
-The woman had ash in the folds of her polo shirt and a council lanyard tucked into the collar so it would not flap in the wind. She was the council communications officer, not a servo worker; the servo staff had gone home when the fire warnings changed. The lanyard said COUNCIL COMMS in block letters, an act of mercy toward everybody currently asking it for things.
+"Is that the registered vehicle name or the operating site?" she asked.
+
+Phosphor looked at the lettering. The paint had been applied by hand, one careful stroke at a time, after the old funeral coach became a mobile office.
+
+"It is my work and my play," he said. "Work which is seven days a week. I call it the office-dharma. No rest, really."
+
+The council worker considered him for a moment. She did not look moved. She looked as if she were deciding whether office-dharma belonged in the vehicle description field or the comments box.
+
+"That sounds personally meaningful," she said. "It is not a land-use category. I need to know whether Chapel Seven is parked here for emergency operations, overnight occupation, or commercial activity."
+
+"Yes," Phosphor said.
+
+Her mouth tightened.
+
+"You will need to select one."
+
+"Of course. Seven days of work, and the form still takes one box at a time."
+
+The woman glanced at her watch. It was a plain digital council model with a cracked corner and a reminder alarm set for 5:00 p.m.
+
+"I finish at five," she said. "If you want this recorded before the weekend, give me the registration, the responsible contact, and the temporary occupancy reference. If you want to discuss the metaphysics of mobile work, make an appointment for next week."
+
+Phosphor looked at the smoke, the evacuees, the warm receipt printer, and the line of vehicles waiting for somebody to decide what counted as an emergency.
+
+"Next week is very confident."
+
+"Next week is when the office reopens."
+
+She wrote the registration number into her folder, checked the Chapel Seven stencil once more, and walked on toward the council van at the end of the forecourt. She did not ask whether anyone needed water. She did not ask who had slept in the camper. She had a route, a form, and a shift that ended at five.
 
 Outside Murravale Service Centre, a mostly shuttered servo on the road between Castlemaine and Maldon, the sky had been reduced to a metallic orange lid. Ash collected in the gutters, on the windscreen wipers, in the seams of the road, and in the teeth of a plastic koala strapped to the servo sign. The sign promised HOT FOOD, COLD DRINKS, CLEAN TOILETS.
 
