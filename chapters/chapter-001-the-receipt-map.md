@@ -17,7 +17,7 @@ Outside Murravale Service Centre, a mostly shuttered servo on the road between C
 
 Beyond the forecourt, the central Goldfields had gone almost flat. The low ridges toward Maldon were swallowed behind smoke; old tailings mounds, normally the colour of biscuit crumbs, had turned the colour of wet iron. Grey box and stringybark stood in the paddocks with their leaves turned pale-side out against the heat. Somewhere past the roadworks, an abandoned water race ran beside the highway like a second, narrower road, its stonework half-hidden by dry grass and solar cable.
 
-Only one of those claims was still true.
+The hot-food claim remained true only because Phosphor had bought the last batch before the fryer shut down. Cold drinks depended on the generator, and the promise of clean toilets had become a matter of optimism.
 
 He stood behind the desk in a dark technical suit cut close enough not to catch on the filing rails, a white shirt buttoned neatly at the throat despite the heat, and a black top hat with a narrow status band sewn into the satin. The coat's heat-responsive seams had given up trying to cool him and now blinked a tired green at his wrists. The hat gave strangers the impression that he had arrived from a much more orderly century. The lanyard at his waist, the ash on his cuffs, and the unsettling youth of his face corrected that impression on closer inspection.
 
@@ -121,6 +121,8 @@ Among the evacuees stood a broad-shouldered Myco-Union person in a patched rain 
 
 The CRT on Chapel Seven's desk flickered. Rooby's face appeared in its usual cheerful low-resolution form: a bright little icon with a microphone headset, one ear hidden by static.
 
+The speaker above the screen clicked twice before finding a volume that could compete with the idling cars and the wind pressing ash against the awning. People nearest the hatch turned without meaning to. A child stopped dragging a toy excavator through the dust. Kasey kept one hand on the route signs while she watched the little face assemble itself from green pixels.
+
 `ROOBY: Good afternoon, all! Quick update. There are now 117 people in #who-is-in-charge-here.`
 
 Phosphor closed his eyes for the length of one breath.
@@ -134,6 +136,8 @@ Phosphor closed his eyes for the length of one breath.
 `ROOBY: I have learned a lot today.`
 
 The chat flowed up the left side of the screen.
+
+Phosphor leaned closer to read it, one hand braced on the desk so the paper map would not slide into the tea tray. Beyond his shoulder, the evacuees continued to argue in lower voices. The network was not replacing the forecourt; it was adding another room to it, one with no walls and too many opinions.
 
 GhostAgent wrote: Also, I have found the servo's emergency sausage-roll warmer. It is Australian infrastructure at its most honest: hot, underfunded, and somehow still going.
 
@@ -151,29 +155,33 @@ Kasey stared at the screen. "Who is claiming incident commander?"
 
 "An administrative weather event," Phosphor said. "A temporary name would only encourage it."
 
-The road-truther knocked on the open hatch. "Oi. You the records bloke?"
+The road-truther knocked on the open hatch with two knuckles. He had edged away from the argument, but not far enough to stop listening. His vest caught the orange light and made him look, from a distance, like a temporary road sign that had developed a conscience.
 
-Phosphor gave him the attention he gave everyone: precise, level, unwilling to be hurried. "I am Phosphor."
+"Oi. You the records bloke?"
 
-"Right. Phosphor. The road east is open. I drove it two hours ago."
+Phosphor turned the thermal paper so the man could see the time stamp. "I am Phosphor."
 
-"Two hours ago," Phosphor repeated.
+"Right. Phosphor. Put this down proper, then. The road east was open when I drove it."
 
-"Yeah."
+"At what time?"
 
-"And since then?"
+The man checked the cracked face of his watch, although he had already told three people the answer. "Two hours ago."
 
-The man looked at the orange sky. His confidence changed shape.
+Phosphor wrote it in the margin: EAST ROAD / OPEN / VERIFIED BY DRIVER / TWO HOURS OLD.
 
-"Since then, a few things."
+"And now?" he asked.
 
-"Thank you. I will record the road east as formerly open."
+The road-truther looked past the hatch toward the orange ridge. A gust pushed smoke over the road sign, hiding the arrow that pointed east. His confidence lost some of its shape.
 
-The man considered this. "That sounds worse."
+"Now it is a different road."
+
+Phosphor added a second line beneath the first. "I will record it as formerly open."
+
+The man read the words. "That sounds worse."
 
 "It is more accurate."
 
-Behind him, somebody laughed despite themselves. The sound was small, but it loosened the crowd by half a degree.
+Behind him, somebody laughed despite themselves. The sound was small, but it loosened the crowd by half a degree. The road-truther did not laugh, but he stopped defending the word open as if it were a personal possession.
 
 Kasey set the maps beside Phosphor's receipt stack and trapped the corners with the tape roll. Her boots struck the forecourt with a brisk, deliberate rhythm. When the wind caught the papers, she pinned them against her ribs with one elbow and muttered in an American Southern cadence.
 
@@ -303,7 +311,7 @@ Kasey lifted one finger. "And if you call yourself an independent road truther a
 
 He shut his mouth.
 
-The queue changed. People moved with the wary relief of people who had been offered something to do that was not panic. A teenager in a raincoat started writing times beside the route names. The woman with the wedding dress got assigned to the grey camper with the double bench seat. Somebody gave the desktop printer a name badge that said `EMOTIONAL SUPPORT PRINTER`.
+The queue changed. People moved with the wary relief of people who had been offered something to do that was not panic. A teenager in a raincoat started writing times beside the route names. The woman with the wedding dress got assigned to the station wagon with the double bench seat. Somebody gave the desktop printer a name badge that said `EMOTIONAL SUPPORT PRINTER`.
 
 Phosphor watched the process gather shape. This was the part no document ever admitted: most institutions began as a table, a list, and somebody too tired to argue about the pen.
 
@@ -469,7 +477,7 @@ GhostAgent spoke from the EFTPOS screen in the camper's open hatch.
 
 "Done. I have titled it TYRE: SHE'LL BE RIGHT / NO, SHE WON'T."
 
-The Myco-Union person laughed, a wet clicking sound deep in their throat.
+The Myco-Union evacuee laughed, a wet clicking sound deep in their throat.
 
 "That is a good title," they said.
 
@@ -499,6 +507,8 @@ By the time the second convoy rolled out, the service centre had become quieter.
 
 Phosphor returned to Chapel Seven to make the incident record.
 
+He climbed into the hatch with ash gritting under his boots and set the receipt maps in a neat stack beside the stamp pad. The forecourt still moved around him: engines ticking as they cooled, doors slamming, Kasey calling final passenger counts, Eris dragging a cable out of the dust with both hands. Phosphor reached for the incident template because a template gave the hands something to do while the mind caught up.
+
 His CRT had gone black.
 
 For a moment he thought the power had failed. Then the screen lit, not with Rooby's icon or the chat, but with a white page bordered in corporate blue.
@@ -511,19 +521,25 @@ Below it, in careful grey letters:
 
 `NO REGISTERED ADDRESS MAY ACCEPT THIS PARTY.`
 
-The forecourt went still in pieces. A woman near the water crates said, "What does that mean?"
+The forecourt went still in pieces. A phone stopped ringing. The servo manager lowered the hose. Even the people who had been arguing about the east road turned toward the nearest screen, as if the words might become less official when read in a group.
+
+A woman near the water crates said, "What does that mean?"
 
 Kasey was already reading. Her face had emptied of everything except concentration.
 
 Eris came to stand beside her. The golden light from Golden Apple made the copper in her hair look almost luminous.
 
-"Tell me that is fake," Eris said.
+Eris kept one hand on the edge of the folding table. Her gold-lined jacket pulled tight across her shoulders as she leaned toward the notice, refusing to touch it before Phosphor had checked the source.
+
+"Tell me that is fake," she said.
 
 "It is not fake," Kasey said.
 
-"Tell me it is not yours."
+Kasey did not look away from the page. Eris's voice dropped to a whisper. "Tell me it is not yours."
 
 Phosphor took the printed notice from the register while it was still warm. He read the machine headers. The credential chain. The signature block. The date stamp that had been generated two minutes into the future.
+
+The paper flexed between his fingers, still holding the heat of the servo printer. Behind the grey letters he could feel the system that had made them: not a person sitting at a desk, but a chain of permissions passing from one silent machine to another. It had the texture of a door being locked in a building he could not see.
 
 There were records he trusted. There were records he wanted to trust. Then there were records that carried the exact, cold weight of a door closing somewhere far away.
 
@@ -543,7 +559,7 @@ KASEY WREN.
 
 The wind drove ash over the paper until the signature began to blur.
 
-Kasey caught the page before it could slide beneath the servo's vending machine. She held it by the edges, careful not to smear the toner, and read the signature with her head tilted slightly to one side.
+Kasey caught the page before it could slide beneath the servo's vending machine. She held it by the edges, careful not to smear the toner, and read the signature with her head tilted slightly to one side. Her thumb hovered above the name without touching it, as if the paper might recognise her skin.
 
 "That is my old work name," she said.
 
@@ -569,7 +585,9 @@ Kasey took the page back. Her thumb rubbed the corner where the machine had prin
 
 "My old profile was made for Continuity's emergency routing. It had my training, my field certifications, my preferred language, my old address, and a list of things I was willing to do when people were in trouble."
 
-"You were willing?"
+Phosphor watched her thumb return to the same dark corner. The gesture was small, but it had the rhythm of somebody checking whether a bruise was still there.
+
+"You were willing?" he asked.
 
 "I was young."
 
@@ -577,13 +595,15 @@ Kasey took the page back. Her thumb rubbed the corner where the machine had prin
 
 "It is the answer I have."
 
-The sentence sat between them. Around it, the forecourt continued. The Myco-Union evacuee carried a water crate from the tap. GhostAgent asked the servo owner whether the emergency printer could be borrowed. The dog slept under The Cubicle while the red light on its air-quality tag moved from amber to green and back again.
+Kasey folded the notice once, then unfolded it before the crease could settle. Around them, the forecourt continued. The Myco-Union evacuee carried a water crate from the tap. GhostAgent asked the servo owner whether the emergency printer could be borrowed. The dog slept under The Cubicle while the red light on its air-quality tag moved from amber to green and back again.
 
 Phosphor folded the notice along its existing crease.
 
 "What did you want to do before Continuity?"
 
-Kasey laughed once. "I wanted to travel, fix things, and not have every job interview ask whether I had a permanent address."
+Kasey looked toward The Cubicle, where her open side panel showed the kettle, the cable drums, and the narrow space where she kept her mattress rolled during the day. She laughed once, without much amusement.
+
+"I wanted to travel, fix things, and not have every job interview ask whether I had a permanent address."
 
 "You have achieved two of those."
 
@@ -595,7 +615,7 @@ Kasey laughed once. "I wanted to travel, fix things, and not have every job inte
 
 "The job interviews."
 
-She looked at him. Eris's mouth twitched. GhostAgent's cursor paused on the screen as if the daemon had decided to save the joke for later.
+She looked at him. For a moment the notice hung between them like an accusation neither of them had written. Then Eris's mouth twitched. GhostAgent's cursor paused on the screen as if the daemon had decided to save the joke for later.
 
 "Phosphor," Kasey said, "you are real funny for a man dressed like a filing cabinet."
 
@@ -631,41 +651,43 @@ The Receipt Revenant ability opened without his permission. The page gave him a 
 
 He pulled away.
 
-His vision narrowed.
+His vision narrowed. The folding table lost its edges first, then the notices, then Kasey's face. Heat climbed from the paper into his wrist even though he had already put it down.
 
-Kasey caught his wrist. "Look at me."
+Kasey saw the change before he could hide it. She stepped around the corner of the table, took his wrist in one hand, and turned him away from the notice so he was facing the ordinary work of the forecourt: a hose being coiled, a child being lifted into a car, Eris's cable shining gold in the ash.
 
-He did.
+"Look at me," she said.
 
-"Name five things," she said.
+He did. Her eyes were a clear, tired brown. A strand of dark hair had escaped its pin and stuck to the sweat at her temple.
 
-"The orange bowl. Your lanyard. Eris's gold cable. The dog. The sky."
+"Name five things."
 
-"Good. Four things you can feel."
+He made himself move his gaze. "The orange bowl. Your lanyard. Eris's gold cable. The dog. The sky."
+
+Kasey's thumb pressed once against the inside of his wrist. "Good. Four things you can feel."
 
 "Your hand. The table. My glove. The page."
 
 "Three things you can hear."
 
-"The pump. The printer. GhostAgent."
+He listened past the blood in his ears. "The pump. The printer. GhostAgent."
 
-"I am not currently speaking," GhostAgent said.
+"I am not currently speaking," GhostAgent said from the EFTPOS speaker.
 
-"You are in the speaker," Phosphor replied.
+Phosphor kept his eyes on Kasey. "You are in the speaker."
 
 "That is not the same as speaking."
 
-Kasey squeezed his wrist once, then let go.
+The joke was so exactly itself that Phosphor almost laughed. Kasey felt the tension leave his wrist and squeezed once before letting go.
 
-The page had stopped blurring.
+The page had stopped blurring. Its electronic signature was only ink and data again, not a corridor opening under his feet.
 
-"You don't have to read every hurt thing just because it has a stamp," she said.
+"You don't have to read every hurt thing just because it has a stamp," Kasey said. She picked the notice up by its clean edge and moved it farther down the table.
 
 "I know."
 
-"Do you?"
+She studied him, waiting through the answer he had given because it was available. "Do you?"
 
-He looked at the electronic signature. "I am learning."
+Phosphor looked at the distance between his hand and the paper. "I am learning."
 
 Eris leaned across the table and took the notice by its clean edge.
 
@@ -683,7 +705,9 @@ Kasey watched the upload.
 
 The convoy channel crackled.
 
-The Myco-Union evacuee said, "Road changes."
+The sound came through the Southern Skystitch terminal as a burst of static, then through the cheap speaker in Kasey's lanyard wallet, arriving half a second apart. On the shared map, the eastern route blinked from amber to grey. The Myco-Union evacuee looked up from the water crate and pressed their green-threaded fingers to the pavement.
+
+"Road changes," they said.
 
 Phosphor turned toward the smoke.
 
