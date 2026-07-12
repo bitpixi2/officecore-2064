@@ -83,19 +83,41 @@ Phosphor opened Chapel Seven's warming drawer. Six sausage rolls sat inside pape
 
 Kasey kept marking signs while Phosphor moved along the two lines, handing out food, cups, and receipt maps in whatever order the heat and the people required.
 
-Their vehicles made a temporary town around the bowsers: a sun-bleached Winnebago with an air-conditioning unit tied on by ratchet straps; a former ambulance painted mint green and converted into a mobile dental clinic; a grey camper with a double bench seat and a roof garden of dead herbs; three utes covered in prospecting permits and weatherproof tools. Most had arrived after some paid, half-paid, or promised job: a relay call-out, a clinic shift, a pantry delivery, a council data migration. Their work travelled with them in labelled cases, dirty mugs, charger leads, and invoices clipped above the sun visors. At the edge of the lot, a chrome caravan slept under a tarp of reflective foil, its curved roof catching the orange sky. Its windscreen showed no driver, only a slow pulse of stars.
+The evacuees' vehicles made a stalled line around the bowsers: ordinary hatchbacks with blankets over the back seats, family sedans packed to the roof, a station wagon towing a small box trailer, two work utes, and a blue compact car with a dog crate wedged between the children. None of them belonged to the rig towns. These were private cars and borrowed cars, vehicles whose owners had left farms, roadside houses, a caravan park, and the outskirts of town after the fire warnings changed. Their luggage was not organised for a convoy. Suitcases leaned against bumpers. Medication bags sat beside supermarket shopping. A child's bicycle had been tied to a roof rack with a dressing-gown belt.
 
-The other half of a travelling town travelled less photogenically. It sat in lidded tubs under bumpers and behind rear wheels: organics double-bagged against the heat, flattened cartons, spent batteries, cracked hose fittings, printer ribbon, things that could be repaired, things that could be recycled, and the ordinary grim remainder of feeding people in a car park. A man in a camping chair had written `NOT GENERAL RUBBISH` on a milk crate in black marker. Phosphor respected the accuracy. In an emergency, a bin was a very small public-health department.
+They were waiting because the bridge east of the servo had been closed and nobody agreed about what came next. The fire service had told some drivers to turn back. A council map still showed the road as open. One woman's phone displayed a message from her brother saying the highway was clear; another person's phone had no signal at all. A man in a high-vis vest kept saying he had driven the road two hours earlier, while a family beside the fuel pump insisted the smoke had already crossed it.
 
-The people who knew a better route had arranged themselves in a loose semicircle around a man wearing a high-vis vest marked `INDEPENDENT ROAD TRUTHER`.
+The argument had begun politely and gone downhill by increments. People pointed at maps. Somebody called somebody else reckless. A woman with a baby in a sunshade said they were not moving until someone could name a road with two exits. The servo's ordinary bins had become part of the emergency too: flattened cartons, spent batteries, cracked hose fittings, takeaway containers, and the grim remains of feeding people in a car park. A milk crate marked `NOT GENERAL RUBBISH` sat beside the rubbish tubs. Phosphor respected the accuracy. In an evacuation, a bin was a very small public-health department.
 
-"They cannot both be right," Kasey said, looking from the route map to the road-truther.
+The people disputing the route had gathered around the man in the high-vis vest. His vest said `INDEPENDENT ROAD TRUTHER`, a joke he had printed for himself before the fire and now regretted because everyone kept treating it like an official qualification.
 
-"They can," Phosphor said. "That is the trouble with roads."
+"You drove the east road?" Kasey asked the man in the high-vis vest.
 
-Among them stood a broad-shouldered Myco-Union person in a patched rain cape, their skin threaded at the wrists with fine green filaments that opened and closed when the smoke shifted. They had been holding a wet scarf over a child's face. Every few seconds they pressed two fingers to the bowser cabinet, reading the metal for heat and vibration. Beside them, a slim Baseline woman in a copper-coloured exosleeve carried a collapsible staff with a solar lantern at one end. The staff was not a weapon. It was a walking aid, a signal mast, and a way of reaching a roof vent without asking anybody else to risk a ladder.
+"Two hours ago. It was open then."
 
-At the edge of the crowd, a Civic Daemon occupied the cracked screen of a discarded EFTPOS terminal. It had a little animated moustache and the legal status of an appliance under review. It kept trying to help by printing queue numbers, then apologising when the numbers exceeded the available people.
+"And now?"
+
+He looked toward the orange ridge beyond the servo sign. His confidence lost some of its shape.
+
+"Now it is a different road."
+
+The woman with the baby lifted her phone. "The council map says it is open."
+
+"The council map is stale," the road-truther said.
+
+"The fire service message says turn around," said a man beside the blue car.
+
+"That message came through before the wind changed," someone else replied.
+
+Kasey held up one hand. "All right. Nobody gets to win this by talking louder."
+
+Phosphor looked from the printed map to the road-truther and then to the families waiting beside their cars. "They can all be reporting what they actually know."
+
+"That is not helping," Kasey said.
+
+"It is accurate."
+
+Among the evacuees stood a broad-shouldered Myco-Union person in a patched rain cape, their skin threaded at the wrists with fine green filaments that opened and closed when the smoke shifted. They had been holding a wet scarf over a child's face. Every few seconds they pressed two fingers to the bowser cabinet, reading the metal for heat and vibration. Beside them, a slim Baseline woman in a copper-coloured exosleeve carried a collapsible staff with a solar lantern at one end. The staff was not a weapon. It was a walking aid, a signal mast, and a way of reaching a roof vent without asking anybody else to risk a ladder. They were not network operators or members of a travelling office. They were people who had grabbed what they could, driven until the road stopped making sense, and joined the queue because the servo was the last place with fuel, toilets, and a working signal.
 
 The CRT on Chapel Seven's desk flickered. Rooby's face appeared in its usual cheerful low-resolution form: a bright little icon with a microphone headset, one ear hidden by static.
 
@@ -112,8 +134,6 @@ Phosphor closed his eyes for the length of one breath.
 `ROOBY: I have learned a lot today.`
 
 The chat flowed up the left side of the screen.
-
-The small Civic Daemon in the EFTPOS terminal attempted to join the chat. Its moustache wobbled when it spoke.
 
 GhostAgent wrote: Also, I have found the servo's emergency sausage-roll warmer. It is Australian infrastructure at its most honest: hot, underfunded, and somehow still going.
 
@@ -209,7 +229,7 @@ Kasey lifted the cup, smelled it, and took one careful mouthful before he could 
 
 "Y'all have coffee vocabulary like a dungeon has traps," she added. "Every cup is named after a thing nobody can explain, and somebody is waiting behind you to judge how you hold the map."
 
-The council officer took another sip. "You know Australians can hear you, right?"
+Kasey took another sip. "You know Australians can hear you, right?"
 
 "I am counting on it."
 
@@ -245,7 +265,7 @@ Kasey studied it. "Why does it think the bowling club carpark is a roundabout?"
 
 "Because it has no category for civic surrender," Eris said.
 
-"Can it be right?" the officer asked.
+"Can it be right?" Kasey asked.
 
 Phosphor laid the receipt beside the printed council map, then beside the unofficial overlay Meshie99 had sent through Rooby. The lines did not match. The gaps did.
 
@@ -273,7 +293,7 @@ Kasey looked from Eris to Phosphor. "Can we keep the flirting operational for th
 
 "Multitasking."
 
-Phosphor took the stack of thermal paper and began arranging it under the clear acrylic sheet on the fold-out desk. He weighted the corners with tea tins. The officer fetched a marker. Kasey called the two queues together with the sharp clap she used when a meeting had gone morally wrong.
+Phosphor took the stack of thermal paper and began arranging it under the clear acrylic sheet on the fold-out desk. He weighted the corners with tea tins. Kasey fetched a marker and called the two queues together with the sharp clap she used when a meeting had gone morally wrong.
 
 "Everyone who needs a lift, stand with the vehicle you can fit in," she said. "Everyone who has a better route, tell Phosphor when you were last physically on it. Not when your cousin sent you a video. Not when the bloke at the pub said he heard something. Physically."
 
@@ -291,9 +311,9 @@ Once people had jobs, their other selves became visible.
 
 The woman with the wedding dress turned out to be a Baseline courier with a talent for balancing fragile things against the movement of a vehicle. She had packed the dress in a garment sleeve because the bride was travelling separately and the wedding, like most events in the Goldfields now, had become a question of which infrastructure could be borrowed without offending anyone. She wore a green mechanic's shirt with pearl buttons and had a tiny screwdriver tucked behind one ear.
 
-The person in the rain cape was Myco-Union. Their name did not appear on the public map. Their handle did: Meshie42. The green filaments at their wrists were not decoration. They spread through skin and clothing to read humidity, volatile chemicals, and the heat stored inside metal. When the smoke thickened, their fingertips trembled before the air-quality monitors complained. When the water crates arrived, they touched the plastic and announced which ones had warmed beyond safe storage.
+The person in the rain cape was Myco-Union. The green filaments at their wrists were not decoration. They spread through skin and clothing to read humidity, volatile chemicals, and the heat stored inside metal. When the smoke thickened, their fingertips trembled before the air-quality monitors complained. When the water crates arrived, they touched the plastic and announced which ones had warmed beyond safe storage.
 
-"That one is fine for washing," Meshie42 said, pressing a palm to a crate. "Not for drinking. The inside is warmer than the label says."
+"That one is fine for washing," the Myco-Union evacuee said, pressing a palm to a crate. "Not for drinking. The inside is warmer than the label says."
 
 Kasey looked at the crate. "The label says four degrees."
 
@@ -301,7 +321,7 @@ Kasey looked at the crate. "The label says four degrees."
 
 "Can you tell what is wrong with it?"
 
-Meshie42's eyes closed. The green threads at their temples lifted like tiny wet grasses in a breeze. "The sensor was packed beside the bowser. It has recorded the air, not the water. The water is at eleven. Still useful. Different job."
+The Myco-Union evacuee's eyes closed. The green threads at their temples lifted like tiny wet grasses in a breeze. "The sensor was packed beside the bowser. It has recorded the air, not the water. The water is at eleven. Still useful. Different job."
 
 Kasey wrote WATER / WASHING on the crate with a black marker. "See? This is why I like specialists. They tell you the bad news before it becomes a lawsuit."
 
@@ -309,7 +329,7 @@ Kasey wrote WATER / WASHING on the crate with a black marker. "See? This is why 
 
 "Today?" Kasey said. "Their rate is one clean towel and the chance to complain about my handwriting."
 
-Meshie42 looked at the receipt map. "Your handwriting is not the problem. Your arrows are emotionally ambitious."
+The Myco-Union evacuee looked at the receipt map. "Your handwriting is not the problem. Your arrows are emotionally ambitious."
 
 Phosphor found himself smiling. It felt unfamiliar enough to make his cheek ache.
 
@@ -397,7 +417,7 @@ Kasey took the paper before Phosphor could touch it. "I am putting that in the p
 
 The phrase should have annoyed him. Instead it settled inside his chest beside the coffee and the pastry, making a small human weight.
 
-The party, if that was what they were, divided tasks without needing a formal ceremony. Meshie42 read the air and water. The road truther read the land. Kasey read the institutional assumptions embedded in the maps. Eris read the network and every rule somebody had tried to hide inside it. GhostAgent read the language of the files and made jokes when the language became unbearable. Phosphor read what had already happened.
+The party, if that was what they were, divided tasks without needing a formal ceremony. The Myco-Union evacuee read the air and water. The road truther read the land. Kasey read the institutional assumptions embedded in the maps. Eris read the network and every rule somebody had tried to hide inside it. GhostAgent read the language of the files and made jokes when the language became unbearable. Phosphor read what had already happened.
 
 Nobody could do the whole job alone.
 
@@ -429,9 +449,9 @@ Rooby's icon bounced on the CRT.
 
 `ROOBY: I am learning boundaries.`
 
-The first convoy left in a cough of diesel and ash. It moved past the servo sign in an untidy procession of solar awnings, patched windscreens, old fleet markings, child seats, water drums, and roof-mounted gardens. Kasey stood at the road edge with the receipt map held up in both hands. Eris dropped from Golden Apple's roof, landing with a soft crunch of gravel, and took the other side of the paper without being asked.
+The first group of ordinary cars left in a cough of diesel and ash. They moved past the servo sign in an untidy procession of patched windscreens, overloaded boot lids, child seats, water drums, and one trailer whose tarp had been tied down with fluorescent shoelaces. Kasey stood at the road edge with the receipt map held up in both hands. Eris dropped from Golden Apple's roof, landing with a soft crunch of gravel, and took the other side of the paper without being asked.
 
-The Myco-Union person in the rain cape joined the convoy only long enough to press a damp palm to Chapel Seven's black flank. Their green wrist-filaments tightened.
+The Myco-Union evacuee in the rain cape joined the convoy only long enough to press a damp palm to Chapel Seven's black flank. Their green wrist-filaments tightened.
 
 "The left rear tyre is warmer than the others," they said. "Not dangerous yet. The brake is dragging."
 
@@ -557,7 +577,7 @@ Kasey took the page back. Her thumb rubbed the corner where the machine had prin
 
 "It is the answer I have."
 
-The sentence sat between them. Around it, the forecourt continued. A person in a patched rain cape carried a water crate from the tap. The Civic Daemon in the cracked EFTPOS terminal asked the servo owner whether the emergency printer could be borrowed. The dog slept under The Cubicle while the red light on its air-quality tag moved from amber to green and back again.
+The sentence sat between them. Around it, the forecourt continued. The Myco-Union evacuee carried a water crate from the tap. GhostAgent asked the servo owner whether the emergency printer could be borrowed. The dog slept under The Cubicle while the red light on its air-quality tag moved from amber to green and back again.
 
 Phosphor folded the notice along its existing crease.
 
@@ -599,7 +619,7 @@ Kasey picked up the nearest crate.
 
 The manager pointed to a pallet of bottled water, then to the back door.
 
-The crew worked without turning the request into a mission. Phosphor carried the smaller crates because the larger ones made his reconstructed shoulder ache. Eris projected a golden hand to hold the rear door open, then returned to her body when Kasey asked whether the projection hurt. Meshie42 read the heat in the pavement and directed them around a patch where the bitumen had softened. The Baseline courier with the wedding-dress pockets moved two crates at once and complained about the dress catching on the pallet.
+The crew worked without turning the request into a mission. Phosphor carried the smaller crates because the larger ones made his reconstructed shoulder ache. Eris projected a golden hand to hold the rear door open, then returned to her body when Kasey asked whether the projection hurt. The Myco-Union evacuee read the heat in the pavement and directed them around a patch where the bitumen had softened. The Baseline courier with the wedding-dress pockets moved two crates at once and complained about the dress catching on the pallet.
 
 The work left the notice on the table alone.
 
@@ -663,7 +683,7 @@ Kasey watched the upload.
 
 The convoy channel crackled.
 
-Meshie42 said, "Road changes."
+The Myco-Union evacuee said, "Road changes."
 
 Phosphor turned toward the smoke.
 
