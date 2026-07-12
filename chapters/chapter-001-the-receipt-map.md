@@ -147,6 +147,20 @@ Kasey stared at the screen. "So the road is closed, but the official word is sti
 
 "The official word is late," Phosphor said. He slid the Victorian report beneath the receipt map. "That is different from being true."
 
+Phosphor climbed onto Chapel Seven's roof using the brass handrail and the narrow step below the hatch. The wind caught at his coat and tried to lift the top hat from his head. He held it down with one hand while Rooby routed the message through the camper's external speaker, the Southern Skystitch terminal, and every charged phone close enough to receive a local broadcast.
+
+`ROOBY: ATTENTION, MURRAVALE SERVICE CENTRE. MESHIE17 HAS CONFIRMED THE EAST ROAD IS CLOSED. THE FIRE SERVICE GATE IS SHUT. THE BRIDGE APPROACH IS COVERED IN SMOKE. DO NOT DRIVE EAST.`
+
+The message came back through the forecourt in a bright, cheerful voice that made the warning harder to ignore.
+
+`ROOBY: REPEATING. EAST ROAD CLOSED. DO NOT DRIVE EAST. THIS IS A FIRSTHAND REPORT FROM THE OLD WEIGH STATION, NOT A STALE COUNCIL MAP.`
+
+Somebody near the fuel pump swore. Someone else started the engine of a family sedan, then turned it off again. The man in the high-vis vest took off his cap and stared at the road as if it had personally betrayed him.
+
+Kasey moved into the space between the cars, holding the receipt map above her head. "Nobody takes the eastern highway. Turn toward the lower service lane for the bowling club carpark and wait for a route mark before you move again. The receipts show that place is still reachable. High vehicles stay here until we check the orchard turnoff."
+
+She pointed each driver toward the holding route, then lifted one palm whenever a car tried to angle east. The forecourt did not become calm, but its confusion acquired a direction.
+
 Kasey set the maps beside Phosphor's receipt stack and trapped the corners with the tape roll. Her boots struck the forecourt with a brisk, deliberate rhythm. When the wind caught the papers, she pinned them against her ribs with one elbow and muttered in an American Southern cadence.
 
 "Y'all hold onto these a second," she said to Phosphor. "I am fixin' to make this queue behave before it grows another head."
