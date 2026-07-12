@@ -1,6 +1,5 @@
 # Chapter Eight: The Road Closure Lottery
 
-*Close third person through Phosphor.*
 
 The road out of Newstead offered four versions of itself.
 

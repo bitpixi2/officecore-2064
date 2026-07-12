@@ -1,6 +1,5 @@
 # Chapter One: The Receipt Map
 
-*Working draft. Close third person through Phosphor.*
 
 Phosphor knew the receipt printer had entered its administrative phase when it began producing evacuation maps in the margins of sausage-roll orders.
 

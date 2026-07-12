@@ -1,6 +1,5 @@
 # Chapter Twenty-Two: Cooling And Consent
 
-*Close third person through Phosphor.*
 
 The deepest chamber was warmer than the corridor and colder than the server hall.
 

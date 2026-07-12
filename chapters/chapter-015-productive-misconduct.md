@@ -1,6 +1,5 @@
 # Chapter Fifteen: Productive Misconduct
 
-*Close third person through Eris.*
 
 Eris stole the model shard during a meeting about whether theft was the correct word.
 

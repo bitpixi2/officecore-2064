@@ -1,6 +1,5 @@
 # Chapter Twenty-Six: The Map That Burned First
 
-*Close third person through Eris.*
 
 The concrete utility room was beneath a disused council depot at the edge of Castlemaine.
 

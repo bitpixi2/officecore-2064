@@ -1,6 +1,5 @@
 # Chapter Twenty-One: Deep Office
 
-*Close third person through Eris.*
 
 The first door opened beneath the data centre's drainage system.
 

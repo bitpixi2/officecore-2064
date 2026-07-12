@@ -1,6 +1,5 @@
 # Chapter Twelve: Reclassification
 
-*Close third person through Phosphor.*
 
 The next floor was not below them.
 

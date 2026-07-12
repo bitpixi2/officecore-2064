@@ -1,6 +1,5 @@
 # Chapter Fourteen: Phosphor's Audit
 
-*Close third person through Phosphor.*
 
 Phosphor began the audit at 3:17 in the morning because the rigs had finally gone quiet and because a person who had been reconstructed from records did not trust daylight to tell the truth.
 

@@ -1,6 +1,5 @@
 # Chapter Six: The Private Offer
 
-*Close third person through Phosphor.*
 
 The edge data centre had a conference room designed to make bad news look hygienic.
 

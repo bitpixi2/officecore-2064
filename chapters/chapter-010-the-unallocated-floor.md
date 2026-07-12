@@ -1,6 +1,5 @@
 # Chapter Ten: The Unallocated Floor
 
-*Close third person through Phosphor.*
 
 The door marked `0 / STAFF ONLY` had a handle made from a polished human tooth.
 

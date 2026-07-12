@@ -1,6 +1,5 @@
 # Chapter Seven: Convoy Minutes
 
-*Close third person through Phosphor.*
 
 They reached the Newstead House Key after dark, in a convoy that looked less like an emergency service than a collection of neglected appliances refusing to die.
 

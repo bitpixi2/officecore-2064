@@ -1,6 +1,5 @@
 # Chapter Eleven: Room Zero
 
-*Close third person through Eris.*
 
 The lift opened into an airport motel.
 

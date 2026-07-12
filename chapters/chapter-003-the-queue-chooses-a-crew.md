@@ -1,6 +1,5 @@
 # Chapter Three: The Queue Chooses A Crew
 
-*Working draft. Close third person through Phosphor.*
 
 Phosphor had made lists for hospitals, funerals, closed departments, lost property rooms, municipal elections, and one disastrous birthday party where every guest had claimed the right to bring a plus-one and a folding chair.
 

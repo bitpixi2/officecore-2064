@@ -1,6 +1,5 @@
 # Chapter Twenty-Five: The Unoccupied Fire
 
-*Close third person through Phosphor.*
 
 The fire warning came through as a property update.
 

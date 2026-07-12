@@ -1,6 +1,5 @@
 # Chapter Twenty-Four: Forwarding Address
 
-*Close third person through Phosphor.*
 
 Three weeks after the transfer, the tribunal sent its acknowledgment to an address that did not exist.
 

@@ -1,6 +1,5 @@
 # Chapter Nine: Customer Care After Death
 
-*Close third person through Eris.*
 
 The abandoned customer-care centre sat behind a dead shopping complex outside Maryborough, its long frontage hidden by ornamental grasses that had grown tall enough to swallow the old sign.
 

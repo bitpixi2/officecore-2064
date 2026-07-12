@@ -1,6 +1,5 @@
 # Chapter Thirteen: The Meeting That Splits
 
-*Close third person through Phosphor.*
 
 The vote took place behind a Bunnings loading dock because the Bunnings had closed for the evening, the loading dock had shade, and somebody had found a power outlet that believed in generosity.
 

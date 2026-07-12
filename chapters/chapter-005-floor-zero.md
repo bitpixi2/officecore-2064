@@ -1,6 +1,5 @@
 # Chapter Five: Floor Zero
 
-*Working draft. Close third person through Eris.*
 
 Eris did not come back.
 

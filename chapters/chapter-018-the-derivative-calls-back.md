@@ -1,6 +1,5 @@
 # Chapter Eighteen: The Derivative Calls Back
 
-*Close third person through Phosphor.*
 
 At 8:42, every demonstration screen in the shopping centre displayed a face that could not decide whether it belonged to Kasey.
 

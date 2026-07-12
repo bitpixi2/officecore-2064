@@ -1,6 +1,5 @@
 # Chapter Two: Acting Deputy Door
 
-*Working draft. Close third person through Phosphor.*
 
 The notice remained rude even after Phosphor gave it a folder.
 

@@ -1,6 +1,5 @@
 # Chapter Twenty-Three: The Transfer
 
-*Close third person through Phosphor.*
 
 The purge began as a quiet subtraction.
 

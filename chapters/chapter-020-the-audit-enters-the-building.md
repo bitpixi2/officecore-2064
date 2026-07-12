@@ -1,6 +1,5 @@
 # Chapter Twenty: The Audit Enters The Building
 
-*Close third person through Phosphor.*
 
 They reached Barkers Creek before dawn.
 

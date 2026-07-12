@@ -1,6 +1,5 @@
 # Chapter Nineteen: Reassemble The Department
 
-*Close third person through Eris.*
 
 The vans came back because Kasey asked.
 

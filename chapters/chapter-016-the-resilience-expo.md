@@ -1,6 +1,5 @@
 # Chapter Sixteen: The Resilience Expo
 
-*Close third person through Phosphor.*
 
 Continuity staged the Resilience Expo inside a shopping centre that had died politely.
 

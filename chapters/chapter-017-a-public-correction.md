@@ -1,6 +1,5 @@
 # Chapter Seventeen: A Public Correction
 
-*Close third person through Phosphor.*
 
 The Expo stage had been locked.
 
