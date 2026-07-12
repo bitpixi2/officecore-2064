@@ -332,9 +332,3 @@ Behind them, the data centre remained standing. Somewhere below its foundations,
 
 The hidden floor had not been emptied.
 It had received a forwarding address.
-
-On the last page of the maintenance ledger, below the route and the filter-cleaning reminder, Phosphor found a temperature reading from a sensor nobody had installed.
-
-36.8 degrees.
-
-He assumed the number belonged to the weather.

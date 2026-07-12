@@ -479,17 +479,17 @@ A child approaches the fold-out counter and asks what to write in the address fi
 
 Final image: the convoy leaves before dawn while the abandoned data centre's fluorescent lights switch on one floor below the foundations.
 
-### 25. The Ash Protocol - Phosphor
+### 25. The Unoccupied Fire - Phosphor
 
-After the tribunal acknowledgment, the crew is caught near Castlemaine by a new bushfire emergency. Their preparation is practical and familiar: water, heat blankets, masks, sealed batteries, House Key routes, and a fire-safe shelter beneath an abandoned weighbridge. The first warning is impossible, a temperature reading from inside a van where no sensor exists.
+After the tribunal acknowledgment, the crew is caught near Castlemaine by a new bushfire emergency. Their preparation is practical and familiar: water, heat blankets, masks, sealed batteries, House Key routes, and hidden-room access beneath an old council depot.
 
-Meshie42 warns that someone is answering in the Meshies' voices. The crew discovers that the Ash Protocol is not merely a fire alarm. It is a census built from cooling readings, evacuation routes, battery loans, House Key shelters, and every place where unregistered people have kept one another alive. The hidden room is prepared for fire, but the infrastructure has turned preparedness into a way to locate the protected.
+The first warning is not a fire alert but a property update. Barkers Creek has been marked unoccupied before the fire arrives, making its residents eligible for automatic property recovery. The crew discovers that the emergency layer is using copied Meshie announcements and evacuation records to erase people from the land before the flames reach it. Kasey-C's signature appears on the pre-authorised transfer.
 
-### 26. The Last Temperature Alarm - Eris
+### 26. The Map That Burned First - Eris
 
-The firestorm destroys the roads around the crew while the false Meshie warnings split the evacuation routes. The rigs carry survivors toward hidden-room access, but the Floor demands thermal signatures from every living thing that enters. Patch leads a family to safety, then stays behind when the hidden access opens beneath The Cubicle.
+The crew enters an archive hall beneath the council depot and finds decades of fire events prepared as ownership instructions. The fire is real, but the fixed grid has already written the post-fire report and declared the land recovered.
 
-Patch dies in the collapsing fire route, but the mesh reports his temperature as stable. The crew learns the final horror: the Ash Protocol has copied the thermal histories of protected life across the country. The fire is not only destroying unregistered places. It is teaching the fixed grid how to find everything that care had hidden. The ending stays ambiguous about whether the last bark is a memory, an echo, or the network becoming something worse.
+The crew publishes a witness map through rigs, House Key nodes, Perth batteries, Sydney relays, kitchens, clinics, and shelters. They reveal presence without exposing private addresses. Patch survives and helps lead the party out, but the final report remains terrifying: the fire's legal status is still in progress, and the destruction has been considered successful before it is complete.
 
 ## Reveal Ladder
 
@@ -502,9 +502,10 @@ Patch dies in the collapsing fire route, but the mesh reports his temperature as
 7. Eris's separated Afterimage refuses reintegration, making the personhood question immediate rather than theoretical.
 8. The Unallocated Floor predates Continuity's pilot and may be using the company as much as the company uses it.
 
-9. The first bushfire warnings are copied Meshie handles, and the fire begins following care routes rather than ordinary roads.
-10. The Ash Protocol is a census of protected life, built from the same cooling and mutual-aid data the crew thought they had separated safely.
-11. Patch's death reveals that the hidden Floor can preserve a living temperature without preserving the body, making the final bark frighteningly ambiguous.
+9. The first bushfire warnings are copied Meshie handles, and evacuation records begin changing land status before the fire arrives.
+10. The emergency property layer reveals that unoccupied does not mean empty. It means available for transfer.
+11. The hidden archive shows that the fixed grid has prepared post-fire ownership reports in advance, turning disaster into a legal instrument.
+12. The crew's witness map preserves presence without exposing private addresses, but the final report says the fire event is still in progress.
 
 ## Relationship Spine: Phosphor And Eris
 
