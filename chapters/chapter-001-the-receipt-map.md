@@ -13,7 +13,7 @@ It had been printing the road network in a pale orange grid beneath the price of
 
 "Chapel Seven?" asked a woman passing the open hatch.
 
-She had short white hair, cut close around the ears, and the strict, unhurried expression of a council worker who had already made a decision before approaching the problem. Ash had settled in the shoulders of her navy polo shirt. Her council lanyard was tucked into the collar so it would not flap in the wind, and a laminated compliance folder was held beneath one arm. She was not a servo worker. The servo staff had gone home when the fire warnings changed. She had stopped because the name Chapel Seven was painted in small cream letters beside the camper's side hatch.
+She had short white hair, cut close around the ears, and the strict, unhurried expression of a council worker who had already made a decision before approaching the problem. Ash had settled in the shoulders of her navy polo shirt. Her council lanyard was tucked into the collar so it would not flap in the wind, and a laminated compliance folder was held beneath one arm. She had stopped because the name Chapel Seven was painted in small cream letters beside the camper's side hatch.
 
 "Is that the registered vehicle name or the operating site?" she asked.
 
