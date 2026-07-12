@@ -5,13 +5,9 @@ Phosphor knew the receipt printer had entered its administrative phase when it b
 
 Phosphor was also a Receipt Revenant. He had not been born into the condition, and he did not remember acquiring it. Psychometry was the official word in the old technical literature: the ability to read the history held by an object through touch. Phosphor preferred a less grand description. Things remembered pressure. Paper remembered being folded, signed, passed across a counter, tucked into a pocket, or held by somebody who had not yet decided whether to tell the truth.
 
+The ability was useful in archives and appalling at parties. It also had a cost: once he authenticated one version of a past, other versions became harder for his body to reach. He had learned to touch documents with two fingers, never the whole palm. He had learned to eat before using the ability, because hunger made other people's memories feel like instructions.
+
 A council ledger could give him the rhythm of a committee that had postponed the same repair for six years. A paper receipt could tell him who had paid, who had waited, who had lied about having change, or who had held it in a shaking hand. Even a Meshie blockchain ledger could carry a physical residue, not inside the chain itself but in the repeated work of maintaining it: the hot keyboard, the damp sleeve, the coffee-ringed table, the moment a person hesitated before confirming a transfer. Phosphor knew that ledgers were not people and that records did not contain a complete life. He liked them because they showed where lives had pressed against systems.
-
-The ability was useful in archives and appalling at parties. It also had a cost: once he authenticated one version of a past, other versions became harder for his body to reach.
-
-He had learned to touch documents with two fingers, never the whole palm. He had learned to eat before using the ability, because hunger made other people's memories feel like instructions. He had not learned how to stop a receipt from reminding him that he had not finished breakfast.
-
-That morning it had printed the road network in a pale orange grid beneath the price of a pineapple juice, then circled one service lane with a dotted line and the word `MAYBE`. Its thermal paper was hot enough to soften the corner of his thumb.
 
 Outside Murravale Service Centre, a mostly shuttered servo on the road between Castlemaine and Maldon, the sky had been reduced to a metallic orange lid. Ash collected in the gutters, on the windscreen wipers, in the seams of the road, and in the teeth of a plastic koala strapped to the servo sign. The sign promised HOT FOOD, COLD DRINKS, CLEAN TOILETS.
 
