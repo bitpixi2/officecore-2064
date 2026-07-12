@@ -55,15 +55,15 @@ Phosphor looked at the smoke, the evacuees, the warm receipt printer, and the li
 
 She wrote the registration number into her folder, checked the Chapel Seven stencil once more, and walked on toward the council van at the end of the forecourt. She did not ask whether anyone needed water. She did not ask who had slept in the camper. She had a route, a form, and a shift that ended at five.
 
-On its roof, the Southern Skystitch terminal held a thin blue lock through the smoke: a flat Australian-built phased-array panel, assembled in some retooled workshop up Bendigo way and repaired by whoever could still read a maintenance ledger. There was no dish to turn and no satellite drama to perform; the panel simply changed its internal geometry until a route existed. Its solar awning was down. Its side hatch had been opened to reveal the fold-out desk, the CRT, the tea tray, the stamp pad, and the first four drawers of filing cabinets that went farther into the camper than any sensible architecture allowed. Behind the fifth drawer, a narrow bunk folded down over the cab. Beneath the desk, the induction plate, water tank gauge, and emergency towel rack waited for the day shift to end. Phosphor had spent the morning reconciling two clinic invoices and a small town's smoke-damaged appointment records; tonight he would latch the files into their ceiling rail, lower his bed, and hope the water pump did not resume its opinionated clicking. The interior smelled of old carpet, hot printer ribbon, lemon furniture polish, and the ghost of every tea Phosphor had ever made there. He had not eaten since a piece of toast before dawn, but there was a warm corner of sausage roll on the desk beside the thermos, and he kept forgetting to finish it. A row of wet shoes had appeared on the beige carpet tiles. Phosphor had allowed this because the alternative was leaving people in the smoke.
+On its roof, the Southern Skystitch terminal held a thin blue lock through the smoke: a flat Australian-built phased-array panel, assembled in some retooled workshop up Bendigo way and repaired by whoever could still read a maintenance ledger. There was no dish to turn and no satellite drama to perform; the panel simply changed its internal geometry until a route existed. Its solar awning was down. Its side hatch had been opened to reveal the fold-out desk, the CRT, the tea tray, the stamp pad, and the first four drawers of filing cabinets that went farther into the camper than any sensible architecture allowed. Behind the fifth drawer, a narrow bunk folded down over the cab. Beneath the desk, the induction plate, water tank gauge, and emergency towel rack waited for the day shift to end. Phosphor had spent the morning reconciling two clinic invoices and a small town's smoke-damaged appointment records; tonight he would latch the files into their ceiling rail, lower his bed, and hope the water pump did not resume its opinionated clicking. The interior smelled of old carpet, hot printer ribbon, lemon furniture polish, and the ghost of every tea Phosphor had ever made there.
 
 He stood behind the desk in a dark technical suit cut close enough not to catch on the filing rails, a white shirt buttoned neatly at the throat despite the heat, and a black top hat with a narrow status band sewn into the satin. The coat's heat-responsive seams had given up trying to cool him and now blinked a tired green at his wrists. The hat gave strangers the impression that he had arrived from a much more orderly century. The lanyard at his waist, the ash on his cuffs, and the unsettling youth of his face corrected that impression on closer inspection.
 
-He had not allowed the thermos lid with the words KISS ME, I'M A FIRE WARDEN.
+The thermos lid beside his stamp pad read KISS ME, I'M A FIRE WARDEN. He had not chosen it.
 
-It had appeared beside his stamp pad anyway.
+The council worker had reached the van at the end of the forecourt. She turned back without hurrying, her compliance folder tucked beneath one arm.
 
-"You have a queue," the officer said.
+"You have a queue," she called.
 
 "I am aware."
 
@@ -72,6 +72,10 @@ It had appeared beside his stamp pad anyway.
 "That is also apparent."
 
 "The left queue says people who need transport. The right queue says people who know a better route."
+
+"I assumed council had one queue for everything," Phosphor called back.
+
+"It does. You have made two."
 
 Phosphor looked through the side window. She was correct. The people who needed transport stood near the battered camp chairs and the water crates. They held dogs, duffel bags, children, medication, a wedding dress in a dry-cleaning sleeve, and one desktop printer that had been carefully buckled into the front seat of a hatchback.
 
