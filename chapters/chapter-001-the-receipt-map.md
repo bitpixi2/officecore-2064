@@ -1,15 +1,15 @@
 # Chapter One: The Receipt Map
 
 
-Phosphor knew the receipt printer had entered its administrative phase when it began producing evacuation maps in the margins of sausage-roll orders.
+Phosphor knew the receipt printer had entered its administrative phase when it began producing evacuation maps in the margins of sausage-roll orders. Chapel Seven was a renegade mobile office, but during emergencies it also became a small food counter. Phosphor bought unsold sausage rolls from closing servos, reheated them in the van's warming drawer, and handed them out with tea, water, and whatever route information the official grid was refusing to deliver. The same thermal printer served both jobs. A servo purchase generated the ordinary proof of payment; Chapel Seven's route compiler used the blank margins to add a pale orange escape line, a safe meeting point, or a warning that a road had stopped being a road. Phosphor circled the route with a stamp, folded the receipt away from the grease, and gave it to whoever was leaving first. It was not approved infrastructure. That was partly why it worked.
 
-He knew it by the heat first. The paper came out too warm and curled against the heel of his hand. Then came the smell: scorched cellulose, tomato sauce, and the oily sweetness of the servo's last working fryer. Finally, the inkless marks raised themselves under his fingers as if the receipt had grown a second skin.
+He knew the printer had gone wrong by the heat first. The paper came out too warm and curled against the heel of his hand. Then came the smell: scorched cellulose, tomato sauce, and the oily sweetness of the servo's last working fryer. Finally, inkless marks raised themselves under his fingers as if the receipt had grown a second skin. The sausage-roll queue and the evacuation queue had become one physical stack on his desk, each strip carrying a transaction, a direction, and the pressure of somebody waiting for him to decide whether the route was safe.
 
 Phosphor was a Receipt Revenant. He had not been born into the condition, and he did not remember acquiring it. When he touched an object that had passed through enough hands, the history of one relationship could rise into him with unnerving clarity. A receipt could tell him who had paid, who had waited, who had lied about having change, or who had held the paper in a shaking hand. The ability was useful in archives and appalling at parties. It also had a cost: once he authenticated one version of a past, other versions became harder for his body to reach.
 
 He had learned to touch documents with two fingers, never the whole palm. He had learned to eat before using the ability, because hunger made other people's memories feel like instructions. He had not learned how to stop a receipt from reminding him that he had not finished breakfast.
 
-It had been printing the road network in a pale orange grid beneath the price of a pineapple juice, then circling one service lane with a dotted line and the word `MAYBE`. Its thermal paper was hot enough to soften the corner of his thumb.
+That morning it had printed the road network in a pale orange grid beneath the price of a pineapple juice, then circled one service lane with a dotted line and the word `MAYBE`. Its thermal paper was hot enough to soften the corner of his thumb.
 
 Outside Murravale Service Centre, a mostly shuttered servo on the road between Castlemaine and Maldon, the sky had been reduced to a metallic orange lid. Ash collected in the gutters, on the windscreen wipers, in the seams of the road, and in the teeth of a plastic koala strapped to the servo sign. The sign promised HOT FOOD, COLD DRINKS, CLEAN TOILETS.
 
