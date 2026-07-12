@@ -63,7 +63,7 @@ On its roof, the Southern Skystitch terminal held a thin blue lock through the s
 
 The thermos lid beside his stamp pad read KISS ME, I'M A FIRE WARDEN. He had not chosen it.
 
-Kasey came around The Cubicle carrying three maps, a roll of tape, and a coffee she had forgotten to drink. She looked at the forecourt, then at Phosphor.
+Kasey came around The Cubicle carrying three maps, a roll of tape, and a coffee she had forgotten to drink. She was dressed for smoke and work: cargo trousers tucked into scuffed steel-capped boots, a pale shirt with the sleeves rolled to the elbow, and an ash mask hanging under her chin. Her dark hair had been pinned up in a way that had lost the argument with the wind. A narrow scar crossed one knuckle on the hand carrying the maps. Her lanyard wallet knocked against her hip, black and practical except for the small brass key clipped to its back. She looked at the forecourt, then at Phosphor.
 
 "You have two lines," she said.
 
@@ -79,6 +79,10 @@ She tore the tape with her teeth and began marking the tables: TRANSPORT and ROU
 
 "Guess it's our turn to deal with these bushfires."
 
+Phosphor opened Chapel Seven's warming drawer. Six sausage rolls sat inside paper sleeves, rescued from the servo before its fryer was shut down. He handed the first three to the people waiting for transport, then carried the rest toward the route witnesses with a steel urn of tea balanced against his hip. Nobody had asked him to cater. He had learned that frightened people listened better when they had something hot in their hands, and that a sausage roll could turn an argument about roads into a conversation about who had mustard.
+
+The child in the yellow raincoat accepted tea with both hands. The person holding the desktop printer took a sausage roll and immediately offered half to the printer, which Phosphor recorded as either kindness or a hardware superstition. Kasey kept marking signs while Phosphor moved along the two lines, handing out food, cups, and receipt maps in whatever order the heat and the people required.
+
 Phosphor looked through the side window. She was correct. The people who needed transport stood near the battered camp chairs and the water crates. They held dogs, duffel bags, children, medication, a wedding dress in a dry-cleaning sleeve, and one desktop printer that had been carefully buckled into the front seat of a hatchback.
 
 Their vehicles made a temporary town around the bowsers: a sun-bleached Winnebago with an air-conditioning unit tied on by ratchet straps; a former ambulance painted mint green and converted into a mobile dental clinic; a grey camper with a double bench seat and a roof garden of dead herbs; three utes covered in prospecting permits and weatherproof tools. Most had arrived after some paid, half-paid, or promised job: a relay call-out, a clinic shift, a pantry delivery, a council data migration. Their work travelled with them in labelled cases, dirty mugs, charger leads, and invoices clipped above the sun visors. At the edge of the lot, a chrome caravan slept under a tarp of reflective foil, its curved roof catching the orange sky. Its windscreen showed no driver, only a slow pulse of stars.
@@ -87,7 +91,7 @@ The other half of a travelling town travelled less photogenically. It sat in lid
 
 The people who knew a better route had arranged themselves in a loose semicircle around a man wearing a high-vis vest marked `INDEPENDENT ROAD TRUTHER`.
 
-"They cannot both be right," the officer said.
+"They cannot both be right," Kasey said, looking from the route map to the road-truther.
 
 "They can," Phosphor said. "That is the trouble with roads."
 
@@ -125,7 +129,7 @@ GhostAgent wrote: Also, I have found the servo's emergency sausage-roll warmer. 
 
 `Rooby: one account is still claiming incident commander. Verification pending.`
 
-The officer stared at the screen. "Who is claiming incident commander?"
+Kasey stared at the screen. "Who is claiming incident commander?"
 
 "An administrative weather event," Phosphor said. "A temporary name would only encourage it."
 
@@ -153,19 +157,9 @@ The man considered this. "That sounds worse."
 
 Behind him, somebody laughed despite themselves. The sound was small, but it loosened the crowd by half a degree.
 
-Kasey Wren arrived from the other side of the bowsers with an armful of paper and an expression that meant a system had disappointed her personally. She was dressed for smoke and work: cargo trousers tucked into scuffed steel-capped boots, a pale shirt with the sleeves rolled to the elbow, ash mask hanging under her chin. Her dark hair had been pinned up in a way that had lost the argument with the wind. A narrow scar crossed one knuckle on the hand carrying the maps. Her lanyard wallet knocked against her hip, black and practical except for the small brass key clipped to its back.
+Kasey set the maps beside Phosphor's receipt stack and trapped the corners with the tape roll. Her boots struck the forecourt with a brisk, deliberate rhythm. When the wind caught the papers, she pinned them against her ribs with one elbow and muttered in an American Southern cadence.
 
-She had the walk of somebody from a place where weather was expected to have a personality. Her boots struck the forecourt with a brisk, deliberate rhythm. When the wind caught the papers, she trapped them against her ribs with one elbow, muttered something in an American Southern cadence, and kept moving.
-
-"Y'all hold onto these a second," she said to the council officer, handing over the maps. "I am fixin' to make this queue behave before it grows another head."
-
-The officer blinked. "Are you from Texas?"
-
-"No."
-
-"That was very Texas."
-
-"My grandmother watched a lot of television and believed a good twang could get you through any bureaucracy. Bless her heart, she was usually right."
+"Y'all hold onto these a second," she said to Phosphor. "I am fixin' to make this queue behave before it grows another head."
 
 Eris grinned from the roof. "Kasey, you are the only person in Victoria who can make a council meeting sound like a saloon duel."
 
@@ -183,7 +177,7 @@ Behind her, The Cubicle, her ex-NBN survey van, had its side panel open to form 
 
 The door clicked open with offended dignity.
 
-Eris was perched on the Cubicle's roof with one boot hooked under the roof rack. Red Flag, her old ex-library office van, sat nearby in a spill of warm golden light. The van's book-return slot had been welded shut and repurposed as a charging port. Faded silhouettes of reading children still ran along its lower panels beneath layers of stickers, arbitration notices, and a hand-painted red flag that had been touched up so often it looked alive. Through the rear doors, Phosphor could see tool drawers, old library shelving full of cables and zines, a fold-down office desk with two screens, a velvet couch bolted to the floor, and the narrow strip of polished lino Eris insisted was a dance floor. Occult desk manuals and library books leaned against vendor contracts, civic-game binders, and a labelled tray of adapters. At night the couch pulled flat, the dance floor became a passage to the fridge, and the top shelf of books came down to make room for her projection rig. Red Flag looked festive until one noticed how carefully every object had been taught to live in the same metre of air.
+Eris was perched on the Cubicle's roof with one boot hooked under the roof rack. Golden Apple, her old ex-library office van, sat nearby in a spill of warm golden light. The van's book-return slot had been welded shut and repurposed as a charging port. Faded silhouettes of reading children still ran along its lower panels beneath layers of stickers, arbitration notices, and a hand-painted red flag that had been touched up so often it looked alive. Through the rear doors, Phosphor could see tool drawers, old library shelving full of cables and zines, a fold-down office desk with two screens, a velvet couch bolted to the floor, and the narrow strip of polished lino Eris insisted was a dance floor. Occult desk manuals and library books leaned against vendor contracts, civic-game binders, and a labelled tray of adapters. At night the couch pulled flat, the dance floor became a passage to the fridge, and the top shelf of books came down to make room for her projection rig. Golden Apple looked festive until one noticed how carefully every object had been taught to live in the same metre of air.
 
 She had a signal cable in one hand and a packet of salt-and-vinegar chips in the other. Her long copper-blonde hair had been tied up with what appeared to be a printer cable, loose strands bright in the van's golden spill. A silver ring flashed through one eyebrow when she grinned.
 
@@ -303,7 +297,7 @@ The person in the rain cape was Myco-Union. Their name did not appear on the pub
 
 "That one is fine for washing," Meshie42 said, pressing a palm to a crate. "Not for drinking. The inside is warmer than the label says."
 
-The council officer looked at the crate. "The label says four degrees."
+Kasey looked at the crate. "The label says four degrees."
 
 "The label is lying politely."
 
@@ -313,7 +307,7 @@ Meshie42's eyes closed. The green threads at their temples lifted like tiny wet 
 
 Kasey wrote WATER / WASHING on the crate with a black marker. "See? This is why I like specialists. They tell you the bad news before it becomes a lawsuit."
 
-"Do you have a rate?" the officer asked.
+"Do you have a rate?" the road-truther asked.
 
 "Today?" Kasey said. "Their rate is one clean towel and the chance to complain about my handwriting."
 
@@ -397,7 +391,7 @@ The printer produced another ticket.
 
 PARTY CLERIC / SAUSAGE ROLL ACCEPTED / CONSENT DISPUTED
 
-The officer took the paper before Phosphor could touch it. "I am putting that in the public route file."
+Kasey took the paper before Phosphor could touch it. "I am putting that in the public route file."
 
 "Please do not."
 
@@ -417,11 +411,11 @@ He pressed his old brass stamp to the first receipt map.
 
 The letters came out dark and slightly crooked.
 
-The officer looked at it. "What does that stamp mean?"
+Kasey looked at it. "What does that stamp mean?"
 
 "At present?" Phosphor said. "It means this map has been seen by a person who will answer questions about it."
 
-The officer's expression moved through doubt, irritation, and calculation. Then she took the stamp from him, checked the date wheel, and stamped the council copy.
+Kasey's expression moved through doubt, irritation, and calculation. Then she took the stamp from him, checked the date wheel, and stamped the working copy.
 
 "Fine," she said. "Now it means two people."
 
@@ -437,7 +431,7 @@ Rooby's icon bounced on the CRT.
 
 `ROOBY: I am learning boundaries.`
 
-The first convoy left in a cough of diesel and ash. It moved past the servo sign in an untidy procession of solar awnings, patched windscreens, old fleet markings, child seats, water drums, and roof-mounted gardens. Kasey stood at the road edge with the receipt map held up in both hands. Eris dropped from Red Flag's roof, landing with a soft crunch of gravel, and took the other side of the paper without being asked.
+The first convoy left in a cough of diesel and ash. It moved past the servo sign in an untidy procession of solar awnings, patched windscreens, old fleet markings, child seats, water drums, and roof-mounted gardens. Kasey stood at the road edge with the receipt map held up in both hands. Eris dropped from Golden Apple's roof, landing with a soft crunch of gravel, and took the other side of the paper without being asked.
 
 The Myco-Union person in the rain cape joined the convoy only long enough to press a damp palm to Chapel Seven's black flank. Their green wrist-filaments tightened.
 
@@ -503,7 +497,7 @@ The forecourt went still in pieces. A woman near the water crates said, "What do
 
 Kasey was already reading. Her face had emptied of everything except concentration.
 
-Eris came to stand beside her. The golden light from Red Flag made the copper in her hair look almost luminous.
+Eris came to stand beside her. The golden light from Golden Apple made the copper in her hair look almost luminous.
 
 "Tell me that is fake," Eris said.
 

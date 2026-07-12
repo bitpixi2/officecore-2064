@@ -27,7 +27,7 @@ Kasey stood at the open hatch, looking out at the forecourt. The white corporate
 
 The road-truther, who had become noticeably less independent since the smoke thickened, shifted his high-vis vest. "Can a gate do that?"
 
-Eris stepped down from Red Flag's side ladder. "Most gates can do anything when they've got an invoice and a grudge."
+Eris stepped down from Golden Apple's side ladder. "Most gates can do anything when they've got an invoice and a grudge."
 
 "Helpful," Kasey said.
 
@@ -109,7 +109,7 @@ The mourning bug emitted a thin, unhappy chirp. A new line opened across its dis
 
 Kasey's hand closed around the brass key on her wallet.
 
-Eris read the line over his shoulder. The warm golden light from Red Flag flickered across the glass.
+Eris read the line over his shoulder. The warm golden light from Golden Apple flickered across the glass.
 
 "That is a work twin," she said.
 
@@ -485,7 +485,7 @@ Phosphor considered this list. "Chapel Seven has cork fibre, three thermal curta
 
 "Luxury archive technology with audited terminology."
 
-Kasey checked the solar forecast on her lanyard. "The Cubicle can give us filtered cooling for four hours if I stop paid work, six if Red Flag shares storage, or eight if the sun comes through before the ash coats everything again. After that we choose between the fridge, the filter, and being comfortable."
+Kasey checked the solar forecast on her lanyard. "The Cubicle can give us filtered cooling for four hours if I stop paid work, six if Golden Apple shares storage, or eight if the sun comes through before the ash coats everything again. After that we choose between the fridge, the filter, and being comfortable."
 
 "The fridge and filter," Phosphor said.
 
@@ -531,7 +531,7 @@ Rooby hesitated. That was new.
 
 `ROOBY: It is marked personal.`
 
-Kasey looked at the people gathered under the servo awning. The council communications officer was holding two queues together with a marker and a stare. A water runner had set down a crate and was already being asked to solve a different problem. The road-truther was helping a child tape the receipt map to the side of a camper. Behind them, the black spine of Chapel Seven, the patched white body of The Cubicle, and Red Flag's golden-lit office-library interior made a crooked little street against the smoke. Eris stood close enough to Kasey that their shoulders almost touched and not close enough that anybody could call it comfort.
+Kasey looked at the people gathered under the servo awning. The council communications officer was holding two queues together with a marker and a stare. A water runner had set down a crate and was already being asked to solve a different problem. The road-truther was helping a child tape the receipt map to the side of a camper. Behind them, the black spine of Chapel Seven, the patched white body of The Cubicle, and Golden Apple's golden-lit office-library interior made a crooked little street against the smoke. Eris stood close enough to Kasey that their shoulders almost touched and not close enough that anybody could call it comfort.
 
 "Play it," Kasey said again. "Here."
 

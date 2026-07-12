@@ -37,9 +37,9 @@ The spill ran over her knuckles. She ignored it.
 
 "No," Phosphor said. "It is a property status."
 
-The van's interior seemed to contract. The filing wall, the folded desk, and the narrow aisle became too close around them. Outside, someone in Red Flag started an engine. The sound came through the thin walls as a low mechanical pulse.
+The van's interior seemed to contract. The filing wall, the folded desk, and the narrow aisle became too close around them. Outside, someone in Golden Apple started an engine. The sound came through the thin walls as a low mechanical pulse.
 
-Eris appeared in the doorway as a gold-edged projection. Her copper-blonde hair was loose over a black jacket with gold thread at the shoulders. Behind her projected face, the dark outline of Red Flag's office remained visible: occult books in a crate, cables looped around the chair, the projection harness braced against the wall.
+Eris appeared in the doorway as a gold-edged projection. Her copper-blonde hair was loose over a black jacket with gold thread at the shoulders. Behind her projected face, the dark outline of Golden Apple's office remained visible: occult books in a crate, cables looped around the chair, the projection harness braced against the wall.
 
 "Show me the metadata," she said.
 
@@ -179,7 +179,7 @@ Phosphor looked at the map. "The fire is moving south."
 
 "Then we have less time."
 
-They prepared without talking about courage. The Cubicle received the water drums, fire blankets, and two people from the mechanics yard who had been sheltering in the office. Red Flag carried the projection harness and a manual radio. Chapel Seven carried the public record, the property file, and the old paper maps. Patch climbed into the passenger footwell and watched the road.
+They prepared without talking about courage. The Cubicle received the water drums, fire blankets, and two people from the mechanics yard who had been sheltering in the office. Golden Apple carried the projection harness and a manual radio. Chapel Seven carried the public record, the property file, and the old paper maps. Patch climbed into the passenger footwell and watched the road.
 
 Phosphor moved the printer to make room for a child. He shifted the tribunal papers beneath the bunk, strapped the tea tray down, and checked every window seal with the flat of his hand.
 

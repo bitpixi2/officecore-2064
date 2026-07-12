@@ -13,7 +13,7 @@ Phosphor sat at the end of the conference table with his top hat on his knees. T
 
 Kasey stood rather than sit. She had a habit of treating chairs in official rooms as witnesses for the other side.
 
-Eris was not physically in the room. Her body remained in Red Flag, somewhere beyond the gatehouse, held upright by the projection harness. The display panel on the wall showed her as a golden-edged figure with copper-blonde hair and a black jacket whose gold seam pulsed whenever the air-conditioning stuttered.
+Eris was not physically in the room. Her body remained in Golden Apple, somewhere beyond the gatehouse, held upright by the projection harness. The display panel on the wall showed her as a golden-edged figure with copper-blonde hair and a black jacket whose gold seam pulsed whenever the air-conditioning stuttered.
 
 She was pretending not to look at Phosphor.
 
@@ -371,7 +371,7 @@ Phosphor listened. The building had lost its visible hum, but other sounds remai
 
 The word felt physical in the dark.
 
-Eris took a small torch from her jacket. Its beam revealed the room in pieces: Kasey's black key on the table, the white photograph face-down beside it, the abandoned green apples, the cable leading to Red Flag, and Phosphor's hand still resting near the public file. The torch made everyone look unfinished.
+Eris took a small torch from her jacket. Its beam revealed the room in pieces: Kasey's black key on the table, the white photograph face-down beside it, the abandoned green apples, the cable leading to Golden Apple, and Phosphor's hand still resting near the public file. The torch made everyone look unfinished.
 
 "Before we go," Eris said, "we need a handoff."
 

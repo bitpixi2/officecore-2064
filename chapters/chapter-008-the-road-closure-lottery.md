@@ -23,7 +23,7 @@ Patch sat down.
 
 The convoy waited while smoke passed over the paddocks. The sky had gone the colour of old copper. Dry grass hissed against the roadside posts. In the distance, a line of wind turbines turned slowly through the haze, their blades pale and enormous, harvesting a wind that smelled of eucalyptus ash and hot iron.
 
-Eris leaned from Red Flag's open side door, her long copper-blonde hair tied back with a gold cable sleeve. The golden office lights behind her made the van's old library silhouettes glow against the smoke. She wore a sleeveless black utility vest over a shirt patterned with tiny gold grids. One pocket held a screwdriver. Another held a paperback about civic magic. A third held a packet of chips she had forgotten to open.
+Eris leaned from Golden Apple's open side door, her long copper-blonde hair tied back with a gold cable sleeve. The golden office lights behind her made the van's old library silhouettes glow against the smoke. She wore a sleeveless black utility vest over a shirt patterned with tiny gold grids. One pocket held a screwdriver. Another held a paperback about civic magic. A third held a packet of chips she had forgotten to open.
 
 "The map is using three fonts again," she said.
 
@@ -197,7 +197,7 @@ Kasey stood beside him, scrubbing a crescent of mud from beneath one fingernail 
 
 "The historical record is full of folks who lied about destiny so they could sell shovels."
 
-Eris leaned against Red Flag's open door. Her long copper-blonde hair had escaped its cable tie and stuck to the sweat at her neck. She had changed into a gold-threaded jacket with padded elbows, and the jacket's inner lining was printed with tiny library catalogue numbers. The heat had made her cheeks pink.
+Eris leaned against Golden Apple's open door. Her long copper-blonde hair had escaped its cable tie and stuck to the sweat at her neck. She had changed into a gold-threaded jacket with padded elbows, and the jacket's inner lining was printed with tiny library catalogue numbers. The heat had made her cheeks pink.
 
 "I found a brass screw," she said.
 
@@ -211,7 +211,7 @@ GhostAgent came over the convoy channel. "I have checked the terminology. A scre
 
 "It has declined to comment. Classic infrastructure."
 
-They packed the vans by weight. The cold-and-warm wafer went into the cake tin between route receipts and a folded map. The VIC Miner's Right cards returned to the lanyard wallet. The conductive tape went into Red Flag's office drawer. The repaired controller was wrapped in a tea towel. Kasey placed the gold-flecked creek water in a labelled bottle because the caretaker wanted a sample for the commons' records. Eris tucked the stolen-rescued screw behind her ear while she carried a toolbox and a bag of potatoes at the same time.
+They packed the vans by weight. The cold-and-warm wafer went into the cake tin between route receipts and a folded map. The VIC Miner's Right cards returned to the lanyard wallet. The conductive tape went into Golden Apple's office drawer. The repaired controller was wrapped in a tea towel. Kasey placed the gold-flecked creek water in a labelled bottle because the caretaker wanted a sample for the commons' records. Eris tucked the stolen-rescued screw behind her ear while she carried a toolbox and a bag of potatoes at the same time.
 
 Inside Chapel Seven, Phosphor shifted the filing boxes to make room for the cake tin. The movement required him to remove the CRT, slide the thermal printer onto the bed, fold the desk flat, and strap the tea tray against the wall. He worked in the cramped aisle with one shoulder turned sideways. His hat caught on a cupboard handle. A stack of blank forms slid against his ankle.
 
@@ -273,7 +273,7 @@ GhostAgent spoke through the cabin speaker. "The Cubicle is requesting a route w
 
 "It is going to be disappointed."
 
-Eris stood beside the rear hatch of Red Flag, holding the route printer's latest strip. Her gold-threaded jacket reflected the brown daylight. Her copper-blonde hair had been tied high, but smoke had flattened the loose strands against her neck.
+Eris stood beside the rear hatch of Golden Apple, holding the route printer's latest strip. Her gold-threaded jacket reflected the brown daylight. Her copper-blonde hair had been tied high, but smoke had flattened the loose strands against her neck.
 
 "The dead call centre is moving," she said.
 

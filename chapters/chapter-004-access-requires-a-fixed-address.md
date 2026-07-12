@@ -13,7 +13,7 @@ He closed the red incident file, latched it beneath Chapel Seven's desk, and tol
 
 The decision did not feel brave. It felt like putting an unprocessed form into an out-tray because the building had caught fire.
 
-Outside, the temporary department broke camp with the practised disorder of people who lived inside everything they owned. Solar awnings folded. Chairs collapsed into doors. A child's drawings vanished behind a thermal curtain. Water drums were tightened against roof racks; tool drawers slammed and locked; the grey camper's dead herb garden received one apologetic cup of washing water. A woman came to return a saucepan she had borrowed from Red Flag and stayed long enough to squeeze Kasey's elbow. A teenager in a yellow raincoat climbed onto the step of the dental ambulance to wave at the convoy until the council communications officer made her come down. The mint-green vehicle took the first evacuees east. The empty water crates were entered into the barter repo as `AVAILABLE / STACKABLE / SMELLS FAINTLY OF ORANGES`.
+Outside, the temporary department broke camp with the practised disorder of people who lived inside everything they owned. Solar awnings folded. Chairs collapsed into doors. A child's drawings vanished behind a thermal curtain. Water drums were tightened against roof racks; tool drawers slammed and locked; the grey camper's dead herb garden received one apologetic cup of washing water. A woman came to return a saucepan she had borrowed from Golden Apple and stayed long enough to squeeze Kasey's elbow. A teenager in a yellow raincoat climbed onto the step of the dental ambulance to wave at the convoy until the council communications officer made her come down. The mint-green vehicle took the first evacuees east. The empty water crates were entered into the barter repo as `AVAILABLE / STACKABLE / SMELLS FAINTLY OF ORANGES`.
 
 The council communications officer stood by the servo sign with the teenager and the road map taped to a sheet of cracked acrylic. She looked like a person who had accidentally founded a municipal body and intended to complain about it after everyone was safe.
 
@@ -27,7 +27,7 @@ Kasey climbed into The Cubicle. "Then we will be efficient until half past five 
 
 The teenager lifted the marker. "Too late."
 
-Red Flag rolled out behind The Cubicle, its old library silhouettes slipping through the smoke in golden light and cream. Chapel Seven followed. Astral Dream Machine brought up the rear without agreeing that it had joined them. Its chrome body reflected a road that was not presently there.
+Golden Apple rolled out behind The Cubicle, its old library silhouettes slipping through the smoke in golden light and cream. Chapel Seven followed. Astral Dream Machine brought up the rear without agreeing that it had joined them. Its chrome body reflected a road that was not presently there.
 
 Phosphor drove with the incident file under his desk and the impossible date under his skin. He kept reaching for the radio to tell Eris what he had found, then remembering that she was three metres away in another vehicle and would hear the fear before the words. He had never learned how to carry a secret in a body that had been assembled from other people's paperwork.
 
@@ -49,7 +49,7 @@ Ahead, The Cubicle's brake lights came on.
 
 Kasey's voice crossed the convoy channel. "Automated road gate. It wants a registered destination before it will lift."
 
-Eris answered from Red Flag. "Tell it our destination is through the gate."
+Eris answered from Golden Apple. "Tell it our destination is through the gate."
 
 "It says that is circular."
 
@@ -61,7 +61,7 @@ They stopped beside an old bluestone water race that ran under the road and away
 
 Phosphor opened Chapel Seven's side hatch. Heat came in carrying dust, eucalyptus, hot brakes, and the mineral smell of old stone.
 
-Eris was already out of Red Flag. She had put on one red welding glove and one elbow-length kitchen glove printed with lemons.
+Eris was already out of Golden Apple. She had put on one red welding glove and one elbow-length kitchen glove printed with lemons.
 
 "No," Kasey said from the gate terminal.
 
@@ -81,7 +81,7 @@ Phosphor stepped down onto the gravel. "Nettles make wine?"
 
 "Nettles make consequences," Kasey said. "Wine requires more administration."
 
-Eris opened Red Flag's rear cupboard and began removing objects: a sanitised fermentation vessel, a coil of clear tubing, an airlock, two lemons in a net bag, a packet of white-wine yeast, and a paper receipt folded around all of them.
+Eris opened Golden Apple's rear cupboard and began removing objects: a sanitised fermentation vessel, a coil of clear tubing, an airlock, two lemons in a net bag, a packet of white-wine yeast, and a paper receipt folded around all of them.
 
 Phosphor took the receipt before she could object.
 
@@ -137,7 +137,7 @@ They worked along the edge of the patch with scissors and shallow tubs. The nett
 
 Phosphor cut carefully. Each top landed in the tub with a soft vegetable weight. It was strange to handle evidence that was alive and actively opposed to being handled. Receipts submitted. Doors objected. Nettles appealed directly to the skin.
 
-Red Flag supplied a low folding table. The Cubicle supplied sugar from a sealed dry-goods drawer and citrus peel Kasey had saved in a freezer pouch because she did not believe in throwing away a useful acid. Chapel Seven supplied heated water from its solar thermal loop. The system had spent the morning rejecting heat from the roof; now Phosphor diverted a measured portion into the induction vessel.
+Golden Apple supplied a low folding table. The Cubicle supplied sugar from a sealed dry-goods drawer and citrus peel Kasey had saved in a freezer pouch because she did not believe in throwing away a useful acid. Chapel Seven supplied heated water from its solar thermal loop. The system had spent the morning rejecting heat from the roof; now Phosphor diverted a measured portion into the induction vessel.
 
 "Renewable energy," Eris said, trimming leaves from the tougher stems, "is when the sun helps you turn a hostile plant into a future bad decision."
 
@@ -315,7 +315,7 @@ Phosphor saw the solution arrive in her face and disliked it before she spoke.
 
 Celia's expression changed by less than a smile. "That category is available."
 
-"The Cubicle carries field fibre and thermal controls. Red Flag carries security diagnostics and shared storage. Chapel Seven carries records, correspondence, and an independently powered filtered workspace. The department has a six-hour witnessed duty period."
+"The Cubicle carries field fibre and thermal controls. Golden Apple carries security diagnostics and shared storage. Chapel Seven carries records, correspondence, and an independently powered filtered workspace. The department has a six-hour witnessed duty period."
 
 "And the occupants?"
 
@@ -325,7 +325,7 @@ The gate terminal processed this. Green bars moved across the vehicle lane.
 
 `THE CUBICLE: COOLING SUPPORT VEHICLE`
 
-`RED FLAG: NETWORK CONTROL VEHICLE`
+`GOLDEN APPLE: NETWORK CONTROL VEHICLE`
 
 `CHAPEL SEVEN: MOBILE RECORDS APPLIANCE`
 
@@ -421,7 +421,7 @@ Phosphor stepped closer to the camera. He kept his hands visible.
 
 Kasey looked over her shoulder. "Meshie42, can you read the gate from the outside?"
 
-Meshie42 answered through a small speaker clipped to Red Flag's mirror. The voice was soft and wet around the edges, as if it had travelled through leaves before reaching them. The Myco-Union person wore a patched rain cape despite the heat, and green filaments showed at the wrists where their skin had adapted to a life of shared fungal sensing. They crouched beside the gate's concrete footing and laid two fingers against the dust.
+Meshie42 answered through a small speaker clipped to Golden Apple's mirror. The voice was soft and wet around the edges, as if it had travelled through leaves before reaching them. The Myco-Union person wore a patched rain cape despite the heat, and green filaments showed at the wrists where their skin had adapted to a life of shared fungal sensing. They crouched beside the gate's concrete footing and laid two fingers against the dust.
 
 "The hinge is hot," Meshie42 said. "The camera is cooler. The locked pedestrian mechanism is drawing power from the emergency battery. The emergency battery believes there are no people in the smoke."
 
@@ -629,7 +629,7 @@ Kasey led them through the maintenance door. Her boots slipped once on condensat
 
 The corridor beyond the gate was narrow enough that the party had to go single file. Emergency pipes ran overhead. A line of blue light marked the floor. Every few metres, a small hatch displayed a warning about water pressure, staff access, or the presence of a climate system that had not been inspected since the last ownership change.
 
-Eris's Afterimage moved along the wall beside them. Her golden projection had regained strength inside the site's maintenance mesh, but her physical body remained in Red Flag. The image showed her in pieces: face in one camera, hands in another, hair scattered through a third.
+Eris's Afterimage moved along the wall beside them. Her golden projection had regained strength inside the site's maintenance mesh, but her physical body remained in Golden Apple. The image showed her in pieces: face in one camera, hands in another, hair scattered through a third.
 
 "I can see the intake," she said.
 

@@ -7,7 +7,7 @@ The edge campus appeared through smoke in pieces: first the perimeter fence, the
 
 The convoy approached in a line.
 
-Chapel Seven carried the records, the cake tin, the printer, the mail server, and Semaphore, who was asleep in the warmest cable cradle. The Cubicle carried spare cable, the water pump repair, three coolers, and Kasey's mobile counter. Red Flag carried the model's empty pamphlet, a fold-down office, occult manuals, a projection harness, and the gold light that made its old library silhouettes seem almost cheerful against the smoke. Astral Dream Machine brought route maps that disagreed with one another and a kettle that had survived two governments.
+Chapel Seven carried the records, the cake tin, the printer, the mail server, and Semaphore, who was asleep in the warmest cable cradle. The Cubicle carried spare cable, the water pump repair, three coolers, and Kasey's mobile counter. Golden Apple carried the model's empty pamphlet, a fold-down office, occult manuals, a projection harness, and the gold light that made its old library silhouettes seem almost cheerful against the smoke. Astral Dream Machine brought route maps that disagreed with one another and a kettle that had survived two governments.
 
 Patch ran between the rigs in a reflective vest, air-quality tag blinking amber.
 
@@ -31,7 +31,7 @@ He placed the cake tin on the desk.
 
 Kasey opened The Cubicle's counter beside him.
 
-Eris opened Red Flag's office behind them, projecting two golden screens into the smoke. The civic-game files appeared first, then the privacy notices, then the binding-arbitration documents, then a library shelf of occult desk manuals with titles that made the security camera hesitate.
+Eris opened Golden Apple's office behind them, projecting two golden screens into the smoke. The civic-game files appeared first, then the privacy notices, then the binding-arbitration documents, then a library shelf of occult desk manuals with titles that made the security camera hesitate.
 
 `THE WICCAN HANDBOOK OF DESK BLESSINGS`
 
@@ -199,7 +199,7 @@ It was not a fan. It was not a generator. It was the sound of a very large room 
 
 The rigs answered.
 
-Chapel Seven's flat Skystitch panel locked onto a blue route. The Cubicle deployed its solar shade and shifted battery priority from paid work to emergency cooling. Red Flag opened its golden office lights and projected a map across the fence. Astral Dream Machine printed a route through the campus that included a corridor beneath the foundations.
+Chapel Seven's flat Skystitch panel locked onto a blue route. The Cubicle deployed its solar shade and shifted battery priority from paid work to emergency cooling. Golden Apple opened its golden office lights and projected a map across the fence. Astral Dream Machine printed a route through the campus that included a corridor beneath the foundations.
 
 Kasey looked at the printout.
 
@@ -359,7 +359,7 @@ The camera stayed on Patch for three seconds.
 
 The gate opened.
 
-Not fully. Enough for The Cubicle to pass, with Red Flag close behind and Chapel Seven waiting until the public file had been copied to the Perth and Sydney relays. Astral Dream Machine printed a route strip and tucked it beneath the windscreen wiper.
+Not fully. Enough for The Cubicle to pass, with Golden Apple close behind and Chapel Seven waiting until the public file had been copied to the Perth and Sydney relays. Astral Dream Machine printed a route strip and tucked it beneath the windscreen wiper.
 
 It read:
 
@@ -431,7 +431,7 @@ The speaker returned to its script. "Threat language detected."
 
 The gate opened six inches.
 
-The Cubicle passed. Its passenger door opened as it moved, then shut again when the rear axle crossed the threshold. Red Flag followed, golden lights dimmed to travel mode. Chapel Seven's printer began sending the public audit through the Perth relay.
+The Cubicle passed. Its passenger door opened as it moved, then shut again when the rear axle crossed the threshold. Golden Apple followed, golden lights dimmed to travel mode. Chapel Seven's printer began sending the public audit through the Perth relay.
 
 Phosphor remained at the gate until every witness had crossed.
 

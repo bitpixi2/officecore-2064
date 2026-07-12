@@ -43,7 +43,7 @@ The hall smelled of wet towels, disinfectant, eucalyptus, and the sweet, exhaust
 
 Phosphor stood in the doorway of Chapel Seven and watched the convoy unpack itself.
 
-The rigs had been designed as offices first and homes second. Every movement required a negotiation with another movement. A desk became a bed. A bed became a storage shelf. The tea tray clipped under a crash rail. The printer sat on a foam cradle above the water filter. Three blankets came out of the same drawer as a box of network terminators. Eris had to move her occult desk manuals from Red Flag's office shelves into a waterproof laundry basket before the van could make room for Patch.
+The rigs had been designed as offices first and homes second. Every movement required a negotiation with another movement. A desk became a bed. A bed became a storage shelf. The tea tray clipped under a crash rail. The printer sat on a foam cradle above the water filter. Three blankets came out of the same drawer as a box of network terminators. Eris had to move her occult desk manuals from Golden Apple's office shelves into a waterproof laundry basket before the van could make room for Patch.
 
 "You are putting the books in with the towels," Phosphor observed.
 
@@ -97,7 +97,7 @@ Kasey tied off the bag.
 
 "Trash is proof of life."
 
-She said it lightly at first, then looked at the black shapes of the rigs beyond the hall. Their solar awnings made a ragged canopy against the night. Blue Skystitch locks winked on the roofs. A pressure fan came alive inside Red Flag and pushed a ribbon of filtered air through the open side hatch. Somewhere in The Cubicle, a damp cable was being dried with a hairdryer borrowed from the House Key bathroom.
+She said it lightly at first, then looked at the black shapes of the rigs beyond the hall. Their solar awnings made a ragged canopy against the night. Blue Skystitch locks winked on the roofs. A pressure fan came alive inside Golden Apple and pushed a ribbon of filtered air through the open side hatch. Somewhere in The Cubicle, a damp cable was being dried with a hairdryer borrowed from the House Key bathroom.
 
 "A receipt says somebody bought something," Kasey continued. "Trash says what happened after. It tells you whether people had water, whether food arrived, whether packaging was reusable, whether medicine was used or left untouched. It tells you where the sanitation system stopped working. If all of us collectively stop caring, the bins fill, pests arrive, disease rises, and people start blaming each other for the smell. Then they stop trusting the kitchen, the council, the neighbours, the whole idea that a place can keep them alive."
 
@@ -177,7 +177,7 @@ Phosphor looked toward the dark windows. Beyond them, the pepper trees moved in 
 
 Before sleep, Phosphor walked the rigs in the order of their heat.
 
-The Cubicle had a warm front cabin and a cold rear cupboard where Kasey kept the emergency water. Red Flag held heat in its gold-lit office, especially around the projection harness. Chapel Seven was the most stable, because its beige carpet tiles had been scavenged from a library renovation and had been designed to survive children, spilt tea, and decades of institutional neglect. Astral Dream Machine was impossible to measure. Its chrome skin reflected the pepper trees and the hall windows, but its internal temperature report included the phrase "emotionally temperate."
+The Cubicle had a warm front cabin and a cold rear cupboard where Kasey kept the emergency water. Golden Apple held heat in its gold-lit office, especially around the projection harness. Chapel Seven was the most stable, because its beige carpet tiles had been scavenged from a library renovation and had been designed to survive children, spilt tea, and decades of institutional neglect. Astral Dream Machine was impossible to measure. Its chrome skin reflected the pepper trees and the hall windows, but its internal temperature report included the phrase "emotionally temperate."
 
 Kasey was under The Cubicle with a headlamp between her teeth. Her copper-brown work boots protruded from beneath the chassis. She had changed into a faded purple shirt and soft track pants, but kept her tool belt on because she trusted sleep less than she trusted a ratchet.
 
@@ -215,7 +215,7 @@ Kasey smiled into the mug. "Now that's a policy with some backbone."
 
 The House Key hall had gone quiet except for pipes, fans, and the soft scrape of somebody moving a chair in the kitchen. Inside the rigs, the crew had rearranged the rooms for night. Eris's occult books were stacked in a laundry basket beside the solar battery. Phosphor's incident file rested beneath a folded blanket because the paper had become too cold. Meshie42 had connected a damp green filament to the wall's temperature sensor, asking permission from the building before borrowing its information.
 
-The work had left their hands marked. Kasey's nails held black grease. Phosphor had printer ink in the crease of his thumb. Eris, finally back in her body, had a red welt at her wrist from the projection harness and a streak of gold dust along her cheek. She sat on Red Flag's step with her boots unlaced, copper-blonde hair falling over one shoulder while she sorted three kinds of cable into three kinds of failure.
+The work had left their hands marked. Kasey's nails held black grease. Phosphor had printer ink in the crease of his thumb. Eris, finally back in her body, had a red welt at her wrist from the projection harness and a streak of gold dust along her cheek. She sat on Golden Apple's step with her boots unlaced, copper-blonde hair falling over one shoulder while she sorted three kinds of cable into three kinds of failure.
 
 "The red one is dead," Phosphor said.
 
@@ -297,7 +297,7 @@ Kasey was already awake. She had the pump drawer open and a mug balanced on the 
 
 She poured him a cup. It was Magic blend made in the House Key kitchen, strong enough to put colour back into the morning. He held it between both hands. The heat loosened the ache in his fingers.
 
-Eris came out of Red Flag wearing a long black coat over her sleep clothes. Her copper-blonde hair was braided on one side and loose on the other. She had a screwdriver tucked behind her ear.
+Eris came out of Golden Apple wearing a long black coat over her sleep clothes. Her copper-blonde hair was braided on one side and loose on the other. She had a screwdriver tucked behind her ear.
 
 "The hall has a volunteer printer," she said.
 
@@ -317,7 +317,7 @@ GhostAgent said, "The complaint has been logged and denied on the basis that the
 
 Kasey shut the pump drawer. "We leave after breakfast. We do not leave without water. We do not leave without knowing who is riding in which van."
 
-The list of passengers became the first useful minute of the day. People chose seats according to heat, motion sickness, equipment, and the need to be near a door. The child in the yellow raincoat chose The Cubicle because its window could be opened. The water runner chose Chapel Seven because the filtered air was quiet. Meshie42 chose the space near Red Flag's external sensor, where they could remain connected without entering Eris's private projection system.
+The list of passengers became the first useful minute of the day. People chose seats according to heat, motion sickness, equipment, and the need to be near a door. The child in the yellow raincoat chose The Cubicle because its window could be opened. The water runner chose Chapel Seven because the filtered air was quiet. Meshie42 chose the space near Golden Apple's external sensor, where they could remain connected without entering Eris's private projection system.
 
 The rigs folded themselves back into transit. Beds became shelves. Towels became packing material. The coffee kit clipped beneath the desk. A donated blanket filled the gap beside the printer. Nothing fit until somebody moved it twice.
 

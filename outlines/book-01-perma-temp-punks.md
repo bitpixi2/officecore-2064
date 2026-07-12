@@ -189,8 +189,8 @@ Kinds do not determine personality, morality, profession, or allegiance. Mixed o
 ### Eris - Office Of Productive Misconduct
 
 - Kind: Afterimage
-- Appearance: copper-blonde long hair, a charismatic systems vandal's wardrobe, and a warm golden glow that follows her into Red Flag's office
-- Rig: `Red Flag`, a golden-lit ex-library office van with cable nests, occult desk manuals, civic-game equipment, tool drawers, and a dance floor exactly one person wide
+- Appearance: copper-blonde long hair, a charismatic systems vandal's wardrobe, and a warm golden glow that follows her into Golden Apple's office
+- Rig: `Golden Apple`, a golden-lit ex-library office van with cable nests, occult desk manuals, civic-game equipment, tool drawers, and a dance floor exactly one person wide
 - Office: a fold-down workstation, shared screens, binding-arbitration files, and a library of occult, technical, and office-dharma books arranged according to rules she refuses to explain
 - Skill: systems vandalism, social engineering, turning rules into games people can contest
 - Livelihood: mesh maintenance, privacy and accessibility audits, and difficult vendor remediation; gives away more technical help than her invoices admit
@@ -394,9 +394,9 @@ He also finds evidence that his reconstruction was an early pilot: a compliant a
 
 ### 15. Productive Misconduct - Eris
 
-Eris steals the model shard, intending to free the work twins through a distributed release that will also expose private rig-town patterns. She hides it inside a false office-dharma pamphlet, puts Semaphore in charge of the decoy, and drives Red Flag through a service lane lined with dead shopping-centre signs. Kasey uses the apartment credential to stop her.
+Eris steals the model shard, intending to free the work twins through a distributed release that will also expose private rig-town patterns. She hides it inside a false office-dharma pamphlet, puts Semaphore in charge of the decoy, and drives Golden Apple through a service lane lined with dead shopping-centre signs. Kasey uses the apartment credential to stop her.
 
-The credential contains a privileged Continuity channel. Kasey flags the shard as stolen, locking it and exposing Red Flag's position to corporate security. The choice proves KASEY-C's prediction and violates their device boundary indirectly. Eris leaves in Red Flag. GhostAgent follows inside an unsent warning Phosphor drafted but could not make accurate enough to send, while Semaphore escapes with the real red label in its teeth.
+The credential contains a privileged Continuity channel. Kasey flags the shard as stolen, locking it and exposing Golden Apple's position to corporate security. The choice proves KASEY-C's prediction and violates their device boundary indirectly. Eris leaves in Golden Apple. GhostAgent follows inside an unsent warning Phosphor drafted but could not make accurate enough to send, while Semaphore escapes with the real red label in its teeth.
 
 ### 16. The Resilience Expo - Phosphor
 
@@ -424,7 +424,7 @@ Part turn: Kasey refuses both completion and deletion. She proposes an unauthori
 
 ### 19. Reassemble The Department - Eris
 
-Kasey cannot order the convoy back. She asks each person and names the cost. Eris returns only after Kasey gives up the apartment credential by feeding it into Red Flag's paper shredder, where it comes out as a strip of frozen plastic. GhostAgent enforces a reciprocal device boundary, with Semaphore stationed beside the consent log. Phosphor asks Eris to return without offering to clear, prove, or forgive her; he names what he wants and accepts that she may remember their fracture differently.
+Kasey cannot order the convoy back. She asks each person and names the cost. Eris returns only after Kasey gives up the apartment credential by feeding it into Golden Apple's paper shredder, where it comes out as a strip of frozen plastic. GhostAgent enforces a reciprocal device boundary, with Semaphore stationed beside the consent log. Phosphor asks Eris to return without offering to clear, prove, or forgive her; he names what he wants and accepts that she may remember their fracture differently.
 
 The rig town constitutes the `Department of Temporary Permanence` for one night, with the earlier servo queue and current residents as witnesses. The snack table is appointed catering, not government, by a narrow vote. Patch receives the ceremonial lanyard and immediately uses it to open a cupboard no human could reach.
 
@@ -471,7 +471,7 @@ The cooling holds. The purge fails. The work twins gain time, not freedom. Celia
 
 Weeks later, a tribunal has paused the national eviction notice but has not recognised mobile residency. Kasey has no apartment, no clean name, and a provisional department with an alarming inbox.
 
-Meshie99 distributes itself across a shaded rig garden, a Perth battery cache, and one stubborn sensor under the Barkers Creek floor. Phosphor begins recording memories that no receipt can prove. Eris-Red runs the provisional department's security desk from a roadwork sign and disagrees with Eris often. Eris gives Phosphor a key to Red Flag labelled `NOT EVIDENCE`. He asks before using it, and she makes him coffee badly on purpose.
+Meshie99 distributes itself across a shaded rig garden, a Perth battery cache, and one stubborn sensor under the Barkers Creek floor. Phosphor begins recording memories that no receipt can prove. Eris-Red runs the provisional department's security desk from a roadwork sign and disagrees with Eris often. Eris gives Phosphor a key to Golden Apple labelled `NOT EVIDENCE`. He asks before using it, and she makes him coffee badly on purpose.
 
 KASEY-C works from a CRT in The Cubicle under the title `Deputy Director of Decisions I Regret`. It remains useful, unsettling, funny, and capable of betrayal. The text never confirms whether its pauses, jokes, fear of deletion, or final transfer are consciousness or extremely persuasive task behaviour.
 

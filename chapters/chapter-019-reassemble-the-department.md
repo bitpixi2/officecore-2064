@@ -27,7 +27,7 @@ Then the snack table committed three sausage rolls under observer status.
 
 The rigs turned around.
 
-Eris watched them arrive through Red Flag's rear screen. Chapel Seven came first, black panels dusty, flat Skystitch terminal blue again. The Cubicle followed with its passenger door open, the damp cable drawer now labelled `DRYING / DO NOT TRUST`. Astral Dream Machine came last, chrome body reflecting a road that was not present in the car park.
+Eris watched them arrive through Golden Apple's rear screen. Chapel Seven came first, black panels dusty, flat Skystitch terminal blue again. The Cubicle followed with its passenger door open, the damp cable drawer now labelled `DRYING / DO NOT TRUST`. Astral Dream Machine came last, chrome body reflecting a road that was not present in the car park.
 
 Patch ran from one rig to the next, checking temperatures. The dog had acquired a second badge, issued by the Perth battery cooperative:
 
@@ -35,7 +35,7 @@ Patch ran from one rig to the next, checking temperatures. The dog had acquired 
 
 Semaphore sat on the roof of Chapel Seven's mail server and looked down at everyone with the exhausted authority of a small animal who had been sent through too many networks.
 
-Eris stepped from Red Flag.
+Eris stepped from Golden Apple.
 
 Kasey waited beside the shopping centre's dead fountain. Smoke moved through the broken glass roof, turning the light gold and grey. Her hair had come loose. Her shirt was stained with coffee. The cold-key hung at her throat like a tiny black warning.
 
@@ -59,7 +59,7 @@ Kasey held out the apartment credential.
 
 "I know."
 
-She put the cold-key into Red Flag's paper shredder.
+She put the cold-key into Golden Apple's paper shredder.
 
 The shredder was designed for receipts, thin forms, and the occasional printed apology. The key resisted. Frost spread across the slot. The motor groaned.
 
@@ -341,7 +341,7 @@ The first rig to move was The Cubicle. Kasey climbed into the driver's seat and 
 
 "The distinction is under review."
 
-Chapel Seven's roof panel aligned with the Perth battery yard. Blue Skystitch light travelled over the black surface. The printer inside began issuing labels for cables, water, and people who had requested not to be labelled. Eris walked beside the open rear doors of Red Flag, her copper-blonde hair tied back in a gold ribbon, one hand on the projection harness and the other on the brass property tag.
+Chapel Seven's roof panel aligned with the Perth battery yard. Blue Skystitch light travelled over the black surface. The printer inside began issuing labels for cables, water, and people who had requested not to be labelled. Eris walked beside the open rear doors of Golden Apple, her copper-blonde hair tied back in a gold ribbon, one hand on the projection harness and the other on the brass property tag.
 
 At the edge of the service lane, the food-rescue team arrived with insulated boxes. Their payment terms were written on the lid of the first box: meals for labour, no debt for eating. A House Key volunteer brought a roll of clean towels. The Sydney relay sent a tunnel map and a note from the Newtown printer:
 

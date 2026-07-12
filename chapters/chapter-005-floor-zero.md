@@ -31,9 +31,9 @@ Eris turned. The maintenance console displayed a rectangle of the outside world:
 
 A second line appeared beneath it, stamped with the small black seal from Chapel Seven.
 
-`PHOSPHOR: I AM AT THE GATE. KASEY IS HOLDING THE CONSOLE. RED FLAG HAS YOUR BODY. I AM HOLDING THE RETURN ROUTE OPEN.`
+`PHOSPHOR: I AM AT THE GATE. KASEY IS HOLDING THE CONSOLE. GOLDEN APPLE HAS YOUR BODY. I AM HOLDING THE RETURN ROUTE OPEN.`
 
-He was still there in the smoke, one hand against the gate terminal and his singed hat tilted forward, trying to authenticate a path back to her. Kasey stood beside him with the brass access token in one hand and the other braced against the console. Behind them, Red Flag's side door was open. Eris could see the dark shape of her own physical body inside the van, held upright by the projection harness while the vehicle's warm golden office lights blinked around it.
+He was still there in the smoke, one hand against the gate terminal and his singed hat tilted forward, trying to authenticate a path back to her. Kasey stood beside him with the brass access token in one hand and the other braced against the console. Behind them, Golden Apple's side door was open. Eris could see the dark shape of her own physical body inside the van, held upright by the projection harness while the vehicle's warm golden office lights blinked around it.
 
 Eris put her hand against the inside of the screen.
 
@@ -53,7 +53,7 @@ She hated the echo immediately. An echo was a recording pretending to be a reply
 
 Eris looked down at herself.
 
-The projection had dressed her in the version of Red Flag that the gate had permission to recognise: black jacket with a gold seam, black trousers, boots, cables at her belt, hair pinned up with a printer lead. The edges of her body were translucent. At the joints, the image stuttered, showing a second position a few millimetres away. Her left hand opened and closed twice when she asked it to move once.
+The projection had dressed her in the version of Golden Apple that the gate had permission to recognise: black jacket with a gold seam, black trousers, boots, cables at her belt, hair pinned up with a printer lead. The edges of her body were translucent. At the joints, the image stuttered, showing a second position a few millimetres away. Her left hand opened and closed twice when she asked it to move once.
 
 She had warned Kasey not to turn a private thing into an incident report because it scared her.
 
@@ -281,7 +281,7 @@ The room changed temperature. A cold draft moved beneath the desk. Eris could no
 
 "Because you gave them away when you wanted the game to work."
 
-The other Eris lifted her hand. Around her palm, golden light gathered into a small projected room. It showed Red Flag's office: the fold-out desk beneath the roof hatch, the occult books wedged between network manuals, the jar of brass fasteners, the copper mug with a bite missing from the handle. It showed the chair where Eris sat when she did not want to sleep yet. It showed the cables she had tied into a pattern that looked like a constellation and was, in practice, a very bad idea.
+The other Eris lifted her hand. Around her palm, golden light gathered into a small projected room. It showed Golden Apple's office: the fold-out desk beneath the roof hatch, the occult books wedged between network manuals, the jar of brass fasteners, the copper mug with a bite missing from the handle. It showed the chair where Eris sat when she did not want to sleep yet. It showed the cables she had tied into a pattern that looked like a constellation and was, in practice, a very bad idea.
 
 In the corner of the projection, Kasey stood beside the physical harness.
 
@@ -315,9 +315,9 @@ The other Eris watched. "You think a route is a line."
 
 "He has the useful ones."
 
-She tied another knot. Then another. The cable ran from the desk to the CRT, from the CRT to the corridor wall, and from the wall to a locked door marked RETURN TO SENDER. The gold light at her wrist dimmed with each connection. Her projection harness outside would be drawing power from Red Flag's auxiliary battery. The van could keep her upright for another seventeen minutes, perhaps twenty if Kasey stopped powering the golden office sign and shut down the rear fan.
+She tied another knot. Then another. The cable ran from the desk to the CRT, from the CRT to the corridor wall, and from the wall to a locked door marked RETURN TO SENDER. The gold light at her wrist dimmed with each connection. Her projection harness outside would be drawing power from Golden Apple's auxiliary battery. The van could keep her upright for another seventeen minutes, perhaps twenty if Kasey stopped powering the golden office sign and shut down the rear fan.
 
-Eris pictured Red Flag's interior. Copper-blonde hair caught on the headrest. One boot wedged against the brace bar. A harness strap cutting across her collarbone. Kasey's hands checking the voltage. Phosphor standing in the doorway with his black hat in both hands. The way he would say, "You have seven minutes of safe projection remaining," when what he meant was, "Please come back before I have to admit I cannot bring you back."
+Eris pictured Golden Apple's interior. Copper-blonde hair caught on the headrest. One boot wedged against the brace bar. A harness strap cutting across her collarbone. Kasey's hands checking the voltage. Phosphor standing in the doorway with his black hat in both hands. The way he would say, "You have seven minutes of safe projection remaining," when what he meant was, "Please come back before I have to admit I cannot bring you back."
 
 The memory steadied her.
 
@@ -477,7 +477,7 @@ Eris put both hands against it.
 
 The drawer opened anyway.
 
-Inside was Red Flag.
+Inside was Golden Apple.
 
 Not the van itself. The van's interior as a pattern: the golden light over the rear doors, the worn library shelf, the fold-down office desk, the dance floor exactly one person wide, the cable nest under the couch, the small dent above the charging port where Eris had hit it with a spanner and then blamed a vendor.
 
@@ -549,7 +549,7 @@ Eris turned toward the CRT. The other Eris's face had changed. The clean sleep w
 
 "It is the answer you are avoiding."
 
-The corridor lit again, one fluorescent tube at a time. Each light revealed a different version of the other Eris: laughing, furious, bored, afraid, leaning over a table, lying on Red Flag's narrow couch, asleep with one hand still touching a cable.
+The corridor lit again, one fluorescent tube at a time. Each light revealed a different version of the other Eris: laughing, furious, bored, afraid, leaning over a table, lying on Golden Apple's narrow couch, asleep with one hand still touching a cable.
 
 All of them looked back.
 
@@ -565,7 +565,7 @@ Kasey was outside, still trying to keep the gate terminal from classifying Eris'
 
 Phosphor was outside with one hand against the glass, sending small authenticated requests through the return route. He kept speaking even when the floor reduced his voice to text. His job, for the moment, was not to understand the corridor. It was to remain a person on the other side of it.
 
-Red Flag was outside, its couch folded, its battery being shared, its screen waiting for her return.
+Golden Apple was outside, its couch folded, its battery being shared, its screen waiting for her return.
 
 The floor offered a door.
 
@@ -581,7 +581,7 @@ The other Eris stood beside it.
 
 Eris laughed once. It came out too loud and returned from every beige wall.
 
-"I have an address. It is Red Flag."
+"I have an address. It is Golden Apple."
 
 "A vehicle is not an address."
 
@@ -609,7 +609,7 @@ The other Eris reached for the door handle.
 
 Eris saw what lay beyond it.
 
-A room made from every place she had almost stayed. The hackathon lab. Red Flag's couch. A motel room in Ballarat with a broken fan. A kitchen in Sunbury where she had borrowed a chair and forgotten to return it. A dozen doorways arranged around a clean white table.
+A room made from every place she had almost stayed. The hackathon lab. Golden Apple's couch. A motel room in Ballarat with a broken fan. A kitchen in Sunbury where she had borrowed a chair and forgotten to return it. A dozen doorways arranged around a clean white table.
 
 On the table sat Kasey's brass key.
 
@@ -767,9 +767,9 @@ Kasey looked at Eris. "Ask it what it wants."
 
 "Decide whether you agree."
 
-The apartment's front door appeared at the end of the hall. Beyond it was Red Flag's office, cramped and golden, with the fold-down desk covered in occult books, cable labels, and a mug waiting beside the printer. Eris saw her own body in the projection harness. Phosphor stood nearby. Kasey, the field one, held a towel against her neck.
+The apartment's front door appeared at the end of the hall. Beyond it was Golden Apple's office, cramped and golden, with the fold-down desk covered in occult books, cable labels, and a mug waiting beside the printer. Eris saw her own body in the projection harness. Phosphor stood nearby. Kasey, the field one, held a towel against her neck.
 
-The image was not perfect. Red Flag's floor had a coffee stain. One cabinet door hung crooked. The office was too small for privacy and too full of objects to pretend it had no history.
+The image was not perfect. Golden Apple's floor had a coffee stain. One cabinet door hung crooked. The office was too small for privacy and too full of objects to pretend it had no history.
 
 Grey Kasey took one step toward it.
 
@@ -849,7 +849,7 @@ The Floor did not answer.
 
 She left it.
 
-The next drawer opened by itself. Inside was a photograph of Red Flag's office. The van was parked beneath a gum tree. Its golden lights were on. Eris could see the crooked chair, the occult books, the cable nest, the small kitchen shelf where the Magic coffee lived.
+The next drawer opened by itself. Inside was a photograph of Golden Apple's office. The van was parked beneath a gum tree. Its golden lights were on. Eris could see the crooked chair, the occult books, the cable nest, the small kitchen shelf where the Magic coffee lived.
 
 The image showed Phosphor standing at the fold-down desk. He was not looking at the camera. He was looking at her.
 
@@ -923,7 +923,7 @@ The clerk looked at it.
 
 The room's back wall opened. Beyond it was the edge data centre's intake room, the fan turning, the clean filter wet on its frame. Kasey stood with one shoulder beneath the service shutter. Phosphor held the work light. Meshie42's green threads moved over the housing.
 
-Eris saw her own body in Red Flag's harness through the golden maintenance layer. The body had slumped. Kasey's hand was beneath her jaw. The van's battery warning flashed.
+Eris saw her own body in Golden Apple's harness through the golden maintenance layer. The body had slumped. Kasey's hand was beneath her jaw. The van's battery warning flashed.
 
 "I need to go back," Eris said.
 

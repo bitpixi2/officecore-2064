@@ -61,7 +61,7 @@ The timer dropped.
 
 Outside the chamber, the rigs began their relay.
 
-Chapel Seven's printer produced transfer receipts. The pages flew through the mail server and into GhostAgent's nested correspondence. The Cubicle routed battery power through the campus's old service network. Red Flag projected the privacy-preserving model summary onto the cooling pipes. Astral Dream Machine printed a route for the purge command and then printed a second route that contradicted it.
+Chapel Seven's printer produced transfer receipts. The pages flew through the mail server and into GhostAgent's nested correspondence. The Cubicle routed battery power through the campus's old service network. Golden Apple projected the privacy-preserving model summary onto the cooling pipes. Astral Dream Machine printed a route for the purge command and then printed a second route that contradicted it.
 
 Patch ran along the cable lines, locating the warmest points.
 

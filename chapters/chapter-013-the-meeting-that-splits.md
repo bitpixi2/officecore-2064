@@ -21,7 +21,7 @@ He could smell sawdust, hot plastic, onions from the food van across the road, a
 
 Kasey stood beside the table, shoulders square, black jacket powdered with ash. The cold-key had left a pale mark around her wrist. She had not surrendered it. She had not used it. It remained in the pocket of her trousers like a private weather system.
 
-Eris leaned against Red Flag's golden-lit side hatch. Her copper-blonde hair had been braided with a cable tie. She wore a gold-threaded jacket over a shirt from a failed civic-game launch, the front printed with a smiling cartoon ballot box that had been crossed out in black marker.
+Eris leaned against Golden Apple's golden-lit side hatch. Her copper-blonde hair had been braided with a cable tie. She wore a gold-threaded jacket over a shirt from a failed civic-game launch, the front printed with a smiling cartoon ballot box that had been crossed out in black marker.
 
 "We need an agenda," Kasey said.
 

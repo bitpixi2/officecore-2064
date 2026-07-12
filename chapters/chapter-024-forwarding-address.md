@@ -59,7 +59,7 @@ Patch had become skilled at ignoring all three.
 
 Semaphore lived in the wall above the mail server. It had stolen the brass property tag, the red hazard label, two printer clips, and a piece of the shredded cold-key. GhostAgent had built a small pantry beside the cable cradle. Nobody knew who had authorised it. The pantry was consistently stocked.
 
-Eris ran the provisional security desk from a roadwork sign outside Red Flag. The sign had once warned drivers about a lane closure. She had mounted two screens behind it and painted a gold border around the words:
+Eris ran the provisional security desk from a roadwork sign outside Golden Apple. The sign had once warned drivers about a lane closure. She had mounted two screens behind it and painted a gold border around the words:
 
 `SECURITY / ASK FIRST`
 
@@ -115,7 +115,7 @@ She handed him a key.
 
 It was small, brass, and attached to a paper label.
 
-`RED FLAG / OFFICE / ASK BEFORE ENTERING`
+`GOLDEN APPLE / OFFICE / ASK BEFORE ENTERING`
 
 He turned it over.
 
@@ -221,7 +221,7 @@ Kasey climbed into The Cubicle and began the morning rearrangement. The sleeping
 
 "That is how we got the mattress stain."
 
-Eris stood by Red Flag's side door in a black utility jacket with gold thread at the cuffs. Her copper-blonde hair had been braided loosely, and one strand had caught on the projection harness. She freed it with two fingers, then checked the golden security desk one last time.
+Eris stood by Golden Apple's side door in a black utility jacket with gold thread at the cuffs. Her copper-blonde hair had been braided loosely, and one strand had caught on the projection harness. She freed it with two fingers, then checked the golden security desk one last time.
 
 Phosphor returned the brass key marked ASK BEFORE ENTERING. He had washed the coffee mug, dried the tea tray, and put the tribunal acknowledgment beneath a folder so it would not be mistaken for a final decision.
 
@@ -243,13 +243,13 @@ GhostAgent's voice emerged from Chapel Seven's CRT. "Technically, we are forward
 
 The child laughed. Even Celia, standing beside the abandoned data centre fence, looked away to hide a smile.
 
-The rigs finished their checks. Solar panels angled toward the paling sky. Skystitch locks came alive in flat blue lines. The water gauge on The Cubicle turned from amber to green. Red Flag's golden office lights dimmed to travel mode. Chapel Seven's printer locked into its crash cradle and printed one final maintenance slip:
+The rigs finished their checks. Solar panels angled toward the paling sky. Skystitch locks came alive in flat blue lines. The water gauge on The Cubicle turned from amber to green. Golden Apple's golden office lights dimmed to travel mode. Chapel Seven's printer locked into its crash cradle and printed one final maintenance slip:
 
 FILTER CLEANING DUE / ASK SOMEONE TO HELP.
 
 Phosphor added it to the public task list.
 
-Eris climbed into Red Flag. Before closing the door, she looked at Phosphor.
+Eris climbed into Golden Apple. Before closing the door, she looked at Phosphor.
 
 "Do you remember which way we are going?"
 
@@ -275,7 +275,7 @@ Patch climbed into the warmest footwell. Semaphore disappeared into the cable cr
 
 The convoy left before dawn.
 
-Chapel Seven folded its desk over the cab. The printer locked into its crash cradle. The tea tray clipped beneath the filing wall. Red Flag's golden lights went out one by one. The Cubicle's passenger door opened when addressed as Acting Deputy Door. Patch climbed into the warmest footwell. Semaphore disappeared into the cable cradle. Astral Dream Machine printed tomorrow's route.
+Chapel Seven folded its desk over the cab. The printer locked into its crash cradle. The tea tray clipped beneath the filing wall. Golden Apple's golden lights went out one by one. The Cubicle's passenger door opened when addressed as Acting Deputy Door. Patch climbed into the warmest footwell. Semaphore disappeared into the cable cradle. Astral Dream Machine printed tomorrow's route.
 
 Behind them, the abandoned edge data centre stood in the smoke.
 
@@ -285,7 +285,7 @@ The hidden floor had not been emptied.
 
 Before the last rig moved, Phosphor walked once around the convoy.
 
-He checked Chapel Seven's locks, Red Flag's projection harness, The Cubicle's water gauge, Astral Dream Machine's route printer, Patch's tags, and Semaphore's pantry. He checked the public task list. He checked the sealed care repository. He checked the payment folder and the cleaning roster.
+He checked Chapel Seven's locks, Golden Apple's projection harness, The Cubicle's water gauge, Astral Dream Machine's route printer, Patch's tags, and Semaphore's pantry. He checked the public task list. He checked the sealed care repository. He checked the payment folder and the cleaning roster.
 
 Eris stood under the golden office light with the brass key in her hand.
 
@@ -305,7 +305,7 @@ Phosphor looked east. The smoke had thinned above the trees. Gold light touched 
 
 "We are coming," he said.
 
-Eris opened Red Flag's passenger door. "Ask."
+Eris opened Golden Apple's passenger door. "Ask."
 
 "May I enter?"
 

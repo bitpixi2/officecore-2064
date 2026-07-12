@@ -65,7 +65,7 @@ Eris took the red file from Phosphor, found the blank line, and wrote `ERIS - OF
 
 "Power contribution?" Kasey asked.
 
-"Red Flag has sixty-two percent storage, one clean solar skin, two dirty ones, and a reversible heat pump that only screams on the lower setting."
+"Golden Apple has sixty-two percent storage, one clean solar skin, two dirty ones, and a reversible heat pump that only screams on the lower setting."
 
 "How much can you share?"
 
@@ -179,7 +179,7 @@ The road-truther looked toward the road, then back at the page. "Do I need one?"
 
 He gave Phosphor a name, a time, and the exact colour the fire had been when it crossed the ridge. Phosphor wrote the useful parts down and left the rest out of the public record.
 
-By the time the first water crate was empty, the roster had become a small crowd around the fold-out desk. Chapel Seven's black flank reflected them in warped fragments: the officer's ash-streaked polo, the girl's yellow raincoat, the road-truther's high-vis vest, Kasey's pale rolled sleeves, Eris's copper-blonde hair caught in Red Flag's golden light. Beneath the desk, Phosphor could see the equipment that would have to disappear before he slept: the tea tray strapped into its crash cradle, the printer ribbon case, the water filter, the bunk latch. Beyond the reflections, the chapel's brass rails and old velvet tracks made the cramped office look half like a records office and half like a very serious travelling circus.
+By the time the first water crate was empty, the roster had become a small crowd around the fold-out desk. Chapel Seven's black flank reflected them in warped fragments: the officer's ash-streaked polo, the girl's yellow raincoat, the road-truther's high-vis vest, Kasey's pale rolled sleeves, Eris's copper-blonde hair caught in Golden Apple's golden light. Beneath the desk, Phosphor could see the equipment that would have to disappear before he slept: the tea tray strapped into its crash cradle, the printer ribbon case, the water filter, the bunk latch. Beyond the reflections, the chapel's brass rails and old velvet tracks made the cramped office look half like a records office and half like a very serious travelling circus.
 
 Nobody was volunteering for Barkers Creek exactly. They were giving the crew pieces of the right to go.
 
@@ -205,7 +205,7 @@ The officer looked up. "We have not received that update."
 
 Phosphor wanted to say that air did not file reports. Then he remembered the first day he had awakened in an archive room with ash in his lungs and a receipt stuck to his sleeve. He had been made to distrust any knowledge that did not arrive in a recognised format. He was trying to stop.
 
-Eris sat on the lip of Red Flag's open office with her boots planted on the gravel. Her copper-blonde hair had come loose from the printer cable. It fell over one shoulder in a bright, tangled sheet. She wore a black utility vest over a gold-threaded shirt, and the projection harness was visible beneath the fabric as a set of thin contacts along her ribs. Every so often, one contact lit and she flinched.
+Eris sat on the lip of Golden Apple's open office with her boots planted on the gravel. Her copper-blonde hair had come loose from the printer cable. It fell over one shoulder in a bright, tangled sheet. She wore a black utility vest over a gold-threaded shirt, and the projection harness was visible beneath the fabric as a set of thin contacts along her ribs. Every so often, one contact lit and she flinched.
 
 Phosphor noticed.
 
@@ -349,7 +349,7 @@ The girl, still holding the marker, said, "Because not everyone needs to see peo
 
 Kasey looked at her. "Exactly. Transparency is being able to inspect how a decision was made. It is not making everybody involved inspectable."
 
-Red Flag's rear screen woke in a wash of dark red. Eris dragged the witness roster into the crew repo, then split out the names, private notes, and exact destinations. Phosphor watched the folder's single glowing page become three related records: one open, one shared by the acting crew, one represented only by a sealed receipt that said authorised information existed somewhere safer.
+Golden Apple's rear screen woke in a wash of dark red. Eris dragged the witness roster into the crew repo, then split out the names, private notes, and exact destinations. Phosphor watched the folder's single glowing page become three related records: one open, one shared by the acting crew, one represented only by a sealed receipt that said authorised information existed somewhere safer.
 
 The road-truther peered over the officer's shoulder. "Is this blockchain?"
 
@@ -379,15 +379,15 @@ Rooby's icon divided into three tiny windows. New lines appeared beneath it.
 
 "Scoped manifests only," Kasey said.
 
-One by one, they approved the links. Red Flag exposed its offered battery share, clean solar skin, tools, and one carefully limited projection endpoint. The Cubicle shared available seats, cooling cable, water status, and the pump-seal fault it had been trying to classify as a lifestyle choice. Chapel Seven offered correspondence, authentication, filtered workspace, and the printer, but not the private archive behind the fifth filing drawer.
+One by one, they approved the links. Golden Apple exposed its offered battery share, clean solar skin, tools, and one carefully limited projection endpoint. The Cubicle shared available seats, cooling cable, water status, and the pump-seal fault it had been trying to classify as a lifestyle choice. Chapel Seven offered correspondence, authentication, filtered workspace, and the printer, but not the private archive behind the fifth filing drawer.
 
 Their repositories remained their own. The incident repo could ask what each rig had offered; it could not rummage through the lives surrounding the offer.
 
-Eris did the splitting with one knee on the gravel and her tablet balanced against Red Flag's tyre. Ash settled in her hair. Every time the wind moved, she had to wipe the screen with the heel of her hand before the fingerprints turned into a second interface. Kasey stood over her, reading the permissions aloud, while Phosphor held the cable slack so nobody tripped. The work was not elegant. It involved a missing adapter, a swear from the dental ambulance, and the water runner asking whether a private repository could still contain a public apology. Eris told the runner yes, but only if the apology was actually meant.
+Eris did the splitting with one knee on the gravel and her tablet balanced against Golden Apple's tyre. Ash settled in her hair. Every time the wind moved, she had to wipe the screen with the heel of her hand before the fingerprints turned into a second interface. Kasey stood over her, reading the permissions aloud, while Phosphor held the cable slack so nobody tripped. The work was not elegant. It involved a missing adapter, a swear from the dental ambulance, and the water runner asking whether a private repository could still contain a public apology. Eris told the runner yes, but only if the apology was actually meant.
 
-When the first share went through, nobody cheered. The Cubicle's battery dropped by one small green bar. Red Flag's cooling fan slowed. Kasey touched the side of her van as if checking a fever, then nodded when the domestic panel reported that the fridge was still cold. That was the moment Phosphor trusted the arrangement: not when the ledger agreed, but when the person who had offered power checked what it cost and decided to keep offering it.
+When the first share went through, nobody cheered. The Cubicle's battery dropped by one small green bar. Golden Apple's cooling fan slowed. Kasey touched the side of her van as if checking a fever, then nodded when the domestic panel reported that the fridge was still cold. That was the moment Phosphor trusted the arrangement: not when the ledger agreed, but when the person who had offered power checked what it cost and decided to keep offering it.
 
-The flat Skystitch panel sent the update outward, but it was not the only route. Red Flag passed it to Chapel Seven. Chapel Seven passed it to the mint-green dental ambulance. The ambulance found a battery-backed relay in the servo's old stormwater monitor, which found a buried cooperative line beside the disused water race. The commit travelled under the smoke toward a repair shed outside Castlemaine, then waited there for any rig heading west.
+The flat Skystitch panel sent the update outward, but it was not the only route. Golden Apple passed it to Chapel Seven. Chapel Seven passed it to the mint-green dental ambulance. The ambulance found a battery-backed relay in the servo's old stormwater monitor, which found a buried cooperative line beside the disused water race. The commit travelled under the smoke toward a repair shed outside Castlemaine, then waited there for any rig heading west.
 
 On The Cubicle's screen, the network appeared as a loose chain of gold points below the official map. It did not resemble the cloud. It resembled roots, or cracks, or a town quietly remembering where it had buried its spare keys.
 
@@ -491,7 +491,7 @@ That, Phosphor thought, was also a kind of success.
 
 `GREY CAMPER: TWO SEATS / MEDICATION HAS PRIORITY`
 
-`RED FLAG: BATTERY SHARE / 20% / FRIDGE FLOOR APPLIES`
+`GOLDEN APPLE: BATTERY SHARE / 20% / FRIDGE FLOOR APPLIES`
 
 Two messages arrived from much farther away.
 

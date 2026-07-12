@@ -107,7 +107,7 @@ Kasey stood on the threshold.
 
 "It is not real," Eris said.
 
-"Neither is Red Flag's dance floor."
+"Neither is Golden Apple's dance floor."
 
 "The dance floor has a dent from a spanner."
 

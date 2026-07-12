@@ -137,7 +137,7 @@ The screen filled with temperature readings.
 
 `NEWSTEAD HOUSE KEY / 24.1 C`
 
-`RED FLAG / GOLDEN OFFICE / 22.7 C`
+`GOLDEN APPLE / GOLDEN OFFICE / 22.7 C`
 
 `CHAPEL SEVEN / ARCHIVE STABLE`
 
@@ -299,7 +299,7 @@ Kasey looked at the glowing web of stolen care.
 
 The Floor opened below them.
 
-They fell upward through the model, past the Perth battery yard, past the House Key showers, past the golden interior of Red Flag, past every receipt and queue and handoff the system had harvested.
+They fell upward through the model, past the Perth battery yard, past the House Key showers, past the golden interior of Golden Apple, past every receipt and queue and handoff the system had harvested.
 
 They landed in the call centre's empty break room.
 

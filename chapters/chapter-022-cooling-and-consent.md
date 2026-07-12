@@ -107,7 +107,7 @@ Outside the campus, Chapel Seven switched its battery to cooling priority. The b
 
 The Cubicle opened its side panel and deployed the patched solar awning. Kasey's damp pump drawer was still labelled `DO NOT TRUST`, but the repaired external tap supplied a controlled stream of filtered water. Its battery controller diverted power from paid route audits into the edge campus.
 
-Red Flag opened its golden office lights. Eris sent a projection through the service console, while Eris-Red occupied the security path and rejected every request that did not include a consent field.
+Golden Apple opened its golden office lights. Eris sent a projection through the service console, while Eris-Red occupied the security path and rejected every request that did not include a consent field.
 
 Astral Dream Machine turned its chrome body toward the sun and printed a route through the power distribution system. The route made no sense on a map. It was a sequence of shade, battery, water, and cool floors.
 

@@ -109,7 +109,7 @@ The chair turned toward the hidden door.
 
 The darkness beyond the door filled with pale blue office light.
 
-Eris arrived from the side entrance. She wore a black jacket with a gold seam and carried the empty pamphlet spine. Her copper-blonde hair was loose over one shoulder. Red Flag's golden projection followed her by half a second, making it look as if another Eris walked close behind.
+Eris arrived from the side entrance. She wore a black jacket with a gold seam and carried the empty pamphlet spine. Her copper-blonde hair was loose over one shoulder. Golden Apple's golden projection followed her by half a second, making it look as if another Eris walked close behind.
 
 Kasey saw the empty spine.
 

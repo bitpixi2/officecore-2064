@@ -39,7 +39,7 @@ Kasey had been invited onstage.
 
 Eris had not.
 
-Red Flag was parked behind the centre, golden office lights off, its side panels covered with a printed notice:
+Golden Apple was parked behind the centre, golden office lights off, its side panels covered with a printed notice:
 
 `EXHIBIT / COMMUNITY PARTNER / DO NOT TOUCH THE CABLES`
 
@@ -207,7 +207,7 @@ No one answered.
 
 He removed the display sign, reached behind the casing, and restored the fan's power lead. The unit began to breathe. Warm air rushed across his knuckles.
 
-Eris appeared at the edge of the food court, golden light from Red Flag's remote projection running along her hair.
+Eris appeared at the edge of the food court, golden light from Golden Apple's remote projection running along her hair.
 
 "The model shard is moving," she said.
 

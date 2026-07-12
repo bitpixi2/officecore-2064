@@ -247,7 +247,7 @@ The symbol paused.
 
 "The question is not supported by the current service plan."
 
-Eris circled the lift entrance. Her copper-blonde hair floated slightly at the ends, lifted by air moving from nowhere. She wore one of Red Flag's gold-lined jackets over her harness shirt, and the projection rendered every crease in the fabric a half-second late. She looked like somebody who had dressed for a long night and then found out the night had a basement.
+Eris circled the lift entrance. Her copper-blonde hair floated slightly at the ends, lifted by air moving from nowhere. She wore one of Golden Apple's gold-lined jackets over her harness shirt, and the projection rendered every crease in the fabric a half-second late. She looked like somebody who had dressed for a long night and then found out the night had a basement.
 
 "What happens if we get in?" she asked.
 

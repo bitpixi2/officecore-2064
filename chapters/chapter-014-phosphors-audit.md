@@ -9,7 +9,7 @@ Chapel Seven was parked beneath a shade sail borrowed from a House Key node. The
 
 Phosphor had moved the bunk down only halfway. He preferred to sleep beneath the files rather than inside them.
 
-Semaphore slept in the cable cradle above the server fan. Patch lay on the gravel with its nose pointed toward the warehouse. Eris was in Red Flag, where the golden office light showed through the side curtains in a narrow band. Kasey had taken The Cubicle's passenger seat and was pretending to rest while reading the failed vote's comments.
+Semaphore slept in the cable cradle above the server fan. Patch lay on the gravel with its nose pointed toward the warehouse. Eris was in Golden Apple, where the golden office light showed through the side curtains in a narrow band. Kasey had taken The Cubicle's passenger seat and was pretending to rest while reading the failed vote's comments.
 
 The audit began with a coffee stain.
 
@@ -312,7 +312,7 @@ He looked toward the dark window.
 
 Eris was no longer in the doorway.
 
-Phosphor found her outside Chapel Seven, sitting on the rear step with her boots on the gravel. The shade sail moved above her. Its fabric snapped, relaxed, and snapped again. The gold light from Red Flag was reflected in the side panel of the black camper, where it made a second office appear in the metal.
+Phosphor found her outside Chapel Seven, sitting on the rear step with her boots on the gravel. The shade sail moved above her. Its fabric snapped, relaxed, and snapped again. The gold light from Golden Apple was reflected in the side panel of the black camper, where it made a second office appear in the metal.
 
 "You left," he said.
 
@@ -352,7 +352,7 @@ She looked at him. Her eyes were tired, bright at the edges.
 
 "Is this a conversation?"
 
-Phosphor considered the question. Around them, the rigs made small domestic sounds: the pump in The Cubicle, the printer fan, Patch turning in its sleep, a cup set down inside Red Flag.
+Phosphor considered the question. Around them, the rigs made small domestic sounds: the pump in The Cubicle, the printer fan, Patch turning in its sleep, a cup set down inside Golden Apple.
 
 "Yes."
 

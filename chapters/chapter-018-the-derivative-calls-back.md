@@ -339,7 +339,7 @@ The people moved before the official queue could answer. The Baseline volunteer 
 
 Eris projected a route across the food court tiles. Gold lines ran from the shopping centre to the service lane, from the service lane to the campus fence, and from the fence down into the old foundations. The route included shade under a delivery awning, a broken gate, a water tap, and one narrow section where the floor had no legal category.
 
-"The Cubicle can reach the intake," she said. "Chapel Seven can take the records. Red Flag can enter the maintenance layer. Astral Dream Machine can route power, assuming it stops being poetic."
+"The Cubicle can reach the intake," she said. "Chapel Seven can take the records. Golden Apple can enter the maintenance layer. Astral Dream Machine can route power, assuming it stops being poetic."
 
 The chrome caravan's printer produced a strip:
 
@@ -407,7 +407,7 @@ GhostAgent replied, "That is a classic Australian solution: take four incompatib
 
 The Cubicle's engine started outside.
 
-Through the open fire doors, Kasey saw the convoy shifting into position. The rigs were no longer parked as separate vehicles. They had formed a chain. Chapel Seven's Skystitch panel fed the Perth route. Red Flag's gold projection marked the Sydney tunnel. The Cubicle waited beside the water line. Astral Dream Machine had angled its chrome side toward the House Key doorway.
+Through the open fire doors, Kasey saw the convoy shifting into position. The rigs were no longer parked as separate vehicles. They had formed a chain. Chapel Seven's Skystitch panel fed the Perth route. Golden Apple's gold projection marked the Sydney tunnel. The Cubicle waited beside the water line. Astral Dream Machine had angled its chrome side toward the House Key doorway.
 
 Eris projected a hand onto the floor and drew a map.
 

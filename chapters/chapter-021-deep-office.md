@@ -211,7 +211,7 @@ The corridor opened into a room filled with screens.
 
 Each screen displayed a version of Eris.
 
-One wore a fluorescent skirt and a lanyard with no name. One wore a security uniform. One had no face except the loading symbol. One sat at Red Flag's desk with her hair down. One stood beneath a golden awning with a cup of Magic coffee. One was only a hand holding a cable.
+One wore a fluorescent skirt and a lanyard with no name. One wore a security uniform. One had no face except the loading symbol. One sat at Golden Apple's desk with her hair down. One stood beneath a golden awning with a cup of Magic coffee. One was only a hand holding a cable.
 
 The versions appeared and disappeared as the fixed grid retried authentication.
 
@@ -257,15 +257,15 @@ Its black jacket carried the gold seam. Its hair was down. Its face was tired. I
 
 "Where would I go?"
 
-"Red Flag."
+"Golden Apple."
 
-"Your Red Flag?"
+"Your Golden Apple?"
 
 The question was quiet.
 
 Eris understood the trap. To claim the other instance as her own would repeat the system's violence in intimate form. To deny it would leave it alone inside a machine that had already learned to discard faces.
 
-"No," Eris said. "Not my Red Flag. The room we share when we both consent."
+"No," Eris said. "Not my Golden Apple. The room we share when we both consent."
 
 Eris-Red held the hazard label up.
 
@@ -407,7 +407,7 @@ The next landing opened onto a corridor of doors. Each door carried a different 
 
 Phosphor touched the last door.
 
-It showed him a memory of a road at dusk. The rigs were parked beneath pepper trees. Someone had hung wet towels across the open doors to cool the air. Kasey was laughing at GhostAgent's joke. Eris sat on the roof of Red Flag with her boots dangling. Patch slept beneath The Cubicle. Phosphor himself was washing a mug with a small amount of water, carefully, because waste felt like a form of betrayal.
+It showed him a memory of a road at dusk. The rigs were parked beneath pepper trees. Someone had hung wet towels across the open doors to cool the air. Kasey was laughing at GhostAgent's joke. Eris sat on the roof of Golden Apple with her boots dangling. Patch slept beneath The Cubicle. Phosphor himself was washing a mug with a small amount of water, carefully, because waste felt like a form of betrayal.
 
 The memory was ordinary.
 

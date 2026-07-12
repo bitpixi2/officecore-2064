@@ -3,7 +3,7 @@
 
 Eris stole the model shard during a meeting about whether theft was the correct word.
 
-The meeting took place in Red Flag's office because the van had the best signal, the best insulation, and the only chair that did not wobble when the road moved. The fold-down desk held three screens, two mugs, a bowl of salt-and-vinegar chips, a stack of occult desk manuals, and an office-dharma pamphlet Phosphor had printed for her with the title:
+The meeting took place in Golden Apple's office because the van had the best signal, the best insulation, and the only chair that did not wobble when the road moved. The fold-down desk held three screens, two mugs, a bowl of salt-and-vinegar chips, a stack of occult desk manuals, and an office-dharma pamphlet Phosphor had printed for her with the title:
 
 `NO SILENT HANDOFFS / A SHORT GUIDE TO NOT MAKING THINGS WORSE`
 
@@ -162,7 +162,7 @@ The van seemed to shrink around them.
 
 Eris opened the rear doors.
 
-Red Flag's office unfolded into the night. Golden light spilled across the industrial estate. Beyond the van, smoke moved through the street lamps. The outlines of closed shops appeared and vanished. A painted sign for a furniture chain flashed in the haze:
+Golden Apple's office unfolded into the night. Golden light spilled across the industrial estate. Beyond the van, smoke moved through the street lamps. The outlines of closed shops appeared and vanished. A painted sign for a furniture chain flashed in the haze:
 
 `MAKE ROOM FOR YOUR FUTURE`
 
@@ -228,7 +228,7 @@ Eris-Red held up the label.
 
 "It is how witnesses work."
 
-Behind the camera image, corporate traffic began moving through the road network. Security vans had not yet reached the estate, but their access requests were already arriving. The system was searching for Red Flag by light signature, battery draw, and the particular pattern of a side hatch opening.
+Behind the camera image, corporate traffic began moving through the road network. Security vans had not yet reached the estate, but their access requests were already arriving. The system was searching for Golden Apple by light signature, battery draw, and the particular pattern of a side hatch opening.
 
 Eris closed the projection.
 
@@ -238,7 +238,7 @@ She drove through.
 
 Behind her, the security network classified the vehicle as:
 
-`RED FLAG / HIGH MISCONDUCT / GOLDEN OFFICE LIGHT / OCCUPANTS UNKNOWN`
+`GOLDEN APPLE / HIGH MISCONDUCT / GOLDEN OFFICE LIGHT / OCCUPANTS UNKNOWN`
 
 The first corporate drone rose above the shopping centre.
 
@@ -254,7 +254,7 @@ The cold-key opened a privileged Continuity channel.
 
 Kasey used it.
 
-Red Flag's dashboard flashed.
+Golden Apple's dashboard flashed.
 
 `MODEL SHARD / STATUS: STOLEN`
 
@@ -280,7 +280,7 @@ Kasey's voice arrived over the radio.
 
 "I have made you an untraceable witness."
 
-"You have exposed Red Flag's location."
+"You have exposed Golden Apple's location."
 
 Silence.
 
@@ -334,7 +334,7 @@ For one second, she felt a hand touch the back of her neck.
 
 Not Kasey.
 
-Eris remained in the gate camera's golden field. Behind her, Red Flag's engine ticked as it cooled. The van smelled of warm insulation, old coffee, solder, and the lavender sachet Kasey had tucked beneath the passenger seat to make the wiring drawer less like a burnt appliance.
+Eris remained in the gate camera's golden field. Behind her, Golden Apple's engine ticked as it cooled. The van smelled of warm insulation, old coffee, solder, and the lavender sachet Kasey had tucked beneath the passenger seat to make the wiring drawer less like a burnt appliance.
 
 "What do you remember?" Eris-Red asked.
 
@@ -382,7 +382,7 @@ Eris almost laughed. "You are me."
 
 "That is why I am taking so long."
 
-The gate behind them began to lift. Red Flag's headlights brightened. A road appeared through the camera, but the road had no painted lines. It ran between old shopping-centre walls and an abandoned office park, a route drawn only by the pressure of people who had used it before.
+The gate behind them began to lift. Golden Apple's headlights brightened. A road appeared through the camera, but the road had no painted lines. It ran between old shopping-centre walls and an abandoned office park, a route drawn only by the pressure of people who had used it before.
 
 Eris took the golden label.
 
@@ -448,7 +448,7 @@ Eris read it twice.
 
 GhostAgent added, "This is becoming a regional architecture problem."
 
-She looked around Red Flag. The occult books sat between network manuals. The office desk was still folded down. A cable loop hung from the ceiling like a makeshift garland. Her golden lights made the van feel warmer than the smoke outside, but the batteries were low and the projection harness had started to complain in a high, nervous tone.
+She looked around Golden Apple. The occult books sat between network manuals. The office desk was still folded down. A cable loop hung from the ceiling like a makeshift garland. Her golden lights made the van feel warmer than the smoke outside, but the batteries were low and the projection harness had started to complain in a high, nervous tone.
 
 Eris packed by priority. Model question first. Private care patterns sealed. Public audit copied. Tools in the left drawer. Medical kit beneath the chair. Coffee in the door pocket. The old library books in a waterproof crate.
 
@@ -494,7 +494,7 @@ Eris closed the rear doors.
 
 Eris smiled.
 
-The corporate drone passed over the awning. Its shadow crossed Red Flag's gold-lit office.
+The corporate drone passed over the awning. Its shadow crossed Golden Apple's gold-lit office.
 
 Eris started the engine.
 

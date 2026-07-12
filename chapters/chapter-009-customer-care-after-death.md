@@ -11,7 +11,7 @@ The building had been designed to receive complaints from people who could not s
 
 The smoke had reached them as a brown veil. It softened the edges of the building and made every window look occupied.
 
-Red Flag rolled into the car park with its golden office lights on. Eris drove one-handed, her other hand resting on the model shard inside the false office-dharma pamphlet. The shard was not heavy, but it had the dense, private pressure of a thing that had been stolen by many people before she stole it.
+Golden Apple rolled into the car park with its golden office lights on. Eris drove one-handed, her other hand resting on the model shard inside the false office-dharma pamphlet. The shard was not heavy, but it had the dense, private pressure of a thing that had been stolen by many people before she stole it.
 
 Phosphor's voice came through the van radio.
 
@@ -23,7 +23,7 @@ Phosphor's voice came through the van radio.
 
 "Nothing is usually considered useful until I put it in an office."
 
-Behind Red Flag, Chapel Seven settled its suspension with a groan. The black camper's beige curtains were drawn against the smoke. The Cubicle's passenger door opened and closed twice, trying to be addressed correctly. Astral Dream Machine parked at an angle that made it look as if the chrome caravan had arrived from a different road.
+Behind Golden Apple, Chapel Seven settled its suspension with a groan. The black camper's beige curtains were drawn against the smoke. The Cubicle's passenger door opened and closed twice, trying to be addressed correctly. Astral Dream Machine parked at an angle that made it look as if the chrome caravan had arrived from a different road.
 
 Patch jumped down first. The red-speckled cattle dog sniffed the air, then the concrete, then the shadow beneath a trolley bay. Its air-quality tag blinked amber.
 
@@ -179,7 +179,7 @@ Headsets stopped ringing.
 
 The small screens turned toward her.
 
-Each one showed a different view of Red Flag's office. The fold-down desk. The occult books. The golden light. The narrow dance floor. The velvet couch. The coffee cups. Phosphor's hand on the edge of the door, waiting to be asked.
+Each one showed a different view of Golden Apple's office. The fold-down desk. The occult books. The golden light. The narrow dance floor. The velvet couch. The coffee cups. Phosphor's hand on the edge of the door, waiting to be asked.
 
 "They have your van," Kasey said.
 

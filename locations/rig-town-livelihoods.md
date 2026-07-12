@@ -82,7 +82,7 @@ The vans do not solve climate with oversized air conditioners. Their first line 
 
 Every option has a tradeoff. Insulation consumes precious wall depth. Exterior shade must be folded before driving. Evaporative cooling uses water and may be useless in the wrong conditions. Filters clog with ash. Solar panels need cleaning, sun, and safe roof access. A heat pump is efficient but still loses the argument when the fridge, comms, and medical equipment have priority.
 
-Give each rig a recognisable thermal personality. Chapel Seven is quiet, dark, heavily insulated, and good at holding yesterday's temperature. The Cubicle uses repaired modular panels, aggressive zoning, and a controller Kasey has labelled with legal warnings. Red Flag opens wide at night, closes into a filtered golden office cocoon by day, and lends battery power while pretending not to keep track. Its library shelves hold occult desk manuals beside client files and civic-game binders, because Eris refuses to separate a working office from a magical one.
+Give each rig a recognisable thermal personality. Chapel Seven is quiet, dark, heavily insulated, and good at holding yesterday's temperature. The Cubicle uses repaired modular panels, aggressive zoning, and a controller Kasey has labelled with legal warnings. Golden Apple opens wide at night, closes into a filtered golden office cocoon by day, and lends battery power while pretending not to keep track. Its library shelves hold occult desk manuals beside client files and civic-game binders, because Eris refuses to separate a working office from a magical one.
 
 ### Refuse Is Also Infrastructure
 

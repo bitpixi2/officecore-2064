@@ -7,7 +7,7 @@ The depot had once stored road signs, flood barriers, salt bags, and yellow plas
 
 The crew arrived in a line.
 
-The Cubicle went first, its solar awning folded tight and its passenger door opening each time Kasey leaned toward it. Red Flag followed with its gold lights extinguished. Chapel Seven stopped beside the depot office, where Phosphor could see a council map still pinned to the wall beneath a layer of dust. Patch jumped down and walked immediately toward the drain.
+The Cubicle went first, its solar awning folded tight and its passenger door opening each time Kasey leaned toward it. Golden Apple followed with its gold lights extinguished. Chapel Seven stopped beside the depot office, where Phosphor could see a council map still pinned to the wall beneath a layer of dust. Patch jumped down and walked immediately toward the drain.
 
 The dog sniffed the concrete.
 
@@ -145,7 +145,7 @@ Eris looked at her. "That is a dangerous choice."
 
 The crew worked.
 
-Chapel Seven's printer began producing blank witness forms. The Cubicle's battery fed the archive hall through a cable passed down the drain. Red Flag projected the map into the public mesh without opening private care records. GhostAgent nested each attestation inside a legal notice, a maintenance receipt, a food-bank inventory, or a House Key cleaning roster.
+Chapel Seven's printer began producing blank witness forms. The Cubicle's battery fed the archive hall through a cable passed down the drain. Golden Apple projected the map into the public mesh without opening private care records. GhostAgent nested each attestation inside a legal notice, a maintenance receipt, a food-bank inventory, or a House Key cleaning roster.
 
 The work took time.
 
