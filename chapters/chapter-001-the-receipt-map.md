@@ -5,19 +5,17 @@ Phosphor knew the receipt printer had entered its administrative phase when it b
 
 Phosphor was also a Receipt Revenant. He had not been born into the condition, and he did not remember acquiring it. Psychometry was the official word in the old technical literature: the ability to read the history held by an object through touch. Phosphor preferred a less grand description. Things remembered pressure. Paper remembered being folded, signed, passed across a counter, tucked into a pocket, or held by somebody who had not yet decided whether to tell the truth.
 
-The ability was useful in archives and appalling at parties. It also had a cost: once he authenticated one version of a past, other versions became harder for his body to reach. He had learned to touch documents with two fingers, never the whole palm. He had learned to eat before using the ability, because hunger made other people's memories feel like instructions.
+The ability was useful in archives and appalling at parties. It also had a cost: once he authenticated one version of a past, other versions became harder for his body to reach. He had learned to touch documents with two fingers, never the whole palm. Even a Meshie blockchain ledger could carry a physical residue, not inside the chain itself but in the repeated work of maintaining it: the hot keyboard, the damp sleeve, the coffee-ringed table, the moment a person hesitated before confirming a transfer. Phosphor knew that ledgers were not people, and that records did not contain a complete life. He still liked them because they showed where lives had pressed against systems.
 
-A council ledger could give him the rhythm of a committee that had postponed the same repair for six years. A paper receipt could tell him who had paid, who had waited, who had lied about having change, or who had held it in a shaking hand. Even a Meshie blockchain ledger could carry a physical residue, not inside the chain itself but in the repeated work of maintaining it: the hot keyboard, the damp sleeve, the coffee-ringed table, the moment a person hesitated before confirming a transfer. Phosphor knew that ledgers were not people and that records did not contain a complete life. He liked them because they showed where lives had pressed against systems.
+Phosphor looked out at the smoke and the line of vehicles waiting for somebody to decide what counted as an emergency. They were outside Murravale Service Centre, a mostly shuttered servo on the road between Castlemaine and Maldon, where the sky had been reduced to a metallic orange lid. Some bits of ash collected in the gutters, on the windscreen wipers, in the seams of the road, and in the teeth of a large plastic koala that was strapped to the servo sign. The wooden sign promised HOT FOOD, COLD DRINKS, CLEAN TOILETS.
 
-Outside Murravale Service Centre, a mostly shuttered servo on the road between Castlemaine and Maldon, the sky had been reduced to a metallic orange lid. Ash collected in the gutters, on the windscreen wipers, in the seams of the road, and in the teeth of a plastic koala strapped to the servo sign. The sign promised HOT FOOD, COLD DRINKS, CLEAN TOILETS.
+The hot-food claim remained true only because Phosphor had bought the last batch before the fryer shut down. Cold drinks depended on the generator, and the promise of clean toilets had become a matter of optimism. He expected many of the stranded people to 'pee on a tree' eventually. The trees that were left. 
 
-Beyond the forecourt, the central Goldfields had gone almost flat. The low ridges toward Maldon were swallowed behind smoke; old tailings mounds, normally the colour of biscuit crumbs, had turned the colour of wet iron. Grey box and stringybark stood in the paddocks with their leaves turned pale-side out against the heat. Somewhere past the roadworks, an abandoned water race ran beside the highway like a second, narrower road, its stonework half-hidden by dry grass and solar cable.
+Beyond the forecourt, the central Goldfields had gone almost flat. The low ridges toward Maldon were swallowed behind the smoke; old tailings mounds, normally the colour of biscuit crumbs, had turned the colour of wet iron. Grey box and stringybark stood in the paddocks with their leaves turned pale-side out against the heat. Somewhere past the roadworks, an abandoned water race ran beside the highway like a second, narrower road, its stonework half-hidden by dry grass and solar cable.
 
-The hot-food claim remained true only because Phosphor had bought the last batch before the fryer shut down. Cold drinks depended on the generator, and the promise of clean toilets had become a matter of optimism.
+Phosphor stood beside his Meshie vehicle's open hatch, looking nothing like the "digital hobo" stereotype some people used for the Meshies. He looked as if a nineteenth-century records clerk and an exhausted 1980s office worker had been issued the same body and told to report for duty in the smoke. His dark technical suit was cut close enough not to catch on the filing rails; beneath it, a white shirt stayed buttoned neatly at the throat despite the heat. A black top hat sat squarely on his head, its narrow status band pulsing a muted green whenever the suit's heat-responsive seams gave up trying to cool him. The lanyard around his neck made him look like an official office worker.
 
-Phosphor stood beside Chapel Seven's open hatch, looking nothing like the "digital hobo" stereotype some people used for the Meshies. He looked as if a nineteenth-century records clerk and an exhausted 1980s office worker had been issued the same body and told to report for duty in the smoke. His dark technical suit was cut close enough not to catch on the filing rails; beneath it, a white shirt stayed buttoned neatly at the throat despite the heat. A black top hat sat squarely on his head, its narrow status band pulsing a muted green whenever the suit's heat-responsive seams gave up trying to cool him. The lanyard around his neck made him look like an official office worker; the ash on his cuffs and the unsettling youth of his face made the period confusion worse on closer inspection.
-
-Chapel Seven stood beside the diesel bowsers in its black, immaculate disapproval. It had once been a compact funeral coach, judging from the long silver rails beneath its windows and the improbable amount of suspension. Somebody had turned it into a mobile office chapel without removing the velvet curtain tracks, the brass handrails, or the small enamel lamp above the driver's seat. Matte-black panels hid the solar cells. Cork-fibre insulation filled the old coffin rails; quilted thermal curtains sealed the cab from the office, keeping one small human-sized zone cool instead of attempting to refrigerate the entire history of the vehicle. Its wheels were dusted red from the Goldfields tracks; its chrome grille had been polished anyway. It was not a church, and Phosphor kept no cross, icon, or inherited god inside it. In the office-dharma tradition, chapel meant a mobile room reserved for records, repair, witness, and the restoration of usable exits. His technomancer theology called its disputed presence the Operator: a god, goddess, daemon, or useful fiction that lived in the handoff between a person and the next action. He did not pray to it exactly. He checked his power levels, would tidy his desk and files, and would leave a blank sheet ready for whatever needed to be recorded next.
+Chapel Seven was his vehicle, parked on the other side of the diesel bowsers in its black, immaculate disapproval. It had once been a compact funeral coach, judging from the long silver rails beneath its windows and the improbable amount of suspension. Somebody had turned it into a mobile office chapel without removing the velvet curtain tracks, the brass handrails, or the small enamel lamp above the driver's seat. Matte-black panels hid the solar cells. Cork-fibre insulation filled the old coffin rails; quilted thermal curtains sealed the cab from the office, keeping one small human-sized zone cool instead of attempting to refrigerate the entire history of the vehicle. Its wheels were dusted red from the Goldfields tracks; its chrome grille had been polished anyway. It was not a church, and Phosphor kept no cross, icon, or inherited god inside it. In the office-dharma tradition, chapel meant a mobile room reserved for records, repair, witness, and the restoration of usable exits. His technomancer theology called its disputed presence the Operator: a god, goddess, daemon, or useful fiction that lived in the handoff between a person and the next action. He did not pray to it exactly. He checked his power levels, would tidy his desk and files, and would leave a blank sheet ready for whatever needed to be recorded next.
 
 "Chapel Seven?" asked a woman passing the open hatch.
 
@@ -27,13 +25,11 @@ She had short white hair, cut close around the ears, and the strict, unhurried e
 
 Phosphor looked at the lettering. The paint had been applied by hand, one careful stroke at a time, after the old funeral coach became a mobile office.
 
-"It is my work and my play," he said. "Work which is seven days a week. I call it the office-dharma. No rest, really."
+"It is both my work and my play," he said. "Seven days a week. I call it the office-dharma."
 
-The council worker considered him for a moment. She did not look moved.
+The council worker considered him for a moment. She did not look moved, recognising that he was skirting around answering on if there were or were not any registrations.
 
-"That was not an answer about registrations."
-
-"That sounds personally meaningful," she said. "It is not a land-use category. I need to know whether Chapel Seven is parked here for emergency operations, overnight occupation, or commercial activity."
+"That sounds personally meaningful," she said. "Let me ask another way. I need to know whether Chapel Seven is parked here for emergency operations, overnight occupation, or commercial activity."
 
 "Yes," Phosphor said.
 
@@ -41,19 +37,13 @@ Her mouth tightened.
 
 "You will need to select one."
 
-"Of course. Seven days of work, and the form still takes one box at a time."
+Phosphor paused, chuckled, and kept glacing at the woman's watch. 
 
-The woman glanced at her watch. It was a plain digital council model with a cracked corner. The display changed from 4:59 to 5:00 while she was looking at it.
+The woman eventually glanced at her watch herself. It was a plain digital council model with a cracked corner. The display changed from 4:59 to 5:00 while she was looking at it.
 
-"You're lucky that I'm off the clock now," she said. "I would have dobbed you in for half of this."
+"Hrmph. You're lucky that I'm off the clock now," she said. "I would have dobbed you in for half of this."
 
-Phosphor looked at the smoke, the evacuees, the warm receipt printer, and the line of vehicles waiting for somebody to decide what counted as an emergency.
-
-"I will treat that as an unofficial permit."
-
-"Don't. I don't issue those after hours."
-
-She wrote the registration number into her folder, checked the Chapel Seven stencil once more, and walked on toward the council van at the end of the forecourt. She did not ask whether anyone needed water. She did not ask who had slept in the camper. She had a route, a form, and a shift that ended at five.
+She wrote the vehicle license number into her folder, checked the Chapel Seven stencil once more, and walked on toward the council van at the end of the forecourt in a huff. She did not ask whether anyone needed water. 
 
 On its roof, the Southern Skystitch terminal held a thin blue lock through the smoke: a flat Australian-built phased-array panel, assembled in some retooled workshop up Bendigo way and repaired by whoever could still read a maintenance ledger. There was no dish to turn and no satellite drama to perform; the panel simply changed its internal geometry until a route existed. Its solar awning was down. Its side hatch had been opened to reveal the fold-out desk, the CRT, the tea tray, the stamp pad, and the first four drawers of filing cabinets that went farther into the camper than any sensible architecture allowed. Behind the fifth drawer, a narrow bunk folded down over the cab. Beneath the desk, the induction plate, water tank gauge, and emergency towel rack waited for the day shift to end. Phosphor had spent the morning reconciling two clinic invoices and a small town's smoke-damaged appointment records; tonight he would latch the files into their ceiling rail, lower his bed, and hope the water pump did not resume its opinionated clicking. The interior smelled of old carpet, hot printer ribbon, lemon furniture polish, and the ghost of every tea Phosphor had ever made there.
 
@@ -109,17 +99,13 @@ The woman with the baby lifted her phone. "The council map says it is open."
 
 Kasey held up one hand. "All right. Nobody gets to win this by talking louder."
 
-Phosphor looked from the printed map to the road-truther and then to the families waiting beside their cars. "They can all be reporting what they actually know."
+Phosphor looked from the Council map, to the road-truther, to a new orange line on his next thermal printer reciept, and then to the families waiting beside their cars. "They can all be reporting what they actually know."
 
 "That is not helping," Kasey said.
 
 "It is accurate."
 
-Among the evacuees stood a broad-shouldered Myco-Union person in a patched rain cape, their skin threaded at the wrists with fine green filaments that opened and closed when the smoke shifted. They had been holding a wet scarf over a child's face. Every few seconds they pressed two fingers to the bowser cabinet, reading the metal for heat and vibration. Beside them, a slim Baseline woman in a copper-coloured exosleeve carried a collapsible staff with a solar lantern at one end. The staff was not a weapon. It was a walking aid, a signal mast, and a way of reaching a roof vent without asking anybody else to risk a ladder. They were not network operators or members of a travelling office. They were people who had grabbed what they could, driven until the road stopped making sense, and joined the queue because the servo was the last place with fuel, toilets, and a working signal.
-
-The CRT on Chapel Seven's desk flickered. Rooby's face appeared in its usual cheerful low-resolution form: a bright little icon with a microphone headset, one ear hidden by static.
-
-The speaker above the screen clicked twice before finding a volume that could compete with the idling cars and the wind pressing ash against the awning. People nearest the hatch turned without meaning to. A child stopped dragging a toy excavator through the dust. Kasey kept one hand on the route signs while she watched the little face assemble itself from green pixels.
+The CRT on the side of Chapel Seven flickered. Rooby's face appeared in its usual cheerful low-resolution form: a bright little orange kangaroo icon with a microphone headset, one ear hidden by static. The speaker above the screen clicked twice before finding a volume that could compete with the idling cars and the wind pressing ash against the awning. People nearest the hatch turned without meaning to. A child stopped dragging a toy excavator through the dust. Kasey kept one hand on the route signs while she watched the little face assemble itself from orange pixels.
 
 `ROOBY: Good afternoon, all! Quick update. There are now 117 people in #who-is-in-charge-here.`
 
@@ -135,67 +121,37 @@ Phosphor closed his eyes for the length of one breath.
 
 The chat flowed up the left side of the screen.
 
-Phosphor leaned closer to read it, one hand braced on the desk so the paper map would not slide into the tea tray. Beyond his shoulder, the evacuees continued to argue in lower voices. The network was not replacing the forecourt; it was adding another room to it, one with no walls and too many opinions.
+Phosphor leaned closer to read it. Beyond his shoulder, the evacuees continued to argue in lower voices. The network was not replacing the forecourt; it was adding another room to it, one with no walls and too many opinions. A chat was scrolling along, too small for any of the folks to read except for Phosphor and Kasey.
 
-GhostAgent wrote: Also, I have found the servo's emergency sausage-roll warmer. It is Australian infrastructure at its most honest: hot, underfunded, and somehow still going.
+GhostAgent's avatar unfolded beneath Rooby's message, not as a person on the forecourt but as a small paper-white daemon with a moustache made from shifting punctuation. It opened a cross-state incident chat and began transmitting whatever arrived, sorting eyewitness reports from rumours and attaching times to both.
 
-`Meshie42: thermal drone up. western spur is bad.`
+`GhostAgent: OPENING INCIDENT THREAD / CENTRAL VICTORIA / SYDNEY / PERTH. REPORT WHAT YOU CAN SEE. PLEASE DO NOT IMPROVE THE TRUTH FOR PRESENTATION.`
 
-`Meshie99: got a local map overlay. extremely unofficial. extremely pretty.`
+`Meshie42 [Sydney]: smoke is sitting over the western freight approaches. Sydney mesh is carrying evacuation notices, but the main grid is delaying anything marked temporary.`
+
+`Meshie99 [Perth]: Perth is clear of this fire front. Port crews are lending spare relay bandwidth. We can mirror your route packets, but we cannot verify a Victorian road from here.`
+
+`Meshie17 [Central Victoria]: I have eyes on the east road from the old weigh station. Fire service gate is shut. Bridge approach is covered in smoke. Council map still says OPEN. Do not send ordinary cars east.`
+
+Phosphor stopped sorting long enough to read that line twice. The Victorian report was the first piece of information that did not arrive as an argument. It named a place, a gate, a condition, and the limit of what the person reporting it could know.
+
+`Meshie42 [Sydney]: forwarding Meshie17's road report to local nodes.`
+
+`Meshie99 [Perth]: mirrored. Marking it firsthand, not authoritative.`
 
 `ROOBY: water runner can bring more in 12. needs a task.`
 
-`GhostAgent: I have preserved six versions of the council update. Two contain different verbs.`
+`GhostAgent: I have preserved six versions of the council update. Two contain different verbs. The current one says OPEN.`
 
-`Rooby: one account is still claiming incident commander. Verification pending.`
+Kasey stared at the screen. "So the road is closed, but the official word is still open?"
 
-Kasey stared at the screen. "Who is claiming incident commander?"
-
-"An administrative weather event," Phosphor said. "A temporary name would only encourage it."
-
-The road-truther knocked on the open hatch with two knuckles. He had edged away from the argument, but not far enough to stop listening. His vest caught the orange light and made him look, from a distance, like a temporary road sign that had developed a conscience.
-
-"Oi. You the records bloke?"
-
-Phosphor turned the thermal paper so the man could see the time stamp. "I am Phosphor."
-
-"Right. Phosphor. Put this down proper, then. The road east was open when I drove it."
-
-"At what time?"
-
-The man checked the cracked face of his watch, although he had already told three people the answer. "Two hours ago."
-
-Phosphor wrote it in the margin: EAST ROAD / OPEN / VERIFIED BY DRIVER / TWO HOURS OLD.
-
-"And now?" he asked.
-
-The road-truther looked past the hatch toward the orange ridge. A gust pushed smoke over the road sign, hiding the arrow that pointed east. His confidence lost some of its shape.
-
-"Now it is a different road."
-
-Phosphor added a second line beneath the first. "I will record it as formerly open."
-
-The man read the words. "That sounds worse."
-
-"It is more accurate."
-
-Behind him, somebody laughed despite themselves. The sound was small, but it loosened the crowd by half a degree. The road-truther did not laugh, but he stopped defending the word open as if it were a personal possession.
+"The official word is late," Phosphor said. He slid the Victorian report beneath the receipt map. "That is different from being true."
 
 Kasey set the maps beside Phosphor's receipt stack and trapped the corners with the tape roll. Her boots struck the forecourt with a brisk, deliberate rhythm. When the wind caught the papers, she pinned them against her ribs with one elbow and muttered in an American Southern cadence.
 
 "Y'all hold onto these a second," she said to Phosphor. "I am fixin' to make this queue behave before it grows another head."
 
-Eris grinned from the roof. "Kasey, you are the only person in Victoria who can make a council meeting sound like a saloon duel."
-
-"That dog won't hunt," Kasey said.
-
-Phosphor looked toward the nearest dog, a soot-coloured kelpie asleep under a hatchback.
-
-"There are several dogs here," he said.
-
-Kasey stared at him for a moment, then laughed so suddenly she had to put one hand on the bowser for balance. The laugh changed her face. It took years off her and made the scar on her knuckle look less like evidence.
-
-Behind her, The Cubicle, her ex-NBN survey van, had its side panel open to form a counter. It had been white once, but a decade of weather, smoke, and badly matched repairs had left it the colour of old paper. The faded corporate stripe on its flank had been painted over with squares of council beige, emergency orange, and one panel of bright domestic blue. Cable drums rode on the roof rack beside a folded solar mat and a filtered vent hood facing away from the fire. Through the counter gap, Phosphor could see the hard domestic geometry of it: a tool case under the seat, a dry-food crate strapped below the printer shelf, a kettle in a crash cradle, removable insulation panels clipped over the rear glass, and a folded mattress waiting behind the driver's bulkhead. In daylight Kasey sold no product at all; she sold time with an actual person who could make a public system answer a local question. The passenger door was stubbornly shut.
+The Cubicle, her ex-NBN survey van, had its side panel open to form a counter. It had been white once, but a decade of weather, smoke, and badly matched repairs had left it the colour of old paper. The faded corporate stripe on its flank had been painted over with squares of council beige, emergency orange, and one panel of bright domestic blue. Cable drums rode on the roof rack beside a folded solar mat and a filtered vent hood facing away from the fire. Through the counter gap, Phosphor could see the hard domestic geometry of it: a tool case under the seat, a dry-food crate strapped below the printer shelf, a kettle in a crash cradle, removable insulation panels clipped over the rear glass, and a folded mattress waiting behind the driver's bulkhead. In daylight Kasey sold no product at all; she sold time with an actual person who could make a public system answer a local question. The passenger door was stubbornly shut.
 
 "Acting Deputy Door," Kasey called to it as she passed. "Open."
 
@@ -203,15 +159,7 @@ The door clicked open with offended dignity.
 
 Eris was perched on the Cubicle's roof with one boot hooked under the roof rack. Golden Apple, her old ex-library office van, sat nearby in a spill of warm golden light. The van's book-return slot had been welded shut and repurposed as a charging port. Faded silhouettes of reading children still ran along its lower panels beneath layers of stickers, arbitration notices, and a hand-painted red flag that had been touched up so often it looked alive. Through the rear doors, Phosphor could see tool drawers, old library shelving full of cables and zines, a fold-down office desk with two screens, a velvet couch bolted to the floor, and the narrow strip of polished lino Eris insisted was a dance floor. Occult desk manuals and library books leaned against vendor contracts, civic-game binders, and a labelled tray of adapters. At night the couch pulled flat, the dance floor became a passage to the fridge, and the top shelf of books came down to make room for her projection rig. Golden Apple looked festive until one noticed how carefully every object had been taught to live in the same metre of air.
 
-She had a signal cable in one hand and a packet of salt-and-vinegar chips in the other. Her long copper-blonde hair had been tied up with what appeared to be a printer cable, loose strands bright in the van's golden spill. A silver ring flashed through one eyebrow when she grinned.
-
-"Good news," Eris said. "The road authority map is lying in three different fonts."
-
-"That is not good news," Kasey said.
-
-"No, but it is very strong branding."
-
-Kasey set the paper down beside Phosphor's CRT. "The west highway is closed at the creek. The east highway is open according to the road authority, closed according to the fire service, and haunted according to three people in the queue."
+She had a signal cable in one hand and a packet of salt-and-vinegar chips in the other. Her long copper-blonde hair had been tied up with what appeared to be a printer cable, loose strands bright in the van's golden spill. A silver ring flashed through one eyebrow when she grinned. She climbed down from the roof, tucked the cable beneath one arm, and reached for the chips with the careful concentration of somebody who had not eaten since the network became interesting.
 
 She stopped. Her attention had found the thermos lid.
 
@@ -221,7 +169,7 @@ Phosphor looked at the words `KISS ME, I'M A FIRE WARDEN`, then at the small ste
 
 "That was not the question."
 
-Eris leaned down from the roof. "Magic is not a blend. It is a Melbourne constitutional crisis involving a double ristretto and less milk than a flat white."
+Eris tore open the chip packet. "Magic is not a blend. It is a Melbourne constitutional crisis involving a double ristretto and less milk than a flat white."
 
 "The bag says `Magic Blend Number Seven`," Phosphor said.
 
@@ -241,7 +189,7 @@ Kasey took another sip. "You know Australians can hear you, right?"
 
 Phosphor retrieved a second cup from beneath the tea tray. "For the record, the roaster describes it as chocolate, dried cherry, and administrative overreach."
 
-"Now that," Eris said, climbing down, "is a blend."
+"Now that," Eris said, lifting the cup, "is a blend."
 
 He poured. The coffee came out the colour of polished jarrah, with a thin cap of milk that trembled when the generator coughed. Kasey kept his cup. Eris accepted the second, blew across it, and regarded Phosphor over the rim.
 
