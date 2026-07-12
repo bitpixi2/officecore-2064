@@ -63,21 +63,21 @@ On its roof, the Southern Skystitch terminal held a thin blue lock through the s
 
 The thermos lid beside his stamp pad read KISS ME, I'M A FIRE WARDEN. He had not chosen it.
 
-The council worker had reached the van at the end of the forecourt. She turned back without hurrying, her compliance folder tucked beneath one arm.
+Kasey came around The Cubicle carrying three maps, a roll of tape, and a coffee she had forgotten to drink. She looked at the forecourt, then at Phosphor.
 
-"You have a queue," she called.
+"You have two lines," she said.
 
-"I am aware."
+"One is for people who need transport," Phosphor replied. "The other is for people who know which roads are still open."
 
-"It has become two queues."
+Kasey looked toward the smoke. "Good. Put a sign on each before somebody joins both."
 
-"That is also apparent."
+"I assumed council had a system for this."
 
-"The left queue says people who need transport. The right queue says people who know a better route."
+"Yeah..." She glanced toward the white-haired council worker, who was climbing into the council van with her folder beneath one arm. "Council is that lady who just walked away. I think they reopen tomorrow at nine."
 
-"I assumed council had one queue for everything," Phosphor called back.
+She tore the tape with her teeth and began marking the tables: TRANSPORT and ROUTE WITNESSES.
 
-"It does. You have made two."
+"Guess it's our turn to deal with these bushfires."
 
 Phosphor looked through the side window. She was correct. The people who needed transport stood near the battered camp chairs and the water crates. They held dogs, duffel bags, children, medication, a wedding dress in a dry-cleaning sleeve, and one desktop printer that had been carefully buckled into the front seat of a hatchback.
 
