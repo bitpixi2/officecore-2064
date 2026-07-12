@@ -77,11 +77,11 @@ She tore the tape with her teeth and began marking the tables: TRANSPORT and ROU
 
 "Guess it's our turn to deal with these bushfires."
 
+The people who needed transport stood near the battered camp chairs and the water crates. They held dogs, duffel bags, children, medication, a wedding dress in a dry-cleaning sleeve, and one desktop printer that had been carefully buckled into the front seat of a hatchback.
+
 Phosphor opened Chapel Seven's warming drawer. Six sausage rolls sat inside paper sleeves, rescued from the servo before its fryer was shut down. He handed the first three to the people waiting for transport, then carried the rest toward the route witnesses with a steel urn of tea balanced against his hip. Nobody had asked him to cater. He had learned that frightened people listened better when they had something hot in their hands, and that a sausage roll could turn an argument about roads into a conversation about who had mustard.
 
-The child in the yellow raincoat accepted tea with both hands. The person holding the desktop printer took a sausage roll and immediately offered half to the printer, which Phosphor recorded as either kindness or a hardware superstition. Kasey kept marking signs while Phosphor moved along the two lines, handing out food, cups, and receipt maps in whatever order the heat and the people required.
-
-Phosphor looked through the side window. She was correct. The people who needed transport stood near the battered camp chairs and the water crates. They held dogs, duffel bags, children, medication, a wedding dress in a dry-cleaning sleeve, and one desktop printer that had been carefully buckled into the front seat of a hatchback.
+Kasey kept marking signs while Phosphor moved along the two lines, handing out food, cups, and receipt maps in whatever order the heat and the people required.
 
 Their vehicles made a temporary town around the bowsers: a sun-bleached Winnebago with an air-conditioning unit tied on by ratchet straps; a former ambulance painted mint green and converted into a mobile dental clinic; a grey camper with a double bench seat and a roof garden of dead herbs; three utes covered in prospecting permits and weatherproof tools. Most had arrived after some paid, half-paid, or promised job: a relay call-out, a clinic shift, a pantry delivery, a council data migration. Their work travelled with them in labelled cases, dirty mugs, charger leads, and invoices clipped above the sun visors. At the edge of the lot, a chrome caravan slept under a tarp of reflective foil, its curved roof catching the orange sky. Its windscreen showed no driver, only a slow pulse of stars.
 
