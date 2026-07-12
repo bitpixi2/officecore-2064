@@ -43,15 +43,15 @@ Her mouth tightened.
 
 "Of course. Seven days of work, and the form still takes one box at a time."
 
-The woman glanced at her watch. It was a plain digital council model with a cracked corner and a reminder alarm set for 5:00 p.m.
+The woman glanced at her watch. It was a plain digital council model with a cracked corner. The display changed from 4:59 to 5:00 while she was looking at it.
 
-"I finish at five," she said. "If you want this recorded before the weekend, give me the registration, the responsible contact, and the temporary occupancy reference. If you want to discuss the metaphysics of mobile work, make an appointment for next week."
+"You're lucky that I'm off the clock now," she said. "I would have dobbed you in for half of this."
 
 Phosphor looked at the smoke, the evacuees, the warm receipt printer, and the line of vehicles waiting for somebody to decide what counted as an emergency.
 
-"Next week is very confident."
+"I will treat that as an unofficial permit."
 
-"Next week is when the office reopens."
+"Don't. I don't issue those after hours."
 
 She wrote the registration number into her folder, checked the Chapel Seven stencil once more, and walked on toward the council van at the end of the forecourt. She did not ask whether anyone needed water. She did not ask who had slept in the camper. She had a route, a form, and a shift that ended at five.
 
