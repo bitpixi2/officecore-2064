@@ -165,15 +165,17 @@ Kasey set the maps beside Phosphor's receipt stack and trapped the corners with 
 
 "Y'all hold onto these a second," she said to Phosphor. "I am fixin' to make this queue behave before it grows another head."
 
+The first ordinary cars began pulling toward the lower service lane, one at a time, their drivers watching Kasey's raised hand for permission to move. Chapel Seven remained beside the bowsers while the maps were checked. Kasey's lower survey van, The Cubicle, sat beside it with its side counter open, close enough to serve as a second work station without joining the road convoy.
+
 The Cubicle, her ex-NBN survey van, had its side panel open to form a counter. It had been white once, but a decade of weather, smoke, and badly matched repairs had left it the colour of old paper. The faded corporate stripe on its flank had been painted over with squares of council beige, emergency orange, and one panel of bright domestic blue. Cable drums rode on the roof rack beside a folded solar mat and a filtered vent hood facing away from the fire. Through the counter gap, Phosphor could see the hard domestic geometry of it: a tool case under the seat, a dry-food crate strapped below the printer shelf, a kettle in a crash cradle, removable insulation panels clipped over the rear glass, and a folded mattress waiting behind the driver's bulkhead. In daylight Kasey sold no product at all; she sold time with an actual person who could make a public system answer a local question. The passenger door was stubbornly shut.
 
 "Acting Deputy Door," Kasey called to it as she passed. "Open."
 
 The door clicked open with offended dignity.
 
-Eris was perched on the Cubicle's roof with one boot hooked under the roof rack. Golden Apple, her old ex-library office van, sat nearby in a spill of warm golden light. The van's book-return slot had been welded shut and repurposed as a charging port. Faded silhouettes of reading children still ran along its lower panels beneath layers of stickers, arbitration notices, and a hand-painted red flag that had been touched up so often it looked alive. Through the rear doors, Phosphor could see tool drawers, old library shelving full of cables and zines, a fold-down office desk with two screens, a velvet couch bolted to the floor, and the narrow strip of polished lino Eris insisted was a dance floor. Occult desk manuals and library books leaned against vendor contracts, civic-game binders, and a labelled tray of adapters. At night the couch pulled flat, the dance floor became a passage to the fridge, and the top shelf of books came down to make room for her projection rig. Golden Apple looked festive until one noticed how carefully every object had been taught to live in the same metre of air.
+As the last ordinary car turned toward the lower lane, Golden Apple rolled fully into the space beside Chapel Seven. Eris had just pulled up from the southern access road. Like Phosphor and Kasey, she was a Meshie, carrying a travelling office, a network identity, and enough practical equipment to make a temporary room wherever the road allowed. With Golden Apple parked, the two tall rigs stood side by side beside the bowsers while The Cubicle served as their low work station. Her old ex-library office van sat in a spill of warm golden light. The van's book-return slot had been welded shut and repurposed as a charging port. Faded silhouettes of reading children ran along its lower panels beneath layers of stickers, arbitration notices, and a hand-painted red flag that had been touched up so often it looked alive. Through the rear doors, Phosphor could see tool drawers, old library shelving full of cables and zines, a fold-down office desk with two screens, a velvet couch bolted to the floor, and the narrow strip of polished lino Eris insisted was a dance floor. Occult desk manuals and library books leaned against vendor contracts, civic-game binders, and a labelled tray of adapters. At night the couch pulled flat, the dance floor became a passage to the fridge, and the top shelf of books came down to make room for her projection rig. Golden Apple looked festive until one noticed how carefully every object had been taught to live in the same metre of air.
 
-She had a signal cable in one hand and a packet of salt-and-vinegar chips in the other. Her long copper-blonde hair had been tied up with what appeared to be a printer cable, loose strands bright in the van's golden spill. A silver ring flashed through one eyebrow when she grinned. She climbed down from the roof, tucked the cable beneath one arm, and reached for the chips with the careful concentration of somebody who had not eaten since the network became interesting.
+Eris stepped out with a signal cable in one hand and a packet of salt-and-vinegar chips in the other. Her long copper-blonde hair had been tied up with what appeared to be a printer cable, loose strands bright in the van's golden spill. A silver ring flashed through one eyebrow when she grinned. She tucked the cable beneath one arm and reached for the chips with the careful concentration of somebody who had not eaten since the network became interesting.
 
 She stopped. Her attention had found the thermos lid.
 
@@ -247,7 +249,7 @@ Kasey leaned closer. Smoke, citrus hand sanitiser, and the faint electrical heat
 
 "The road network is stale because it expects roads to report themselves. This is showing where people have managed to buy something. The bowling club has transactions. The creek bridge does not. The old quarry servo has three payments in the last six minutes."
 
-Eris looked down from the roof. "That is disgusting."
+Eris leaned over the fold-out desk, chips held carefully away from the receipt paper. "That is disgusting."
 
 "Thank you," Phosphor said.
 
@@ -257,27 +259,15 @@ Kasey looked from Eris to Phosphor. "Can we keep the flirting operational for th
 
 "I am being operational," Eris said.
 
-"You are eating chips on a roof."
+"You are eating chips while we sort a fire route."
 
 "Multitasking."
 
-Phosphor took the stack of thermal paper and began arranging it under the clear acrylic sheet on the fold-out desk. He weighted the corners with tea tins. Kasey fetched a marker and called the two queues together with the sharp clap she used when a meeting had gone morally wrong.
+Phosphor took the stack of thermal paper and began arranging it under the clear acrylic sheet on the fold-out desk. He weighted the corners with tea tins. Kasey fetched a marker and called only the remaining tall-rig drivers and route witnesses close.
 
-"Everyone who needs a lift, stand with the vehicle you can fit in," she said. "Everyone who has a better route, tell Phosphor when you were last physically on it. Not when your cousin sent you a video. Not when the bloke at the pub said he heard something. Physically."
+"Ordinary cars keep moving toward the bowling club," she said. "Tall vehicles stay here until we confirm the orchard turnoff. Route witnesses, give Phosphor the last road you physically saw, with a time."
 
-The road-truther opened his mouth.
-
-Kasey lifted one finger. "And if you call yourself an independent road truther again, I will assign you to signage."
-
-He shut his mouth.
-
-The queue changed. People moved with the wary relief of people who had been offered something to do that was not panic. A teenager in a raincoat started writing times beside the route names. The woman with the wedding dress got assigned to the station wagon with the double bench seat. Somebody gave the desktop printer a name badge that said `EMOTIONAL SUPPORT PRINTER`.
-
-Phosphor watched the process gather shape. This was the part no document ever admitted: most institutions began as a table, a list, and somebody too tired to argue about the pen.
-
-Once people had jobs, their other selves became visible.
-
-The woman with the wedding dress turned out to be a Baseline courier with a talent for balancing fragile things against the movement of a vehicle. She had packed the dress in a garment sleeve because the bride was travelling separately and the wedding, like most events in the Goldfields now, had become a question of which infrastructure could be borrowed without offending anyone. She wore a green mechanic's shirt with pearl buttons and had a tiny screwdriver tucked behind one ear.
+The remaining people gathered around the desk instead of forming another queue. The work had narrowed from evacuation to verification: one map for the cars already leaving, one map for the two tall rigs, and no argument about which category applied.
 
 The person in the rain cape was Myco-Union. The green filaments at their wrists were not decoration. They spread through skin and clothing to read humidity, volatile chemicals, and the heat stored inside metal. When the smoke thickened, their fingertips trembled before the air-quality monitors complained. When the water crates arrived, they touched the plastic and announced which ones had warmed beyond safe storage.
 
@@ -323,61 +313,33 @@ Eris looked up from the cable in her hand. "GhostAgent, are you doing dad jokes 
 
 "I have several concerns about phrases."
 
-The EFTPOS terminal printed a queue ticket.
+The EFTPOS terminal printed a queue ticket. Its paper curled in the heat beneath a line of text:
 
-GHOSTAGENT / DAD JOKE REQUEST / CURRENT STATUS: UNRESOLVED
+`GHOSTAGENT / DAD JOKE REQUEST / CURRENT STATUS: UNRESOLVED`
 
-The paper curled in the heat.
-
-Phosphor picked it up with two fingers. A tiny history rose from it: the terminal's old life at a bakery in Bendigo, the patient hand of a shop worker replacing its battery, a child pressing every button while waiting for a lamington. He let the sensation go before it reached the back of his throat.
-
-The queue ticket had become an object with more history than the current emergency. That was the trouble with his ability. Every useful thing had a door behind it.
+Phosphor touched the ticket with two fingers. A brief history rose from it: a bakery in Bendigo, a child waiting for a lamington, a shop worker replacing the terminal's battery with patient hands. He let the memory go before it became more important than the people waiting outside.
 
 "Are you all right?" Kasey asked.
 
 He folded the ticket once. "The terminal has previously served lamingtons."
 
-"That is a lot to carry."
+Kasey gave him half a sausage roll. "Eat. You cannot be the party cleric if you faint before the first encounter."
 
-"Yes."
-
-She watched him for another second. Her Southern vowels softened the question. "You need to sit down, honey?"
-
-Eris glanced at her. "Did you just call him honey?"
-
-"I called him honey because he looked like he was about to fall into a receipt. Don't make it weird."
-
-"I am not making it weird. The two of you are doing that beautifully on your own."
-
-Phosphor returned the ticket to the EFTPOS terminal. "I am capable of continuing."
-
-"That is not the same as being fine," Kasey said.
-
-He had no prepared response. The ordinary human sentence had arrived before his administrative vocabulary could dress it up.
-
-"No," he said. "It is not."
-
-Kasey nodded as if he had passed a small test she had not announced. Then she handed him half a sausage roll.
-
-The pastry was greasy and too hot. Flaky crumbs fell onto the map. The filling tasted of pepper, onion, and the faint plastic tang of a warming cabinet that had been running since dawn.
-
-"Eat," she said. "You cannot be the party cleric if you faint before the first encounter."
-
-Phosphor looked at her. "What is a party cleric?"
+Phosphor looked at the pastry. "What is a party cleric?"
 
 "A person who knows everybody's paperwork and keeps the group from walking into a cursed doorway."
 
-Eris raised her hand. "I vote we call him that."
+Eris lifted one hand. "I vote we call him that."
 
 "I do not consent to a title created during pastry consumption."
 
 "Too late," GhostAgent said. "The minutes are deliciously binding."
 
-The printer produced another ticket.
+The printer produced another ticket:
 
-PARTY CLERIC / SAUSAGE ROLL ACCEPTED / CONSENT DISPUTED
+`PARTY CLERIC / SAUSAGE ROLL ACCEPTED / CONSENT DISPUTED`
 
-Kasey took the paper before Phosphor could touch it. "I am putting that in the public route file."
+Kasey took it before Phosphor could touch it. "I am putting that in the public route file."
 
 "Please do not."
 
@@ -385,7 +347,7 @@ Kasey took the paper before Phosphor could touch it. "I am putting that in the p
 
 The phrase should have annoyed him. Instead it settled inside his chest beside the coffee and the pastry, making a small human weight.
 
-The party, if that was what they were, divided tasks without needing a formal ceremony. The Myco-Union evacuee read the air and water. The road truther read the land. Kasey read the institutional assumptions embedded in the maps. Eris read the network and every rule somebody had tried to hide inside it. GhostAgent read the language of the files and made jokes when the language became unbearable. Phosphor read what had already happened.
+The three Meshies divided the remaining work without needing a formal ceremony. Kasey read the institutional assumptions embedded in the maps. Eris read the network and every rule somebody had tried to hide inside it. Phosphor read what had already happened. The Myco-Union evacuee and the Baseline road-truther had supplied the physical checks that the maps could not provide; now their ordinary cars were joining the lower-lane departure.
 
 Nobody could do the whole job alone.
 
@@ -417,9 +379,9 @@ Rooby's icon bounced on the CRT.
 
 `ROOBY: I am learning boundaries.`
 
-The first group of ordinary cars left in a cough of diesel and ash. They moved past the servo sign in an untidy procession of patched windscreens, overloaded boot lids, child seats, water drums, and one trailer whose tarp had been tied down with fluorescent shoelaces. Kasey stood at the road edge with the receipt map held up in both hands. Eris dropped from Golden Apple's roof, landing with a soft crunch of gravel, and took the other side of the paper without being asked.
+By then, the ordinary cars were moving down the lower service lane in an untidy procession of patched windscreens, overloaded boot lids, child seats, water drums, and one trailer whose tarp had been tied down with fluorescent shoelaces. Only three Meshies remained at Murravale: Phosphor beside Chapel Seven, Eris at Golden Apple's open hatch, and Kasey between the two tall rigs with the route map in her hands. The Cubicle's side counter was folded shut. The three of them had become the people responsible for checking what the departing cars could not safely see.
 
-The Myco-Union evacuee in the rain cape joined the convoy only long enough to press a damp palm to Chapel Seven's black flank. Their green wrist-filaments tightened.
+Before joining the departing cars, the Myco-Union evacuee in the rain cape stopped beside Chapel Seven and pressed a damp palm to its black flank. Their green wrist-filaments tightened.
 
 "The left rear tyre is warmer than the others," they said. "Not dangerous yet. The brake is dragging."
 
