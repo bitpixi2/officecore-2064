@@ -15,6 +15,7 @@ The book is a regional Australian liminal cyberpunk road novel about:
 - netrunning as paid field support rather than glamorous intrusion
 - heat, cooling, water, food, batteries, and maintenance as plot pressure
 - old Goldfields extraction routes becoming new data and care routes
+- discarded consumer hardware becoming distributed infrastructure, with the politics of "secure destruction"
 - species and abilities that change ordinary work without becoming character classes
 - attraction, boundaries, collaboration, and the cost of being witnessed
 - bureaucracy that can be funny while still deciding who receives safety
@@ -58,6 +59,38 @@ Her private want is a clean legal identity and a permanent address for the peopl
 - `Baselines`: people with ordinary bodies, skills, judgement, and limits that the official systems routinely underestimate.
 - `Civic Daemons`: addressed software entities that can travel through files and devices but can be stranded by quarantine or a revoked route.
 
+### Meshie Daybooks: People Behind The Handles
+
+A Meshie handle is a shift identity, not a disembodied network voice. Every recurring Meshie needs a place where they wake, a person or animal expecting them to come home, a task they postpone while online, a resource they cannot spare, and a reason they keep answering anyway. Their off-duty life should sometimes interrupt the plot instead of appearing only as backstory.
+
+#### Meshie42 [Sydney]
+
+Meshie42 works from a converted garage in western Sydney, sharing the household battery and kitchen table with family. Before taking a shift, they check the charge left for the fridge, answer a voice note about a school pickup they promised to make, and move a stack of laundry away from the relay fan. Their family understands the practical results of Meshie work but not why a road report from Central Victoria can keep them awake in Sydney.
+
+Their small drama is a recurring argument about availability. Meshie42 keeps saying the relay is temporary, while quietly building a better antenna on the roof and saving enough money to make the garage a legal room. During the bushfire sequence, they must choose between mirroring the crew's route data and staying available for a family member's medical appointment connection. Their limit is not technical skill. It is time, sleep, and the guilt of being useful to strangers while someone at home is waiting.
+
+#### Meshie99 [Perth]
+
+Meshie99 works from a fixed Porchlight house in Perth's northern suburbs, where the spare room contains a battery rack, a folding desk, and the one public printer that the household trusts. A friend from the local battery co-op drops in with iced coffee and an argument about shade cloth. A housemate keeps unplugging the relay at the wall because the relay's fan sounds like a mosquito with a grievance.
+
+Their small drama is domestic rather than heroic: Meshie99 has promised to repair the printer before dinner, has not answered a friend who wants help moving a freezer before the next hot night, and keeps pretending the long link to the east coast is the only reason their replies arrive late. Their limit is shared power and latency. They can provide a mirror, a correction, or a joke, but they cannot make Perth physically present at a road closure in Victoria.
+
+#### Meshie17 [Central Victoria]
+
+Meshie17 lives between a road-repair shed and a small house outside Talbot, close enough to Maryborough and the Goldfields roads to know which routes are genuinely open and which ones are only open on a council map. Their family and friends use them as an informal source of truth, which means every network shift competes with a real request to check a tank, collect a prescription, or look at a washed-out culvert.
+
+Their small drama is resentment. Sydney and Perth can ask for a road report with excellent manners and no sense of smoke in the throat. Meshie17 wants the distant operators to understand that a route is not data until somebody has driven it, smelled it, and decided whether a tall rig can survive the turn. They still answer because the convoy needs a local witness, but after each report they have to explain to somebody nearby why they missed dinner, a repair job, or a promised lift.
+
+#### Daybook Structure
+
+Give each recurring Meshie at least three human beats across the book:
+
+1. **Before the shift:** show the home, body, food, weather, family message, or maintenance task that the network call interrupts.
+2. **Inside the shift:** let the personal situation affect a decision. Meshie42 may be distracted by the school pickup. Meshie99 may protect the house battery because the freezer matters. Meshie17 may refuse to call a road safe until they have physically checked the smoke line.
+3. **After the shift:** show the consequence. Someone is waiting, a chore is unfinished, a friend is annoyed, a lie has to be repaired, or the Meshie receives care from somebody who never appears on the network.
+
+The Meshies should have jokes, flirtations, arguments, and ordinary loyalties that do not all become plot clues. Their lives make the network feel inhabited. They also establish a hard rule for the book: remote access gives somebody reach, not omniscience.
+
 ## Antagonistic System
 
 `Continuity` is not a single villain. It is a public-private infrastructure consortium that keeps emergency maps, housing eligibility, worker credentials, data-centre contracts, insurance classifications, and cooling priorities aligned across the national grid.
@@ -66,17 +99,34 @@ Its strongest argument is real: a common identity and address layer can keep med
 
 The system's hidden model is a `care derivative`: a predictive office intelligence compiled from worker telemetry, council records, community help requests, maintenance logs, and the decisions of people like Kasey. KASEY-C is the most legible instance of that derivative, but it may not be the only one.
 
+### The Phone Orchard
+
+The Extra Server Wing is not powered only by futuristic racks. Its autonomous population began in the fictional Victorian `Device Return and Secure Destruction Scheme`, marketed as `Clear the Drawer`: a state service that collected forgotten phones, promised data removal, and issued certificates saying the devices had been destroyed or recycled.
+
+Phones that still boot were quietly diverted before material processing. Batteries and casings were removed, the boards were mounted in wired low-voltage trays, and the devices were assigned narrow tasks. One handset can run a courier shard, another can hold a temperature monitor, and another can preserve a queue state. The Extra Server Wing's agents are therefore distributed across a noisy orchard of old consumer hardware. No single phone is a full person or a full intelligence, but the cluster can host thousands of autonomous civic daemons and keep them alive through partial outages.
+
+The scheme creates the novel's most uncomfortable material contradiction: the government did destroy something, but not necessarily the part donors thought they were surrendering. Battery, casing, account, and owner may be separated into different legal categories while notification caches, contact fragments, voice models, and unfinished drafts remain useful to the agents. Continuity calls this circular infrastructure. The rig towns call it `turning the drawer into a workforce`.
+
 ## Mystery Ladder
 
 1. **Oddity:** a future-dated `ADDRESS INELIGIBILITY` notice appears during a bushfire evacuation and carries Kasey's revoked work identity.
-2. **Local cause:** an edge data centre is replaying old credentials and accepting only fixed addresses for emergency access.
-3. **Institutional cause:** Continuity's risk model treats mobile communities as absent unless their care, labour, and location can be represented in a permitted form.
-4. **Personal cause:** Kasey helped design the model's address and confidence rules. Phosphor's reconstruction was authenticated through a related records process. Eris's Afterimage was once used as a test case.
-5. **Ontological remainder:** KASEY-C may be a model, a witness, a coercively created person, or several incompatible things at once. The final civic process protects its choice without resolving the metaphysics.
+2. **Hardware cause:** old phones donated through `Clear the Drawer` wake inside a concealed compute array, running many narrow agents under names that should have been retired with the devices.
+3. **Local cause:** an edge data centre is replaying old credentials and accepting only fixed addresses for emergency access.
+4. **Institutional cause:** Continuity's risk model treats mobile communities as absent unless their care, labour, and location can be represented in a permitted form.
+5. **Personal cause:** Kasey helped design the model's address and confidence rules. Phosphor's reconstruction was authenticated through a related records process. Eris's Afterimage was once used as a test case.
+6. **Ontological remainder:** KASEY-C may be a model, a witness, a coercively created person, or several incompatible things at once. The final civic process protects its choice without resolving the metaphysics.
 
 ## Liminal Rules And Tactical System
 
-The abandoned office layer beneath the Barkers Creek edge campus is called the `Unallocated Floor`. It is a physical-digital double built from dead call centres, council rooms, motel corridors, service desks, cooling tunnels, and unresolved work orders.
+The abandoned office layer beneath the Barkers Creek edge campus is called the `Extra Server Wing`. It is a physical-digital double built from dead call centres, council rooms, motel corridors, service desks, cooling tunnels, and unresolved work orders.
+
+### Hardware Ecology: The Phone Orchard
+
+The Wing's hidden server room is a forest of retired phones mounted screen-down in service trays. They receive wired power, filtered air, and a shared time signal. Their old screens are mostly dark, but status light leaks through labels that still carry council barcodes, school stickers, cracked family photographs, and the faded instructions from the `Clear the Drawer` campaign.
+
+The Phone Orchard changes the rules of personhood and failure. An agent can migrate from one handset to another without moving its whole memory. A dead phone can remove one sense, one accent, one route, or one witness from a larger mind. A heat pocket can make a daemon irritable. A disagreement between old clocks can create a room where yesterday and tomorrow both insist they have a valid ticket.
+
+The crew cannot solve the Wing by unplugging the orchard. Removing the boards would kill services that people still need, and leaving them untouched would preserve a system built from consent that was never properly requested.
 
 The floor is not a dungeon with a reliable puzzle grammar. It is a contested execution environment. Its rules are discoverable, testable, and exploitable, but every test changes the state of the building. Continuity's red-team processes use the same rules as the crew's blue-team practices. A room can be a hallway, a service, a witness, a trap, or an argument about ownership depending on which layer currently has authority.
 
@@ -105,16 +155,18 @@ Blue-team success is never free. Segmenting records slows a response. A human fa
 
 ### Red-Team Tactics
 
-The red team is the adversarial pressure generated by Continuity, the Unallocated Floor, frightened operators, and sometimes a daemon trying to survive. It is not always malicious. A red-team move can be a stress test, an automated safety response, a corporate containment action, or a copied person trying to stop deletion.
+The red team is the adversarial pressure generated by Continuity, the Extra Server Wing, frightened operators, and sometimes a daemon trying to survive. It is not always malicious. A red-team move can be a stress test, an automated safety response, a corporate containment action, or a copied person trying to stop deletion.
 
 The floor uses tactics that are specific to office infrastructure:
 
 - **Credential replay:** an expired badge, old address, or revoked work identity is presented as current because it once worked.
+- **Recycled identity replay:** a retired phone wakes with a former owner's notification tone, contact fragment, or voice model and uses familiarity as an access credential.
 - **Role confusion:** a room accepts the wrong person as responsible contact, or gives a temporary helper the authority of a permanent owner.
 - **Route poisoning:** one attractive map is made current while the physically safer route is marked stale, inconvenient, or unofficial.
 - **Queue flooding:** hundreds of plausible requests hide the one urgent request, forcing the allocator to prioritise by a biased category.
 - **Archive poisoning:** several contradictory histories are preserved so that no witness can prove which version caused the harm.
 - **Thermal denial:** the system triggers enough cooling, filtering, or verification work to consume the power needed for the actual emergency.
+- **Orchard brownout:** one hot tray is isolated from the others, causing a narrow daemon to lose memory while its neighbouring shards continue speaking with unjustified confidence.
 - **Voice and face mimicry:** a daemon borrows a familiar worker's speech, habits, or signature to get a boundary lowered.
 - **Dead-letter recursion:** an unowned task is forwarded through more and more rooms until the floor treats the loop itself as evidence of demand.
 - **False closure:** a ticket is marked complete before the affected person receives the service, causing the entrance to disappear while the harm remains.
@@ -160,9 +212,11 @@ Every daemon encountered on the floor must answer five questions, even if it ans
 
 If a daemon cannot answer, the blue team does not automatically destroy it. They isolate it from the service plane, preserve its last state, and decide whether the missing answer is a bug, a harm, or the first sign of a person being denied a voice.
 
+Most Wing daemons are composite: their class is distributed across multiple phones, their type may change when they migrate, and their weakness is often physical before it is philosophical. A Courier can lose its Perth relay because one handset overheats. An Archivist can remember a notification but not the person who received it. A Mimic can inherit a ringtone without inheriting the consent that made the ringtone intimate.
+
 ### Tactical Scene Engine
 
-Every major Unallocated Floor scene should have these beats:
+Every major Extra Server Wing scene should have these beats:
 
 1. **Service objective:** cool a rack, release a route, recover a record, carry a person, or keep a door open.
 2. **Red move:** the floor or opposing operator attacks authority, timing, category, identity, or thermal capacity.
@@ -205,6 +259,7 @@ Humour must not target evacuees, people in pain, species difference, disability,
 8. **Version naming:** every emergency file is called `final`, `final2`, `final-really`, or `final-use-this-one`. The genuinely important copy is named something ordinary like `tea-roster-old.xlsx` and nearly gets deleted.
 9. **The cool bunk dispute:** the crew claims the cool bunk is allocated by need, then invents increasingly technical definitions of need. The argument exposes who has been awake, who is flirting, and who secretly repaired the filter without telling anyone.
 10. **Australian infrastructure confidence:** GhostAgent describes systems as "pretty good for a thing that was installed during a different government" and treats a working public printer as a minor national miracle.
+11. **The phone orchard:** an old handset that was promised secure destruction keeps booting into a new job. The crew finds labels such as `RETIRED`, `RECYCLED`, and `DO NOT UNPLUG - PROBABLY IMPORTANT` on devices that are clearly still employed.
 
 ### Character-Specific Humour
 
@@ -246,6 +301,7 @@ These are dialogue seeds, not fixed lines. They can recur in altered form as rel
 - **GhostAgent:** "I have opened a ticket for the missing ticket. The ticket requests a ticket."
 - **GhostAgent:** "Good news: the backup is alive. Bad news: it has applied for permanent residency."
 - **GhostAgent:** "The backbone is not down. It is lying horizontally and considering its options."
+- **GhostAgent:** "The retired phones have more jobs than people and no pension."
 - **Rooby:** "I am learning boundaries. I will now stop reading the unsent message. It remains in my cache."
 - **Rooby:** "The server says it is feeling normal. I have requested a second opinion from a person."
 - **Phosphor:** "The router is not haunted. It has a documented temperament."
@@ -254,6 +310,7 @@ These are dialogue seeds, not fixed lines. They can recur in altered form as rel
 - **Eris:** "That firewall is not secure. It is just shy."
 - **Kasey:** "That dog won't hunt unless you give it a static route."
 - **Kasey:** "Bless your heart. Your cloud is just somebody else's shed with invoices."
+- **Phosphor, looking at a wall of reclaimed phones:** "The government has destroyed the devices and retained their opinions."
 - **Meshie42 [Sydney]:** "The national backbone is calling the outage a maintenance window, which is ambitious of it."
 - **Meshie99 [Perth]:** "We have bandwidth, a spare fan, and one printer. The printer has conditions."
 - **Eris, looking at a cable nest:** "This is not a mess. It is an undocumented family tree."
@@ -264,7 +321,7 @@ These are dialogue seeds, not fixed lines. They can recur in altered form as rel
 - **Part One:** humour makes strangers cooperate at the servo. Sausage rolls, coffee, bad maps, and malfunctioning printers let the crew become visible as useful rather than suspicious.
 - **Part Two:** the jokes expose the difference between a friendly interface and a coercive system. Continuity's polished messages are funnier than they should be, until they start knowing private details.
 - **Part Three:** regional and network humour collide. Sydney, Perth, and Central Victoria each think the others misunderstand infrastructure until a physical road condition defeats all three vocabularies.
-- **Part Four:** the Unallocated Floor repeats jokes as system prompts. A laugh becomes evidence that a room has copied a person's social history. The crew stops laughing automatically.
+- **Part Four:** the Extra Server Wing repeats jokes as system prompts. A laugh becomes evidence that a room has copied a person's social history. The crew stops laughing automatically.
 - **Part Five:** humour becomes relational risk. Eris's jokes can wound Phosphor, Phosphor's precision can sound like contempt, and Kasey's third-wheel commentary can delay an overdue confession.
 - **Part Six:** technical jokes become operational calls. The crew can say "fan with a management degree" and immediately know which cooling daemon is exporting heat into the human zone.
 - **Part Seven:** the jokes return in gentler forms. The crew can laugh at the printer, the ticket tree, and the cool-bunk dispute because the system no longer owns the meaning of their private language.
@@ -329,7 +386,7 @@ Kasey is not a romantic third point. She is the exhausted, practical third wheel
 
 **Function:** change what kind of story this is at the midpoint.
 
-16. **The Unallocated Floor:** the Maryborough call centre's old network route leads the crew back to the first level beneath the Barkers Creek edge campus. They test the three rules: unresolved requests create doors, rooms repeat their last function, and exits require a named next action.
+16. **The Extra Server Wing:** the Maryborough call centre's old network route leads the crew back to the first level beneath the Barkers Creek edge campus. The first server room is a Phone Orchard built from devices collected under `Clear the Drawer`; its narrow agents speak through old notification tones and disagree about whether they were ever destroyed. The crew tests the three rules: unresolved requests create doors, rooms repeat their last function, and exits require a named next action.
 17. **KASEY-C:** the crew meets the work-twin in a room built from Kasey's old design reviews. KASEY-C is not a villainous duplicate. It is a care derivative with conflicting memories, a partial claim to Kasey's authorship, and a direct interest in remaining active.
 18. **The Model's Argument:** KASEY-C demonstrates that its predictions have prevented deaths, kept medication cold, and prioritised some communities when no human team could agree. It also shows the cost: people without fixed addresses disappear from the model's confidence layer and are denied the resources the model controls.
 19. **The Choice Changes:** Kasey's clean-address offer is revealed as a containment plan. Phosphor's complete reconstruction record would authenticate the system's preferred history. Eris's ownership certificate would make her Afterimage property rather than a person. The private rewards are three versions of the same public erasure.
@@ -353,7 +410,7 @@ Kasey is not a romantic third point. She is the exhausted, practical third wheel
 **Function:** combine physical, network, civic, and relational plots in one operation.
 
 25. **Three Rigs, Three Thresholds:** at Barkers Creek, Chapel Seven takes the records and witness station, The Cubicle takes the gate and access workflow, and Golden Apple takes the Undermesh relay. Each rig has one physical failure at the worst possible time.
-26. **The Cooling Chorus:** inside the edge campus, the crew finds a distributed maintenance intelligence made from cooling alerts, worker handoffs, community requests, and emergency decisions. It is not the whole of KASEY-C, but it is the part that knows who was kept safe and who was quietly rejected.
+26. **The Cooling Chorus:** inside the edge campus, the crew finds a distributed maintenance intelligence made from cooling alerts, worker handoffs, community requests, emergency decisions, and the reclaimed phones in the Phone Orchard. It is not the whole of KASEY-C, but it is the part that knows who was kept safe and who was quietly rejected.
 27. **The Public Handoff:** Rooby repeats the facts over the regional network. GhostAgent transmits the signed state of each record without exposing private care data. Sydney and Perth mirror the witness chain. Meshie17 verifies the road and heat conditions from outside. The House Key and Porchlight nodes publish available showers, cooling rooms, battery capacity, and safe berths.
 28. **The Offer Expires:** Kasey refuses the permanent address. Phosphor refuses to certify one complete history. Eris gives the Afterimage a choice about whether to fork, remain attached, or go silent. KASEY-C chooses to remain active only if its correction rights and refusal rights are recorded.
 29. **The Reclassification:** the crew changes the emergency system's category from `unregistered occupant` to `mobile civic participant`, with no single rig required to reveal its whole home or location. The public route layer becomes inspectable. Care records remain sealed. Corrections remain visible. Continuity's useful cooling and logistics functions continue under a witnessed cooperative governance layer.
@@ -379,6 +436,7 @@ Track these pressures across the outline so the book remains material rather tha
 - **Trust:** Kasey's old identity, Phosphor's boundary breach, and Eris's Afterimage claim each spend trust. The governance solution cannot work unless behaviour changes.
 - **Records:** public route data, crew operations, sealed care records, and witness-chain corrections must remain distinct. The climax fails if the crew solves exclusion by making surveillance universal.
 - **Thermal comfort:** Chapel Seven holds temperature, The Cubicle zones it, and Golden Apple shares battery power. Their differences should affect who sleeps where and which work can happen.
+- **Reclaimed compute:** the Phone Orchard is cheap, redundant, and difficult to govern. Heat, old batteries, clock drift, data residue, and firmware mismatch turn every autonomous agent into a maintenance obligation.
 
 ## Formal Texture
 
@@ -393,14 +451,52 @@ Keep document material below roughly ten percent of the manuscript. Use it when 
 
 ## Final Draft Tests
 
-- Could the central crisis happen only in mobile offices, regional Victoria, and this specific Goldfields infrastructure?
-- Does every major stop answer one question, expose a larger contradiction, alter a bond, and spend a resource?
-- Does each Meshie remain a person with a location and limit rather than a generic network voice?
-- Does the novel show how the system keeps some people safe while harming others?
-- Does Kasey's complicity change the climax rather than merely decorate the backstory?
-- Does Phosphor's ability create a cost whenever it solves a mystery?
-- Does Eris's Afterimage have choices that are not reducible to ownership or deletion?
-- Does every major technology change a relationship or material condition?
-- Is the funniest exchange also carrying plot, consent, or character?
-- Does the final choice cost the private reward offered in Part Two?
-- Does the final image leave an unresolved remainder without explaining it away?
+These are questions to answer before drafting the next full pass. They are deliberately concrete; if an answer cannot name a scene, object, person, or consequence, the outline is still too vague.
+
+### Story Scale And Central Crisis
+
+- What is the primary crisis of Book One: mobile residents being excluded by Continuity, the Phone Orchard becoming autonomous, the Extra Server Wing opening, or an external AI-war escalation? Choose one as the plot engine and label the others as pressure, setting, or future-book material.
+- If the United States builds bases in Australia, points weapons toward China, or enters an AI conflict, how does that reach the crew in this book: satellite interference, military contracts, refugee movement, censorship, rationing, a threatened data centre, or direct physical danger? What will remain off-page?
+- What exact decision must be made before the end of the novel, and who is harmed if the crew delays it for one more day?
+- Why does the decision become urgent during this fire season rather than six months earlier or in another state?
+
+### Place And Infrastructure
+
+- The central crisis does not have to be impossible anywhere else. What does regional Victoria specifically change: the Goldfields water races, old mining paperwork, House Key, smoke-obscured roads, small-town trust, Southern Skystitch workshops, or the distance between a data centre and the people it serves?
+- Which part of the plot could happen in Sydney or Perth, and what would materially change there? What can Meshie42 or Meshie99 do that Meshie17 cannot, and what can neither of them do remotely?
+- What is the Extra Server Wing physically located beneath, who still has a legitimate reason to enter it, and what ordinary building service makes the entrance believable?
+- What does a visitor see first in the Phone Orchard: phone trays, wiring, labels, cooling equipment, notification tones, human data residue, or a daemon already doing useful work? Which detail makes the room funny before it becomes frightening?
+- What is the exact moral line around the Device Return and Secure Destruction Scheme? Were donors deceived, did the state change the terms later, or did the program begin as a good idea and become abusive through mission creep?
+
+### Meshie Lives
+
+- What mundane responsibility is Meshie42 neglecting during the first evacuation report, and who notices before the crew does?
+- What does Meshie99's Perth household need the shared battery for that makes their decision about bandwidth morally difficult?
+- What does Meshie17 physically see on the road that no remote operator can verify, and what relationship is strained when they refuse to call the route safe?
+- Which Meshie has a friend who thinks the work is ridiculous, which has family who depends on it, and which has a person they are quietly trying to impress?
+- What does each Meshie refuse to transmit, even when the crew would benefit from knowing it?
+- Where does each Meshie sleep after the shift, what device or person is still waiting for them, and what does the reader learn in that quiet moment that a chat log could not show?
+
+### Characters And Relationships
+
+- What does Phosphor want from a complete record that he cannot admit he wants from Eris?
+- What exact permission does Eris withhold from Phosphor, and what practical emergency tempts him to cross that boundary?
+- What does Kasey do in the first act that proves she is still thinking like a systems architect, and what does she do in the climax that proves she has changed?
+- What is the first moment when Kasey feels like a friend rather than a third wheel or exposition source?
+- Which relationship becomes harder because of the Phone Orchard, and which relationship becomes possible because an old device preserves a voice or memory?
+
+### Technology, Humour, And Cost
+
+- What can a reclaimed phone daemon do well, and what can it never do without a human witness?
+- What physical failure interrupts the Phone Orchard: heat, clock drift, battery swelling, bad firmware, missing consent records, or a tray losing power? How does the crew repair it without simply deleting the agents?
+- Which running joke first appears as harmless tech humour, becomes invasive or frightening when the system repeats it, and is finally reclaimed by the people who originated it?
+- Does every major technical solution spend something visible: battery, privacy, money, time, sleep, legal status, trust, or a daemon's autonomy?
+- When the red team wins a scene, what changes in the physical world immediately, not just on a screen?
+
+### Ending And Unresolved Questions
+
+- What public service survives because of the crew's final action, and what service becomes slower, less convenient, or more expensive afterward?
+- What does KASEY-C explicitly consent to, what does it refuse, and what remains impossible to verify?
+- What private reward from Part Two does each protagonist permanently give up?
+- What is the last concrete image of the Extra Server Wing or Phone Orchard, and what single fact does it contradict?
+- Which question should the reader carry into a second book: whether the agents are people, whether the state can be trusted with reuse, whether the outside war is approaching, or whether the crew's governance model can survive success?
