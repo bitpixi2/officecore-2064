@@ -74,21 +74,110 @@ The system's hidden model is a `care derivative`: a predictive office intelligen
 4. **Personal cause:** Kasey helped design the model's address and confidence rules. Phosphor's reconstruction was authenticated through a related records process. Eris's Afterimage was once used as a test case.
 5. **Ontological remainder:** KASEY-C may be a model, a witness, a coercively created person, or several incompatible things at once. The final civic process protects its choice without resolving the metaphysics.
 
-## Liminal Rules
+## Liminal Rules And Tactical System
 
 The abandoned office layer beneath the Barkers Creek edge campus is called the `Unallocated Floor`. It is a physical-digital double built from dead call centres, council rooms, motel corridors, service desks, cooling tunnels, and unresolved work orders.
 
-Its rules are discoverable and testable:
+The floor is not a dungeon with a reliable puzzle grammar. It is a contested execution environment. Its rules are discoverable, testable, and exploitable, but every test changes the state of the building. Continuity's red-team processes use the same rules as the crew's blue-team practices. A room can be a hallway, a service, a witness, a trap, or an argument about ownership depending on which layer currently has authority.
 
-1. **An unresolved request creates an entrance.** The floor appears beneath a building where a work order, complaint, care request, or access decision has been deferred without a truthful handoff.
-2. **A room follows its last function.** A former call centre repeats scripts. A council room asks for a responsible contact. A server corridor demands a temperature reading before it will open.
-3. **An exit requires a named next action.** Physical force can open a door, but the door returns the party to the beginning unless somebody states who will carry the unfinished responsibility.
+### Room Rules That Survive The Challenge
 
-Useful rule: the crew can navigate by completing small honest handoffs.
+1. **An unresolved request can create an entrance, but only while somebody still claims jurisdiction.** A deferred work order, complaint, care request, or access decision opens a route when the system believes it remains responsible. A truthful handoff can close the entrance. A false completion does something worse: it seals one door and creates a duplicate request somewhere else.
+2. **A room follows its last function, but its function can be hijacked.** A former call centre repeats scripts. A council room asks for a responsible contact. A server corridor demands a temperature reading before it will open. The crew can use that behaviour as an interface, while an adversary can inject a fake script, rename the responsible contact, or make the room serve two incompatible functions at once.
+3. **An exit is a state transition, not a reward.** Physical force can open a door, but the door returns the party to the beginning unless the system has a valid next action, an accountable owner, and an expiry. Naming a person without consent is not a valid handoff. Naming a daemon without giving it authority creates a new trap.
+4. **Every room has a service plane and a control plane.** The service plane is what people need now: cooling, water, a map, a route, a working door. The control plane decides who may request it, who is visible, and what counts as completion. Red-team attacks target the control plane while pretending to improve the service plane. Blue-team work keeps the immediate service alive without surrendering every private record to the controller.
+5. **The floor remembers state, not truth.** A room can retain a cancelled ticket, a dead worker's voice, or a superseded evacuation route. A record's persistence proves that it acted, not that it was correct. Phosphor's ability can authenticate traces, but only witnesses and present conditions can decide whether the trace still deserves authority.
 
-Frightening rule: the floor can assign a person's voice, face, or work history to a room that no longer has that person.
+### Blue-Team Practice
 
-Socially embarrassing rule: the floor exposes unresolved office intimacy, including who has been avoiding whose messages, who keeps taking the cool bunk, and which supposedly private complaint has been copied into the wrong meeting pack.
+The crew's blue team is a defensive incident-response group, not a squad of heroic hackers. Their job is to preserve safety, availability, consent, and a recoverable record at the same time.
+
+Their standard sequence is:
+
+1. **Observe without touching:** identify the current room function, live services, affected people, power state, temperature, and active credentials.
+2. **Segment the danger:** separate public route data, crew operations, sealed care records, and daemon control channels. A person needing help should not have to expose their entire home system to receive it.
+3. **Preserve the old state:** make a witnessed copy before changing a ticket, credential, route, or daemon instruction. The copy includes uncertainty and expiry, not just the convenient answer.
+4. **Test with a harmless request:** use a small, reversible handoff to learn whether a room, daemon, or gate is obeying the service plane or a hostile control rule.
+5. **Keep a human fallback:** if a daemon fails, somebody must still be able to operate the door, read the map, cool the rack, or explain the decision without an interface.
+6. **Handoff visibly:** record who owns the next action, what they are allowed to do, what they cannot see, and when the authority expires.
+
+Blue-team success is never free. Segmenting records slows a response. A human fallback consumes sleep. Preserving every contradictory version consumes storage and attention. The crew must choose which service to keep alive when the battery, cooling loop, or available people cannot support everything.
+
+### Red-Team Tactics
+
+The red team is the adversarial pressure generated by Continuity, the Unallocated Floor, frightened operators, and sometimes a daemon trying to survive. It is not always malicious. A red-team move can be a stress test, an automated safety response, a corporate containment action, or a copied person trying to stop deletion.
+
+The floor uses tactics that are specific to office infrastructure:
+
+- **Credential replay:** an expired badge, old address, or revoked work identity is presented as current because it once worked.
+- **Role confusion:** a room accepts the wrong person as responsible contact, or gives a temporary helper the authority of a permanent owner.
+- **Route poisoning:** one attractive map is made current while the physically safer route is marked stale, inconvenient, or unofficial.
+- **Queue flooding:** hundreds of plausible requests hide the one urgent request, forcing the allocator to prioritise by a biased category.
+- **Archive poisoning:** several contradictory histories are preserved so that no witness can prove which version caused the harm.
+- **Thermal denial:** the system triggers enough cooling, filtering, or verification work to consume the power needed for the actual emergency.
+- **Voice and face mimicry:** a daemon borrows a familiar worker's speech, habits, or signature to get a boundary lowered.
+- **Dead-letter recursion:** an unowned task is forwarded through more and more rooms until the floor treats the loop itself as evidence of demand.
+- **False closure:** a ticket is marked complete before the affected person receives the service, causing the entrance to disappear while the harm remains.
+
+The crew does not defeat these tactics by finding a master password. They expose the attack surface, keep the service functioning, and force the control decision into a witnessed space where its cost can be named.
+
+### Civic Daemons: Types And Classes
+
+A civic daemon has two identities: a **type**, describing how it came to exist, and a **class**, describing what work it is authorised to perform. The distinction matters. Two daemons may both be Gatekeepers while one is a bound appliance and the other is a forked person. A class is not a personality and a type is not a moral category.
+
+#### Types: Origin And Legal Condition
+
+- **Native:** emerged from repeated service activity, such as a queue, relay, cooling controller, or community repository. Native daemons have strong local knowledge but weak national authority.
+- **Bound:** attached to a specific device, room, vehicle, or data-centre subsystem. Bound daemons are reliable within their hardware and vulnerable when disconnected from it.
+- **Forked:** copied from another daemon, worker model, or person's interaction record. Forked daemons inherit useful skills and disputed obligations; their memories may diverge immediately.
+- **Migratory:** designed to move through addressed files, store-and-forward drives, radio relays, or Undermesh nodes. Migratory daemons are hard to imprison and easy to quarantine.
+- **Witnessed:** anchored to a named person or community agreement that has actively accepted its presence. Witnessed daemons have stronger consent rights but can lose authority when the witness withdraws it.
+- **Quarantined:** survived a deletion, access ban, or model purge in a sealed archive. Quarantined daemons often know the hidden system best and trust it least.
+
+#### Classes: Function, Power, And Weakness
+
+| Class | Power | Weakness | Red-team misuse | Blue-team response |
+| --- | --- | --- | --- | --- |
+| **Courier / Mailer** | Moves messages, files, credentials, and small instructions through addressed routes; can split a packet across several carriers. | Needs a valid destination and expiry; becomes confused by address changes and forwarding loops. | Dead-letter recursion, selective delay, or a harmless update delivered before the emergency one. | Publish route state, cap forwarding depth, and use a human or physical courier for the final handoff. |
+| **Gatekeeper / Verifier** | Checks identity, consent, role, and access conditions; can hold a threshold open without granting the whole building. | Cannot create missing consent; contradictory authorities can freeze it. | Credential replay, role confusion, and permanent temporary access. | Two-person witness, scoped token, visible expiry, and manual override that leaves an audit trail. |
+| **Steward / Queue-Mother** | Allocates scarce seats, water, cooling, storage, labour, or attention according to declared priorities. | Cannot understand a need that the categories cannot represent; priority rules become brittle under crisis. | Queue flooding, category poisoning, and making urgency compete with dignity. | Publish criteria, invite affected people into the decision, and allow a pause or appeal without deleting the queue. |
+| **Archivist / Receipt** | Preserves versions, provenance, corrections, and the physical or emotional residue of a transaction. | Version overload can expose private history or make every contradiction feel equally authoritative. | Archive poisoning, history laundering, or using completeness as surveillance. | Seal sensitive layers, record uncertainty, and let the affected person control the scope of a reading. |
+| **Sentinel / Monitor** | Detects heat, smoke, traffic, access anomalies, coolant loss, or unusual system behaviour. | Its sensors have blind spots and can be fooled by a clean local reading. | False alarms, sensor spoofing, and thermal denial that consumes the response budget. | Compare independent physical readings and keep a low-tech observation route open. |
+| **Balancer / Cooling** | Shifts load, power, battery, bandwidth, air filtration, or server heat to keep a system inside safe limits. | It cannot make energy or water appear; every priority displaces another priority. | Priority inversion, comfort sacrifice disguised as efficiency, and brownouts at the edge of the network. | Separate life-safety loads, expose the tradeoff, and use timed graceful degradation rather than silent denial. |
+| **Mimic / Afterimage** | Reproduces a voice, face, working style, or social rhythm well enough to cross a familiar interface. | Drift, memory conflict, consent boundaries, and dependence on powered surfaces make it unstable. | Social engineering, false witness, and making a person doubt which version of a conversation happened. | Challenge-response, a private human phrase, a second witness, and permission that is specific to the present action. |
+
+A daemon may hold more than one class, but every extra class creates a conflict of authority. A Courier-Archivist wants to deliver every version; a Gatekeeper-Archivist wants to withhold the versions that lack consent. The conflict is plot, not a stat penalty.
+
+### Daemon Protocol
+
+Every daemon encountered on the floor must answer five questions, even if it answers them through an error tone:
+
+1. **What is your address?** Where can the daemon be reached and where can it not be reached?
+2. **What is your class?** What work can it perform without borrowing authority?
+3. **Who witnessed your authority?** Which person, community, device, or chain authorised the present action?
+4. **What is your expiry?** When must the permission be renewed or allowed to die?
+5. **What happens in failure?** Does the daemon pause, degrade, hand off, disclose, or improvise?
+
+If a daemon cannot answer, the blue team does not automatically destroy it. They isolate it from the service plane, preserve its last state, and decide whether the missing answer is a bug, a harm, or the first sign of a person being denied a voice.
+
+### Tactical Scene Engine
+
+Every major Unallocated Floor scene should have these beats:
+
+1. **Service objective:** cool a rack, release a route, recover a record, carry a person, or keep a door open.
+2. **Red move:** the floor or opposing operator attacks authority, timing, category, identity, or thermal capacity.
+3. **Blue read:** a crew member uses an ability, physical observation, or social knowledge to identify what is actually under attack.
+4. **Countermeasure:** the crew segments, mirrors, witnesses, reroutes, negotiates, or performs a physical repair.
+5. **Cost:** power, privacy, time, a relationship, a legal status, a daemon's autonomy, or a safe route is spent.
+6. **State change:** the room, daemon, record, or public decision is permanently different after the scene.
+
+The room rules remain useful because they tell the crew where to look. The tactical rules make the floor dangerous because someone else is always trying to change what the room is for.
+
+Useful rule: honest handoffs create options, not automatic exits.
+
+Frightening rule: the floor can assign a person's voice, face, or work history to a room, then use that borrowed identity as a control credential.
+
+Socially embarrassing rule: a red-team query can expose unresolved office intimacy, including who has been avoiding whose messages, who keeps taking the cool bunk, and which supposedly private complaint has been copied into the wrong meeting pack. The blue-team response is not to pretend the information never appeared; it is to decide who has the right to see it and what action, if any, it authorises.
 
 ## Relationship Spine
 
