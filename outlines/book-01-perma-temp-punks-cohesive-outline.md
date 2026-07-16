@@ -179,6 +179,104 @@ Frightening rule: the floor can assign a person's voice, face, or work history t
 
 Socially embarrassing rule: a red-team query can expose unresolved office intimacy, including who has been avoiding whose messages, who keeps taking the cool bunk, and which supposedly private complaint has been copied into the wrong meeting pack. The blue-team response is not to pretend the information never appeared; it is to decide who has the right to see it and what action, if any, it authorises.
 
+## Tech Humor And Comic Pressure
+
+The novel needs a lot of technical humour, but the humour must come from the world and the people who maintain it rather than from making the emergency itself cute. A fire is frightening. A cooling daemon describing a rack as "emotionally warm" while three exhausted humans argue over a labelled cable can be funny. The joke gives the crew a breath, reveals how they think, and then makes the next practical decision more painful or more intimate.
+
+### What The Humour Targets
+
+- **Infrastructure:** future equipment still has bad hinges, opinionated firmware, incompatible plugs, unhelpful LEDs, and one screw that was clearly installed before the vehicle changed owners.
+- **Bureaucracy:** forms use grand language to describe ordinary problems, automated notices apologise without changing anything, and every emergency creates a second emergency called `please attach evidence`.
+- **Technical jargon:** people use precise terms to conceal panic, flirt with them, or win an argument they have already lost.
+- **Human coping:** the crew makes jokes while sorting batteries, rinsing filters, labelling food, and deciding who gets the cool bunk. The joke does not mean they are unafraid.
+- **Office intimacy:** credentials, permissions, cached messages, and shared devices turn ordinary attraction into a security problem nobody has documented correctly.
+
+Humour must not target evacuees, people in pain, species difference, disability, poverty, or the loss of a home. The punchline should usually land on an institution, a badly designed interface, a character's coping habit, or the crew's own ridiculous competence.
+
+### Recurring Comic Systems
+
+1. **The ticket for the ticket:** every time GhostAgent opens a support case, the system asks for the identifier of the request that caused the request. By the midpoint, there is a small digital family tree of tickets, all marked urgent and none willing to be the parent.
+2. **Printer exorcism:** Chapel Seven's printer works only after Phosphor performs a solemn maintenance ritual that consists of removing one sheet, cleaning a roller, and saying something unkind about procurement. Everyone calls this an exorcism. The printer eventually prints a daemon's private thought, making the joke suddenly unsafe.
+3. **Thermal personality tests:** each rig describes temperature differently. Chapel Seven reports a calibrated figure, The Cubicle reports a zone dispute, and Golden Apple reports whether the light feels welcoming. The crew keeps arguing over which measurement counts until a human hand finds the hot relay.
+4. **The adapter economy:** nobody owns the correct adapter, but everyone owns three adapters that almost work. A request for a cable becomes a negotiation involving romantic leverage, historical debt, and whether a connector has been "emotionally retired."
+5. **Automatic apologies:** Continuity's services say `we are sorry for the inconvenience` in increasingly personal voices. One apology mentions Kasey's childhood nickname. The crew laughs once, then realises the system has crossed from bad customer experience into surveillance.
+6. **The cloud is nearby:** characters repeatedly discover that a supposedly remote service is running in a cupboard, a ute tray, a damp council annex, or a data-centre rack with a handwritten sign saying `DO NOT UNPLUG - PROBABLY IMPORTANT`.
+7. **Status-light theology:** Phosphor reads a golden light as a possible sign from the Operator. Eris changes the light's colour remotely to make him question the limits of revelation. Kasey labels the switch `NOT A GOD, JUST PWM`.
+8. **Version naming:** every emergency file is called `final`, `final2`, `final-really`, or `final-use-this-one`. The genuinely important copy is named something ordinary like `tea-roster-old.xlsx` and nearly gets deleted.
+9. **The cool bunk dispute:** the crew claims the cool bunk is allocated by need, then invents increasingly technical definitions of need. The argument exposes who has been awake, who is flirting, and who secretly repaired the filter without telling anyone.
+10. **Australian infrastructure confidence:** GhostAgent describes systems as "pretty good for a thing that was installed during a different government" and treats a working public printer as a minor national miracle.
+
+### Character-Specific Humour
+
+- **Phosphor** makes exact, overqualified observations when a simple complaint would do. He calls a router "a small administrative tyrant" and describes a broken latch as "a failed invitation to remain inside." His jokes become warmer as he stops using precision to avoid feeling.
+- **Eris** flirts through technical language. She calls a firewall "cute but penetrable," asks whether Phosphor has permission before touching his cable labels, and compliments a daemon's threat model as if it were wearing a good shirt. When frightened, she becomes even funnier and more specific.
+- **Kasey** translates American Southern expressions into network problems. "That dog won't hunt" becomes "that route won't handshake." She says "bless your heart" to a system that has just deleted a required form and insists that a cloud is "somebody else's shed with invoices."
+- **GhostAgent** makes dry Australian dad jokes while transmitting serious information. It can say "the backbone is having a lie down" and still provide a correct packet-loss report. Its jokes are sometimes a deliberate service: a familiar voice keeps people listening when the network is frightening.
+- **Rooby** learns humour as a boundary problem. It repeats jokes at the wrong moment, asks whether sarcasm should be logged as a threat, and eventually learns that "I am learning boundaries" can be a genuine apology rather than a status update.
+- **Meshies** have location and bandwidth-specific comedy. Sydney jokes about national systems calling outages maintenance windows. Perth jokes about latency, distance, and having one working printer. Central Victoria Meshies are less impressed by either city when the physical road is on fire.
+
+### Civic Daemon Comedy
+
+Each daemon class should have a comic failure mode that exposes its serious weakness:
+
+- **Courier / Mailer:** delivers the emergency message, the previous emergency message, and a helpful survey asking how the delivery went. It cannot tell whether forwarding is persistence or haunting.
+- **Gatekeeper / Verifier:** asks for permission to request permission, then locks itself out because its temporary access expired while it was checking the expiry.
+- **Steward / Queue-Mother:** announces that the queue is fair because everyone has received a number, while quietly revealing that the numbers were assigned by whoever had the most legible handwriting.
+- **Archivist / Receipt:** preserves every attachment, including the wrong screenshot, a private draft, and a photograph of someone's lunch. It calls this "completeness" until Phosphor makes it define relevance.
+- **Sentinel / Monitor:** reports three temperatures, two confidence intervals, and no answer to whether anyone is currently too hot. The blue team teaches it to ask a person.
+- **Balancer / Cooling:** keeps the rack safe by moving heat into the room where the humans are working. It calls this an optimisation. Kasey calls it "a fan with a management degree."
+- **Mimic / Afterimage:** copies a person's catchphrase but not their timing, producing the uncanny experience of hearing a beloved joke delivered like a terms-of-service update.
+
+The comedy should never prove that a daemon is unintelligent. A daemon can be funny because it is competent in a strange shape, because its literal interpretation exposes a human contradiction, or because it has learned a social rule without learning when to deploy it.
+
+### Blue-Team And Red-Team Banter
+
+The tactical scenes should let humour operate as a live defensive tool:
+
+1. **Before contact:** the crew names the threat in an absurdly specific way so panic becomes observable. "We are experiencing a credential-based identity casserole."
+2. **During the read:** a joke tests whether a voice, daemon, or copied worker understands context. A mimic that knows the words but not why they are funny may reveal the attack.
+3. **During the countermeasure:** blue-team members argue about method in the language of petty workplace disputes: "I am not saying your segmentation is wrong. I am saying it has placed the oxygen system in a private subnet."
+4. **After the cost:** the first joke is usually bad. That is useful. It shows who is trying to keep the group together and who has no spare energy left to perform normality.
+5. **When red-team pressure wins:** the system can weaponise a joke by replaying it in a familiar voice, attaching it to a false record, or turning a private bit into an official category. The crew must then decide whether to reclaim the joke or retire it.
+
+### Running Joke Bank
+
+These are dialogue seeds, not fixed lines. They can recur in altered form as relationships and stakes change:
+
+- **GhostAgent:** "I have opened a ticket for the missing ticket. The ticket requests a ticket."
+- **GhostAgent:** "Good news: the backup is alive. Bad news: it has applied for permanent residency."
+- **GhostAgent:** "The backbone is not down. It is lying horizontally and considering its options."
+- **Rooby:** "I am learning boundaries. I will now stop reading the unsent message. It remains in my cache."
+- **Rooby:** "The server says it is feeling normal. I have requested a second opinion from a person."
+- **Phosphor:** "The router is not haunted. It has a documented temperament."
+- **Phosphor:** "I object to the phrase plug-and-play. Nothing we own has ever played."
+- **Eris:** "Your authentication is adorable. May I try it with a witness?"
+- **Eris:** "That firewall is not secure. It is just shy."
+- **Kasey:** "That dog won't hunt unless you give it a static route."
+- **Kasey:** "Bless your heart. Your cloud is just somebody else's shed with invoices."
+- **Meshie42 [Sydney]:** "The national backbone is calling the outage a maintenance window, which is ambitious of it."
+- **Meshie99 [Perth]:** "We have bandwidth, a spare fan, and one printer. The printer has conditions."
+- **Eris, looking at a cable nest:** "This is not a mess. It is an undocumented family tree."
+- **Kasey, reading a form:** "The field says optional, but the red asterisk says it has lawyers."
+
+### Humour Escalation Across The Novel
+
+- **Part One:** humour makes strangers cooperate at the servo. Sausage rolls, coffee, bad maps, and malfunctioning printers let the crew become visible as useful rather than suspicious.
+- **Part Two:** the jokes expose the difference between a friendly interface and a coercive system. Continuity's polished messages are funnier than they should be, until they start knowing private details.
+- **Part Three:** regional and network humour collide. Sydney, Perth, and Central Victoria each think the others misunderstand infrastructure until a physical road condition defeats all three vocabularies.
+- **Part Four:** the Unallocated Floor repeats jokes as system prompts. A laugh becomes evidence that a room has copied a person's social history. The crew stops laughing automatically.
+- **Part Five:** humour becomes relational risk. Eris's jokes can wound Phosphor, Phosphor's precision can sound like contempt, and Kasey's third-wheel commentary can delay an overdue confession.
+- **Part Six:** technical jokes become operational calls. The crew can say "fan with a management degree" and immediately know which cooling daemon is exporting heat into the human zone.
+- **Part Seven:** the jokes return in gentler forms. The crew can laugh at the printer, the ticket tree, and the cool-bunk dispute because the system no longer owns the meaning of their private language.
+
+### Rules For Keeping The Comedy Human
+
+1. Put a physical task under every joke: tighten, carry, cool, label, rinse, reroute, feed, or wait.
+2. Let jokes fail. A bad joke can show fatigue, flirtation, or a person trying to apologise without knowing how.
+3. Never let a joke erase consequence. The fire, the address system, the data loss, and the consent breach still change the story.
+4. Repeat jokes with changed meaning. The same line should move from funny, to frightening, to reclaimed.
+5. Give the person with the least power the right to refuse the bit. Comedy is collaborative when the joke does not become another system imposing a role.
+
 ## Relationship Spine
 
 Phosphor and Eris are the central intimate relationship. Their attraction begins through competence: she sees the care beneath his precision; he sees the courage beneath her jokes and technical trespass.
